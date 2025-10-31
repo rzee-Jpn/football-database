@@ -40,12 +40,12 @@ jobs:
       - name: Generate league JSON files
         run: python auto_generate_json.py
 
-      # Commit & push
+      # Commit & push changes with PAT
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git add data_output/
           git commit -m "Auto update league JSON datasets" || echo "No changes to commit"
           git pull --rebase
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:main
