@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
+      # Checkout repository dengan credential aktif
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true
           fetch-depth: 0
 
-      # Setup Git
+      # Konfigurasi Git
       - name: Configure Git
         run: |
           git config --global user.name "github-actions"
@@ -36,16 +36,20 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      # Run Python script
+      # Jalankan script Python
       - name: Generate JSON files
         run: python auto_generate_json.py
 
-      # Commit & push changes
+      # Debug info (optional, biar tahu kalau masih error)
+      - name: Debug Git state
+        run: |
+          git status
+          git branch -a
+          git remote -v
+
+      # Commit dan push perubahan
       - name: Commit and push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git add data_output/ || true
-          git commit -m "Auto update JSON datasets" || echo "No changes to commit"
-          git pull --rebase
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:main
+          git diff --cached --quiet || git commit -m "Auto update JSON datasets"
+          git push origin HEAD:main
