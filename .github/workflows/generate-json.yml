@@ -1,41 +1,49 @@
-import csv
-import json
-import os
-import requests
+name: Generate and deploy JSON datasets
 
-# URL CSV dari repository sumber (contoh Transfermarkt dataset)
-CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/refs/heads/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"  # Setiap minggu (hari Minggu, jam 00:00 UTC)
 
-OUTPUT_FOLDER = "data_output"
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-# Buat folder output jika belum ada
-os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-# Unduh CSV
-print("📥 Downloading CSV...")
-response = requests.get(CSV_URL)
-response.raise_for_status()
-csv_data = response.text.splitlines()
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
 
-# Parsing CSV
-reader = csv.DictReader(csv_data)
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pandas
 
-print("🔁 Converting CSV rows to JSON files...")
-for row in reader:
-    name = row.get("name") or "unknown_player"
-    club = row.get("club_name") or "unknown_club"
-    
-    # Bersihkan nama file
-    safe_name = name.replace("/", "-").replace(" ", "_").lower()
-    safe_club = club.replace("/", "-").replace(" ", "_").lower()
-    
-    # Buat folder berdasarkan klub
-    club_folder = os.path.join(OUTPUT_FOLDER, safe_club)
-    os.makedirs(club_folder, exist_ok=True)
-    
-    # Simpan JSON 1 pemain = 1 file
-    output_path = os.path.join(club_folder, f"{safe_name}.json")
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(row, f, ensure_ascii=False, indent=2)
+      - name: Run JSON generator
+        run: |
+          echo "Menjalankan konversi CSV ke JSON..."
+          python auto_generate_json.py
 
-print("✅ Done! JSON saved in", OUTPUT_FOLDER)
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Menyiapkan konfigurasi Git..."
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          echo "Menambahkan file baru..."
+          git add data_output/ || true
+
+          echo "Membuat commit..."
+          git commit -m "Auto update JSON datasets" || echo "No changes to commit"
+
+          echo "Sinkronisasi sebelum push..."
+          git pull --rebase
+
+          echo "Mengirim ke repo..."
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
