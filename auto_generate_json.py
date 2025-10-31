@@ -1,44 +1,56 @@
 import os
+import csv
+import json
 import requests
-import pandas as pd
 
-# URL CSV dari repo kamu atau sumber eksternal
+# ===== CONFIG =====
 CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
-
 OUTPUT_DIR = "data_output"
+
+# ===== BUAT FOLDER OUTPUT =====
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-print("📥 Mengunduh CSV dari:", CSV_URL)
+# ===== DOWNLOAD CSV =====
+print("📥 Downloading CSV from:", CSV_URL)
 response = requests.get(CSV_URL)
 response.raise_for_status()
+csv_lines = response.text.splitlines()
 
-# Simpan sementara
-with open("player_profiles.csv", "wb") as f:
-    f.write(response.content)
+# ===== PARSE CSV =====
+reader = csv.DictReader(csv_lines)
+print(f"📊 Processing {len(list(reader))} rows...")
 
-print("✅ CSV berhasil diunduh.")
+# reset reader
+reader = csv.DictReader(csv_lines)
 
-# Baca CSV dengan pandas
-df = pd.read_csv("player_profiles.csv")
+# ===== BUAT JSON PER PEMAIN =====
+count_new = 0
+count_updated = 0
 
-# Pastikan kolom 'player_id' dan 'name' tersedia
-if "player_id" not in df.columns or "name" not in df.columns:
-    raise ValueError("Kolom 'player_id' dan 'name' harus ada di CSV!")
+for row in reader:
+    player_id = str(row.get("player_id", "unknown"))
+    player_name = row.get("player_name", f"player_{player_id}").replace(" ", "_").lower()
 
-print(f"📊 Memproses {len(df)} pemain...")
-
-# Loop setiap pemain
-for _, row in df.iterrows():
-    player_id = str(row["player_id"])
-    player_name = str(row["name"])
-
-    # Path file JSON output per pemain
+    # File path per pemain
     json_path = os.path.join(OUTPUT_DIR, f"{player_id}.json")
 
-    # Konversi baris ke dict
-    player_data = row.to_dict()
+    # Merge data lama jika file sudah ada
+    if os.path.exists(json_path):
+        with open(json_path, "r", encoding="utf-8") as f:
+            try:
+                old_data = json.load(f)
+            except json.JSONDecodeError:
+                old_data = {}
+        old_data.update(row)
+        merged_data = old_data
+        count_updated += 1
+    else:
+        merged_data = row
+        count_new += 1
 
-    # Simpan ke JSON
-    pd.Series(player_data).to_json(json_path, force_ascii=False, indent=2)
+    # Simpan JSON
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(merged_data, f, ensure_ascii=False, indent=2)
 
-print("✅ Semua data pemain berhasil disimpan ke folder:", OUTPUT_DIR)
+print(f"✅ JSON created: {count_new}, updated: {count_updated}")
+print("All JSON files saved in:", OUTPUT_DIR)
