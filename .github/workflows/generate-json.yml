@@ -1,9 +1,12 @@
-name: Generate and deploy JSON datasets
+name: Generate and deploy json datasets
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"  # Setiap minggu (hari Minggu, jam 00:00 UTC)
+    - cron: "0 0 * * 0"  # Setiap minggu otomatis update
+
+permissions:
+  contents: write  # 🚀 wajib supaya bisa push ke repo
 
 jobs:
   build:
@@ -12,6 +15,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false  # hindari error 128
+          fetch-depth: 0
+
+      - name: Setup Git credentials
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -19,31 +30,15 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pandas
+        run: pip install requests
 
       - name: Run JSON generator
-        run: |
-          echo "Menjalankan konversi CSV ke JSON..."
-          python auto_generate_json.py
+        run: python auto_generate_json.py
 
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "Menyiapkan konfigurasi Git..."
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
-
-          echo "Menambahkan file baru..."
-          git add data_output/ || true
-
-          echo "Membuat commit..."
-          git commit -m "Auto update JSON datasets" || echo "No changes to commit"
-
-          echo "Sinkronisasi sebelum push..."
-          git pull --rebase
-
-          echo "Mengirim ke repo..."
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:main
+          git add data_output/
+          git commit -m "Auto update JSON" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
