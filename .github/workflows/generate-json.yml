@@ -1,51 +1,61 @@
-name: Generate and deploy league JSON datasets
+name: Generate and deploy JSON datasets
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 0"  # Setiap minggu
-
-permissions:
-  contents: write
+    - cron: "0 0 * * 0"  # Setiap minggu (Minggu 00:00 UTC)
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
+      # === 1️⃣ Checkout repository ===
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: false  # pakai token custom, bukan default
           fetch-depth: 0
 
-      # Setup Git
+      # === 2️⃣ Setup Git ===
       - name: Configure Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
-      # Setup Python
+      # === 3️⃣ Setup Python ===
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # Install dependencies
+      # === 4️⃣ Install dependencies ===
       - name: Install dependencies
         run: pip install requests
 
-      # Generate JSON per liga
-      - name: Generate league JSON files
+      # === 5️⃣ Jalankan script Python ===
+      - name: Generate JSON files
         run: python auto_generate_json.py
 
-      # Commit & push changes with PAT
-      - name: Commit and push changes
+      # === 6️⃣ Debug info (opsional, bisa hapus nanti) ===
+      - name: Debug Git state
+        run: |
+          echo "=== Git status ==="
+          git status
+          echo "=== Current branch ==="
+          git branch -a
+          echo "=== Remote info ==="
+          git remote -v
+
+      # === 7️⃣ Commit & Push dengan PAT ===
+      - name: Commit and push using PAT
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          git add data_output/
-          git commit -m "Auto update league JSON datasets" || echo "No changes to commit"
-          git pull --rebase
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          git add data_output/ || true
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Auto update JSON datasets (${TIMESTAMP})"
+
           git push https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }} HEAD:main
