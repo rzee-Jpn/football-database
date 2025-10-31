@@ -7,8 +7,8 @@ from collections import defaultdict
 # ===== CONFIG =====
 CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
 OUTPUT_DIR = "data_output"
+MAX_PLAYERS_PER_FILE = 800  # batas aman per file
 
-# ===== BUAT FOLDER OUTPUT =====
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("📥 Downloading CSV from:", CSV_URL)
@@ -17,107 +17,95 @@ response.raise_for_status()
 csv_lines = response.text.splitlines()
 reader = csv.DictReader(csv_lines)
 
-# ===== BUAT STRUKTUR PENYIMPANAN BERDASARKAN LIGA =====
-leagues = defaultdict(lambda: {
-    "league": "",
-    "season": "2024/2025",
-    "players": {}
-})
+# ===== STRUKTUR DATA =====
+leagues = defaultdict(list)
+countries = defaultdict(list)
+positions = defaultdict(list)
 
+# ===== FORMAT PEMAIN SESUAI STRUKTUR JSON YANG KAMU MAU =====
 def format_player(row):
-    """Bentuk struktur JSON lengkap per pemain."""
     return {
-        "personal_info": {
-            "full_name": row.get("player_name", ""),
-            "known_as": row.get("player_name", ""),
-            "birth_date": row.get("date_of_birth", ""),
-            "age": row.get("age", ""),
-            "birth_place": {
-                "city": row.get("place_of_birth", ""),
-                "country": row.get("country_of_birth", "")
+        "identitas_dasar": {
+            "nama_lengkap": row.get("player_name", ""),
+            "nama_panggilan": row.get("player_name", ""),
+            "tanggal_lahir": row.get("date_of_birth", ""),
+            "usia": row.get("age", ""),
+            "tempat_lahir": {
+                "kota": row.get("place_of_birth", ""),
+                "negara": row.get("country_of_birth", "")
             },
-            "nationality": [row.get("citizenship", "")],
-            "height_cm": row.get("height", ""),
-            "weight_kg": "",
-            "main_position": row.get("position", ""),
-            "other_positions": [],
-            "foot": row.get("foot", ""),
-            "player_status": row.get("player_status", ""),
-            "current_club": row.get("current_club", ""),
-            "shirt_number": row.get("shirt_number", ""),
-            "joined_date": row.get("joined_date", ""),
-            "contract_duration": {
-                "from": row.get("contract_start", ""),
-                "to": row.get("contract_expiry", "")
-            },
-            "agent": row.get("agent", ""),
-            "social_media": {
-                "instagram": "",
-                "twitter": ""
-            }
+            "kewarganegaraan": [row.get("citizenship", "")],
+            "tinggi_badan_cm": row.get("height", ""),
+            "posisi_utama": row.get("position", ""),
+            "kaki_dominan": row.get("foot", ""),
+            "klub_saat_ini": row.get("current_club", "")
         },
-        "market_value": {
-            "current_value_eur": row.get("market_value_in_eur", ""),
-            "last_update": row.get("last_market_value_update", ""),
-            "highest_value_eur": "",
-            "value_history": []
+        "nilai_pasar": {
+            "nilai_terkini_eur": row.get("market_value_in_eur", ""),
+            "update_terakhir": row.get("last_market_value_update", "")
         },
-        "club_contract": {
-            "club": row.get("current_club", ""),
-            "league": row.get("league_name", ""),
-            "contract_period": {
-                "from": row.get("contract_start", ""),
-                "to": row.get("contract_expiry", "")
-            },
-            "status": "Active",
-            "release_clause_eur": "",
-            "salary": {
-                "weekly_eur": "",
-                "annual_eur": ""
-            }
+        "kontrak": {
+            "klub": row.get("current_club", ""),
+            "mulai": row.get("contract_start", ""),
+            "berakhir": row.get("contract_expiry", "")
         },
-        "transfer_history": [],
-        "injury_history": [],
-        "performance_stats": [],
-        "international_career": {
-            "country": "",
-            "levels": []
-        },
-        "achievements": {
-            "team_titles": [],
-            "individual_awards": [],
-            "total_trophies": ""
-        },
-        "tactical_stats": {
-            "preferred_formation": "",
-            "most_played_position": row.get("position", ""),
-            "heatmap_contribution": ""
-        },
-        "career_trends": {
-            "career_timeline": [],
-            "position_changes": [],
-            "market_value_progression": [],
-            "performance_trend": []
+        "statistik_performa": {
+            "musim": row.get("season", ""),
+            "main": row.get("appearances_overall", ""),
+            "gol": row.get("goals_overall", ""),
+            "assist": row.get("assists_overall", "")
         }
     }
 
-# ===== PROSES DATA =====
 count_players = 0
 for row in reader:
-    league_name = row.get("league_name", "Unknown League") or "Unknown League"
-    player_id = str(row.get("player_id", "unknown"))
-    player_name = row.get("player_name", f"player_{player_id}").replace(" ", "_").lower()
+    league = row.get("league_name", "").strip() or None
+    country = row.get("citizenship", "").strip() or None
+    position = row.get("position", "").strip() or "Unknown Position"
+    player = format_player(row)
 
-    leagues[league_name]["league"] = league_name
-    leagues[league_name]["players"][player_name] = format_player(row)
+    # Prioritas 1: Liga
+    if league and league.lower() != "unknown":
+        leagues[league].append(player)
+    # Prioritas 2: Negara (jika liga unknown)
+    elif country and country.lower() != "unknown":
+        countries[country].append(player)
+    # Prioritas 3: Posisi (fallback terakhir)
+    else:
+        positions[position].append(player)
+
     count_players += 1
 
-# ===== SIMPAN FILE PER LIGA =====
-for league_name, league_data in leagues.items():
-    safe_name = league_name.lower().replace(" ", "_").replace("/", "_")
-    json_path = os.path.join(OUTPUT_DIR, f"{safe_name}.json")
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(league_data, f, ensure_ascii=False, indent=2)
+print(f"✅ Total pemain: {count_players}")
+print(f"📊 Liga terdeteksi: {len(leagues)}, Negara fallback: {len(countries)}, Posisi fallback: {len(positions)}")
 
-print(f"✅ Processed {count_players} players into {len(leagues)} league files")
-print("📂 All JSON saved in:", OUTPUT_DIR)
+# ===== FUNCTION SIMPAN =====
+def save_json_group(name, group_data, folder):
+    os.makedirs(folder, exist_ok=True)
+    for group_name, players in group_data.items():
+        safe_name = group_name.lower().replace(" ", "_").replace("/", "_")
+        for i in range(0, len(players), MAX_PLAYERS_PER_FILE):
+            part = i // MAX_PLAYERS_PER_FILE + 1
+            subset = players[i:i + MAX_PLAYERS_PER_FILE]
+            data = {
+                "kategori": name,
+                "nama_group": group_name,
+                "total_pemain": len(subset),
+                "pemain": subset
+            }
+            filename = (
+                f"{safe_name}_part{part}.json"
+                if len(players) > MAX_PLAYERS_PER_FILE
+                else f"{safe_name}.json"
+            )
+            path = os.path.join(folder, filename)
+            with open(path, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            print(f"💾 Saved {name}/{filename} ({len(subset)} pemain)")
+
+# ===== SIMPAN SEMUA =====
+save_json_group("liga", leagues, os.path.join(OUTPUT_DIR, "leagues"))
+save_json_group("negara", countries, os.path.join(OUTPUT_DIR, "countries"))
+save_json_group("posisi", positions, os.path.join(OUTPUT_DIR, "positions"))
+
+print("🎉 Semua file selesai dibuat & sudah otomatis dibagi per kategori fallback.")
