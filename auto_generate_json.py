@@ -7,7 +7,7 @@ from collections import defaultdict
 # ==============================
 # CONFIG
 # ==============================
-CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
+CSV_URL = https://raw.githubusercontent.com/rzee-Jpn/football-datasets/refs/heads/main/datalake/transfermarkt/player_injuries/player_injuries.csv"
 OUTPUT_DIR = "data_output"
 MAX_PLAYERS_PER_FILE = 800
 
