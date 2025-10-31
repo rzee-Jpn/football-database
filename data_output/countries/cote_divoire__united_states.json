@@ -1,0 +1,169 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurent Kissiedou (531437)",
+        "nama_panggilan": "Laurent Kissiedou (531437)",
+        "tanggal_lahir": "1998-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Divo",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Midfield - Central Midfield",
+        "posisi_alternatif": "",
+        "kaki_dominan": "",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  United States",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malick Sanogo (692736)",
+        "nama_panggilan": "Malick Sanogo (692736)",
+        "tanggal_lahir": "2004-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
+        "kaki_dominan": "left",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  United States",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Spain",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lago Júnior (100722)",
+        "nama_panggilan": "Lago Júnior (100722)",
+        "tanggal_lahir": "1990-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yamoussoukro",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Left Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  Spain",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1991-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Spain"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Right Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "both",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  Spain",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Félix Ettien (23206)",
+        "nama_panggilan": "Félix Ettien (23206)",
+        "tanggal_lahir": "1979-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Right Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  Spain",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismael Sidibé (456939)",
+        "nama_panggilan": "Ismael Sidibé (456939)",
+        "tanggal_lahir": "1997-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
+        "kaki_dominan": "left",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  Spain",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Idrissa Keita (57881)",
+        "nama_panggilan": "Idrissa Keita (57881)",
+        "tanggal_lahir": "1977-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Defender - Right-Back",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Cote d'Ivoire  Spain",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    }
+  ]
+}

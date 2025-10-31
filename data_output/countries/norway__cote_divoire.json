@@ -1,0 +1,169 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Cote d'Ivoire",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luc Kassi (238694)",
+        "nama_panggilan": "Luc Kassi (238694)",
+        "tanggal_lahir": "1994-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Midfield - Central Midfield",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Norway  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adama Diomande (93145)",
+        "nama_panggilan": "Adama Diomande (93145)",
+        "tanggal_lahir": "1990-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Norway  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    }
+  ]
+}

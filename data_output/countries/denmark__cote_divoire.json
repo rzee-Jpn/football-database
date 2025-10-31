@@ -1,0 +1,331 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Cote d'Ivoire",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenneth Zohore (135213)",
+        "nama_panggilan": "Kenneth Zohore (135213)",
+        "tanggal_lahir": "1994-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kopenhagen",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
+        "kaki_dominan": "left",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Denmark  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jores Okore (129085)",
+        "nama_panggilan": "Jores Okore (129085)",
+        "tanggal_lahir": "1992-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Defender - Centre-Back",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Denmark  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Aby (1259589)",
+        "nama_panggilan": "Emmanuel Aby (1259589)",
+        "tanggal_lahir": "2007-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
+        "kaki_dominan": "",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Denmark  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Japhet Sery Larsen (403690)",
+        "nama_panggilan": "Japhet Sery Larsen (403690)",
+        "tanggal_lahir": "2000-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Copenhagen",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Defender - Centre-Back",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Denmark  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    }
+  ]
+}

@@ -17,24 +17,71 @@
           "Egypt  Italy"
         ],
         "tinggi_badan_cm": "0.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
         "kaki_dominan": "",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Egypt  Italy",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -51,24 +98,71 @@
           "Egypt  Italy"
         ],
         "tinggi_badan_cm": "177.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Attack - Centre-Forward",
+        "posisi_alternatif": "",
         "kaki_dominan": "",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Egypt  Italy",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     }
   ]

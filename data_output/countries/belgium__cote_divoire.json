@@ -1,0 +1,331 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Cote d'Ivoire",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sekou Sidibe (409513)",
+        "nama_panggilan": "Sekou Sidibe (409513)",
+        "tanggal_lahir": "2001-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abobo",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Right Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Belgium  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johan Bakayoko (565424)",
+        "nama_panggilan": "Johan Bakayoko (565424)",
+        "tanggal_lahir": "2003-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Overijse",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Right Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "left",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Belgium  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdoul-Karim Touré (707806)",
+        "nama_panggilan": "Abdoul-Karim Touré (707806)",
+        "tanggal_lahir": "2001-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Right Winger",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Belgium  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Berte (895402)",
+        "nama_panggilan": "Mohamed Berte (895402)",
+        "tanggal_lahir": "2002-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "berat_badan_kg": "",
+        "posisi_utama": "Attack - Second Striker",
+        "posisi_alternatif": "",
+        "kaki_dominan": "right",
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "liga": "",
+        "mulai": "",
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
+      },
+      "transfer": [],
+      "cedera": [],
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
+        "gol": "",
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Belgium  Cote d'Ivoire",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
+      }
+    }
+  ]
+}

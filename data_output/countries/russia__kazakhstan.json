@@ -17,24 +17,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "176.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Midfield - Right Midfield",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -51,24 +98,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "186.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Midfield - Central Midfield",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -85,24 +179,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "178.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Defender - Left-Back",
+        "posisi_alternatif": "",
         "kaki_dominan": "left",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -119,24 +260,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "194.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Goalkeeper",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -153,24 +341,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "179.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Defender - Left-Back",
+        "posisi_alternatif": "",
         "kaki_dominan": "left",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -187,24 +422,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "186.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Defender - Centre-Back",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -221,24 +503,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "183.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Defender - Centre-Back",
+        "posisi_alternatif": "",
         "kaki_dominan": "left",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -255,24 +584,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "175.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Midfield - Defensive Midfield",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -289,24 +665,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "188.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Goalkeeper",
+        "posisi_alternatif": "",
         "kaki_dominan": "right",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -323,24 +746,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "173.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Attack - Left Winger",
+        "posisi_alternatif": "",
         "kaki_dominan": "left",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     },
     {
@@ -357,24 +827,71 @@
           "Russia  Kazakhstan"
         ],
         "tinggi_badan_cm": "183.0",
+        "berat_badan_kg": "",
         "posisi_utama": "Midfield - Attacking Midfield",
+        "posisi_alternatif": "",
         "kaki_dominan": "left",
-        "klub_saat_ini": ""
+        "status_pemain": "Aktif",
+        "klub_saat_ini": "",
+        "nomor_punggung": "",
+        "tanggal_gabung": "",
+        "kontrak_mulai": "",
+        "kontrak_berakhir": "",
+        "agen": "",
+        "media_sosial": []
       },
       "nilai_pasar": {
         "nilai_terkini_eur": "",
-        "update_terakhir": ""
+        "update_terakhir": "",
+        "riwayat_nilai": [],
+        "nilai_tertinggi_eur": ""
       },
       "kontrak": {
         "klub": "",
+        "liga": "",
         "mulai": "",
-        "berakhir": ""
+        "berakhir": "",
+        "status": "",
+        "klausul_rilis": "",
+        "gaji_per_musim": ""
       },
+      "transfer": [],
+      "cedera": [],
       "statistik_performa": {
         "musim": "",
         "main": "",
+        "starter": "",
+        "substitusi": "",
+        "menit_bermain": "",
         "gol": "",
-        "assist": ""
+        "assist": "",
+        "kuning": "",
+        "merah": "",
+        "clean_sheet": "",
+        "kebobolan": "",
+        "rasio_gol_per_menit": "",
+        "kontribusi_gol_total": "",
+        "per_posisi": {}
+      },
+      "karier_internasional": {
+        "negara": "Russia  Kazakhstan",
+        "level": "",
+        "caps": "",
+        "gol": "",
+        "debut": "",
+        "turnamen": []
+      },
+      "prestasi": [],
+      "taktikal": {
+        "formasi": "",
+        "posisi": "",
+        "kontribusi_formasi": ""
+      },
+      "tren_karier": [],
+      "sumber_data": {
+        "transfermarkt_profile_url": "",
+        "data_asal": "transfermarkt",
+        "update_terakhir": ""
       }
     }
   ]
