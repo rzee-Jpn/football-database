@@ -1,70 +1,36 @@
 import os
 import csv
 import json
-import requests
 from collections import defaultdict
+from rapidfuzz import process  # pip install rapidfuzz
 
 # ===== CONFIG =====
-BASE_URL = "https://raw.githubusercontent.com/rzee-Jpn/football-datasets/refs/heads/main/datalake/transfermarkt"
-CSV_URLS = {
-    "players": f"{BASE_URL}/player_profiles/player_profiles.csv",
-    "teams": f"{BASE_URL}/team_details/team_details.csv",
-    "competitions": f"{BASE_URL}/team_competitions_seasons/team_competitions_seasons.csv",
-    "injuries": f"{BASE_URL}/player_injuries/player_injuries.csv"
-}
+DATA_DIR = "datalake"
 OUTPUT_DIR = "data_output"
-MAX_PLAYERS_PER_FILE = 800
+MAX_PLAYERS_PER_FILE = 800  # batas aman per file
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def download_csv(url):
-    print(f"📥 Downloading: {url}")
-    r = requests.get(url)
-    r.raise_for_status()
-    lines = r.text.splitlines()
-    return list(csv.DictReader(lines))
-
-# ===== LOAD ALL DATA =====
-players_data = download_csv(CSV_URLS["players"])
-teams_data = download_csv(CSV_URLS["teams"])
-competitions_data = download_csv(CSV_URLS["competitions"])
-injuries_data = download_csv(CSV_URLS["injuries"])
-
-print(f"✅ Loaded datasets:")
-print(f"   Players: {len(players_data)} | Teams: {len(teams_data)} | Competitions: {len(competitions_data)} | Injuries: {len(injuries_data)}")
-
-# ===== BUILD INDEX (by player_name / club_id) =====
-injuries_by_player = defaultdict(list)
-for inj in injuries_data:
-    pname = inj.get("player_name", "").strip()
-    if pname:
-        injuries_by_player[pname].append({
-            "cedera": inj.get("injury", ""),
-            "mulai": inj.get("injury_start", ""),
-            "selesai": inj.get("injury_end", ""),
-            "absen_hari": inj.get("days", ""),
-            "absen_pertandingan": inj.get("games_missed", ""),
-            "sumber": inj.get("url", "")
-        })
-
-team_index = {t.get("club_name", "").strip(): t for t in teams_data}
-
-# ===== GROUP STRUCTURE =====
+# ===== STRUKTUR DATA =====
 leagues = defaultdict(list)
 countries = defaultdict(list)
 positions = defaultdict(list)
 clubs = defaultdict(list)
+players_index = {}  # key: player_name, value: JSON object
 
-# ===== PLAYER STRUCTURE (10 PANEL) =====
+# ===== BACA SEMUA FILE CSV DI DALAM FOLDER DATALAKE =====
+def read_csv(file_path):
+    with open(file_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        return list(reader)
+
+# ===== FORMAT PLAYER SESUAI 10 PANEL =====
 def format_player(row):
-    player_name = row.get("player_name", "")
-    team_name = row.get("current_club", "")
-    injuries = injuries_by_player.get(player_name, [])
-
-    return {
+    name = row.get("player_name", "")
+    player = {
         "identitas_dasar": {
-            "nama_lengkap": player_name,
-            "nama_panggilan": player_name,
+            "nama_lengkap": name,
+            "nama_panggilan": name,
             "tanggal_lahir": row.get("date_of_birth", ""),
             "usia": row.get("age", ""),
             "tempat_lahir": {
@@ -78,7 +44,7 @@ def format_player(row):
             "posisi_alternatif": "",
             "kaki_dominan": row.get("foot", ""),
             "status_pemain": "Aktif",
-            "klub_saat_ini": team_name,
+            "klub_saat_ini": row.get("current_club", ""),
             "nomor_punggung": "",
             "tanggal_gabung": "",
             "kontrak_mulai": row.get("contract_start", ""),
@@ -93,7 +59,7 @@ def format_player(row):
             "nilai_tertinggi_eur": ""
         },
         "kontrak": {
-            "klub": team_name,
+            "klub": row.get("current_club", ""),
             "liga": row.get("league_name", ""),
             "mulai": row.get("contract_start", ""),
             "berakhir": row.get("contract_expiry", ""),
@@ -102,7 +68,7 @@ def format_player(row):
             "gaji_per_musim": ""
         },
         "transfer": [],
-        "cedera": injuries,
+        "cedera": [],
         "statistik_performa": {
             "musim": row.get("season", ""),
             "main": row.get("appearances_overall", ""),
@@ -140,63 +106,75 @@ def format_player(row):
             "update_terakhir": row.get("last_market_value_update", "")
         }
     }
+    return player
 
-# ===== GROUPING PLAYERS =====
-for row in players_data:
-    league = row.get("league_name", "").strip() or None
-    country = row.get("citizenship", "").strip() or None
-    position = row.get("position", "").strip() or "Unknown Position"
-    club_name = row.get("current_club", "").strip() or "Unknown Club"
-
-    player = format_player(row)
-
-    if league and league.lower() != "unknown":
-        leagues[league].append(player)
-    elif country and country.lower() != "unknown":
-        countries[country].append(player)
+# ===== MERGE DATA DARI FILE BARU =====
+def merge_player(player):
+    name = player["identitas_dasar"]["nama_lengkap"]
+    # fuzzy matching untuk nama pemain yang hampir sama
+    existing_names = list(players_index.keys())
+    match = process.extractOne(name, existing_names, score_cutoff=90)
+    if match:
+        existing = players_index[match[0]]
+        # update semua field panel
+        for k, v in player.items():
+            if isinstance(v, dict):
+                existing[k].update(v)
+            elif isinstance(v, list):
+                existing[k].extend(v)
+            else:
+                existing[k] = v
+        return existing
     else:
-        positions[position].append(player)
+        players_index[name] = player
+        return player
 
-    clubs[club_name].append(player)
+# ===== PROSES SEMUA FILE DI DATALAKE =====
+for file in os.listdir(DATA_DIR):
+    if file.endswith(".csv"):
+        path = os.path.join(DATA_DIR, file)
+        rows = read_csv(path)
+        for row in rows:
+            player = format_player(row)
+            player = merge_player(player)
 
-print(f"✅ Total pemain: {len(players_data)}")
+            # Kelompok prioritas
+            league = row.get("league_name", "").strip() or None
+            country = row.get("citizenship", "").strip() or None
+            position = row.get("position", "").strip() or "Unknown Position"
+            club = row.get("current_club", "").strip() or "Unknown Club"
+
+            if league and league.lower() != "unknown":
+                leagues[league].append(player)
+            elif country and country.lower() != "unknown":
+                countries[country].append(player)
+            else:
+                positions[position].append(player)
+            clubs[club].append(player)
 
 # ===== SIMPAN JSON =====
-def save_json_group(name, group_data, folder):
+def save_group(name, group_data, folder):
     os.makedirs(folder, exist_ok=True)
-    for group_name, items in group_data.items():
+    for group_name, players in group_data.items():
         safe_name = group_name.lower().replace(" ", "_").replace("/", "_")
-        for i in range(0, len(items), MAX_PLAYERS_PER_FILE):
+        for i in range(0, len(players), MAX_PLAYERS_PER_FILE):
             part = i // MAX_PLAYERS_PER_FILE + 1
-            subset = items[i:i + MAX_PLAYERS_PER_FILE]
+            subset = players[i:i + MAX_PLAYERS_PER_FILE]
             data = {
                 "kategori": name,
                 "nama_group": group_name,
-                "total_item": len(subset),
-                "data": subset
+                "total_pemain": len(subset),
+                "pemain": subset
             }
-            filename = (
-                f"{safe_name}_part{part}.json"
-                if len(items) > MAX_PLAYERS_PER_FILE
-                else f"{safe_name}.json"
-            )
-            with open(os.path.join(folder, filename), "w", encoding="utf-8") as f:
+            filename = f"{safe_name}_part{part}.json" if len(players) > MAX_PLAYERS_PER_FILE else f"{safe_name}.json"
+            path = os.path.join(folder, filename)
+            with open(path, "w", encoding="utf-8") as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
-            print(f"💾 Saved {name}/{filename} ({len(subset)} items)")
+            print(f"💾 Saved {name}/{filename} ({len(subset)} pemain)")
 
-save_json_group("liga", leagues, os.path.join(OUTPUT_DIR, "leagues"))
-save_json_group("negara", countries, os.path.join(OUTPUT_DIR, "countries"))
-save_json_group("posisi", positions, os.path.join(OUTPUT_DIR, "positions"))
-save_json_group("klub", clubs, os.path.join(OUTPUT_DIR, "clubs"))
+save_group("liga", leagues, os.path.join(OUTPUT_DIR, "leagues"))
+save_group("negara", countries, os.path.join(OUTPUT_DIR, "countries"))
+save_group("posisi", positions, os.path.join(OUTPUT_DIR, "positions"))
+save_group("klub", clubs, os.path.join(OUTPUT_DIR, "clubs"))
 
-# ===== SIMPAN DATA TAMBAHAN =====
-with open(os.path.join(OUTPUT_DIR, "team_details.json"), "w", encoding="utf-8") as f:
-    json.dump(teams_data, f, ensure_ascii=False, indent=2)
-
-with open(os.path.join(OUTPUT_DIR, "competitions.json"), "w", encoding="utf-8") as f:
-    json.dump(competitions_data, f, ensure_ascii=False, indent=2)
-
-with open(os.path.join(OUTPUT_DIR, "injuries.json"), "w", encoding="utf-8") as f:
-    json.dump(injuries_data, f, ensure_ascii=False, indent=2)
-
-print("🎯 Semua dataset selesai dikonversi ke JSON modular (versi 3.0 lengkap).")
+print("🎉 Semua file selesai dibuat. Struktur 10 panel lengkap, siap auto-merge untuk file baru.")
