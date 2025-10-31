@@ -1,0 +1,38 @@
+name: Import CSV & Update Players
+
+on:
+  push:
+    paths:
+      - 'data/*.csv'         # Jalan otomatis saat CSV diubah / ditambah
+  schedule:
+    - cron: "0 */12 * * *"  # Update otomatis tiap 12 jam
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Convert CSV to JSON
+        run: python scripts/convert_csv_to_json.py
+
+      - name: Run Transfermarkt Autofill
+        run: python scripts/autofill_transfermarkt.py
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add players/
+          git commit -m "Auto update player data from CSV + Transfermarkt" || echo "No changes"
+          git push
