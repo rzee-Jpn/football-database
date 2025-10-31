@@ -1,32 +1,41 @@
-name: Generate and deploy json datasets
+import csv
+import json
+import os
+import requests
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * 0"  # setiap minggu otomatis update
+# URL CSV dari repository sumber (contoh Transfermarkt dataset)
+CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/refs/heads/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+OUTPUT_FOLDER = "data_output"
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+# Buat folder output jika belum ada
+os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
-      - name: Install dependencies
-        run: pip install requests
+# Unduh CSV
+print("📥 Downloading CSV...")
+response = requests.get(CSV_URL)
+response.raise_for_status()
+csv_data = response.text.splitlines()
 
-      - name: Run JSON generator
-        run: python auto_generate_json.py
+# Parsing CSV
+reader = csv.DictReader(csv_data)
 
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add data_output/
-          git commit -m "Auto update JSON" || echo "No changes to commit"
-          git push
+print("🔁 Converting CSV rows to JSON files...")
+for row in reader:
+    name = row.get("name") or "unknown_player"
+    club = row.get("club_name") or "unknown_club"
+    
+    # Bersihkan nama file
+    safe_name = name.replace("/", "-").replace(" ", "_").lower()
+    safe_club = club.replace("/", "-").replace(" ", "_").lower()
+    
+    # Buat folder berdasarkan klub
+    club_folder = os.path.join(OUTPUT_FOLDER, safe_club)
+    os.makedirs(club_folder, exist_ok=True)
+    
+    # Simpan JSON 1 pemain = 1 file
+    output_path = os.path.join(club_folder, f"{safe_name}.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(row, f, ensure_ascii=False, indent=2)
+
+print("✅ Done! JSON saved in", OUTPUT_FOLDER)
