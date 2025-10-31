@@ -5,7 +5,7 @@ import requests
 from collections import defaultdict
 
 # ===== CONFIG =====
-CSV_URL = "https://raw.githubusercontent.com/rzee-Jpn/football-datasets/refs/heads/main/datalake/transfermarkt/player_latest_market_value/player_latest_market_value.csv"
+CSV_URL = "https://raw.githubusercontent.com/rzee-Jpn/football-datasets/refs/heads/main/datalake/transfermarkt/team_details/team_details.csv"
 OUTPUT_DIR = "data_output"
 MAX_PLAYERS_PER_FILE = 800  # batas aman per file
 
