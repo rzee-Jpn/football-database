@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bolivia  Brazil",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcelo Moreno Martins (54162)",
+        "nama_panggilan": "Marcelo Moreno Martins (54162)",
+        "tanggal_lahir": "1987-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

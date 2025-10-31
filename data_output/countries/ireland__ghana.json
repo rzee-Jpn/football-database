@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Ghana",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Corrie Ndaba (433329)",
+        "nama_panggilan": "Corrie Ndaba (433329)",
+        "tanggal_lahir": "1999-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dublin",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Ghana"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Abankwah (648032)",
+        "nama_panggilan": "James Abankwah (648032)",
+        "tanggal_lahir": "2004-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Waterford",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Ghana"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Colin Oppong (802218)",
+        "nama_panggilan": "Colin Oppong (802218)",
+        "tanggal_lahir": "2002-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carlow",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Ghana"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

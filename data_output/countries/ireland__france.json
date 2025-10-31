@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Farrugia (491578)",
+        "nama_panggilan": "Neil Farrugia (491578)",
+        "tanggal_lahir": "1999-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tom Gaston (615983)",
+        "nama_panggilan": "Tom Gaston (615983)",
+        "tanggal_lahir": "2001-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bordeaux",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

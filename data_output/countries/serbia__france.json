@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  France",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Perica Radic (12396)",
+        "nama_panggilan": "Perica Radic (12396)",
+        "tanggal_lahir": "1984-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Smederevo",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boris Popović (470796)",
+        "nama_panggilan": "Boris Popović (470796)",
+        "tanggal_lahir": "2000-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tours",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  France"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vujadin Savic (68283)",
+        "nama_panggilan": "Vujadin Savic (68283)",
+        "tanggal_lahir": "1990-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  France"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Dzodic (854097)",
+        "nama_panggilan": "Stefan Dzodic (854097)",
+        "tanggal_lahir": "2005-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montpellier",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viktor Dzodic (989106)",
+        "nama_panggilan": "Viktor Dzodic (989106)",
+        "tanggal_lahir": "2006-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montpellier",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

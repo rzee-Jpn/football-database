@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Equatorial Guinea  Italy",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valeriano Nchama (267916)",
+        "nama_panggilan": "Valeriano Nchama (267916)",
+        "tanggal_lahir": "1995-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malabo",
+          "negara": "Equatorial Guinea"
+        },
+        "kewarganegaraan": [
+          "Equatorial Guinea  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

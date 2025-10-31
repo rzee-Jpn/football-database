@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Panama",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joyce Moreno (187840)",
+        "nama_panggilan": "Joyce Moreno (187840)",
+        "tanggal_lahir": "1974-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Panama"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

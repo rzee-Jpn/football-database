@@ -1,0 +1,551 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  England",
+  "total_pemain": 16,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marley Leuluai (1092671)",
+        "nama_panggilan": "Marley Leuluai (1092671)",
+        "tanggal_lahir": "2006-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manly",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Musa (135510)",
+        "nama_panggilan": "James Musa (135510)",
+        "tanggal_lahir": "1992-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Plymouth",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah Dupont (1167449)",
+        "nama_panggilan": "Noah Dupont (1167449)",
+        "tanggal_lahir": "2007-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Thomas (203357)",
+        "nama_panggilan": "Ryan Thomas (203357)",
+        "tanggal_lahir": "1994-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Te Puke",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Crocombe (207843)",
+        "nama_panggilan": "Max Crocombe (207843)",
+        "tanggal_lahir": "1993-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Bell (345700)",
+        "nama_panggilan": "Joe Bell (345700)",
+        "tanggal_lahir": "1999-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bristol",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deklan Wynne (298228)",
+        "nama_panggilan": "Deklan Wynne (298228)",
+        "tanggal_lahir": "1995-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Johannesburg, Gauteng",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nik Tzanev (363901)",
+        "nama_panggilan": "Nik Tzanev (363901)",
+        "tanggal_lahir": "1996-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wellington",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rory Fallon (46109)",
+        "nama_panggilan": "Rory Fallon (46109)",
+        "tanggal_lahir": "1982-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gisborne",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Mulligan (49539)",
+        "nama_panggilan": "David Mulligan (49539)",
+        "tanggal_lahir": "1982-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Waine (539502)",
+        "nama_panggilan": "Ben Waine (539502)",
+        "tanggal_lahir": "2001-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wellington",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommy Smith (54381)",
+        "nama_panggilan": "Tommy Smith (54381)",
+        "tanggal_lahir": "1990-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Macclesfield",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronan Wynne (627143)",
+        "nama_panggilan": "Ronan Wynne (627143)",
+        "tanggal_lahir": "2001-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cape Town, Western Cape",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacob Borgnis (818233)",
+        "nama_panggilan": "Jacob Borgnis (818233)",
+        "tanggal_lahir": "2004-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Greive (835410)",
+        "nama_panggilan": "Alex Greive (835410)",
+        "tanggal_lahir": "1999-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Watson (962025)",
+        "nama_panggilan": "Adam Watson (962025)",
+        "tanggal_lahir": "2006-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Uganda",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jesse Bal (953857)",
+        "nama_panggilan": "Jesse Bal (953857)",
+        "tanggal_lahir": "2006-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kampala",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Uganda"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

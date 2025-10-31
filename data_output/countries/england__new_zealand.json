@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  New Zealand",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Chilwell (316125)",
+        "nama_panggilan": "Ben Chilwell (316125)",
+        "tanggal_lahir": "1996-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milton Keynes",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  New Zealand"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Will Longbottom (432177)",
+        "nama_panggilan": "Will Longbottom (432177)",
+        "tanggal_lahir": "1998-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leeds",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  New Zealand"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Bullock (49698)",
+        "nama_panggilan": "Martin Bullock (49698)",
+        "tanggal_lahir": "1975-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derby",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  New Zealand"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

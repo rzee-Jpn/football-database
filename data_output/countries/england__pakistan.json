@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Pakistan",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faris Khan (1064935)",
+        "nama_panggilan": "Faris Khan (1064935)",
+        "tanggal_lahir": "2004-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Pakistan"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adil Nabi (181554)",
+        "nama_panggilan": "Adil Nabi (181554)",
+        "tanggal_lahir": "1994-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Pakistan"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonie Boland (226046)",
+        "nama_panggilan": "Antonie Boland (226046)",
+        "tanggal_lahir": "1994-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Pakistan"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Romania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleg Skakun (981875)",
+        "nama_panggilan": "Oleg Skakun (981875)",
+        "tanggal_lahir": "2004-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chernivtsi",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enes Sali (875252)",
+        "nama_panggilan": "Enes Sali (875252)",
+        "tanggal_lahir": "2006-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Canada"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

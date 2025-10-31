@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Yemen",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darren Palmer (1019171)",
+        "nama_panggilan": "Darren Palmer (1019171)",
+        "tanggal_lahir": "2005-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "South Shields",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Yemen"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

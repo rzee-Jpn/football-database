@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nicaragua  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Gállego (286945)",
+        "nama_panggilan": "Pablo Gállego (286945)",
+        "tanggal_lahir": "1993-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huesca",
+          "negara": "Nicaragua"
+        },
+        "kewarganegaraan": [
+          "Nicaragua  Spain"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

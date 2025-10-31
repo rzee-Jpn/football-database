@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Algeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Reghba (615177)",
+        "nama_panggilan": "Ali Reghba (615177)",
+        "tanggal_lahir": "2000-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Essen",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Algeria"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naj Razi (957295)",
+        "nama_panggilan": "Naj Razi (957295)",
+        "tanggal_lahir": "2006-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tallaght",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Algeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

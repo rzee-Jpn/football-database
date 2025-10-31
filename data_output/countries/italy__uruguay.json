@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Uruguay",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matias Mancuso (1085029)",
+        "nama_panggilan": "Matias Mancuso (1085029)",
+        "tanggal_lahir": "2007-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Uruguay"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emilio Belmonte (228816)",
+        "nama_panggilan": "Emilio Belmonte (228816)",
+        "tanggal_lahir": "1972-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Uruguay"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

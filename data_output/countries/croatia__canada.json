@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Canada",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Islic (580489)",
+        "nama_panggilan": "Luka Islic (580489)",
+        "tanggal_lahir": "2003-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Samobor",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Canada"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Mamic (804087)",
+        "nama_panggilan": "Ivan Mamic (804087)",
+        "tanggal_lahir": "2000-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton,Ontario",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Canada"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josip Ivan Zorica (720946)",
+        "nama_panggilan": "Josip Ivan Zorica (720946)",
+        "tanggal_lahir": "2001-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Winnipeg, Manitoba",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

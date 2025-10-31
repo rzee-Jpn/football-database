@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Ukraine",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Semenets (103625)",
+        "nama_panggilan": "Alex Semenets (103625)",
+        "tanggal_lahir": "1990-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiew",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ukraine"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

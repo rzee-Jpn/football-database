@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Kum (37850)",
+        "nama_panggilan": "Christian Kum (37850)",
+        "tanggal_lahir": "1985-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pepijn Schlösser (416007)",
+        "nama_panggilan": "Pepijn Schlösser (416007)",
+        "tanggal_lahir": "1998-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hoensbroek",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramien Safi (600414)",
+        "nama_panggilan": "Ramien Safi (600414)",
+        "tanggal_lahir": "1999-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

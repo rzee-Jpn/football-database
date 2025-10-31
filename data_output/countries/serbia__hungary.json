@@ -1,0 +1,789 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Hungary",
+  "total_pemain": 23,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Branko Pauljevic (132779)",
+        "nama_panggilan": "Branko Pauljevic (132779)",
+        "tanggal_lahir": "1989-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bela Crkva",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Visinka (1300170)",
+        "nama_panggilan": "Valentin Visinka (1300170)",
+        "tanggal_lahir": "2006-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sombor",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Branimir Aleksic (115860)",
+        "nama_panggilan": "Branimir Aleksic (115860)",
+        "tanggal_lahir": "1990-12-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dragan Vukmir (18316)",
+        "nama_panggilan": "Dragan Vukmir (18316)",
+        "tanggal_lahir": "1978-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sremska Mitrovica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Rockov (197520)",
+        "nama_panggilan": "Emil Rockov (197520)",
+        "tanggal_lahir": "1995-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novi Sad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bojan Lazic (168062)",
+        "nama_panggilan": "Bojan Lazic (168062)",
+        "tanggal_lahir": "1974-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kruševac",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dániel Farkas (169264)",
+        "nama_panggilan": "Dániel Farkas (169264)",
+        "tanggal_lahir": "1993-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Senta",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lazar Zlicic (257478)",
+        "nama_panggilan": "Lazar Zlicic (257478)",
+        "tanggal_lahir": "1997-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novi Sad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zsolt Radics (27559)",
+        "nama_panggilan": "Zsolt Radics (27559)",
+        "tanggal_lahir": "1976-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Senta",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Banjac (326493)",
+        "nama_panggilan": "Nikola Banjac (326493)",
+        "tanggal_lahir": "1996-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mladen Covic (36101)",
+        "nama_panggilan": "Mladen Covic (36101)",
+        "tanggal_lahir": "1986-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dusan Vasiljevic (42248)",
+        "nama_panggilan": "Dusan Vasiljevic (42248)",
+        "tanggal_lahir": "1982-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Branislav Danilovic (46853)",
+        "nama_panggilan": "Branislav Danilovic (46853)",
+        "tanggal_lahir": "1988-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Vladul (485404)",
+        "nama_panggilan": "Stefan Vladul (485404)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pančevo",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vanja Zvekanov (502088)",
+        "nama_panggilan": "Vanja Zvekanov (502088)",
+        "tanggal_lahir": "2000-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tamás Hajagos (531881)",
+        "nama_panggilan": "Tamás Hajagos (531881)",
+        "tanggal_lahir": "1996-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vrbas",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Attila Andruskó (53843)",
+        "nama_panggilan": "Attila Andruskó (53843)",
+        "tanggal_lahir": "1980-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Senta",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boris Zivanovic (60355)",
+        "nama_panggilan": "Boris Zivanovic (60355)",
+        "tanggal_lahir": "1989-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Slobodan Simovic (60490)",
+        "nama_panggilan": "Slobodan Simovic (60490)",
+        "tanggal_lahir": "1989-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Čačak",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danilo Pejovic (576752)",
+        "nama_panggilan": "Danilo Pejovic (576752)",
+        "tanggal_lahir": "1998-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miroslav Grumic (59048)",
+        "nama_panggilan": "Miroslav Grumic (59048)",
+        "tanggal_lahir": "1984-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Apatin",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Geller (699589)",
+        "nama_panggilan": "Robert Geller (699589)",
+        "tanggal_lahir": "2004-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dimitrije Antic (700645)",
+        "nama_panggilan": "Dimitrije Antic (700645)",
+        "tanggal_lahir": "2003-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

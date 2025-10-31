@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Nigeria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Makinde (1315628)",
+        "nama_panggilan": "Kevin Makinde (1315628)",
+        "tanggal_lahir": "2006-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Brazil  Nigeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominic Vinicius (448263)",
+        "nama_panggilan": "Dominic Vinicius (448263)",
+        "tanggal_lahir": "1995-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Nigeria"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franklin (675858)",
+        "nama_panggilan": "Franklin (675858)",
+        "tanggal_lahir": "1999-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

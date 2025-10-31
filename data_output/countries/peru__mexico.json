@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Peru  Mexico",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Ormeño (599568)",
+        "nama_panggilan": "Santiago Ormeño (599568)",
+        "tanggal_lahir": "1994-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de México",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Mexico"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

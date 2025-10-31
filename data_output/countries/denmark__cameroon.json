@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Cameroon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charly Nouck (802726)",
+        "nama_panggilan": "Charly Nouck (802726)",
+        "tanggal_lahir": "2004-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odense",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Cameroon"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henrik Meister (914934)",
+        "nama_panggilan": "Henrik Meister (914934)",
+        "tanggal_lahir": "2003-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Cameroon"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  DR Congo",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jucie Lupeta (269927)",
+        "nama_panggilan": "Jucie Lupeta (269927)",
+        "tanggal_lahir": "1993-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lourinhã",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  DR Congo"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ariza Makukula (5518)",
+        "nama_panggilan": "Ariza Makukula (5518)",
+        "tanggal_lahir": "1981-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  DR Congo"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

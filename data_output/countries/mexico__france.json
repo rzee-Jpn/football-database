@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  France",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Palacios (328354)",
+        "nama_panggilan": "Santiago Palacios (328354)",
+        "tanggal_lahir": "1991-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuernavaca",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Bellón (378351)",
+        "nama_panggilan": "Paul Bellón (378351)",
+        "tanggal_lahir": "1997-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guadalajara",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "André Alcaráz (371167)",
+        "nama_panggilan": "André Alcaráz (371167)",
+        "tanggal_lahir": "2000-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Narbonne",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Ramírez (53594)",
+        "nama_panggilan": "Diego Ramírez (53594)",
+        "tanggal_lahir": "1981-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexico City",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Prieto (59885)",
+        "nama_panggilan": "Rodrigo Prieto (59885)",
+        "tanggal_lahir": "1983-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guadalajara",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando Julien (68695)",
+        "nama_panggilan": "Fernando Julien (68695)",
+        "tanggal_lahir": "1986-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexico City",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

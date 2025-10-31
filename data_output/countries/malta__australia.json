@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malta  Australia",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Scicluna (1050131)",
+        "nama_panggilan": "Lucas Scicluna (1050131)",
+        "tanggal_lahir": "2005-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manny Muscat (109813)",
+        "nama_panggilan": "Manny Muscat (109813)",
+        "tanggal_lahir": "1984-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ethan Debono (1203231)",
+        "nama_panggilan": "Ethan Debono (1203231)",
+        "tanggal_lahir": "2005-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mitchell Mallia (139863)",
+        "nama_panggilan": "Mitchell Mallia (139863)",
+        "tanggal_lahir": "1992-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool, New South Wales",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jake Brimmer (337282)",
+        "nama_panggilan": "Jake Brimmer (337282)",
+        "tanggal_lahir": "1998-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Trent Buhagiar (415273)",
+        "nama_panggilan": "Trent Buhagiar (415273)",
+        "tanggal_lahir": "1998-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gosford",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Hutchinson (43119)",
+        "nama_panggilan": "John Hutchinson (43119)",
+        "tanggal_lahir": "1979-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morwell",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Scicluna (576346)",
+        "nama_panggilan": "Dylan Scicluna (576346)",
+        "tanggal_lahir": "2004-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Australia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

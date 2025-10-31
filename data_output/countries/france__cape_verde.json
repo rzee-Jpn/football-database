@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Cape Verde",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valdir Fonseca (1001799)",
+        "nama_panggilan": "Valdir Fonseca (1001799)",
+        "tanggal_lahir": "2003-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jackson Mendes (111023)",
+        "nama_panggilan": "Jackson Mendes (111023)",
+        "tanggal_lahir": "1991-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grasse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tahirys Dos Santos (1119940)",
+        "nama_panggilan": "Tahirys Dos Santos (1119940)",
+        "tanggal_lahir": "2006-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mont-Saint-Martin",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Mendes (1138156)",
+        "nama_panggilan": "Jordan Mendes (1138156)",
+        "tanggal_lahir": "2004-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emerick Lopes (1070284)",
+        "nama_panggilan": "Emerick Lopes (1070284)",
+        "tanggal_lahir": "2005-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Leal Moreira (1173605)",
+        "nama_panggilan": "Bryan Leal Moreira (1173605)",
+        "tanggal_lahir": "2006-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreuil-sous-Bois",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michaël Pereira (147483)",
+        "nama_panggilan": "Michaël Pereira (147483)",
+        "tanggal_lahir": "1987-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jessy Rodrigues (185457)",
+        "nama_panggilan": "Jessy Rodrigues (185457)",
+        "tanggal_lahir": "1989-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilson Moreira (351830)",
+        "nama_panggilan": "Wilson Moreira (351830)",
+        "tanggal_lahir": "1986-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Noisy-le-Grand",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxime Borges (290534)",
+        "nama_panggilan": "Maxime Borges (290534)",
+        "tanggal_lahir": "1995-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Cabral (460632)",
+        "nama_panggilan": "Kévin Cabral (460632)",
+        "tanggal_lahir": "1999-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rémi Cabral (460631)",
+        "nama_panggilan": "Rémi Cabral (460631)",
+        "tanggal_lahir": "1999-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Semedo (540661)",
+        "nama_panggilan": "Manuel Semedo (540661)",
+        "tanggal_lahir": "2000-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maisons-Laffitte",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darren Lima Semedo (557615)",
+        "nama_panggilan": "Darren Lima Semedo (557615)",
+        "tanggal_lahir": "2002-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Le Cannet",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grégory Coelho (678660)",
+        "nama_panggilan": "Grégory Coelho (678660)",
+        "tanggal_lahir": "1999-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cahors",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Billy Modeste (81551)",
+        "nama_panggilan": "Billy Modeste (81551)",
+        "tanggal_lahir": "1988-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keliano Tavares (823836)",
+        "nama_panggilan": "Keliano Tavares (823836)",
+        "tanggal_lahir": "2001-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Ozée (825653)",
+        "nama_panggilan": "Hugo Ozée (825653)",
+        "tanggal_lahir": "2000-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emile Dalouze (900065)",
+        "nama_panggilan": "Emile Dalouze (900065)",
+        "tanggal_lahir": "1995-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxime Da Veiga (981425)",
+        "nama_panggilan": "Maxime Da Veiga (981425)",
+        "tanggal_lahir": "1998-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Maurice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anilton Mendes-Correia (983286)",
+        "nama_panggilan": "Anilton Mendes-Correia (983286)",
+        "tanggal_lahir": "1995-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Cape Verde"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

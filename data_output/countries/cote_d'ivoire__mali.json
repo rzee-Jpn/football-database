@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Mali",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaya Fofana (1044893)",
+        "nama_panggilan": "Yaya Fofana (1044893)",
+        "tanggal_lahir": "2004-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yopougon",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaurès Assoumou (1066904)",
+        "nama_panggilan": "Jaurès Assoumou (1066904)",
+        "tanggal_lahir": "2002-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dabou",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Levy Nene (1267429)",
+        "nama_panggilan": "Levy Nene (1267429)",
+        "tanggal_lahir": "2006-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kayes",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Issa Karakodio (1233403)",
+        "nama_panggilan": "Issa Karakodio (1233403)",
+        "tanggal_lahir": "2006-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adjamé",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amadou Koné (1178474)",
+        "nama_panggilan": "Amadou Koné (1178474)",
+        "tanggal_lahir": "2005-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malick Yalcouyé (1178758)",
+        "nama_panggilan": "Malick Yalcouyé (1178758)",
+        "tanggal_lahir": "2005-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bandiagara",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldom Deuro (648971)",
+        "nama_panggilan": "Aldom Deuro (648971)",
+        "tanggal_lahir": "2000-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moïse Sahi Dion (880330)",
+        "nama_panggilan": "Moïse Sahi Dion (880330)",
+        "tanggal_lahir": "2001-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Mali"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

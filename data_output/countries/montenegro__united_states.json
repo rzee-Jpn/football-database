@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Montenegro  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emrah Klimenta (207242)",
+        "nama_panggilan": "Emrah Klimenta (207242)",
+        "tanggal_lahir": "1991-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rozaje",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Malesevic (344458)",
+        "nama_panggilan": "Luka Malesevic (344458)",
+        "tanggal_lahir": "1998-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Podgorica",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  United States"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

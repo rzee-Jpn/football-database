@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lebanon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssef Mohamad (21282)",
+        "nama_panggilan": "Youssef Mohamad (21282)",
+        "tanggal_lahir": "1980-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beirut",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tarek Yehya (919232)",
+        "nama_panggilan": "Tarek Yehya (919232)",
+        "tanggal_lahir": "2000-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beirut",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

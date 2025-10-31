@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Equatorial Guinea",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noel Aseko (904974)",
+        "nama_panggilan": "Noel Aseko (904974)",
+        "tanggal_lahir": "2005-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Equatorial Guinea"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

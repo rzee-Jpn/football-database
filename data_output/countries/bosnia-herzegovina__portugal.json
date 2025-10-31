@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dino Besirovic (361772)",
+        "nama_panggilan": "Dino Besirovic (361772)",
+        "tanggal_lahir": "1994-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Viseu",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Portugal"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

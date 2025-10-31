@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bahrain  Morocco",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faouzi Aaish (63309)",
+        "nama_panggilan": "Faouzi Aaish (63309)",
+        "tanggal_lahir": "1985-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Casablanca",
+          "negara": "Bahrain"
+        },
+        "kewarganegaraan": [
+          "Bahrain  Morocco"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

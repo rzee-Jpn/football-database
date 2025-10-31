@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "St. Kitts & Nevis  England",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kyle Kelly (1011749)",
+        "nama_panggilan": "Kyle Kelly (1011749)",
+        "tanggal_lahir": "2005-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Northampton",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romaine Sawyers (113036)",
+        "nama_panggilan": "Romaine Sawyers (113036)",
+        "tanggal_lahir": "1991-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwame Thomas (183300)",
+        "nama_panggilan": "Kwame Thomas (183300)",
+        "tanggal_lahir": "1995-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nottingham",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raheem Hanley (173584)",
+        "nama_panggilan": "Raheem Hanley (173584)",
+        "tanggal_lahir": "1994-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blackburn",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Harry Panayiotou (224673)",
+        "nama_panggilan": "Harry Panayiotou (224673)",
+        "tanggal_lahir": "1994-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leicester",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lois Maynard (284958)",
+        "nama_panggilan": "Lois Maynard (284958)",
+        "tanggal_lahir": "1989-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Calum Willock (3326)",
+        "nama_panggilan": "Calum Willock (3326)",
+        "tanggal_lahir": "1981-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Newton (49712)",
+        "nama_panggilan": "Adam Newton (49712)",
+        "tanggal_lahir": "1980-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ascot",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyrese Shade (500687)",
+        "nama_panggilan": "Tyrese Shade (500687)",
+        "tanggal_lahir": "2000-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andre Burley (504381)",
+        "nama_panggilan": "Andre Burley (504381)",
+        "tanggal_lahir": "1999-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slough",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ethan Bristow (566676)",
+        "nama_panggilan": "Ethan Bristow (566676)",
+        "tanggal_lahir": "2001-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maidenhead",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Williams (612093)",
+        "nama_panggilan": "Jay Williams (612093)",
+        "tanggal_lahir": "2000-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Northampton",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sagi Burton (67357)",
+        "nama_panggilan": "Sagi Burton (67357)",
+        "tanggal_lahir": "1977-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Febian Brandy (67451)",
+        "nama_panggilan": "Febian Brandy (67451)",
+        "tanggal_lahir": "1989-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyreece Simpson (664558)",
+        "nama_panggilan": "Tyreece Simpson (664558)",
+        "tanggal_lahir": "2002-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ipswich",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rico Browne (733305)",
+        "nama_panggilan": "Rico Browne (733305)",
+        "tanggal_lahir": "2003-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Bowery (94655)",
+        "nama_panggilan": "Jordan Bowery (94655)",
+        "tanggal_lahir": "1991-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nottingham",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

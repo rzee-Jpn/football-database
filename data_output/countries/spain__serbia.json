@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bojan Krkic (44675)",
+        "nama_panggilan": "Bojan Krkic (44675)",
+        "tanggal_lahir": "1990-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liñola",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Serbia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Bajcetic (864799)",
+        "nama_panggilan": "Stefan Bajcetic (864799)",
+        "tanggal_lahir": "2004-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vigo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

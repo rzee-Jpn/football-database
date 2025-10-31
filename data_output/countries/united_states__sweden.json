@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nebiyou Perry (398972)",
+        "nama_panggilan": "Nebiyou Perry (398972)",
+        "tanggal_lahir": "1999-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Sweden"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emilio Ycaza (463355)",
+        "nama_panggilan": "Emilio Ycaza (463355)",
+        "tanggal_lahir": "1997-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Petersburg, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Sweden"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

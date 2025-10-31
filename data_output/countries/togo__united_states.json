@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loïc Mesanvi (1042556)",
+        "nama_panggilan": "Loïc Mesanvi (1042556)",
+        "tanggal_lahir": "2003-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tulu (621936)",
+        "nama_panggilan": "Tulu (621936)",
+        "tanggal_lahir": "1997-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mansour Ouro-Tagba (705020)",
+        "nama_panggilan": "Mansour Ouro-Tagba (705020)",
+        "tanggal_lahir": "2004-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Korea, South  Japan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Se-na Yang (817398)",
+        "nama_panggilan": "Se-na Yang (817398)",
+        "tanggal_lahir": "1999-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Osaka, Osaka",
+          "negara": "Korea, South"
+        },
+        "kewarganegaraan": [
+          "Korea, South  Japan"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

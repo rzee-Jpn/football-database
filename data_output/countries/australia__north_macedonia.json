@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  North Macedonia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobby Despotovski (43146)",
+        "nama_panggilan": "Bobby Despotovski (43146)",
+        "tanggal_lahir": "1971-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Perth",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  North Macedonia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naum Sekulovski (43187)",
+        "nama_panggilan": "Naum Sekulovski (43187)",
+        "tanggal_lahir": "1982-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  North Macedonia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Necevski (45321)",
+        "nama_panggilan": "Ivan Necevski (45321)",
+        "tanggal_lahir": "1980-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  North Macedonia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Kantarovski (66394)",
+        "nama_panggilan": "Ben Kantarovski (66394)",
+        "tanggal_lahir": "1992-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Newcastle",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  North Macedonia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

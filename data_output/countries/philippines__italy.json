@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Bandara (1059728)",
+        "nama_panggilan": "Bryan Bandara (1059728)",
+        "tanggal_lahir": "2006-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colombo",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paolo Perez (704457)",
+        "nama_panggilan": "Paolo Perez (704457)",
+        "tanggal_lahir": "2003-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simone Rota (76472)",
+        "nama_panggilan": "Simone Rota (76472)",
+        "tanggal_lahir": "1984-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Parañaque City",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

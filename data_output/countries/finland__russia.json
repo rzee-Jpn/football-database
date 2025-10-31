@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Russia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timo Stavitski (363717)",
+        "nama_panggilan": "Timo Stavitski (363717)",
+        "tanggal_lahir": "1999-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lahti",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Russia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roman Eremenko (44367)",
+        "nama_panggilan": "Roman Eremenko (44367)",
+        "tanggal_lahir": "1987-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Russia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Markhiev (592878)",
+        "nama_panggilan": "Adam Markhiev (592878)",
+        "tanggal_lahir": "2002-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nazran",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Russia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cape Verde  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago Gomes (721788)",
+        "nama_panggilan": "Tiago Gomes (721788)",
+        "tanggal_lahir": "2002-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cape Verde  Belgium"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

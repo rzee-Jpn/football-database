@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irakoze Donasiyano (638739)",
+        "nama_panggilan": "Irakoze Donasiyano (638739)",
+        "tanggal_lahir": "1998-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigoma Region",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

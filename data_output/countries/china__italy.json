@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "China  Italy",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denny Wang (383668)",
+        "nama_panggilan": "Denny Wang (383668)",
+        "tanggal_lahir": "1998-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alba",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

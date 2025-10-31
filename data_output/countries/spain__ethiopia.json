@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Ethiopia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayán Galván (1004296)",
+        "nama_panggilan": "Ayán Galván (1004296)",
+        "tanggal_lahir": "2002-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Elda",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ethiopia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yidne Pinto (1064404)",
+        "nama_panggilan": "Yidne Pinto (1064404)",
+        "tanggal_lahir": "2005-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitoria",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ethiopia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aschalew Sanmartí (617064)",
+        "nama_panggilan": "Aschalew Sanmartí (617064)",
+        "tanggal_lahir": "2002-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sant Fruitós de Bages",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ethiopia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

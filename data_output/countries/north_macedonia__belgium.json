@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "North Macedonia  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Gjuzelov (24013)",
+        "nama_panggilan": "Igor Gjuzelov (24013)",
+        "tanggal_lahir": "1976-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Strumica",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Belgium"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Abaz (289502)",
+        "nama_panggilan": "Emil Abaz (289502)",
+        "tanggal_lahir": "1998-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skopje",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Belgium"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

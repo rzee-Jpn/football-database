@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Liberia",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ola John (124550)",
+        "nama_panggilan": "Ola John (124550)",
+        "tanggal_lahir": "1992-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zwedru",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eros Maddy (412934)",
+        "nama_panggilan": "Eros Maddy (412934)",
+        "tanggal_lahir": "2001-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Woerden",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Collins John (4694)",
+        "nama_panggilan": "Collins John (4694)",
+        "tanggal_lahir": "1985-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zwedru",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Sherif (922695)",
+        "nama_panggilan": "Martin Sherif (922695)",
+        "tanggal_lahir": "2006-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Layee Kromah (865293)",
+        "nama_panggilan": "Layee Kromah (865293)",
+        "tanggal_lahir": "2003-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amstelveen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paddy John (97543)",
+        "nama_panggilan": "Paddy John (97543)",
+        "tanggal_lahir": "1990-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zwedru",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Liberia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

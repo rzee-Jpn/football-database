@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dema Kovalenko (1457)",
+        "nama_panggilan": "Dema Kovalenko (1457)",
+        "tanggal_lahir": "1977-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiew",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergiy Daniv (259032)",
+        "nama_panggilan": "Sergiy Daniv (259032)",
+        "tanggal_lahir": "1975-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kalush, Ivano-Frankivsk Obvlast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

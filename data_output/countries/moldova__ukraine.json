@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Moldova  Ukraine",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dmitri Mandricenco (351616)",
+        "nama_panggilan": "Dmitri Mandricenco (351616)",
+        "tanggal_lahir": "1997-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiraspol",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Ukraine"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladyslav Baboglo (567873)",
+        "nama_panggilan": "Vladyslav Baboglo (567873)",
+        "tanggal_lahir": "1998-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ceadîr-Lunga",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Ukraine"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

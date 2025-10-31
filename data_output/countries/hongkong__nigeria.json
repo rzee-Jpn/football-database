@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hongkong  Nigeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Fok (212684)",
+        "nama_panggilan": "Brian Fok (212684)",
+        "tanggal_lahir": "1994-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaduna",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Nigeria"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Udebuluzor (912850)",
+        "nama_panggilan": "Michael Udebuluzor (912850)",
+        "tanggal_lahir": "2004-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hong Kong Island",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

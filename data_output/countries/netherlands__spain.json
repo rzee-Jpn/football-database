@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Spain",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian de Domingo-Hazewinkel (272811)",
+        "nama_panggilan": "Christian de Domingo-Hazewinkel (272811)",
+        "tanggal_lahir": "1995-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malaga",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emilio Priëto (410860)",
+        "nama_panggilan": "Emilio Priëto (410860)",
+        "tanggal_lahir": "1997-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enric Llansana (412945)",
+        "nama_panggilan": "Enric Llansana (412945)",
+        "tanggal_lahir": "2001-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cambrils",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafael van der Vaart (4192)",
+        "nama_panggilan": "Rafael van der Vaart (4192)",
+        "tanggal_lahir": "1983-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heemskerk",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hans Mulder (45562)",
+        "nama_panggilan": "Hans Mulder (45562)",
+        "tanggal_lahir": "1987-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jasper Huijzer (557411)",
+        "nama_panggilan": "Jasper Huijzer (557411)",
+        "tanggal_lahir": "2003-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Waspik",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mert Demirci (702445)",
+        "nama_panggilan": "Mert Demirci (702445)",
+        "tanggal_lahir": "2003-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nico Van Rijn (705700)",
+        "nama_panggilan": "Nico Van Rijn (705700)",
+        "tanggal_lahir": "2001-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaël Gil y Muiños (646674)",
+        "nama_panggilan": "Yaël Gil y Muiños (646674)",
+        "tanggal_lahir": "2004-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arnhem",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

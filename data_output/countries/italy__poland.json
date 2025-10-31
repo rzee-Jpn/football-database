@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Poland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Campaniello (1058369)",
+        "nama_panggilan": "Thomas Campaniello (1058369)",
+        "tanggal_lahir": "2008-02-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Certaldo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dario Del Fabro (110475)",
+        "nama_panggilan": "Dario Del Fabro (110475)",
+        "tanggal_lahir": "1995-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alghero",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pavel Patitucci (703792)",
+        "nama_panggilan": "Pavel Patitucci (703792)",
+        "tanggal_lahir": "2003-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trebisacce",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

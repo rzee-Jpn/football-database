@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Australia",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Graham (101658)",
+        "nama_panggilan": "Liam Graham (101658)",
+        "tanggal_lahir": "1992-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lachlan Bayliss (1109358)",
+        "nama_panggilan": "Lachlan Bayliss (1109358)",
+        "tanggal_lahir": "2002-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Bulkeley (1273523)",
+        "nama_panggilan": "James Bulkeley (1273523)",
+        "tanggal_lahir": "2005-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Napier",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Cartwright (1291443)",
+        "nama_panggilan": "Aaron Cartwright (1291443)",
+        "tanggal_lahir": "2008-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwabena Appiah-Kubi (230478)",
+        "nama_panggilan": "Kwabena Appiah-Kubi (230478)",
+        "tanggal_lahir": "1992-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Sail (290838)",
+        "nama_panggilan": "Oliver Sail (290838)",
+        "tanggal_lahir": "1996-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jai Ingham (307784)",
+        "nama_panggilan": "Jai Ingham (307784)",
+        "tanggal_lahir": "1993-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lismore",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrew Durante (43148)",
+        "nama_panggilan": "Andrew Durante (43148)",
+        "tanggal_lahir": "1982-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dane Ingham (485449)",
+        "nama_panggilan": "Dane Ingham (485449)",
+        "tanggal_lahir": "1999-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lismore",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Champness (539321)",
+        "nama_panggilan": "Joe Champness (539321)",
+        "tanggal_lahir": "1997-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Australia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

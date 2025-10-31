@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Poland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Morilla (1354629)",
+        "nama_panggilan": "David Morilla (1354629)",
+        "tanggal_lahir": "2007-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Málaga",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yarek Gasiorowski (895334)",
+        "nama_panggilan": "Yarek Gasiorowski (895334)",
+        "tanggal_lahir": "2005-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Polinyà del Xúquer",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

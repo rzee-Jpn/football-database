@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iraq  Norway",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Farji (663153)",
+        "nama_panggilan": "Marko Farji (663153)",
+        "tanggal_lahir": "2004-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grimstad",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  Norway"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

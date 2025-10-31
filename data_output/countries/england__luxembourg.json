@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Luxembourg",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Madjo (1226357)",
+        "nama_panggilan": "Brian Madjo (1226357)",
+        "tanggal_lahir": "2009-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enfield",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Luxembourg"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Gardner (61500)",
+        "nama_panggilan": "Scott Gardner (61500)",
+        "tanggal_lahir": "1988-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ettelbruck",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Luxembourg"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

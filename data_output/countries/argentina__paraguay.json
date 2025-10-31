@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Paraguay",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julio Soler (1009658)",
+        "nama_panggilan": "Julio Soler (1009658)",
+        "tanggal_lahir": "2005-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asunción",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Ordóñez (1043646)",
+        "nama_panggilan": "Christian Ordóñez (1043646)",
+        "tanggal_lahir": "2004-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moreno",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando Godoy (130452)",
+        "nama_panggilan": "Fernando Godoy (130452)",
+        "tanggal_lahir": "1990-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Fariña (125735)",
+        "nama_panggilan": "Luis Fariña (125735)",
+        "tanggal_lahir": "1991-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Villafañez (125918)",
+        "nama_panggilan": "Lucas Villafañez (125918)",
+        "tanggal_lahir": "1991-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Comodoro Rivadavia",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edilson Salinas (1160849)",
+        "nama_panggilan": "Edilson Salinas (1160849)",
+        "tanggal_lahir": "2002-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Luis",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franco Cristaldo (332259)",
+        "nama_panggilan": "Franco Cristaldo (332259)",
+        "tanggal_lahir": "1996-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morón",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Báez (376858)",
+        "nama_panggilan": "Gabriel Báez (376858)",
+        "tanggal_lahir": "1995-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillermo Benítez (421997)",
+        "nama_panggilan": "Guillermo Benítez (421997)",
+        "tanggal_lahir": "1993-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Equi Fernández (664708)",
+        "nama_panggilan": "Equi Fernández (664708)",
+        "tanggal_lahir": "2002-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Miguel",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Pérez (744416)",
+        "nama_panggilan": "Matías Pérez (744416)",
+        "tanggal_lahir": "1999-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Florencio Varela",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Román Pucheta (830478)",
+        "nama_panggilan": "Juan Román Pucheta (830478)",
+        "tanggal_lahir": "2002-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Merlo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gerardo Alegre Rojas (906627)",
+        "nama_panggilan": "Gerardo Alegre Rojas (906627)",
+        "tanggal_lahir": "1999-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Cuenca (866062)",
+        "nama_panggilan": "Cristian Cuenca (866062)",
+        "tanggal_lahir": "2001-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Paraguay"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

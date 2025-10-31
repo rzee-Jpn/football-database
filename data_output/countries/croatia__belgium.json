@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Bagadur (291856)",
+        "nama_panggilan": "Ricardo Bagadur (291856)",
+        "tanggal_lahir": "1995-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rijeka",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Belgium"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Sugar (42917)",
+        "nama_panggilan": "David Sugar (42917)",
+        "tanggal_lahir": "1989-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genk",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Belgium"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivica Mornar (9615)",
+        "nama_panggilan": "Ivica Mornar (9615)",
+        "tanggal_lahir": "1974-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Split",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

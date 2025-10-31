@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malta  England",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josh Pitts (1047986)",
+        "nama_panggilan": "Josh Pitts (1047986)",
+        "tanggal_lahir": "2007-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Portsmouth",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Guillaumier (309472)",
+        "nama_panggilan": "Matthew Guillaumier (309472)",
+        "tanggal_lahir": "1998-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sliema",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Muscatt (362091)",
+        "nama_panggilan": "Joe Muscatt (362091)",
+        "tanggal_lahir": "1997-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Brown (467540)",
+        "nama_panggilan": "James Brown (467540)",
+        "tanggal_lahir": "1998-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dover",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Carragher (733314)",
+        "nama_panggilan": "James Carragher (733314)",
+        "tanggal_lahir": "2002-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  England"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

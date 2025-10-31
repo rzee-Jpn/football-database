@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Guinea-Bissau",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maudo Jarjué (450462)",
+        "nama_panggilan": "Maudo Jarjué (450462)",
+        "tanggal_lahir": "1997-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Serrekunda",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Guinea-Bissau"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

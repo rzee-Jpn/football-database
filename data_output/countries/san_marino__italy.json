@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "San Marino  Italy",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Di Maio (164345)",
+        "nama_panggilan": "Roberto Di Maio (164345)",
+        "tanggal_lahir": "1982-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Napoli",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edoardo Colombo (463559)",
+        "nama_panggilan": "Edoardo Colombo (463559)",
+        "tanggal_lahir": "2001-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ravenna",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andy Selva (43877)",
+        "nama_panggilan": "Andy Selva (43877)",
+        "tanggal_lahir": "1976-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartolomeo Riggioni (935414)",
+        "nama_panggilan": "Bartolomeo Riggioni (935414)",
+        "tanggal_lahir": "2004-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pesaro",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giacomo Benvenuti (949273)",
+        "nama_panggilan": "Giacomo Benvenuti (949273)",
+        "tanggal_lahir": "2006-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommaso Benvenuti (949274)",
+        "nama_panggilan": "Tommaso Benvenuti (949274)",
+        "tanggal_lahir": "2006-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julian Pierini (927257)",
+        "nama_panggilan": "Julian Pierini (927257)",
+        "tanggal_lahir": "2005-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Fabbri (846477)",
+        "nama_panggilan": "Davide Fabbri (846477)",
+        "tanggal_lahir": "2003-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rimini",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino  Italy"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

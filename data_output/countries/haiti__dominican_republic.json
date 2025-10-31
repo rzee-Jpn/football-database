@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Haiti  Dominican Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Jean-Francois (1181892)",
+        "nama_panggilan": "Chris Jean-Francois (1181892)",
+        "tanggal_lahir": "2005-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Haiti  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

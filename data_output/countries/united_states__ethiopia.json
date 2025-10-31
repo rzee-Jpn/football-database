@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Ethiopia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nkosi Tafari (501877)",
+        "nama_panggilan": "Nkosi Tafari (501877)",
+        "tanggal_lahir": "1997-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manhattan, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Ethiopia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nati Clarke (830600)",
+        "nama_panggilan": "Nati Clarke (830600)",
+        "tanggal_lahir": "2005-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Addis Ababa",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Ethiopia"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

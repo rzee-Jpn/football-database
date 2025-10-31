@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  Sweden",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moutaz Neffati (1034598)",
+        "nama_panggilan": "Moutaz Neffati (1034598)",
+        "tanggal_lahir": "2004-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norrköping",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Sweden"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amor Layouni (208880)",
+        "nama_panggilan": "Amor Layouni (208880)",
+        "tanggal_lahir": "1992-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Falun",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Sweden"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rami Kaib (274373)",
+        "nama_panggilan": "Rami Kaib (274373)",
+        "tanggal_lahir": "1997-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nyköping",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Sweden"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Monir Jelassi (579854)",
+        "nama_panggilan": "Monir Jelassi (579854)",
+        "tanggal_lahir": "1999-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Sweden"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

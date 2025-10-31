@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Ecuador",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Hoyos (138387)",
+        "nama_panggilan": "Michael Hoyos (138387)",
+        "tanggal_lahir": "1991-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fountain Valley, California",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenzo Faravelli (181706)",
+        "nama_panggilan": "Lorenzo Faravelli (181706)",
+        "tanggal_lahir": "1993-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcos Mondaini (52907)",
+        "nama_panggilan": "Marcos Mondaini (52907)",
+        "tanggal_lahir": "1985-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roque Sáenz Peña",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrián Gabbarini (55920)",
+        "nama_panggilan": "Adrián Gabbarini (55920)",
+        "tanggal_lahir": "1985-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guaymallén",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Pellerano (55941)",
+        "nama_panggilan": "Cristian Pellerano (55941)",
+        "tanggal_lahir": "1982-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudio Bieler (63403)",
+        "nama_panggilan": "Claudio Bieler (63403)",
+        "tanggal_lahir": "1984-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vera",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ecuador"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Thailand  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Khemdee (656695)",
+        "nama_panggilan": "Jonathan Khemdee (656695)",
+        "tanggal_lahir": "2002-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Surin",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  Denmark"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

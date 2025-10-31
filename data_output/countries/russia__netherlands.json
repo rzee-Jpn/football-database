@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lion Kalentjev (454566)",
+        "nama_panggilan": "Lion Kalentjev (454566)",
+        "tanggal_lahir": "2000-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Netherlands"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dmitriy Shukov (4580)",
+        "nama_panggilan": "Dmitriy Shukov (4580)",
+        "tanggal_lahir": "1975-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuybyshev",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergey Temryukov (51935)",
+        "nama_panggilan": "Sergey Temryukov (51935)",
+        "tanggal_lahir": "1978-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yuzhno-Sakhalinsk",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Netherlands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

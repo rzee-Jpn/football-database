@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Tunisia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ferid Matri (147022)",
+        "nama_panggilan": "Ferid Matri (147022)",
+        "tanggal_lahir": "1994-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Tunisia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Khelifi (312011)",
+        "nama_panggilan": "Alexandre Khelifi (312011)",
+        "tanggal_lahir": "1994-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Tunisia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nassim Ben Khalifa (74288)",
+        "nama_panggilan": "Nassim Ben Khalifa (74288)",
+        "tanggal_lahir": "1992-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morges",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Tunisia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

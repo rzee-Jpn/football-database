@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Algeria  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdelhakim Laref (126193)",
+        "nama_panggilan": "Abdelhakim Laref (126193)",
+        "tanggal_lahir": "1985-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Relizane",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmed Touba (325924)",
+        "nama_panggilan": "Ahmed Touba (325924)",
+        "tanggal_lahir": "1998-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roubaix",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria  Belgium"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

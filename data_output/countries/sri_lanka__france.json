@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sri Lanka  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Sacayaradjy (1040925)",
+        "nama_panggilan": "Steven Sacayaradjy (1040925)",
+        "tanggal_lahir": "1997-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Sri Lanka"
+        },
+        "kewarganegaraan": [
+          "Sri Lanka  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Palestine  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmad Al-Qaq (1382225)",
+        "nama_panggilan": "Ahmad Al-Qaq (1382225)",
+        "tanggal_lahir": "2002-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hackensack, New Jersey",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

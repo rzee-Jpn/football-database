@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Oman",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Suhayb Al-Kharusi (1058989)",
+        "nama_panggilan": "Suhayb Al-Kharusi (1058989)",
+        "tanggal_lahir": "2006-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Oman"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zakaria Al-Wahibi (1260513)",
+        "nama_panggilan": "Zakaria Al-Wahibi (1260513)",
+        "tanggal_lahir": "2003-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "-",
+          "negara": "Oman"
+        },
+        "kewarganegaraan": [
+          "Oman"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdullah Al-Oraimi (226388)",
+        "nama_panggilan": "Abdullah Al-Oraimi (226388)",
+        "tanggal_lahir": "1991-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sur",
+          "negara": "Oman"
+        },
+        "kewarganegaraan": [
+          "Oman"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Al-Habsi (26633)",
+        "nama_panggilan": "Ali Al-Habsi (26633)",
+        "tanggal_lahir": "1981-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Muscat",
+          "negara": "Oman"
+        },
+        "kewarganegaraan": [
+          "Oman"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jameel Al-Yahmadi (498082)",
+        "nama_panggilan": "Jameel Al-Yahmadi (498082)",
+        "tanggal_lahir": "1996-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bawshar, Muscat",
+          "negara": "Oman"
+        },
+        "kewarganegaraan": [
+          "Oman"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

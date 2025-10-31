@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viana Seedorf (1123793)",
+        "nama_panggilan": "Viana Seedorf (1123793)",
+        "tanggal_lahir": "2007-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonardo (4378)",
+        "nama_panggilan": "Leonardo (4378)",
+        "tanggal_lahir": "1976-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Netherlands"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Camilo (672202)",
+        "nama_panggilan": "Camilo (672202)",
+        "tanggal_lahir": "1999-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mogi Mirim",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Netherlands"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

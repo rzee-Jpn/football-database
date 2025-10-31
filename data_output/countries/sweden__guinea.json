@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Guinea",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Youla (987318)",
+        "nama_panggilan": "Mohamed Youla (987318)",
+        "tanggal_lahir": "2001-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "---",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Guinea"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

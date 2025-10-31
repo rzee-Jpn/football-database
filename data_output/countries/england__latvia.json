@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Latvia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Douglass Lukjanciks (1045119)",
+        "nama_panggilan": "Douglass Lukjanciks (1045119)",
+        "tanggal_lahir": "2007-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Latvia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Legzdins (43858)",
+        "nama_panggilan": "Adam Legzdins (43858)",
+        "tanggal_lahir": "1986-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Penkridge",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Latvia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

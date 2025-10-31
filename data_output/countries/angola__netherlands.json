@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Angola  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geraldo Antonio (191836)",
+        "nama_panggilan": "Geraldo Antonio (191836)",
+        "tanggal_lahir": "1994-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kimbele",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Netherlands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gigli Ndefe (223035)",
+        "nama_panggilan": "Gigli Ndefe (223035)",
+        "tanggal_lahir": "1994-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Weert",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Netherlands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Christovao (253751)",
+        "nama_panggilan": "Alexander Christovao (253751)",
+        "tanggal_lahir": "1993-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Landana",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Netherlands"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

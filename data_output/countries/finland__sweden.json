@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Sweden",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Svanbäck (1018784)",
+        "nama_panggilan": "Adrian Svanbäck (1018784)",
+        "tanggal_lahir": "2004-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jakobstad",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Sweden"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Ståhl (223920)",
+        "nama_panggilan": "Adam Ståhl (223920)",
+        "tanggal_lahir": "1994-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borås",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Sweden"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tatu Varmanen (348824)",
+        "nama_panggilan": "Tatu Varmanen (348824)",
+        "tanggal_lahir": "1998-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sundbyberg",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Sweden"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonatan Johansson (3117)",
+        "nama_panggilan": "Jonatan Johansson (3117)",
+        "tanggal_lahir": "1975-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robin Tihi (579288)",
+        "nama_panggilan": "Robin Tihi (579288)",
+        "tanggal_lahir": "2002-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Danderyd",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Sweden"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

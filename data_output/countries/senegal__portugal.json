@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Portugal",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdoulaye Ba (106837)",
+        "nama_panggilan": "Abdoulaye Ba (106837)",
+        "tanggal_lahir": "1991-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Louis",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yves Baraye (193994)",
+        "nama_panggilan": "Yves Baraye (193994)",
+        "tanggal_lahir": "1992-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djibril (236807)",
+        "nama_panggilan": "Djibril (236807)",
+        "tanggal_lahir": "1990-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mouhamed Diop (205119)",
+        "nama_panggilan": "Mouhamed Diop (205119)",
+        "tanggal_lahir": "1988-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahima Faye (212982)",
+        "nama_panggilan": "Ibrahima Faye (212982)",
+        "tanggal_lahir": "1992-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oumar Diakhité (265136)",
+        "nama_panggilan": "Oumar Diakhité (265136)",
+        "tanggal_lahir": "1993-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kédougou",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ladji Keita (31003)",
+        "nama_panggilan": "Ladji Keita (31003)",
+        "tanggal_lahir": "1983-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Momo Mbaye (410226)",
+        "nama_panggilan": "Momo Mbaye (410226)",
+        "tanggal_lahir": "1997-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Gomis (48701)",
+        "nama_panggilan": "Marcel Gomis (48701)",
+        "tanggal_lahir": "1987-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdoulaye Name (62635)",
+        "nama_panggilan": "Abdoulaye Name (62635)",
+        "tanggal_lahir": "1982-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Portugal"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

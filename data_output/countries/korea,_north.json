@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Korea, North",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwang-ryong Pak (181882)",
+        "nama_panggilan": "Kwang-ryong Pak (181882)",
+        "tanggal_lahir": "1992-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pyongyang",
+          "negara": "Korea, North"
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Byong-jun An (258893)",
+        "nama_panggilan": "Byong-jun An (258893)",
+        "tanggal_lahir": "1990-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kokubunji, Tokyo",
+          "negara": "Korea, North"
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wi-Man Kim (312242)",
+        "nama_panggilan": "Wi-Man Kim (312242)",
+        "tanggal_lahir": "1979-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yong-gi Ryang (68381)",
+        "nama_panggilan": "Yong-gi Ryang (68381)",
+        "tanggal_lahir": "1982-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tadaoka, Osaka",
+          "negara": "Korea, North"
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yeong-hak Ahn (68382)",
+        "nama_panggilan": "Yeong-hak Ahn (68382)",
+        "tanggal_lahir": "1978-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kurashiki, Okayama",
+          "negara": "Korea, North"
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chong Tese (68574)",
+        "nama_panggilan": "Chong Tese (68574)",
+        "tanggal_lahir": "1984-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nagoya, Aichi",
+          "negara": "Korea, North"
+        },
+        "kewarganegaraan": [
+          "Korea, North"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Armenia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruce El-mesmari (703843)",
+        "nama_panggilan": "Bruce El-mesmari (703843)",
+        "tanggal_lahir": "2002-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cancún",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Armenia"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Nigeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdulqadir Ilyas (222557)",
+        "nama_panggilan": "Abdulqadir Ilyas (222557)",
+        "tanggal_lahir": "1989-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mecca",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yasser Essa (248726)",
+        "nama_panggilan": "Yasser Essa (248726)",
+        "tanggal_lahir": "1992-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "-",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

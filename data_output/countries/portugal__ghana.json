@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Ghana",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Asumah Abubakar (408438)",
+        "nama_panggilan": "Asumah Abubakar (408438)",
+        "tanggal_lahir": "1997-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Ghana"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

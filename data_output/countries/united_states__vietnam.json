@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Vietnam",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lee Nguyen (37604)",
+        "nama_panggilan": "Lee Nguyen (37604)",
+        "tanggal_lahir": "1986-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Richardson, Texas",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Vietnam"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tristan Trager (972920)",
+        "nama_panggilan": "Tristan Trager (972920)",
+        "tanggal_lahir": "1999-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Clemente, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Vietnam"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

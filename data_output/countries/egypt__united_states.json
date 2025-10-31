@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Egypt  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Farouz (1004253)",
+        "nama_panggilan": "Joseph Farouz (1004253)",
+        "tanggal_lahir": "2004-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Egypt  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amro Tarek (158997)",
+        "nama_panggilan": "Amro Tarek (158997)",
+        "tanggal_lahir": "1992-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Los Angeles, California",
+          "negara": "Egypt"
+        },
+        "kewarganegaraan": [
+          "Egypt  United States"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdellatif Aboukoura (889423)",
+        "nama_panggilan": "Abdellatif Aboukoura (889423)",
+        "tanggal_lahir": "2004-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fairfax, Virginia",
+          "negara": "Egypt"
+        },
+        "kewarganegaraan": [
+          "Egypt  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albert Rrahmani (1198211)",
+        "nama_panggilan": "Albert Rrahmani (1198211)",
+        "tanggal_lahir": "2007-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sønderborg",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Denmark"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

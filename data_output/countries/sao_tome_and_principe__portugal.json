@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sao Tome and Principe  Portugal",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luís Leal (158419)",
+        "nama_panggilan": "Luís Leal (158419)",
+        "tanggal_lahir": "1987-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arrentela",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nuno Malheiro (182719)",
+        "nama_panggilan": "Nuno Malheiro (182719)",
+        "tanggal_lahir": "1994-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cascais",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jony Ramos (206392)",
+        "nama_panggilan": "Jony Ramos (206392)",
+        "tanggal_lahir": "1986-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lisboa",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Harramiz (280410)",
+        "nama_panggilan": "Harramiz (280410)",
+        "tanggal_lahir": "1990-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Tomé",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jardel Nazaré (364412)",
+        "nama_panggilan": "Jardel Nazaré (364412)",
+        "tanggal_lahir": "1995-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Tomé",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Mateus (606038)",
+        "nama_panggilan": "Pedro Mateus (606038)",
+        "tanggal_lahir": "1996-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Funchal",
+          "negara": "Sao Tome and Principe"
+        },
+        "kewarganegaraan": [
+          "Sao Tome and Principe  Portugal"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

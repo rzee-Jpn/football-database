@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Czech Republic  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Kubr (1022997)",
+        "nama_panggilan": "Lucas Kubr (1022997)",
+        "tanggal_lahir": "2004-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tongeren",
+          "negara": "Czech Republic"
+        },
+        "kewarganegaraan": [
+          "Czech Republic  Belgium"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

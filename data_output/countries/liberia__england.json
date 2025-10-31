@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia  England",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Nimely (121410)",
+        "nama_panggilan": "Alex Nimely (121410)",
+        "tanggal_lahir": "1991-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mo Sangare (505198)",
+        "nama_panggilan": "Mo Sangare (505198)",
+        "tanggal_lahir": "1998-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faisu Sangare (614604)",
+        "nama_panggilan": "Faisu Sangare (614604)",
+        "tanggal_lahir": "2002-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nohan Kenneh (581677)",
+        "nama_panggilan": "Nohan Kenneh (581677)",
+        "tanggal_lahir": "2003-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zwedru",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

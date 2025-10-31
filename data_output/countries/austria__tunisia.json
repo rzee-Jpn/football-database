@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Tunisia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seifedin Chabbi (106862)",
+        "nama_panggilan": "Seifedin Chabbi (106862)",
+        "tanggal_lahir": "1993-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bludenz",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Tunisia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

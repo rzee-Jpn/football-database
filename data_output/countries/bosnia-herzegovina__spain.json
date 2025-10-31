@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Kodro (197126)",
+        "nama_panggilan": "Kenan Kodro (197126)",
+        "tanggal_lahir": "1993-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Donostia-San Sebastián",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Spain"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nick Salihamidzic (604325)",
+        "nama_panggilan": "Nick Salihamidzic (604325)",
+        "tanggal_lahir": "2003-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

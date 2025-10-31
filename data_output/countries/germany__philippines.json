@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Philippines",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cameron Royo (600193)",
+        "nama_panggilan": "Cameron Royo (600193)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Philippines"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca de Meester (795764)",
+        "nama_panggilan": "Luca de Meester (795764)",
+        "tanggal_lahir": "2004-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hennef (Sieg)",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Philippines"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Justin von der Hitz (944335)",
+        "nama_panggilan": "Justin von der Hitz (944335)",
+        "tanggal_lahir": "2006-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bensberg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Philippines"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

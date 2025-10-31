@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Malta",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Sant (1091159)",
+        "nama_panggilan": "Lucas Sant (1091159)",
+        "tanggal_lahir": "2006-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stoke-on-Trent",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malta"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Borg (338904)",
+        "nama_panggilan": "Oscar Borg (338904)",
+        "tanggal_lahir": "1997-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malta"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jamie Carragher (3597)",
+        "nama_panggilan": "Jamie Carragher (3597)",
+        "tanggal_lahir": "1978-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bootle",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malta"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jack Turner (646519)",
+        "nama_panggilan": "Jack Turner (646519)",
+        "tanggal_lahir": "2002-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Portsmouth",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malta"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

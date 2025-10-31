@@ -1,0 +1,653 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Germany",
+  "total_pemain": 19,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Panagiotis Triadis (133668)",
+        "nama_panggilan": "Panagiotis Triadis (133668)",
+        "tanggal_lahir": "1992-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herdecke",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Achilles Zampos (1376)",
+        "nama_panggilan": "Achilles Zampos (1376)",
+        "tanggal_lahir": "1981-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Odysseas Vlachodimos (124419)",
+        "nama_panggilan": "Odysseas Vlachodimos (124419)",
+        "tanggal_lahir": "1994-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ioannis Gelios (156676)",
+        "nama_panggilan": "Ioannis Gelios (156676)",
+        "tanggal_lahir": "1992-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Augsburg",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikolaos Melissas (199179)",
+        "nama_panggilan": "Nikolaos Melissas (199179)",
+        "tanggal_lahir": "1993-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leverkusen",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vasilios Baxevanos (206628)",
+        "nama_panggilan": "Vasilios Baxevanos (206628)",
+        "tanggal_lahir": "1993-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aalen",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Margaritis Kasseris (240092)",
+        "nama_panggilan": "Margaritis Kasseris (240092)",
+        "tanggal_lahir": "1992-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgios Spanoudakis (251348)",
+        "nama_panggilan": "Georgios Spanoudakis (251348)",
+        "tanggal_lahir": "1998-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Giannitsa",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Vasiliadis (333516)",
+        "nama_panggilan": "Sebastian Vasiliadis (333516)",
+        "tanggal_lahir": "1997-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auenwald",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charalampos Chantzopoulos (335603)",
+        "nama_panggilan": "Charalampos Chantzopoulos (335603)",
+        "tanggal_lahir": "1994-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielefeld",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Panagiotis Karastergios (388050)",
+        "nama_panggilan": "Panagiotis Karastergios (388050)",
+        "tanggal_lahir": "1999-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jose Cholevas (41112)",
+        "nama_panggilan": "Jose Cholevas (41112)",
+        "tanggal_lahir": "1984-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aschaffenburg",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giannis Kiakos (451311)",
+        "nama_panggilan": "Giannis Kiakos (451311)",
+        "tanggal_lahir": "1998-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamberg",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filippos Selkos (521323)",
+        "nama_panggilan": "Filippos Selkos (521323)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Castrop-Rauxel",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dimitrios Grammozis (7)",
+        "nama_panggilan": "Dimitrios Grammozis (7)",
+        "tanggal_lahir": "1978-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wuppertal",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jannis Boziaris (815030)",
+        "nama_panggilan": "Jannis Boziaris (815030)",
+        "tanggal_lahir": "2003-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karlsruhe",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thanos Petsos (82110)",
+        "nama_panggilan": "Thanos Petsos (82110)",
+        "tanggal_lahir": "1991-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aziz Retzep (93978)",
+        "nama_panggilan": "Aziz Retzep (93978)",
+        "tanggal_lahir": "1992-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Panagiotis Vlachodimos (83700)",
+        "nama_panggilan": "Panagiotis Vlachodimos (83700)",
+        "tanggal_lahir": "1991-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

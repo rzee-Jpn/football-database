@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Afghanistan",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Kazimi (335636)",
+        "nama_panggilan": "Ali Kazimi (335636)",
+        "tanggal_lahir": "1997-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groß-Gerau",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Afghanistan"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noel Niemann (519414)",
+        "nama_panggilan": "Noel Niemann (519414)",
+        "tanggal_lahir": "1999-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Afghanistan"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mudaser Sadat (920337)",
+        "nama_panggilan": "Mudaser Sadat (920337)",
+        "tanggal_lahir": "2007-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Afghanistan"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

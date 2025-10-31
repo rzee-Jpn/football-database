@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Lebanon",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Zaher (1268706)",
+        "nama_panggilan": "Ali Zaher (1268706)",
+        "tanggal_lahir": "2006-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sharbel Touma (25775)",
+        "nama_panggilan": "Sharbel Touma (25775)",
+        "tanggal_lahir": "1979-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beirut",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eddie Moussa (27333)",
+        "nama_panggilan": "Eddie Moussa (27333)",
+        "tanggal_lahir": "1984-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charbel Georges (250533)",
+        "nama_panggilan": "Charbel Georges (250533)",
+        "tanggal_lahir": "1993-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rami Al Hajj (593415)",
+        "nama_panggilan": "Rami Al Hajj (593415)",
+        "tanggal_lahir": "2001-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beirut",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssef Fayad (831307)",
+        "nama_panggilan": "Youssef Fayad (831307)",
+        "tanggal_lahir": "2001-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Lebanon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

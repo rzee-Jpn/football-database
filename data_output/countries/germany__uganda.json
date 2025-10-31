@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Uganda",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Savio Nsereko (43100)",
+        "nama_panggilan": "Savio Nsereko (43100)",
+        "tanggal_lahir": "1989-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kampala",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Uganda"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

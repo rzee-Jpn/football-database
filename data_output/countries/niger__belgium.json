@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Niger  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zakari Junior Lambo (575793)",
+        "nama_panggilan": "Zakari Junior Lambo (575793)",
+        "tanggal_lahir": "1999-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aalst",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naïm Van Attenhoven (632082)",
+        "nama_panggilan": "Naïm Van Attenhoven (632082)",
+        "tanggal_lahir": "2003-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leuven",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  Belgium"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

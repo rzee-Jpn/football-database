@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guatemala  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gerardo Gordillo (292715)",
+        "nama_panggilan": "Gerardo Gordillo (292715)",
+        "tanggal_lahir": "1994-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nueva Guatemala de la Asunción",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  Italy"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Aguirre (787871)",
+        "nama_panggilan": "José Aguirre (787871)",
+        "tanggal_lahir": "2003-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nueva Guatemala de la Asunción",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

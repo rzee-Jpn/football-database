@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cape Verde  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jerin Ramos (522200)",
+        "nama_panggilan": "Jerin Ramos (522200)",
+        "tanggal_lahir": "1996-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Cape Verde"
+        },
+        "kewarganegaraan": [
+          "Cape Verde  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valdo (7528)",
+        "nama_panggilan": "Valdo (7528)",
+        "tanggal_lahir": "1981-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villablino",
+          "negara": "Cape Verde"
+        },
+        "kewarganegaraan": [
+          "Cape Verde  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

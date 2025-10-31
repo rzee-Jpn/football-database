@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Iraq",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Majbel Fartous (150697)",
+        "nama_panggilan": "Ali Majbel Fartous (150697)",
+        "tanggal_lahir": "1982-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Qatar  Iraq"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Waad (481935)",
+        "nama_panggilan": "Mohammed Waad (481935)",
+        "tanggal_lahir": "1999-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "---, Baghdad",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iraq"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmed Suhail (561030)",
+        "nama_panggilan": "Ahmed Suhail (561030)",
+        "tanggal_lahir": "1999-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "---, Kurdistan",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iraq"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rami Suhail (752777)",
+        "nama_panggilan": "Rami Suhail (752777)",
+        "tanggal_lahir": "2000-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "---, Kurdistan",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iraq"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

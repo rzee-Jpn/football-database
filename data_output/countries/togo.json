@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cheriffe Maman-Touré (13369)",
+        "nama_panggilan": "Cheriffe Maman-Touré (13369)",
+        "tanggal_lahir": "1978-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mango",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lalawélé Atakora (126294)",
+        "nama_panggilan": "Lalawélé Atakora (126294)",
+        "tanggal_lahir": "1990-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zanzan Atte-Oudeyi (13003)",
+        "nama_panggilan": "Zanzan Atte-Oudeyi (13003)",
+        "tanggal_lahir": "1980-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gerald Donegà (1301506)",
+        "nama_panggilan": "Gerald Donegà (1301506)",
+        "tanggal_lahir": "2008-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdel Akim Ouro-Agrignan (1238082)",
+        "nama_panggilan": "Abdel Akim Ouro-Agrignan (1238082)",
+        "tanggal_lahir": "2005-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustapha Salifou (1778)",
+        "nama_panggilan": "Moustapha Salifou (1778)",
+        "tanggal_lahir": "1983-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dakonam Djené (221150)",
+        "nama_panggilan": "Dakonam Djené (221150)",
+        "tanggal_lahir": "1991-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lome Dapaong",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Amegnaglo (236840)",
+        "nama_panggilan": "Thomas Amegnaglo (236840)",
+        "tanggal_lahir": "1991-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aflao",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claude Koutob (341644)",
+        "nama_panggilan": "Claude Koutob (341644)",
+        "tanggal_lahir": "1995-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tchalo",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fare Ouadja (37790)",
+        "nama_panggilan": "Fare Ouadja (37790)",
+        "tanggal_lahir": "1984-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kodjovi Obilale (40011)",
+        "nama_panggilan": "Kodjovi Obilale (40011)",
+        "tanggal_lahir": "1984-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Massamasso Tchangai (40016)",
+        "nama_panggilan": "Massamasso Tchangai (40016)",
+        "tanggal_lahir": "1978-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Atakpamé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hakim Ouro-Sama (481166)",
+        "nama_panggilan": "Hakim Ouro-Sama (481166)",
+        "tanggal_lahir": "1997-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Agbodrafo",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Kader (4823)",
+        "nama_panggilan": "Mohamed Kader (4823)",
+        "tanggal_lahir": "1979-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokodé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Coubageat (4847)",
+        "nama_panggilan": "Mohamed Coubageat (4847)",
+        "tanggal_lahir": "1982-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillaume Yenoussi (497825)",
+        "nama_panggilan": "Guillaume Yenoussi (497825)",
+        "tanggal_lahir": "1997-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thibault Klidjé (575610)",
+        "nama_panggilan": "Thibault Klidjé (575610)",
+        "tanggal_lahir": "2001-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hahotoe",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Issa Ouro Agouda (743281)",
+        "nama_panggilan": "Issa Ouro Agouda (743281)",
+        "tanggal_lahir": "2002-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shalom Dutey (770497)",
+        "nama_panggilan": "Shalom Dutey (770497)",
+        "tanggal_lahir": "1998-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josué Doké (823768)",
+        "nama_panggilan": "Josué Doké (823768)",
+        "tanggal_lahir": "2004-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dermane Karim (969447)",
+        "nama_panggilan": "Dermane Karim (969447)",
+        "tanggal_lahir": "2003-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokodé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

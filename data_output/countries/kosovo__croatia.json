@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Croatia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Veldin Hodza (619279)",
+        "nama_panggilan": "Veldin Hodza (619279)",
+        "tanggal_lahir": "2002-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rijeka",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Croatia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Art Smakaj (943160)",
+        "nama_panggilan": "Art Smakaj (943160)",
+        "tanggal_lahir": "2003-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zagreb",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Croatia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

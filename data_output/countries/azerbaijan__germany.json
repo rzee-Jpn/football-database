@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Azerbaijan  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rufat Dadashov (157478)",
+        "nama_panggilan": "Rufat Dadashov (157478)",
+        "tanggal_lahir": "1991-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baku",
+          "negara": "Azerbaijan"
+        },
+        "kewarganegaraan": [
+          "Azerbaijan  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renat Dadashov (335461)",
+        "nama_panggilan": "Renat Dadashov (335461)",
+        "tanggal_lahir": "1999-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rüdesheim",
+          "negara": "Azerbaijan"
+        },
+        "kewarganegaraan": [
+          "Azerbaijan  Germany"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

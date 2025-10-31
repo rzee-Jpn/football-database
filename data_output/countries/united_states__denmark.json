@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Denmark",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anton Peterlin (110184)",
+        "nama_panggilan": "Anton Peterlin (110184)",
+        "tanggal_lahir": "1987-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Francisco, Kalifornien",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Denmark"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristoffer Lund (623773)",
+        "nama_panggilan": "Kristoffer Lund (623773)",
+        "tanggal_lahir": "2002-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kerteminde",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Denmark"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

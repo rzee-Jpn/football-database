@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Denmark",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Gartenmann (243770)",
+        "nama_panggilan": "Stefan Gartenmann (243770)",
+        "tanggal_lahir": "1997-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roskilde",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Denmark"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niklas Sörensen (925738)",
+        "nama_panggilan": "Niklas Sörensen (925738)",
+        "tanggal_lahir": "2004-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Denmark"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mali  Canada",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Cisset (1248846)",
+        "nama_panggilan": "Mohamed Cisset (1248846)",
+        "tanggal_lahir": "2004-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal, Quebec",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Canada"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aboubacar Sissoko (730445)",
+        "nama_panggilan": "Aboubacar Sissoko (730445)",
+        "tanggal_lahir": "1995-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Canada"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

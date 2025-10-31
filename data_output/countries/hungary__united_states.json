@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Barnabás Tanyi (875623)",
+        "nama_panggilan": "Barnabás Tanyi (875623)",
+        "tanggal_lahir": "2003-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Debrecen",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  United States"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benedek Tanyi (862197)",
+        "nama_panggilan": "Benedek Tanyi (862197)",
+        "tanggal_lahir": "2001-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Debrecen",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

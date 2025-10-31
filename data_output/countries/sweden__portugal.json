@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elliot Nunes (1347010)",
+        "nama_panggilan": "Elliot Nunes (1347010)",
+        "tanggal_lahir": "2007-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonardo Oliveira (957736)",
+        "nama_panggilan": "Leonardo Oliveira (957736)",
+        "tanggal_lahir": "2005-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porto",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Portugal"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Venezuela  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oswaldo Vizcarrondo (55237)",
+        "nama_panggilan": "Oswaldo Vizcarrondo (55237)",
+        "tanggal_lahir": "1984-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caracas",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  France"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

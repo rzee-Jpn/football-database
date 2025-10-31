@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Jordan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Gür (185908)",
+        "nama_panggilan": "Hamza Gür (185908)",
+        "tanggal_lahir": "1994-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amman",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Jordan"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

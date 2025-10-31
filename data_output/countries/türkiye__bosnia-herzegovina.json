@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Bosnia-Herzegovina",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Karışık (190900)",
+        "nama_panggilan": "Kenan Karışık (190900)",
+        "tanggal_lahir": "1987-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sjenica",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ediz Bahtiyaroğlu (44997)",
+        "nama_panggilan": "Ediz Bahtiyaroğlu (44997)",
+        "tanggal_lahir": "1986-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bursa",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fadıl Koşutan (68244)",
+        "nama_panggilan": "Fadıl Koşutan (68244)",
+        "tanggal_lahir": "1974-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

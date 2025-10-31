@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Syria  Türkiye",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sanharib Malki (20351)",
+        "nama_panggilan": "Sanharib Malki (20351)",
+        "tanggal_lahir": "1984-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Qamischli",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Türkiye"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fhed Al-Shlash (656272)",
+        "nama_panggilan": "Fhed Al-Shlash (656272)",
+        "tanggal_lahir": "2002-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deir ez-Zor",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Türkiye"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

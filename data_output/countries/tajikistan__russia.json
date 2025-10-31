@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tajikistan  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleg Baklov (338908)",
+        "nama_panggilan": "Oleg Baklov (338908)",
+        "tanggal_lahir": "1994-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Taboshar",
+          "negara": "Tajikistan"
+        },
+        "kewarganegaraan": [
+          "Tajikistan  Russia"
+        ],
+        "tinggi_badan_cm": "201.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rustam Yatimov (424022)",
+        "nama_panggilan": "Rustam Yatimov (424022)",
+        "tanggal_lahir": "1998-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nizhniy Novgorod",
+          "negara": "Tajikistan"
+        },
+        "kewarganegaraan": [
+          "Tajikistan  Russia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

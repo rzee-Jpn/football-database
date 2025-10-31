@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Rwanda  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxime Wenssens (570819)",
+        "nama_panggilan": "Maxime Wenssens (570819)",
+        "tanggal_lahir": "2001-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uccle",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda  Belgium"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Gueulette (705416)",
+        "nama_panggilan": "Samuel Gueulette (705416)",
+        "tanggal_lahir": "2000-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigali",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hakim Sahabo (990731)",
+        "nama_panggilan": "Hakim Sahabo (990731)",
+        "tanggal_lahir": "2005-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda  Belgium"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

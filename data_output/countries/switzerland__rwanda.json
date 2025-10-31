@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Rwanda",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Bigirimana (923028)",
+        "nama_panggilan": "Hugo Bigirimana (923028)",
+        "tanggal_lahir": "2005-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Rwanda"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

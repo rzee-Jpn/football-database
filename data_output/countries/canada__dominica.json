@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Dominica",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manjrekar James (222686)",
+        "nama_panggilan": "Manjrekar James (222686)",
+        "tanggal_lahir": "1993-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roseau",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Dominica"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

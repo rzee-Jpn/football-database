@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Portugal",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bosson Romaric (117625)",
+        "nama_panggilan": "Bosson Romaric (117625)",
+        "tanggal_lahir": "1988-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Goba Zakpa (352916)",
+        "nama_panggilan": "Goba Zakpa (352916)",
+        "tanggal_lahir": "1992-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Portugal"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Cissé (325175)",
+        "nama_panggilan": "Isaac Cissé (325175)",
+        "tanggal_lahir": "1994-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Portugal"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Siriki Camará (541823)",
+        "nama_panggilan": "Siriki Camará (541823)",
+        "tanggal_lahir": "1993-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Vouho (58692)",
+        "nama_panggilan": "Patrick Vouho (58692)",
+        "tanggal_lahir": "1987-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seguela",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Portugal"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  South Africa",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremy Brockie (43134)",
+        "nama_panggilan": "Jeremy Brockie (43134)",
+        "tanggal_lahir": "1987-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Christchurch",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  South Africa"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

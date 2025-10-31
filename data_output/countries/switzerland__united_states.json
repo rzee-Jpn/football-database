@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  United States",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicholas Ammeter (387984)",
+        "nama_panggilan": "Nicholas Ammeter (387984)",
+        "tanggal_lahir": "2000-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yannick Scheidegger (500757)",
+        "nama_panggilan": "Yannick Scheidegger (500757)",
+        "tanggal_lahir": "2001-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palo Alto, California",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  United States"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Etnik Nezaj (525070)",
+        "nama_panggilan": "Etnik Nezaj (525070)",
+        "tanggal_lahir": "1999-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  United States"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Okoh (539795)",
+        "nama_panggilan": "Bryan Okoh (539795)",
+        "tanggal_lahir": "2003-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Houston, Texas",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yusupha Touray (765506)",
+        "nama_panggilan": "Yusupha Touray (765506)",
+        "tanggal_lahir": "2007-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

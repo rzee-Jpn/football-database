@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Cameroon",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karlson Nwanege (1062513)",
+        "nama_panggilan": "Karlson Nwanege (1062513)",
+        "tanggal_lahir": "2005-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiko",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Cameroon"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Elanga (583189)",
+        "nama_panggilan": "Anthony Elanga (583189)",
+        "tanggal_lahir": "2002-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hyllie",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Cameroon"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darrell Tibell (867676)",
+        "nama_panggilan": "Darrell Tibell (867676)",
+        "tanggal_lahir": "2002-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Umeå",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Cameroon"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

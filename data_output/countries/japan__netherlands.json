@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sai van Wermeskerken (172779)",
+        "nama_panggilan": "Sai van Wermeskerken (172779)",
+        "tanggal_lahir": "1994-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maastricht",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

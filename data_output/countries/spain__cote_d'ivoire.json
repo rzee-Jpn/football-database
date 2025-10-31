@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Cote d'Ivoire",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Izan Coulibaly (1313276)",
+        "nama_panggilan": "Izan Coulibaly (1313276)",
+        "tanggal_lahir": "2006-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Málaga",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Touré Diawara (388562)",
+        "nama_panggilan": "Mamadou Touré Diawara (388562)",
+        "tanggal_lahir": "2000-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granollers",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Landry Farré (938148)",
+        "nama_panggilan": "Landry Farré (938148)",
+        "tanggal_lahir": "2007-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

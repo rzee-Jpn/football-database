@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Bosnia-Herzegovina",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Secouba Diatta (214929)",
+        "nama_panggilan": "Secouba Diatta (214929)",
+        "tanggal_lahir": "1992-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boubacar Dialiba (46286)",
+        "nama_panggilan": "Boubacar Dialiba (46286)",
+        "tanggal_lahir": "1988-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

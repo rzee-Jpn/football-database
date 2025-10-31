@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dren Dobruna (903219)",
+        "nama_panggilan": "Dren Dobruna (903219)",
+        "tanggal_lahir": "2005-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Waterbury, Connecticut",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

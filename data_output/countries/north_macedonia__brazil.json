@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "North Macedonia  Brazil",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Braga (19010)",
+        "nama_panggilan": "Braga (19010)",
+        "tanggal_lahir": "1974-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moeda",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Brazil"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Poland",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yevgen Radionov (259064)",
+        "nama_panggilan": "Yevgen Radionov (259064)",
+        "tanggal_lahir": "1990-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Ukraine  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andriy Protsyk (383206)",
+        "nama_panggilan": "Andriy Protsyk (383206)",
+        "tanggal_lahir": "1989-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lviv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mykhaylo Kaznokha (451854)",
+        "nama_panggilan": "Mykhaylo Kaznokha (451854)",
+        "tanggal_lahir": "1989-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dnipropetrovsk",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleksandr Shevelyukhin (59133)",
+        "nama_panggilan": "Oleksandr Shevelyukhin (59133)",
+        "tanggal_lahir": "1982-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kozyn, Kiew Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artem Putivtsev (59434)",
+        "nama_panggilan": "Artem Putivtsev (59434)",
+        "tanggal_lahir": "1988-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kharkiv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

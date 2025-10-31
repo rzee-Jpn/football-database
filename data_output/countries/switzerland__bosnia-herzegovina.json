@@ -1,0 +1,925 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Bosnia-Herzegovina",
+  "total_pemain": 27,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Seferovic (109256)",
+        "nama_panggilan": "Haris Seferovic (109256)",
+        "tanggal_lahir": "1992-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sursee",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Serif Berbic (135471)",
+        "nama_panggilan": "Serif Berbic (135471)",
+        "tanggal_lahir": "2001-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uznach",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Alesevic (183015)",
+        "nama_panggilan": "Armin Alesevic (183015)",
+        "tanggal_lahir": "1994-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glarus",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adijan Keranovic (184203)",
+        "nama_panggilan": "Adijan Keranovic (184203)",
+        "tanggal_lahir": "1992-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarau",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Bilibani (19187)",
+        "nama_panggilan": "Admir Bilibani (19187)",
+        "tanggal_lahir": "1979-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Kozarac (19677)",
+        "nama_panggilan": "Samir Kozarac (19677)",
+        "tanggal_lahir": "1981-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kljuc",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Seferagic (172996)",
+        "nama_panggilan": "Admir Seferagic (172996)",
+        "tanggal_lahir": "1994-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tirol",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Goran Antic (18243)",
+        "nama_panggilan": "Goran Antic (18243)",
+        "tanggal_lahir": "1985-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarau",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omer Dzonlagic (260163)",
+        "nama_panggilan": "Omer Dzonlagic (260163)",
+        "tanggal_lahir": "1995-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Meiringen",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eldin Jakupović (2857)",
+        "nama_panggilan": "Eldin Jakupović (2857)",
+        "tanggal_lahir": "1984-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kozarac",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Samardzic (290034)",
+        "nama_panggilan": "Haris Samardzic (290034)",
+        "tanggal_lahir": "1998-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Winterthur",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anel Husic (365107)",
+        "nama_panggilan": "Anel Husic (365107)",
+        "tanggal_lahir": "2001-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yverdon-les-Bains",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Kozarac (410881)",
+        "nama_panggilan": "Kenan Kozarac (410881)",
+        "tanggal_lahir": "1999-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nedim Omeragic (421791)",
+        "nama_panggilan": "Nedim Omeragic (421791)",
+        "tanggal_lahir": "1999-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genf",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Safet Alic (443424)",
+        "nama_panggilan": "Safet Alic (443424)",
+        "tanggal_lahir": "1999-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuchâtel",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzenan Talic (491180)",
+        "nama_panggilan": "Dzenan Talic (491180)",
+        "tanggal_lahir": "1999-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chur",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Becir Omeragic (507344)",
+        "nama_panggilan": "Becir Omeragic (507344)",
+        "tanggal_lahir": "2002-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genf",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sadin Crnovrsanin (620835)",
+        "nama_panggilan": "Sadin Crnovrsanin (620835)",
+        "tanggal_lahir": "2002-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bern",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sascha Studer (62114)",
+        "nama_panggilan": "Sascha Studer (62114)",
+        "tanggal_lahir": "1991-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kappel",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miodrag Mitrović (64629)",
+        "nama_panggilan": "Miodrag Mitrović (64629)",
+        "tanggal_lahir": "1991-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bellinzona",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ermin Alic (65218)",
+        "nama_panggilan": "Ermin Alic (65218)",
+        "tanggal_lahir": "1989-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hrncici",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "René Borkovic (66011)",
+        "nama_panggilan": "René Borkovic (66011)",
+        "tanggal_lahir": "1991-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Männedorf",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elmedin Avdic (661900)",
+        "nama_panggilan": "Elmedin Avdic (661900)",
+        "tanggal_lahir": "2002-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emir Sinanovic (78876)",
+        "nama_panggilan": "Emir Sinanovic (78876)",
+        "tanggal_lahir": "1988-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brcko",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bozidar Vukovic (788767)",
+        "nama_panggilan": "Bozidar Vukovic (788767)",
+        "tanggal_lahir": "2002-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morges",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Kozarac (932172)",
+        "nama_panggilan": "Haris Kozarac (932172)",
+        "tanggal_lahir": "2006-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Gocic (886481)",
+        "nama_panggilan": "David Gocic (886481)",
+        "tanggal_lahir": "2003-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bellinzona",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea-Bissau  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronaldo Vieira (434676)",
+        "nama_panggilan": "Ronaldo Vieira (434676)",
+        "tanggal_lahir": "1998-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bissau",
+          "negara": "Guinea-Bissau"
+        },
+        "kewarganegaraan": [
+          "Guinea-Bissau  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Quitirna (696229)",
+        "nama_panggilan": "Armando Quitirna (696229)",
+        "tanggal_lahir": "2000-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Guinea-Bissau  England"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

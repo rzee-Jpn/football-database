@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wil Trapp (199559)",
+        "nama_panggilan": "Wil Trapp (199559)",
+        "tanggal_lahir": "1993-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gahanna, Ohio",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Greece"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Vagenas (39496)",
+        "nama_panggilan": "Peter Vagenas (39496)",
+        "tanggal_lahir": "1978-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pasadena, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Greece"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

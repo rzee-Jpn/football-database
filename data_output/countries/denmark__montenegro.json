@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Montenegro",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Racic (345587)",
+        "nama_panggilan": "Luka Racic (345587)",
+        "tanggal_lahir": "1999-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Greve",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Montenegro"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mileta Rajović (525919)",
+        "nama_panggilan": "Mileta Rajović (525919)",
+        "tanggal_lahir": "1999-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ballerup",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Montenegro"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

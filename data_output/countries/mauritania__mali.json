@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mauritania  Mali",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahima Keita (995279)",
+        "nama_panggilan": "Ibrahima Keita (995279)",
+        "tanggal_lahir": "2001-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania  Mali"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

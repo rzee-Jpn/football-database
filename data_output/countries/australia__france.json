@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  France",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Genreau (470618)",
+        "nama_panggilan": "Denis Genreau (470618)",
+        "tanggal_lahir": "1999-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Rich-Baghuelou (580767)",
+        "nama_panggilan": "Jay Rich-Baghuelou (580767)",
+        "tanggal_lahir": "1999-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cameron Peupion (703626)",
+        "nama_panggilan": "Cameron Peupion (703626)",
+        "tanggal_lahir": "2002-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luke DeVere (80716)",
+        "nama_panggilan": "Luke DeVere (80716)",
+        "tanggal_lahir": "1989-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Roche (8815)",
+        "nama_panggilan": "Anthony Roche (8815)",
+        "tanggal_lahir": "1976-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brisbane",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Balard (849428)",
+        "nama_panggilan": "Max Balard (849428)",
+        "tanggal_lahir": "2000-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

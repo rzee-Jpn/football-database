@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Niger  France",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zakariya Souleymane (326040)",
+        "nama_panggilan": "Zakariya Souleymane (326040)",
+        "tanggal_lahir": "1994-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Délis Ahou (57335)",
+        "nama_panggilan": "Délis Ahou (57335)",
+        "tanggal_lahir": "1984-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Niamey",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  France"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Philippe Boueye (802988)",
+        "nama_panggilan": "Philippe Boueye (802988)",
+        "tanggal_lahir": "2003-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Niger  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Baradji (877232)",
+        "nama_panggilan": "Ibrahim Baradji (877232)",
+        "tanggal_lahir": "1995-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montivilliers",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

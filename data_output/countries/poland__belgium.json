@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olaf Kozlowski (1064214)",
+        "nama_panggilan": "Olaf Kozlowski (1064214)",
+        "tanggal_lahir": "2005-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Belgium"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Kostyrka (384657)",
+        "nama_panggilan": "Jakub Kostyrka (384657)",
+        "tanggal_lahir": "1998-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kwidzyn",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Belgium"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Walicki (819881)",
+        "nama_panggilan": "Patryk Walicki (819881)",
+        "tanggal_lahir": "2003-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

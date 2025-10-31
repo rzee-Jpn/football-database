@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Poland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Franczak (1050566)",
+        "nama_panggilan": "Filip Franczak (1050566)",
+        "tanggal_lahir": "2006-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limanowa",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stephen Pinkowski (13978)",
+        "nama_panggilan": "Stephen Pinkowski (13978)",
+        "tanggal_lahir": "1983-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bellshill",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

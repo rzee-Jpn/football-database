@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malta  France",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irvin Cardona (342226)",
+        "nama_panggilan": "Irvin Cardona (342226)",
+        "tanggal_lahir": "1997-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nîmes",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teddy Teuma (409153)",
+        "nama_panggilan": "Teddy Teuma (409153)",
+        "tanggal_lahir": "1993-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulon",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  France"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilyas Chouaref (639058)",
+        "nama_panggilan": "Ilyas Chouaref (639058)",
+        "tanggal_lahir": "2000-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Châteauroux",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Sacco (960628)",
+        "nama_panggilan": "Hugo Sacco (960628)",
+        "tanggal_lahir": "2004-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Malta  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

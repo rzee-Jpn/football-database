@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Levan Jordania (395945)",
+        "nama_panggilan": "Levan Jordania (395945)",
+        "tanggal_lahir": "1996-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiflis",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Netherlands"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irakli Yegoian (806245)",
+        "nama_panggilan": "Irakli Yegoian (806245)",
+        "tanggal_lahir": "2004-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiflis",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Netherlands"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

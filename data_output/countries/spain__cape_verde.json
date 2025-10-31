@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Cape Verde",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paolo Fernandes (284876)",
+        "nama_panggilan": "Paolo Fernandes (284876)",
+        "tanggal_lahir": "1998-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Cape Verde"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

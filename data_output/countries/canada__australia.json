@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Australia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ethan Gage (103606)",
+        "nama_panggilan": "Ethan Gage (103606)",
+        "tanggal_lahir": "1991-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cochrane, Alberta",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Australia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Gasparotto (189029)",
+        "nama_panggilan": "Luca Gasparotto (189029)",
+        "tanggal_lahir": "1995-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "North York, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Australia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Will Baynham (735801)",
+        "nama_panggilan": "Will Baynham (735801)",
+        "tanggal_lahir": "1997-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brisbane",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Australia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

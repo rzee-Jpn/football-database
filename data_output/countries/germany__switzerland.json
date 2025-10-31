@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Switzerland",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolai Lorenzoni (103667)",
+        "nama_panggilan": "Nicolai Lorenzoni (103667)",
+        "tanggal_lahir": "1992-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liestal",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cajetan Lenz (1047136)",
+        "nama_panggilan": "Cajetan Lenz (1047136)",
+        "tanggal_lahir": "2006-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bochum",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Markus Neumayr (3391)",
+        "nama_panggilan": "Markus Neumayr (3391)",
+        "tanggal_lahir": "1986-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hösbach",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukas Müller (402833)",
+        "nama_panggilan": "Lukas Müller (402833)",
+        "tanggal_lahir": "2000-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dernbach",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lilian Egloff (472243)",
+        "nama_panggilan": "Lilian Egloff (472243)",
+        "tanggal_lahir": "2002-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heilbronn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bela Dumrath (707548)",
+        "nama_panggilan": "Bela Dumrath (707548)",
+        "tanggal_lahir": "2003-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Switzerland"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

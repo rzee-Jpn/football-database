@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "William Troost-Ekong (192875)",
+        "nama_panggilan": "William Troost-Ekong (192875)",
+        "tanggal_lahir": "1993-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haarlem",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Netherlands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Chuks Okoli (20487)",
+        "nama_panggilan": "James Chuks Okoli (20487)",
+        "tanggal_lahir": "1976-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Nigeria  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyronne Ebuehi (309944)",
+        "nama_panggilan": "Tyronne Ebuehi (309944)",
+        "tanggal_lahir": "1995-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haarlem",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

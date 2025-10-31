@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Sweden",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petr Gitselov (45857)",
+        "nama_panggilan": "Petr Gitselov (45857)",
+        "tanggal_lahir": "1983-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rostov-na-Donu",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Sweden"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

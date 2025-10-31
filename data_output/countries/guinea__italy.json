@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Traoré (125611)",
+        "nama_panggilan": "Mohamed Traoré (125611)",
+        "tanggal_lahir": "1991-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kindia",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Italy"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karamoko Cissé (65635)",
+        "nama_panggilan": "Karamoko Cissé (65635)",
+        "tanggal_lahir": "1988-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koubia",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almamy Camara (721479)",
+        "nama_panggilan": "Almamy Camara (721479)",
+        "tanggal_lahir": "2004-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

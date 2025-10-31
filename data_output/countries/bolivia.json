@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bolivia",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguelito (1063811)",
+        "nama_panggilan": "Miguelito (1063811)",
+        "tanggal_lahir": "2004-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alejandro Chumacero (129899)",
+        "nama_panggilan": "Alejandro Chumacero (129899)",
+        "tanggal_lahir": "1991-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Paz",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "164.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Durán (125241)",
+        "nama_panggilan": "Carlos Durán (125241)",
+        "tanggal_lahir": "1980-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Galindo (115503)",
+        "nama_panggilan": "Samuel Galindo (115503)",
+        "tanggal_lahir": "1992-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Luis Ortiz (18606)",
+        "nama_panggilan": "José Luis Ortiz (18606)",
+        "tanggal_lahir": "1985-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Bejarano (234761)",
+        "nama_panggilan": "Danny Bejarano (234761)",
+        "tanggal_lahir": "1994-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Pontons (201245)",
+        "nama_panggilan": "Alex Pontons (201245)",
+        "tanggal_lahir": "1994-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Miranda (431065)",
+        "nama_panggilan": "Bruno Miranda (431065)",
+        "tanggal_lahir": "1998-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Haquín (481192)",
+        "nama_panggilan": "Luis Haquín (481192)",
+        "tanggal_lahir": "1997-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Fernández (598101)",
+        "nama_panggilan": "Roberto Fernández (598101)",
+        "tanggal_lahir": "1999-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Camiri",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauricio Saucedo (73298)",
+        "nama_panggilan": "Mauricio Saucedo (73298)",
+        "tanggal_lahir": "1985-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Pedriel (76281)",
+        "nama_panggilan": "Ricardo Pedriel (76281)",
+        "tanggal_lahir": "1987-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jamir Berdecio (873093)",
+        "nama_panggilan": "Jamir Berdecio (873093)",
+        "tanggal_lahir": "2002-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sacha Guevara (882653)",
+        "nama_panggilan": "Sacha Guevara (882653)",
+        "tanggal_lahir": "2002-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bolivia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

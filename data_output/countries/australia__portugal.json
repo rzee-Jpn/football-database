@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Corey Gameiro (176802)",
+        "nama_panggilan": "Corey Gameiro (176802)",
+        "tanggal_lahir": "1993-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wollongong",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paulo Retre (257685)",
+        "nama_panggilan": "Paulo Retre (257685)",
+        "tanggal_lahir": "1993-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Portugal"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

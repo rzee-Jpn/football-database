@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uganda  Sweden",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronald Mukiibi (183607)",
+        "nama_panggilan": "Ronald Mukiibi (183607)",
+        "tanggal_lahir": "1991-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göteborg",
+          "negara": "Uganda"
+        },
+        "kewarganegaraan": [
+          "Uganda  Sweden"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Mutumba (49292)",
+        "nama_panggilan": "Martin Mutumba (49292)",
+        "tanggal_lahir": "1985-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Uganda"
+        },
+        "kewarganegaraan": [
+          "Uganda  Sweden"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Calvin Kabuye (950405)",
+        "nama_panggilan": "Calvin Kabuye (950405)",
+        "tanggal_lahir": "2003-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huddinge",
+          "negara": "Uganda"
+        },
+        "kewarganegaraan": [
+          "Uganda  Sweden"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

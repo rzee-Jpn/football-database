@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Paraguay  Mexico",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustavo Ramírez (203544)",
+        "nama_panggilan": "Gustavo Ramírez (203544)",
+        "tanggal_lahir": "1990-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yuty",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Mexico"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Aguilar (67209)",
+        "nama_panggilan": "Pablo Aguilar (67209)",
+        "tanggal_lahir": "1987-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luque",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Mexico"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osvaldo Martínez (73630)",
+        "nama_panggilan": "Osvaldo Martínez (73630)",
+        "tanggal_lahir": "1986-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luque",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Mexico"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

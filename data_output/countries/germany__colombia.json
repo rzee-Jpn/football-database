@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Colombia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marlon Roos-Trujillo (450229)",
+        "nama_panggilan": "Marlon Roos-Trujillo (450229)",
+        "tanggal_lahir": "2003-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Colombia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Stehle (557205)",
+        "nama_panggilan": "Simon Stehle (557205)",
+        "tanggal_lahir": "2001-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valladolid",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Colombia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Ghana",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Randy Edwini-Bonsu (103605)",
+        "nama_panggilan": "Randy Edwini-Bonsu (103605)",
+        "tanggal_lahir": "1990-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stephen Afrifa (1089573)",
+        "nama_panggilan": "Stephen Afrifa (1089573)",
+        "tanggal_lahir": "2001-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Billy Ofori Bitihene (305853)",
+        "nama_panggilan": "Billy Ofori Bitihene (305853)",
+        "tanggal_lahir": "1997-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brescia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richie Laryea (417348)",
+        "nama_panggilan": "Richie Laryea (417348)",
+        "tanggal_lahir": "1995-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwame Awuah (482620)",
+        "nama_panggilan": "Kwame Awuah (482620)",
+        "tanggal_lahir": "1995-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richlord Ennin (442319)",
+        "nama_panggilan": "Richlord Ennin (442319)",
+        "tanggal_lahir": "1998-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ghana"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

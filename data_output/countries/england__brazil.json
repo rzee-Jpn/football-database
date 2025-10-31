@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Brazil",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudio Dias (248023)",
+        "nama_panggilan": "Claudio Dias (248023)",
+        "tanggal_lahir": "1994-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milton Keynes",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

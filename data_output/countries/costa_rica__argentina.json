@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Costa Rica  Argentina",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Gabas (77831)",
+        "nama_panggilan": "Pablo Gabas (77831)",
+        "tanggal_lahir": "1982-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paraná",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Argentina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

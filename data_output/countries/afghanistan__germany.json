@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Afghanistan  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hassan Amin (104293)",
+        "nama_panggilan": "Hassan Amin (104293)",
+        "tanggal_lahir": "1991-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Darmstadt",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khaibar Amani (38037)",
+        "nama_panggilan": "Khaibar Amani (38037)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milad Salem (45054)",
+        "nama_panggilan": "Milad Salem (45054)",
+        "tanggal_lahir": "1988-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kabul",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

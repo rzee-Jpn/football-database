@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  Portugal",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ofir Marciano (112008)",
+        "nama_panggilan": "Ofir Marciano (112008)",
+        "tanggal_lahir": "1989-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashdod",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dor Jan (226230)",
+        "nama_panggilan": "Dor Jan (226230)",
+        "tanggal_lahir": "1994-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omer Hanin (211530)",
+        "nama_panggilan": "Omer Hanin (211530)",
+        "tanggal_lahir": "1998-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rishon leZion",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shon Weissman (247652)",
+        "nama_panggilan": "Shon Weissman (247652)",
+        "tanggal_lahir": "1996-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haifa",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guy Hadida (378972)",
+        "nama_panggilan": "Guy Hadida (378972)",
+        "tanggal_lahir": "1995-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arad",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manor Solomon (396638)",
+        "nama_panggilan": "Manor Solomon (396638)",
+        "tanggal_lahir": "1999-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kfar Saba",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eylon Almog (396641)",
+        "nama_panggilan": "Eylon Almog (396641)",
+        "tanggal_lahir": "1999-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ness Ziona",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eliel Peretz (444018)",
+        "nama_panggilan": "Eliel Peretz (444018)",
+        "tanggal_lahir": "1996-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bat Yam",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tai Baribo (492252)",
+        "nama_panggilan": "Tai Baribo (492252)",
+        "tanggal_lahir": "1998-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eilat",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Or Dadia (509301)",
+        "nama_panggilan": "Or Dadia (509301)",
+        "tanggal_lahir": "1997-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Be'er Sheva",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Vítor (57814)",
+        "nama_panggilan": "Miguel Vítor (57814)",
+        "tanggal_lahir": "1989-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torres Vedras",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arad Bar (620892)",
+        "nama_panggilan": "Arad Bar (620892)",
+        "tanggal_lahir": "2000-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tel Aviv",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omri Gandelman (780548)",
+        "nama_panggilan": "Omri Gandelman (780548)",
+        "tanggal_lahir": "2000-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hod haSharon",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Or Israelov (950442)",
+        "nama_panggilan": "Or Israelov (950442)",
+        "tanggal_lahir": "2004-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Shoham",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Portugal"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

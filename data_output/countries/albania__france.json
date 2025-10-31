@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  France",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Haka (1141499)",
+        "nama_panggilan": "Mario Haka (1141499)",
+        "tanggal_lahir": "2006-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Albania  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorik Cana (12149)",
+        "nama_panggilan": "Lorik Cana (12149)",
+        "tanggal_lahir": "1983-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Priština",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albin Hodza (236979)",
+        "nama_panggilan": "Albin Hodza (236979)",
+        "tanggal_lahir": "1988-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Choisy-le-Roi",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renald Xhemo (291731)",
+        "nama_panggilan": "Renald Xhemo (291731)",
+        "tanggal_lahir": "1996-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Briey",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Xhuliano Skuka (646131)",
+        "nama_panggilan": "Xhuliano Skuka (646131)",
+        "tanggal_lahir": "1998-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dibër",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

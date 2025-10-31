@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Grenada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kithson Bain (71602)",
+        "nama_panggilan": "Kithson Bain (71602)",
+        "tanggal_lahir": "1982-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. George's",
+          "negara": "Grenada"
+        },
+        "kewarganegaraan": [
+          "Grenada"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

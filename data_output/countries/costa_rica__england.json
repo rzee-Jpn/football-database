@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Costa Rica  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elián Quesada (871836)",
+        "nama_panggilan": "Elián Quesada (871836)",
+        "tanggal_lahir": "2005-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

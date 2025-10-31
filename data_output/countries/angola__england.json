@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Angola  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Ibouka (831700)",
+        "nama_panggilan": "Kevin Ibouka (831700)",
+        "tanggal_lahir": "2001-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cabinda Town",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  England"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

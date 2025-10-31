@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Morocco",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diyaeddine Abzi (594497)",
+        "nama_panggilan": "Diyaeddine Abzi (594497)",
+        "tanggal_lahir": "1998-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fès",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Morocco"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rida Zouhir (842421)",
+        "nama_panggilan": "Rida Zouhir (842421)",
+        "tanggal_lahir": "2003-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Morocco"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

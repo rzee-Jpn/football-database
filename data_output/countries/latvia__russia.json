@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Latvia  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artjoms Rudnevs (103547)",
+        "nama_panggilan": "Artjoms Rudnevs (103547)",
+        "tanggal_lahir": "1988-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Daugavpils",
+          "negara": "Latvia"
+        },
+        "kewarganegaraan": [
+          "Latvia  Russia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jurijs Zigajevs (53918)",
+        "nama_panggilan": "Jurijs Zigajevs (53918)",
+        "tanggal_lahir": "1985-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leningrad",
+          "negara": "Latvia"
+        },
+        "kewarganegaraan": [
+          "Latvia  Russia"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

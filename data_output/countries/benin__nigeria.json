@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Benin  Nigeria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aiyegun Tosin (239647)",
+        "nama_panggilan": "Aiyegun Tosin (239647)",
+        "tanggal_lahir": "1998-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin  Nigeria"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bello Babatounde (91749)",
+        "nama_panggilan": "Bello Babatounde (91749)",
+        "tanggal_lahir": "1989-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esan North-East",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin  Nigeria"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Olaitan (900938)",
+        "nama_panggilan": "Junior Olaitan (900938)",
+        "tanggal_lahir": "2002-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porto-Novo",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin  Nigeria"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

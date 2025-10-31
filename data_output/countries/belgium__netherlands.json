@@ -1,0 +1,381 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Netherlands",
+  "total_pemain": 11,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roy Mauro (111069)",
+        "nama_panggilan": "Roy Mauro (111069)",
+        "tanggal_lahir": "1990-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maik Poeketie (1205576)",
+        "nama_panggilan": "Maik Poeketie (1205576)",
+        "tanggal_lahir": "2006-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Théo Maréchal (1240984)",
+        "nama_panggilan": "Théo Maréchal (1240984)",
+        "tanggal_lahir": "2005-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wouter Corstjens (38449)",
+        "nama_panggilan": "Wouter Corstjens (38449)",
+        "tanggal_lahir": "1987-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maastricht",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeovanni Dianganga (392992)",
+        "nama_panggilan": "Jeovanni Dianganga (392992)",
+        "tanggal_lahir": "1999-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan van Hove (429929)",
+        "nama_panggilan": "Bryan van Hove (429929)",
+        "tanggal_lahir": "2000-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Weert",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olivier Dumont (502452)",
+        "nama_panggilan": "Olivier Dumont (502452)",
+        "tanggal_lahir": "2002-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Visé",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robin Mantel (535741)",
+        "nama_panggilan": "Robin Mantel (535741)",
+        "tanggal_lahir": "2000-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brasschaat",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Pavlic (719383)",
+        "nama_panggilan": "Ivan Pavlic (719383)",
+        "tanggal_lahir": "2001-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Lendfers (937107)",
+        "nama_panggilan": "Matt Lendfers (937107)",
+        "tanggal_lahir": "2006-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tongeren",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Obed Kitoko (955080)",
+        "nama_panggilan": "Obed Kitoko (955080)",
+        "tanggal_lahir": "2004-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Finlay Neat (1420029)",
+        "nama_panggilan": "Finlay Neat (1420029)",
+        "tanggal_lahir": "2006-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Scotland  Sweden"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lee Baxter (16733)",
+        "nama_panggilan": "Lee Baxter (16733)",
+        "tanggal_lahir": "1976-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsingborg",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Sweden"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

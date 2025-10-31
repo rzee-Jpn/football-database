@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Colombia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Bühler (11514)",
+        "nama_panggilan": "Manuel Bühler (11514)",
+        "tanggal_lahir": "1983-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellin",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Colombia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Hönger (284806)",
+        "nama_panggilan": "Aaron Hönger (284806)",
+        "tanggal_lahir": "1997-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sursee",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Colombia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Brunner (388216)",
+        "nama_panggilan": "Santiago Brunner (388216)",
+        "tanggal_lahir": "2001-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uster ZH",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Colombia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johan Vonlanthen (4692)",
+        "nama_panggilan": "Johan Vonlanthen (4692)",
+        "tanggal_lahir": "1986-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Marta",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Colombia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Londono (4813)",
+        "nama_panggilan": "Oscar Londono (4813)",
+        "tanggal_lahir": "1971-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucaramanga",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Colombia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

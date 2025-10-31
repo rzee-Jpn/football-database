@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  Argentina",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabian Césaro (125435)",
+        "nama_panggilan": "Fabian Césaro (125435)",
+        "tanggal_lahir": "1973-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Isidro",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jorge Curbelo (22944)",
+        "nama_panggilan": "Jorge Curbelo (22944)",
+        "tanggal_lahir": "1981-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Scotti (30790)",
+        "nama_panggilan": "Diego Scotti (30790)",
+        "tanggal_lahir": "1977-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Lemos (30855)",
+        "nama_panggilan": "Rodrigo Lemos (30855)",
+        "tanggal_lahir": "1990-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Merentiel (481367)",
+        "nama_panggilan": "Miguel Merentiel (481367)",
+        "tanggal_lahir": "1996-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paysandú",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Sánchez (74373)",
+        "nama_panggilan": "Carlos Sánchez (74373)",
+        "tanggal_lahir": "1984-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antony Alonso (844800)",
+        "nama_panggilan": "Antony Alonso (844800)",
+        "tanggal_lahir": "1998-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Argentina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

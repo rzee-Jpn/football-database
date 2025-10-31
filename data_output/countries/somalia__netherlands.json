@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Somalia  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liban Abdulahi (251074)",
+        "nama_panggilan": "Liban Abdulahi (251074)",
+        "tanggal_lahir": "1995-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haarlem",
+          "negara": "Somalia"
+        },
+        "kewarganegaraan": [
+          "Somalia  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdullah Telli (741106)",
+        "nama_panggilan": "Abdullah Telli (741106)",
+        "tanggal_lahir": "1996-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oss",
+          "negara": "Somalia"
+        },
+        "kewarganegaraan": [
+          "Somalia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Guinea",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lamine Conte (513014)",
+        "nama_panggilan": "Lamine Conte (513014)",
+        "tanggal_lahir": "1998-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Guinea"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aboubacar Keita (638733)",
+        "nama_panggilan": "Aboubacar Keita (638733)",
+        "tanggal_lahir": "2000-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Guinea"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dantouma Toure (746836)",
+        "nama_panggilan": "Dantouma Toure (746836)",
+        "tanggal_lahir": "2004-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Guinea"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bakary Bagayoko (986222)",
+        "nama_panggilan": "Bakary Bagayoko (986222)",
+        "tanggal_lahir": "1998-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Guinea"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

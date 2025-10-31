@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  DR Congo",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tresor Mbuyu (653903)",
+        "nama_panggilan": "Tresor Mbuyu (653903)",
+        "tanggal_lahir": "1996-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  DR Congo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enoch Mushagalusa (747703)",
+        "nama_panggilan": "Enoch Mushagalusa (747703)",
+        "tanggal_lahir": "1999-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

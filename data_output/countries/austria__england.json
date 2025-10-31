@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renny Smith (291895)",
+        "nama_panggilan": "Renny Smith (291895)",
+        "tanggal_lahir": "1996-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Epsom",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Cambodia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Micah Burton (994268)",
+        "nama_panggilan": "Micah Burton (994268)",
+        "tanggal_lahir": "2006-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mounds View, Minnesota",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Cambodia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

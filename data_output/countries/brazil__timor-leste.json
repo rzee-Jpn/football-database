@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Timor-Leste",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juliano Mineiro (39143)",
+        "nama_panggilan": "Juliano Mineiro (39143)",
+        "tanggal_lahir": "1986-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Timor-Leste"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quirino (37394)",
+        "nama_panggilan": "Quirino (37394)",
+        "tanggal_lahir": "1985-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belo Horizonte",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Timor-Leste"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

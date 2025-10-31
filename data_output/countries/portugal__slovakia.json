@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Slovakia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "João Vieira (1338501)",
+        "nama_panggilan": "João Vieira (1338501)",
+        "tanggal_lahir": "2007-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ponta Delgada",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Slovakia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

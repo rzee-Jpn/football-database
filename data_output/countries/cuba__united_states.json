@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cuba  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maykel Galindo (51109)",
+        "nama_panggilan": "Maykel Galindo (51109)",
+        "tanggal_lahir": "1981-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villa Clara",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osvaldo Alonso (62810)",
+        "nama_panggilan": "Osvaldo Alonso (62810)",
+        "tanggal_lahir": "1985-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Cristóbal",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

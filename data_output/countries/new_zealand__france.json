@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Garbett (617019)",
+        "nama_panggilan": "Matthew Garbett (617019)",
+        "tanggal_lahir": "2002-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,4189 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland",
+  "total_pemain": 123,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ukko Happonen (1018026)",
+        "nama_panggilan": "Ukko Happonen (1018026)",
+        "tanggal_lahir": "2007-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuusula",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Kirilov (1018043)",
+        "nama_panggilan": "Martin Kirilov (1018043)",
+        "tanggal_lahir": "2007-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jusu Karvonen (103392)",
+        "nama_panggilan": "Jusu Karvonen (103392)",
+        "tanggal_lahir": "1993-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lahti",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tero Penttilä (106219)",
+        "nama_panggilan": "Tero Penttilä (106219)",
+        "tanggal_lahir": "1975-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suomussalmi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilari Kangasniemi (1134347)",
+        "nama_panggilan": "Ilari Kangasniemi (1134347)",
+        "tanggal_lahir": "2007-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roope Riski (107577)",
+        "nama_panggilan": "Roope Riski (107577)",
+        "tanggal_lahir": "1991-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Askainen",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jesse Joronen (131758)",
+        "nama_panggilan": "Jesse Joronen (131758)",
+        "tanggal_lahir": "1993-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rautjärvi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Väyrynen (131786)",
+        "nama_panggilan": "Tim Väyrynen (131786)",
+        "tanggal_lahir": "1993-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jere Uronen (131827)",
+        "nama_panggilan": "Jere Uronen (131827)",
+        "tanggal_lahir": "1994-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Sparv (13258)",
+        "nama_panggilan": "Tim Sparv (13258)",
+        "tanggal_lahir": "1987-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oravais",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jarkko Wiss (12705)",
+        "nama_panggilan": "Jarkko Wiss (12705)",
+        "tanggal_lahir": "1972-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niki Mäenpää (12359)",
+        "nama_panggilan": "Niki Mäenpää (12359)",
+        "tanggal_lahir": "1985-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pekka Lagerblom (15451)",
+        "nama_panggilan": "Pekka Lagerblom (15451)",
+        "tanggal_lahir": "1982-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lahti",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jari Niemi (15777)",
+        "nama_panggilan": "Jari Niemi (15777)",
+        "tanggal_lahir": "1977-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nokia",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eetu Muinonen (15940)",
+        "nama_panggilan": "Eetu Muinonen (15940)",
+        "tanggal_lahir": "1986-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mikkeli",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Skrabb (187047)",
+        "nama_panggilan": "Simon Skrabb (187047)",
+        "tanggal_lahir": "1995-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jakobstad",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Kolsi (19055)",
+        "nama_panggilan": "Marko Kolsi (19055)",
+        "tanggal_lahir": "1985-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vantaa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksey Eremenko Jr. (16519)",
+        "nama_panggilan": "Aleksey Eremenko Jr. (16519)",
+        "tanggal_lahir": "1983-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rostov-na-Donu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niklas Tarvajärvi (17340)",
+        "nama_panggilan": "Niklas Tarvajärvi (17340)",
+        "tanggal_lahir": "1983-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuusula",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Pohjanpalo (173491)",
+        "nama_panggilan": "Joel Pohjanpalo (173491)",
+        "tanggal_lahir": "1994-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robin Lod (173573)",
+        "nama_panggilan": "Robin Lod (173573)",
+        "tanggal_lahir": "1993-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anssi Jaakkola (18223)",
+        "nama_panggilan": "Anssi Jaakkola (18223)",
+        "tanggal_lahir": "1987-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kemi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eero Markkanen (225078)",
+        "nama_panggilan": "Eero Markkanen (225078)",
+        "tanggal_lahir": "1991-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jyväskylä",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Otso Virtanen (201623)",
+        "nama_panggilan": "Otso Virtanen (201623)",
+        "tanggal_lahir": "1994-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carljohan Eriksson (214073)",
+        "nama_panggilan": "Carljohan Eriksson (214073)",
+        "tanggal_lahir": "1995-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Jensen (214078)",
+        "nama_panggilan": "Richard Jensen (214078)",
+        "tanggal_lahir": "1996-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porvoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sauli Väisänen (261095)",
+        "nama_panggilan": "Sauli Väisänen (261095)",
+        "tanggal_lahir": "1994-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommi Grönlund (26219)",
+        "nama_panggilan": "Tommi Grönlund (26219)",
+        "tanggal_lahir": "1969-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kimmo Hovi (263899)",
+        "nama_panggilan": "Kimmo Hovi (263899)",
+        "tanggal_lahir": "1994-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mäntsälä",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilmari Niskanen (268606)",
+        "nama_panggilan": "Ilmari Niskanen (268606)",
+        "tanggal_lahir": "1997-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiuruvesi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lauri Ala-Myllymäki (270515)",
+        "nama_panggilan": "Lauri Ala-Myllymäki (270515)",
+        "tanggal_lahir": "1997-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pirkkala",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rasmus Karjalainen (273383)",
+        "nama_panggilan": "Rasmus Karjalainen (273383)",
+        "tanggal_lahir": "1996-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fredrik Jensen (249157)",
+        "nama_panggilan": "Fredrik Jensen (249157)",
+        "tanggal_lahir": "1997-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porvoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jani Kauppila (25127)",
+        "nama_panggilan": "Jani Kauppila (25127)",
+        "tanggal_lahir": "1980-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ranua",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Janne Salli (25137)",
+        "nama_panggilan": "Janne Salli (25137)",
+        "tanggal_lahir": "1977-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saku Ylätupa (344836)",
+        "nama_panggilan": "Saku Ylätupa (344836)",
+        "tanggal_lahir": "1999-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sami Hyypiä (3470)",
+        "nama_panggilan": "Sami Hyypiä (3470)",
+        "tanggal_lahir": "1973-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porvoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aapo Halme (322984)",
+        "nama_panggilan": "Aapo Halme (322984)",
+        "tanggal_lahir": "1998-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lassi Lappalainen (322993)",
+        "nama_panggilan": "Lassi Lappalainen (322993)",
+        "tanggal_lahir": "1998-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Lingman (322994)",
+        "nama_panggilan": "Lucas Lingman (322994)",
+        "tanggal_lahir": "1998-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikael Soisalo (323010)",
+        "nama_panggilan": "Mikael Soisalo (323010)",
+        "tanggal_lahir": "1998-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Källman (322990)",
+        "nama_panggilan": "Benjamin Källman (322990)",
+        "tanggal_lahir": "1998-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tammisaari",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niilo Mäenpää (322997)",
+        "nama_panggilan": "Niilo Mäenpää (322997)",
+        "tanggal_lahir": "1998-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hämeenlinna",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jukka Santala (29206)",
+        "nama_panggilan": "Jukka Santala (29206)",
+        "tanggal_lahir": "1985-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Väisänen (309439)",
+        "nama_panggilan": "Leo Väisänen (309439)",
+        "tanggal_lahir": "1997-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mika Kottila (37464)",
+        "nama_panggilan": "Mika Kottila (37464)",
+        "tanggal_lahir": "1974-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juhani Pikkarainen (385986)",
+        "nama_panggilan": "Juhani Pikkarainen (385986)",
+        "tanggal_lahir": "1998-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paimio",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Walter Vikström (386613)",
+        "nama_panggilan": "Walter Vikström (386613)",
+        "tanggal_lahir": "2000-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arttu Hoskonen (390646)",
+        "nama_panggilan": "Arttu Hoskonen (390646)",
+        "tanggal_lahir": "1997-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaarina",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Urho Nissilä (354114)",
+        "nama_panggilan": "Urho Nissilä (354114)",
+        "tanggal_lahir": "1996-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuopio",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jussi Jääskeläinen (3692)",
+        "nama_panggilan": "Jussi Jääskeläinen (3692)",
+        "tanggal_lahir": "1975-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mikkeli",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Enckelman (3719)",
+        "nama_panggilan": "Peter Enckelman (3719)",
+        "tanggal_lahir": "1977-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Markus Halsti (37293)",
+        "nama_panggilan": "Markus Halsti (37293)",
+        "tanggal_lahir": "1984-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Veli Lampi (37301)",
+        "nama_panggilan": "Veli Lampi (37301)",
+        "tanggal_lahir": "1984-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seinäjoki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Sorsa (37331)",
+        "nama_panggilan": "Sebastian Sorsa (37331)",
+        "tanggal_lahir": "1984-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Ivanov (373876)",
+        "nama_panggilan": "Robert Ivanov (373876)",
+        "tanggal_lahir": "1994-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus Forss (404584)",
+        "nama_panggilan": "Marcus Forss (404584)",
+        "tanggal_lahir": "1999-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miko Virtanen (423666)",
+        "nama_panggilan": "Miko Virtanen (423666)",
+        "tanggal_lahir": "1999-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petri Pasanen (4316)",
+        "nama_panggilan": "Petri Pasanen (4316)",
+        "tanggal_lahir": "1980-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lahti",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eetu Vertainen (433685)",
+        "nama_panggilan": "Eetu Vertainen (433685)",
+        "tanggal_lahir": "1999-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tuomas Ollila (433887)",
+        "nama_panggilan": "Tuomas Ollila (433887)",
+        "tanggal_lahir": "2000-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaakko Oksanen (433893)",
+        "nama_panggilan": "Jaakko Oksanen (433893)",
+        "tanggal_lahir": "2000-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuusula",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anssi Suhonen (433894)",
+        "nama_panggilan": "Anssi Suhonen (433894)",
+        "tanggal_lahir": "2001-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Järvenpää",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pyry Hannola (467289)",
+        "nama_panggilan": "Pyry Hannola (467289)",
+        "tanggal_lahir": "2001-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rovaniemi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teemu Pukki (46972)",
+        "nama_panggilan": "Teemu Pukki (46972)",
+        "tanggal_lahir": "1990-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kotka",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Magnus Bahne (47189)",
+        "nama_panggilan": "Magnus Bahne (47189)",
+        "tanggal_lahir": "1979-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaarina",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teemu Tainio (4741)",
+        "nama_panggilan": "Teemu Tainio (4741)",
+        "tanggal_lahir": "1979-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tornio",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paulus Arajuuri (47772)",
+        "nama_panggilan": "Paulus Arajuuri (47772)",
+        "tanggal_lahir": "1988-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sakari Mattila (47781)",
+        "nama_panggilan": "Sakari Mattila (47781)",
+        "tanggal_lahir": "1989-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kasper Hämäläinen (48016)",
+        "nama_panggilan": "Kasper Hämäläinen (48016)",
+        "tanggal_lahir": "1986-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Riku Riski (48020)",
+        "nama_panggilan": "Riku Riski (48020)",
+        "tanggal_lahir": "1989-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Askainen",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simo Valakari (48025)",
+        "nama_panggilan": "Simo Valakari (48025)",
+        "tanggal_lahir": "1973-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Håkans (448284)",
+        "nama_panggilan": "Daniel Håkans (448284)",
+        "tanggal_lahir": "2000-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaasa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paulus Roiha (4484)",
+        "nama_panggilan": "Paulus Roiha (4484)",
+        "tanggal_lahir": "1980-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikko Rahkamaa (4584)",
+        "nama_panggilan": "Mikko Rahkamaa (4584)",
+        "tanggal_lahir": "1981-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santeri Haarala (484818)",
+        "nama_panggilan": "Santeri Haarala (484818)",
+        "tanggal_lahir": "1999-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viljami Sinisalo (484838)",
+        "nama_panggilan": "Viljami Sinisalo (484838)",
+        "tanggal_lahir": "2001-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hyvinkää",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremiah Streng (488781)",
+        "nama_panggilan": "Jeremiah Streng (488781)",
+        "tanggal_lahir": "2001-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaasa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Bergström (490606)",
+        "nama_panggilan": "Lucas Bergström (490606)",
+        "tanggal_lahir": "2002-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pargas",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "205.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonas Portin (50089)",
+        "nama_panggilan": "Jonas Portin (50089)",
+        "tanggal_lahir": "1986-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jakobstad",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niklas Moisander (5017)",
+        "nama_panggilan": "Niklas Moisander (5017)",
+        "tanggal_lahir": "1985-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Olusanya (511852)",
+        "nama_panggilan": "Anthony Olusanya (511852)",
+        "tanggal_lahir": "2000-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jakobstad",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Antman (527896)",
+        "nama_panggilan": "Oliver Antman (527896)",
+        "tanggal_lahir": "2001-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vantaa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juho Kilo (538642)",
+        "nama_panggilan": "Juho Kilo (538642)",
+        "tanggal_lahir": "2002-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonne Hjelm (55727)",
+        "nama_panggilan": "Jonne Hjelm (55727)",
+        "tanggal_lahir": "1988-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Tammivuori (562531)",
+        "nama_panggilan": "Samuel Tammivuori (562531)",
+        "tanggal_lahir": "2000-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santeri Väänänen (564621)",
+        "nama_panggilan": "Santeri Väänänen (564621)",
+        "tanggal_lahir": "2002-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naatan Skyttä (567309)",
+        "nama_panggilan": "Naatan Skyttä (567309)",
+        "tanggal_lahir": "2002-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ylöjärvi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matias Tamminen (567876)",
+        "nama_panggilan": "Matias Tamminen (567876)",
+        "tanggal_lahir": "2001-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kotka",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miika Koskela (609402)",
+        "nama_panggilan": "Miika Koskela (609402)",
+        "tanggal_lahir": "2003-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kasper Paananen (613189)",
+        "nama_panggilan": "Kasper Paananen (613189)",
+        "tanggal_lahir": "2003-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ville Koski (581326)",
+        "nama_panggilan": "Ville Koski (581326)",
+        "tanggal_lahir": "2002-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuusula",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Walta (674054)",
+        "nama_panggilan": "Leo Walta (674054)",
+        "tanggal_lahir": "2003-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vantaa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Casper Terho (679597)",
+        "nama_panggilan": "Casper Terho (679597)",
+        "tanggal_lahir": "2003-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niklas Pyyhtiä (679754)",
+        "nama_panggilan": "Niklas Pyyhtiä (679754)",
+        "tanggal_lahir": "2003-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henri Salomaa (679829)",
+        "nama_panggilan": "Henri Salomaa (679829)",
+        "tanggal_lahir": "2003-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Linus Rönnberg (679789)",
+        "nama_panggilan": "Linus Rönnberg (679789)",
+        "tanggal_lahir": "2003-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Otto Kemppainen (681616)",
+        "nama_panggilan": "Otto Kemppainen (681616)",
+        "tanggal_lahir": "2003-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rovaniemi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimi Tauriainen (681615)",
+        "nama_panggilan": "Jimi Tauriainen (681615)",
+        "tanggal_lahir": "2004-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Wiklöf (709723)",
+        "nama_panggilan": "Oscar Wiklöf (709723)",
+        "tanggal_lahir": "2003-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mariehamn",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jasper Samooja (712911)",
+        "nama_panggilan": "Jasper Samooja (712911)",
+        "tanggal_lahir": "2003-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Altti Hellemaa (716903)",
+        "nama_panggilan": "Altti Hellemaa (716903)",
+        "tanggal_lahir": "2004-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isak Vidjeskog (716905)",
+        "nama_panggilan": "Isak Vidjeskog (716905)",
+        "tanggal_lahir": "2004-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rony Jansson (716897)",
+        "nama_panggilan": "Rony Jansson (716897)",
+        "tanggal_lahir": "2004-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Hyryläinen (716898)",
+        "nama_panggilan": "Luka Hyryläinen (716898)",
+        "tanggal_lahir": "2004-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kalle Wallius (648572)",
+        "nama_panggilan": "Kalle Wallius (648572)",
+        "tanggal_lahir": "2003-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arttu Lötjönen (660581)",
+        "nama_panggilan": "Arttu Lötjönen (660581)",
+        "tanggal_lahir": "2004-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pori",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikolas Talo (662940)",
+        "nama_panggilan": "Nikolas Talo (662940)",
+        "tanggal_lahir": "2003-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Otso Liimatta (718152)",
+        "nama_panggilan": "Otso Liimatta (718152)",
+        "tanggal_lahir": "2004-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joni Kauko (73662)",
+        "nama_panggilan": "Joni Kauko (73662)",
+        "tanggal_lahir": "1990-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turku",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tuomas Rannankari (73748)",
+        "nama_panggilan": "Tuomas Rannankari (73748)",
+        "tanggal_lahir": "1991-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuopio",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaaso Jantunen (741578)",
+        "nama_panggilan": "Jaaso Jantunen (741578)",
+        "tanggal_lahir": "2005-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juho Talvitie (741587)",
+        "nama_panggilan": "Juho Talvitie (741587)",
+        "tanggal_lahir": "2005-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tero Pilvi (764967)",
+        "nama_panggilan": "Tero Pilvi (764967)",
+        "tanggal_lahir": "1976-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Ring (82113)",
+        "nama_panggilan": "Alexander Ring (82113)",
+        "tanggal_lahir": "1991-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Akseli Puukko (937939)",
+        "nama_panggilan": "Akseli Puukko (937939)",
+        "tanggal_lahir": "2006-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iiro Mendolin (927996)",
+        "nama_panggilan": "Iiro Mendolin (927996)",
+        "tanggal_lahir": "2006-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Kyllönen (928001)",
+        "nama_panggilan": "Lucas Kyllönen (928001)",
+        "tanggal_lahir": "2006-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juho Lähteenmäki (927970)",
+        "nama_panggilan": "Juho Lähteenmäki (927970)",
+        "tanggal_lahir": "2006-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ylöjärvi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juha Hakola (92878)",
+        "nama_panggilan": "Juha Hakola (92878)",
+        "tanggal_lahir": "1987-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Espoo",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juhani Ojala (88257)",
+        "nama_panggilan": "Juhani Ojala (88257)",
+        "tanggal_lahir": "1989-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vantaa",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hannu Tihinen (9608)",
+        "nama_panggilan": "Hannu Tihinen (9608)",
+        "tanggal_lahir": "1976-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kemi",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ville Viljanen (971130)",
+        "nama_panggilan": "Ville Viljanen (971130)",
+        "tanggal_lahir": "1971-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

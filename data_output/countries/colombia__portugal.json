@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonardo Ruiz (344399)",
+        "nama_panggilan": "Leonardo Ruiz (344399)",
+        "tanggal_lahir": "1996-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Portugal"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Gómez (723396)",
+        "nama_panggilan": "Juan Gómez (723396)",
+        "tanggal_lahir": "2003-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Colombia  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

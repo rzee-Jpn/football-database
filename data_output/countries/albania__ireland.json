@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  Ireland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Zefi (741225)",
+        "nama_panggilan": "Kevin Zefi (741225)",
+        "tanggal_lahir": "2005-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dublin",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Ireland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

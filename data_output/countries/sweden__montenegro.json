@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Montenegro",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sadmir Zekovic (186771)",
+        "nama_panggilan": "Sadmir Zekovic (186771)",
+        "tanggal_lahir": "1994-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malmö",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Montenegro"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ajsel Kujovic (33189)",
+        "nama_panggilan": "Ajsel Kujovic (33189)",
+        "tanggal_lahir": "1986-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijelo Polje",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Montenegro"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emir Kujovic (47199)",
+        "nama_panggilan": "Emir Kujovic (47199)",
+        "tanggal_lahir": "1988-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijelo Polje",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Montenegro"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Nigeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bernie Ibini-Isei (140205)",
+        "nama_panggilan": "Bernie Ibini-Isei (140205)",
+        "tanggal_lahir": "1992-09-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port Harcourt",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Nigeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Folami (532107)",
+        "nama_panggilan": "Ben Folami (532107)",
+        "tanggal_lahir": "1999-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

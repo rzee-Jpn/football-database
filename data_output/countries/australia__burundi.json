@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Burundi",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nestory Irankunda (956920)",
+        "nama_panggilan": "Nestory Irankunda (956920)",
+        "tanggal_lahir": "2006-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigoma",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Burundi"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

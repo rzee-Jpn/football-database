@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Latvia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "DeAndre Yedlin (255916)",
+        "nama_panggilan": "DeAndre Yedlin (255916)",
+        "tanggal_lahir": "1993-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seattle, Washington",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Latvia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

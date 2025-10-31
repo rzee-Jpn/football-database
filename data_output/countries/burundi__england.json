@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saido Berahino (128897)",
+        "nama_panggilan": "Saido Berahino (128897)",
+        "tanggal_lahir": "1993-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

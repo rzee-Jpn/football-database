@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Colombia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikkel Qvist (476735)",
+        "nama_panggilan": "Mikkel Qvist (476735)",
+        "tanggal_lahir": "1993-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogota",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Colombia"
+        ],
+        "tinggi_badan_cm": "203.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonel Montano (491391)",
+        "nama_panggilan": "Leonel Montano (491391)",
+        "tanggal_lahir": "1999-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nørrebro",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Colombia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

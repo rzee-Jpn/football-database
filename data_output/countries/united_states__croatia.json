@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Croatia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ante Razov (3482)",
+        "nama_panggilan": "Ante Razov (3482)",
+        "tanggal_lahir": "1974-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Whittier, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Croatia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Pulisic (315779)",
+        "nama_panggilan": "Christian Pulisic (315779)",
+        "tanggal_lahir": "1998-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hershey, Pennsylvania",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Croatia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frankie Hejduk (72)",
+        "nama_panggilan": "Frankie Hejduk (72)",
+        "tanggal_lahir": "1974-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Mesa, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Croatia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

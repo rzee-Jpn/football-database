@@ -1,0 +1,823 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Nigeria",
+  "total_pemain": 24,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laolu Oladipo (1144879)",
+        "nama_panggilan": "Laolu Oladipo (1144879)",
+        "tanggal_lahir": "2007-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Ebobo (265265)",
+        "nama_panggilan": "Junior Ebobo (265265)",
+        "tanggal_lahir": "1993-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tilburg",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kingsley Ehizibue (272812)",
+        "nama_panggilan": "Kingsley Ehizibue (272812)",
+        "tanggal_lahir": "1995-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Trevor David (342013)",
+        "nama_panggilan": "Trevor David (342013)",
+        "tanggal_lahir": "1997-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Voorburg",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Segun Owobowale (288245)",
+        "nama_panggilan": "Segun Owobowale (288245)",
+        "tanggal_lahir": "1997-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leiden",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Randy Onuoha (327379)",
+        "nama_panggilan": "Randy Onuoha (327379)",
+        "tanggal_lahir": "1994-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lelystad",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobby Adekanye (331514)",
+        "nama_panggilan": "Bobby Adekanye (331514)",
+        "tanggal_lahir": "1999-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibadan",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chima Onyeike (30286)",
+        "nama_panggilan": "Chima Onyeike (30286)",
+        "tanggal_lahir": "1975-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zeist",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arnaut Danjuma (355861)",
+        "nama_panggilan": "Arnaut Danjuma (355861)",
+        "tanggal_lahir": "1997-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nigel Ogidi Nwankwo (399350)",
+        "nama_panggilan": "Nigel Ogidi Nwankwo (399350)",
+        "tanggal_lahir": "1998-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Den Haag",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Lamey (4344)",
+        "nama_panggilan": "Michael Lamey (4344)",
+        "tanggal_lahir": "1979-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joshua Zirkzee (435648)",
+        "nama_panggilan": "Joshua Zirkzee (435648)",
+        "tanggal_lahir": "2001-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schiedam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Esosa Oghogho (514133)",
+        "nama_panggilan": "Esosa Oghogho (514133)",
+        "tanggal_lahir": "1998-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaandam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dillon Hoogewerf (559321)",
+        "nama_panggilan": "Dillon Hoogewerf (559321)",
+        "tanggal_lahir": "2003-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almere",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Emegha (559328)",
+        "nama_panggilan": "Emmanuel Emegha (559328)",
+        "tanggal_lahir": "2003-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Den Haag",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gibson Yah (559325)",
+        "nama_panggilan": "Gibson Yah (559325)",
+        "tanggal_lahir": "2003-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "TJ Odunze (576444)",
+        "nama_panggilan": "TJ Odunze (576444)",
+        "tanggal_lahir": "2000-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eindhoven",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamdi Akujobi (590773)",
+        "nama_panggilan": "Hamdi Akujobi (590773)",
+        "tanggal_lahir": "2000-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Enem (678035)",
+        "nama_panggilan": "Jay Enem (678035)",
+        "tanggal_lahir": "2003-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joshua Mukeh (691975)",
+        "nama_panggilan": "Joshua Mukeh (691975)",
+        "tanggal_lahir": "2003-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Utrecht",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan van der Pol (707366)",
+        "nama_panggilan": "Jonathan van der Pol (707366)",
+        "tanggal_lahir": "2002-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel van de Blaak (738481)",
+        "nama_panggilan": "Emmanuel van de Blaak (738481)",
+        "tanggal_lahir": "2005-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Zirkzee (744151)",
+        "nama_panggilan": "Jordan Zirkzee (744151)",
+        "tanggal_lahir": "2005-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schiedam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neville Ogidi Nwankwo (951398)",
+        "nama_panggilan": "Neville Ogidi Nwankwo (951398)",
+        "tanggal_lahir": "2002-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

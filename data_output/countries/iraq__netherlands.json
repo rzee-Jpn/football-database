@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iraq  Netherlands",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anmar Almubaraki (155769)",
+        "nama_panggilan": "Anmar Almubaraki (155769)",
+        "tanggal_lahir": "1991-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Al-Basrah",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  Netherlands"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rewan Amin (241402)",
+        "nama_panggilan": "Rewan Amin (241402)",
+        "tanggal_lahir": "1996-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duhok",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  Netherlands"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Blnd Hassan (650472)",
+        "nama_panggilan": "Blnd Hassan (650472)",
+        "tanggal_lahir": "2003-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arnhem",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osama Rashid (95429)",
+        "nama_panggilan": "Osama Rashid (95429)",
+        "tanggal_lahir": "1992-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kirkuk",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

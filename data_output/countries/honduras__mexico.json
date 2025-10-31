@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Honduras  Mexico",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlo Costly (46845)",
+        "nama_panggilan": "Carlo Costly (46845)",
+        "tanggal_lahir": "1982-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Pedro Sula",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Mexico"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

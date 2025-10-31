@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Ireland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benedict Laverty (445349)",
+        "nama_panggilan": "Benedict Laverty (445349)",
+        "tanggal_lahir": "1997-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Ireland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Nebel (503160)",
+        "nama_panggilan": "Paul Nebel (503160)",
+        "tanggal_lahir": "2002-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Nauheim",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Ireland"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Tiernan (644559)",
+        "nama_panggilan": "Liam Tiernan (644559)",
+        "tanggal_lahir": "2003-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Ireland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

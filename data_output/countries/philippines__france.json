@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Lombardo (443290)",
+        "nama_panggilan": "Enzo Lombardo (443290)",
+        "tanggal_lahir": "1997-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Décines-Charpieu",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mozambique",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lennox Cumbe (1005716)",
+        "nama_panggilan": "Lennox Cumbe (1005716)",
+        "tanggal_lahir": "2003-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Momed Ferreira (1047106)",
+        "nama_panggilan": "Momed Ferreira (1047106)",
+        "tanggal_lahir": "2003-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "António Sumbane (1111600)",
+        "nama_panggilan": "António Sumbane (1111600)",
+        "tanggal_lahir": "2004-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chamito (1111613)",
+        "nama_panggilan": "Chamito (1111613)",
+        "tanggal_lahir": "2004-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zainadine (137192)",
+        "nama_panggilan": "Zainadine (137192)",
+        "tanggal_lahir": "1988-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mexer (127610)",
+        "nama_panggilan": "Mexer (127610)",
+        "tanggal_lahir": "1988-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reginaldo (221799)",
+        "nama_panggilan": "Reginaldo (221799)",
+        "tanggal_lahir": "1990-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quelimane",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Clésio Baúque (211796)",
+        "nama_panggilan": "Clésio Baúque (211796)",
+        "tanggal_lahir": "1994-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reinildo Mandava (240692)",
+        "nama_panggilan": "Reinildo Mandava (240692)",
+        "tanggal_lahir": "1994-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beira",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faisal Bangal (279909)",
+        "nama_panggilan": "Faisal Bangal (279909)",
+        "tanggal_lahir": "1995-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chimoio",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geraldo (357785)",
+        "nama_panggilan": "Geraldo (357785)",
+        "tanggal_lahir": "1992-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gildo (407356)",
+        "nama_panggilan": "Gildo (407356)",
+        "tanggal_lahir": "1995-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cidade da Beira",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bonera (534423)",
+        "nama_panggilan": "Bonera (534423)",
+        "tanggal_lahir": "1997-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Langa (631472)",
+        "nama_panggilan": "Bruno Langa (631472)",
+        "tanggal_lahir": "1997-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dario Khan (63499)",
+        "nama_panggilan": "Dario Khan (63499)",
+        "tanggal_lahir": "1984-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Mondlane (707383)",
+        "nama_panggilan": "Ricardo Mondlane (707383)",
+        "tanggal_lahir": "2000-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chibuto",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abel Jochua (710775)",
+        "nama_panggilan": "Abel Jochua (710775)",
+        "tanggal_lahir": "2000-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremias Nhambire (744155)",
+        "nama_panggilan": "Jeremias Nhambire (744155)",
+        "tanggal_lahir": "2000-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dias Fumo (873589)",
+        "nama_panggilan": "Dias Fumo (873589)",
+        "tanggal_lahir": "2002-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martinho (876094)",
+        "nama_panggilan": "Martinho (876094)",
+        "tanggal_lahir": "1999-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beira",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Bechardas (863808)",
+        "nama_panggilan": "Pablo Bechardas (863808)",
+        "tanggal_lahir": "2002-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kimiss (863819)",
+        "nama_panggilan": "Kimiss (863819)",
+        "tanggal_lahir": "2004-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maputo",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

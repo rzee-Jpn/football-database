@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Chile",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Rojas (114940)",
+        "nama_panggilan": "Marco Rojas (114940)",
+        "tanggal_lahir": "1991-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Chile"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

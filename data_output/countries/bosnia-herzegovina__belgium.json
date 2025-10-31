@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deni Milosevic (168163)",
+        "nama_panggilan": "Deni Milosevic (168163)",
+        "tanggal_lahir": "1995-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lüttich",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damir Mirvic (27618)",
+        "nama_panggilan": "Damir Mirvic (27618)",
+        "tanggal_lahir": "1982-11-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bihac",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Belgium"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

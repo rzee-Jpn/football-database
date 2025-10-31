@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  England",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Will Jääskeläinen (328651)",
+        "nama_panggilan": "Will Jääskeläinen (328651)",
+        "tanggal_lahir": "1998-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bolton",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Jääskeläinen (564824)",
+        "nama_panggilan": "Emil Jääskeläinen (564824)",
+        "tanggal_lahir": "2001-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bolton",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Armstrong (741545)",
+        "nama_panggilan": "Daniel Armstrong (741545)",
+        "tanggal_lahir": "2005-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Finland  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

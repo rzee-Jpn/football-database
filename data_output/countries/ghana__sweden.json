@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ghana  Sweden",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Adjei (100669)",
+        "nama_panggilan": "Samuel Adjei (100669)",
+        "tanggal_lahir": "1992-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eksjo",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Sweden"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Shaze (124941)",
+        "nama_panggilan": "Isaac Shaze (124941)",
+        "tanggal_lahir": "1989-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Sweden"
+        ],
+        "tinggi_badan_cm": "164.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enoch Kofi Adu (88239)",
+        "nama_panggilan": "Enoch Kofi Adu (88239)",
+        "tanggal_lahir": "1990-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Sweden"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

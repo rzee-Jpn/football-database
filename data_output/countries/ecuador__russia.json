@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Ramírez (189485)",
+        "nama_panggilan": "Cristian Ramírez (189485)",
+        "tanggal_lahir": "1994-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santo Domingo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Russia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Noboa (45858)",
+        "nama_panggilan": "Christian Noboa (45858)",
+        "tanggal_lahir": "1985-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Russia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

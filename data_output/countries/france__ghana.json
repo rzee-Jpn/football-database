@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Ghana",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stredair Appuah (1004618)",
+        "nama_panggilan": "Stredair Appuah (1004618)",
+        "tanggal_lahir": "2004-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarcelles",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Allan Baclet (103001)",
+        "nama_panggilan": "Allan Baclet (103001)",
+        "tanggal_lahir": "1986-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beres Owusu (1052291)",
+        "nama_panggilan": "Beres Owusu (1052291)",
+        "tanggal_lahir": "2003-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Appiah (111038)",
+        "nama_panggilan": "Dennis Appiah (111038)",
+        "tanggal_lahir": "1992-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulouse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bismark Adomah (1262767)",
+        "nama_panggilan": "Bismark Adomah (1262767)",
+        "tanggal_lahir": "2007-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Troyes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enock Kwateng (288241)",
+        "nama_panggilan": "Enock Kwateng (288241)",
+        "tanggal_lahir": "1997-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mantes-la-Jolie",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grejohn Kyei (321647)",
+        "nama_panggilan": "Grejohn Kyei (321647)",
+        "tanggal_lahir": "1995-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gonesse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Desailly (3154)",
+        "nama_panggilan": "Marcel Desailly (3154)",
+        "tanggal_lahir": "1968-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Attah (395510)",
+        "nama_panggilan": "David Attah (395510)",
+        "tanggal_lahir": "1998-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mantes-la-Jolie",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Kyei (399544)",
+        "nama_panggilan": "Scott Kyei (399544)",
+        "tanggal_lahir": "1999-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gonesse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derick Osei (471243)",
+        "nama_panggilan": "Derick Osei (471243)",
+        "tanggal_lahir": "1998-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulouse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Attah (536478)",
+        "nama_panggilan": "Emmanuel Attah (536478)",
+        "tanggal_lahir": "2000-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mantes-la-Jolie",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pierre Ekwah (538994)",
+        "nama_panggilan": "Pierre Ekwah (538994)",
+        "tanggal_lahir": "2002-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Massy",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edwin Quarshie (590048)",
+        "nama_panggilan": "Edwin Quarshie (590048)",
+        "tanggal_lahir": "1995-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rennes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Gyeboaho (676192)",
+        "nama_panggilan": "Christian Gyeboaho (676192)",
+        "tanggal_lahir": "1996-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulouse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jerry Vandam (68902)",
+        "nama_panggilan": "Jerry Vandam (68902)",
+        "tanggal_lahir": "1988-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Godson Kyeremeh (651973)",
+        "nama_panggilan": "Godson Kyeremeh (651973)",
+        "tanggal_lahir": "2000-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melun",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeffrey Quarshie (740775)",
+        "nama_panggilan": "Jeffrey Quarshie (740775)",
+        "tanggal_lahir": "1991-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rennes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hammond Agamah (941252)",
+        "nama_panggilan": "Hammond Agamah (941252)",
+        "tanggal_lahir": "1997-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Gyeboaho (897493)",
+        "nama_panggilan": "Joseph Gyeboaho (897493)",
+        "tanggal_lahir": "1999-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulouse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Okyere (983288)",
+        "nama_panggilan": "Dylan Okyere (983288)",
+        "tanggal_lahir": "2001-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Ghana"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

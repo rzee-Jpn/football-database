@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Dimitrijevic (704127)",
+        "nama_panggilan": "Stefan Dimitrijevic (704127)",
+        "tanggal_lahir": "2003-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vicenza",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Serbia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristijan Firulesko (818129)",
+        "nama_panggilan": "Kristijan Firulesko (818129)",
+        "tanggal_lahir": "2003-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vicenza",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Serbia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  Germany",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khaled Narey (153664)",
+        "nama_panggilan": "Khaled Narey (153664)",
+        "tanggal_lahir": "1994-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuwied",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ihlas Bebou (237164)",
+        "nama_panggilan": "Ihlas Bebou (237164)",
+        "tanggal_lahir": "1994-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aledjo Kadara",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Etienne Amenyido (271103)",
+        "nama_panggilan": "Etienne Amenyido (271103)",
+        "tanggal_lahir": "1998-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herford",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frederic Ananou (240263)",
+        "nama_panggilan": "Frederic Ananou (240263)",
+        "tanggal_lahir": "1997-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bachirou Salou (255)",
+        "nama_panggilan": "Bachirou Salou (255)",
+        "tanggal_lahir": "1970-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Assimiou Touré (39107)",
+        "nama_panggilan": "Assimiou Touré (39107)",
+        "tanggal_lahir": "1988-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokodé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikell Touglo (453854)",
+        "nama_panggilan": "Nikell Touglo (453854)",
+        "tanggal_lahir": "2001-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ratingen",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pierre Nadjombe (696011)",
+        "nama_panggilan": "Pierre Nadjombe (696011)",
+        "tanggal_lahir": "2003-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peniel Mlapa (70280)",
+        "nama_panggilan": "Peniel Mlapa (70280)",
+        "tanggal_lahir": "1991-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Nador (707219)",
+        "nama_panggilan": "Steven Nador (707219)",
+        "tanggal_lahir": "2002-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krefeld",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sadik Fofana (644613)",
+        "nama_panggilan": "Sadik Fofana (644613)",
+        "tanggal_lahir": "2003-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aachen",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dikeni Salifou (664973)",
+        "nama_panggilan": "Dikeni Salifou (664973)",
+        "tanggal_lahir": "2003-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zaid Tchibara (929992)",
+        "nama_panggilan": "Zaid Tchibara (929992)",
+        "tanggal_lahir": "2006-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tchamba",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

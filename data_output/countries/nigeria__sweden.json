@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Sweden",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moses Ogbu (186702)",
+        "nama_panggilan": "Moses Ogbu (186702)",
+        "tanggal_lahir": "1991-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Osogbo",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Sweden"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edward Ofere (35761)",
+        "nama_panggilan": "Edward Ofere (35761)",
+        "tanggal_lahir": "1986-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enugu",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Sweden"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kennedy Igboananike (51828)",
+        "nama_panggilan": "Kennedy Igboananike (51828)",
+        "tanggal_lahir": "1989-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Igbo",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Sweden"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abiola Dauda (69651)",
+        "nama_panggilan": "Abiola Dauda (69651)",
+        "tanggal_lahir": "1988-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Sweden"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

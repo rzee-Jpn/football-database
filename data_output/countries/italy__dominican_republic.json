@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Dominican Republic",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo De Lorenzo (1058987)",
+        "nama_panggilan": "Matteo De Lorenzo (1058987)",
+        "tanggal_lahir": "2006-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genova",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romano Ferrari (1186997)",
+        "nama_panggilan": "Romano Ferrari (1186997)",
+        "tanggal_lahir": "2007-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Camaiore",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Barzotti (397254)",
+        "nama_panggilan": "Matteo Barzotti (397254)",
+        "tanggal_lahir": "1992-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cagli",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maycol Tejada Barreras (959871)",
+        "nama_panggilan": "Maycol Tejada Barreras (959871)",
+        "tanggal_lahir": "2006-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

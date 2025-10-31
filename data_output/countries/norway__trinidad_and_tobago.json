@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Trinidad and Tobago",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christer George (12019)",
+        "nama_panggilan": "Christer George (12019)",
+        "tanggal_lahir": "1979-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

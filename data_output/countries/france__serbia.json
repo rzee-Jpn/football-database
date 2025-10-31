@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Serbia",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladimir Karajcic (1168294)",
+        "nama_panggilan": "Vladimir Karajcic (1168294)",
+        "tanggal_lahir": "2004-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chambéry",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milos Simovic (151208)",
+        "nama_panggilan": "Milos Simovic (151208)",
+        "tanggal_lahir": "1985-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Muslin (19717)",
+        "nama_panggilan": "Marko Muslin (19717)",
+        "tanggal_lahir": "1985-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brest",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stephen Milosavljevic (167298)",
+        "nama_panggilan": "Stephen Milosavljevic (167298)",
+        "tanggal_lahir": "1993-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mulhouse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Milinkovic (354725)",
+        "nama_panggilan": "David Milinkovic (354725)",
+        "tanggal_lahir": "1994-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antibes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Bajic (465836)",
+        "nama_panggilan": "Stefan Bajic (465836)",
+        "tanggal_lahir": "2001-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Étienne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Zekovic (562362)",
+        "nama_panggilan": "Bogdan Zekovic (562362)",
+        "tanggal_lahir": "1998-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Peć",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Jevremovic (914884)",
+        "nama_panggilan": "Igor Jevremovic (914884)",
+        "tanggal_lahir": "2000-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Versailles",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jason Grbic (921478)",
+        "nama_panggilan": "Jason Grbic (921478)",
+        "tanggal_lahir": "2003-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Serbia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

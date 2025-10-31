@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Latvia  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniels Nosegbe-Suško (806946)",
+        "nama_panggilan": "Daniels Nosegbe-Suško (806946)",
+        "tanggal_lahir": "2004-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Latvia"
+        },
+        "kewarganegaraan": [
+          "Latvia  England"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joshua Wells (885049)",
+        "nama_panggilan": "Joshua Wells (885049)",
+        "tanggal_lahir": "2002-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Latvia  England"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  United States",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Laursen (157626)",
+        "nama_panggilan": "Ryan Laursen (157626)",
+        "tanggal_lahir": "1992-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Long Beach, California",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  United States"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Hansen (469782)",
+        "nama_panggilan": "Nicolas Hansen (469782)",
+        "tanggal_lahir": "2001-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Southwest Ranches, Florida",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  United States"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus Alstrup (654472)",
+        "nama_panggilan": "Marcus Alstrup (654472)",
+        "tanggal_lahir": "2004-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus McCoy (950320)",
+        "nama_panggilan": "Marcus McCoy (950320)",
+        "tanggal_lahir": "2005-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Delaney (91849)",
+        "nama_panggilan": "Thomas Delaney (91849)",
+        "tanggal_lahir": "1991-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frederiksberg",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  United States"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

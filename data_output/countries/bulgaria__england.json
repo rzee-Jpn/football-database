@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bulgaria  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Svetoslav Todorov (3978)",
+        "nama_panggilan": "Svetoslav Todorov (3978)",
+        "tanggal_lahir": "1978-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dobrich",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Slavi Spasov (614154)",
+        "nama_panggilan": "Slavi Spasov (614154)",
+        "tanggal_lahir": "2001-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blagoevgrad",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

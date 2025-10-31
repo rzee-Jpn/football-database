@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Greece",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Costa Iliadis (1320798)",
+        "nama_panggilan": "Costa Iliadis (1320798)",
+        "tanggal_lahir": "2005-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Canada  Greece"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kyriakos Stamatopoulos (26436)",
+        "nama_panggilan": "Kyriakos Stamatopoulos (26436)",
+        "tanggal_lahir": "1979-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kalamata",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Greece"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Pantemis (429217)",
+        "nama_panggilan": "James Pantemis (429217)",
+        "tanggal_lahir": "1997-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal, Québec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Greece"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Themi Antonoglou (680394)",
+        "nama_panggilan": "Themi Antonoglou (680394)",
+        "tanggal_lahir": "2001-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Greece"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niko Giantsopoulos (651928)",
+        "nama_panggilan": "Niko Giantsopoulos (651928)",
+        "tanggal_lahir": "1994-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Markham, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Greece"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

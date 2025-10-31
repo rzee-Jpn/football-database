@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United Arab Emirates  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mackenzie Hunt (574420)",
+        "nama_panggilan": "Mackenzie Hunt (574420)",
+        "tanggal_lahir": "2001-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "United Arab Emirates"
+        },
+        "kewarganegaraan": [
+          "United Arab Emirates  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Southern Sudan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kingsley Kuali (19461)",
+        "nama_panggilan": "Kingsley Kuali (19461)",
+        "tanggal_lahir": "1982-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yei",
+          "negara": "Southern Sudan"
+        },
+        "kewarganegaraan": [
+          "Southern Sudan"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Indonesia  Qatar",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Ali Jamin (872496)",
+        "nama_panggilan": "Mohammed Ali Jamin (872496)",
+        "tanggal_lahir": "2000-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Qatar"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

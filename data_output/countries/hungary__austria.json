@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Austria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szabolcs Sáfár (2964)",
+        "nama_panggilan": "Szabolcs Sáfár (2964)",
+        "tanggal_lahir": "1974-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Budapest",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Austria"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

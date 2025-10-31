@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Jersey",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kurtis Guthrie (192656)",
+        "nama_panggilan": "Kurtis Guthrie (192656)",
+        "tanggal_lahir": "1993-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jersey",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Jersey"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Graeme Le Saux (3157)",
+        "nama_panggilan": "Graeme Le Saux (3157)",
+        "tanggal_lahir": "1968-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint Helier",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Jersey"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

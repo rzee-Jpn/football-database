@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Georgia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Áron Yaakobishvili (938145)",
+        "nama_panggilan": "Áron Yaakobishvili (938145)",
+        "tanggal_lahir": "2006-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Budapest",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Georgia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antal Yaakobishvili (923915)",
+        "nama_panggilan": "Antal Yaakobishvili (923915)",
+        "tanggal_lahir": "2004-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Budapest",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Georgia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

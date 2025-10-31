@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Uruguay",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Tejera (375559)",
+        "nama_panggilan": "Alex Tejera (375559)",
+        "tanggal_lahir": "1996-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ossining, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Uruguay"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago (993685)",
+        "nama_panggilan": "Tiago (993685)",
+        "tanggal_lahir": "2005-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rocklin, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Uruguay"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

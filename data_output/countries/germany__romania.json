@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Romania",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Vuc (1028683)",
+        "nama_panggilan": "Patrick Vuc (1028683)",
+        "tanggal_lahir": "2004-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Canea (639583)",
+        "nama_panggilan": "Rareș Canea (639583)",
+        "tanggal_lahir": "2004-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Seimen (800946)",
+        "nama_panggilan": "Dennis Seimen (800946)",
+        "tanggal_lahir": "2005-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heilbronn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Romania"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

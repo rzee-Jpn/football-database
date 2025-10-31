@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Korea, South",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jason Eckl (1163078)",
+        "nama_panggilan": "Jason Eckl (1163078)",
+        "tanggal_lahir": "2007-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Korea, South"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

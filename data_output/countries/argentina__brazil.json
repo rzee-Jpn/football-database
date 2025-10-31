@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Brazil",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Cuesta (104326)",
+        "nama_panggilan": "Victor Cuesta (104326)",
+        "tanggal_lahir": "1988-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Plata",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Brazil"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Felipinho (1088574)",
+        "nama_panggilan": "Felipinho (1088574)",
+        "tanggal_lahir": "2006-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vinhedo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Brazil"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1981-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Paternal",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Brazil"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryduan Palermo Dutra (563818)",
+        "nama_panggilan": "Ryduan Palermo Dutra (563818)",
+        "tanggal_lahir": "1996-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Plata",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Brazil"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Syria  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aias Aosman (124673)",
+        "nama_panggilan": "Aias Aosman (124673)",
+        "tanggal_lahir": "1994-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kamishli",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahmoud Dahoud (191422)",
+        "nama_panggilan": "Mahmoud Dahoud (191422)",
+        "tanggal_lahir": "1996-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amûdê‎",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mustafa Abdullatif (688646)",
+        "nama_panggilan": "Mustafa Abdullatif (688646)",
+        "tanggal_lahir": "2003-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

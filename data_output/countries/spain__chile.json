@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Chile",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alberto Ulloa (1030374)",
+        "nama_panggilan": "Alberto Ulloa (1030374)",
+        "tanggal_lahir": "2003-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Chile"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yuzún Ley (1179588)",
+        "nama_panggilan": "Yuzún Ley (1179588)",
+        "tanggal_lahir": "2004-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arrecife",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Chile"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

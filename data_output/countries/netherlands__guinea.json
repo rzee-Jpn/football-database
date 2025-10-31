@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Guinea",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alpha Barry (1296493)",
+        "nama_panggilan": "Alpha Barry (1296493)",
+        "tanggal_lahir": "2007-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maastricht",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cheick Touré (424326)",
+        "nama_panggilan": "Cheick Touré (424326)",
+        "tanggal_lahir": "2001-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dordrecht",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Cissoko (575693)",
+        "nama_panggilan": "Ibrahim Cissoko (575693)",
+        "tanggal_lahir": "2003-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fodé Fofana (594039)",
+        "nama_panggilan": "Fodé Fofana (594039)",
+        "tanggal_lahir": "2002-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fofin Turay (671736)",
+        "nama_panggilan": "Fofin Turay (671736)",
+        "tanggal_lahir": "2004-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saydou Bangura (687267)",
+        "nama_panggilan": "Saydou Bangura (687267)",
+        "tanggal_lahir": "2003-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kerkrade",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Che Krabbendam (794115)",
+        "nama_panggilan": "Che Krabbendam (794115)",
+        "tanggal_lahir": "1999-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Toure (946868)",
+        "nama_panggilan": "Mohamed Toure (946868)",
+        "tanggal_lahir": "2005-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Guinea"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

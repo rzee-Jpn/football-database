@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burkina Faso  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kilian Nikièma (559319)",
+        "nama_panggilan": "Kilian Nikièma (559319)",
+        "tanggal_lahir": "2003-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Voorburg",
+          "negara": "Burkina Faso"
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Albania",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rocco Vata (741229)",
+        "nama_panggilan": "Rocco Vata (741229)",
+        "tanggal_lahir": "2005-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Albania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Justin Ferizaj (741271)",
+        "nama_panggilan": "Justin Ferizaj (741271)",
+        "tanggal_lahir": "2005-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dublin",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Nigeria",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Otorbi (1009766)",
+        "nama_panggilan": "David Otorbi (1009766)",
+        "tanggal_lahir": "2007-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valencia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevlin Henry (1345878)",
+        "nama_panggilan": "Kevlin Henry (1345878)",
+        "tanggal_lahir": "2006-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granada",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derik Osede (129483)",
+        "nama_panggilan": "Derik Osede (129483)",
+        "tanggal_lahir": "1993-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sydney Osazuwa (1214320)",
+        "nama_panggilan": "Sydney Osazuwa (1214320)",
+        "tanggal_lahir": "2007-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fuenlabrada",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mujaid Sadick (497663)",
+        "nama_panggilan": "Mujaid Sadick (497663)",
+        "tanggal_lahir": "2000-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Logroño",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Donald (627290)",
+        "nama_panggilan": "John Donald (627290)",
+        "tanggal_lahir": "2000-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murcia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Carlos (718201)",
+        "nama_panggilan": "Kevin Carlos (718201)",
+        "tanggal_lahir": "2001-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ceuta",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvel (935229)",
+        "nama_panggilan": "Marvel (935229)",
+        "tanggal_lahir": "2003-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Casablanca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samu Aghehowa (991268)",
+        "nama_panggilan": "Samu Aghehowa (991268)",
+        "tanggal_lahir": "2004-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melilla",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

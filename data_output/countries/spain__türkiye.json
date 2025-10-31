@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Türkiye",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arman Lazcano (975662)",
+        "nama_panggilan": "Arman Lazcano (975662)",
+        "tanggal_lahir": "2003-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Türkiye"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Wales",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carl Haworth (221044)",
+        "nama_panggilan": "Carl Haworth (221044)",
+        "tanggal_lahir": "1989-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Southport",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Wales"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

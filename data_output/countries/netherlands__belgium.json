@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Belgium",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Exaucé Pedro (1001411)",
+        "nama_panggilan": "Exaucé Pedro (1001411)",
+        "tanggal_lahir": "2002-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jelle van Rijswijk (331872)",
+        "nama_panggilan": "Jelle van Rijswijk (331872)",
+        "tanggal_lahir": "1996-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bree",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pascal Struijk (410708)",
+        "nama_panggilan": "Pascal Struijk (410708)",
+        "tanggal_lahir": "1999-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deurne",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Belgium"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luciano Carty (556749)",
+        "nama_panggilan": "Luciano Carty (556749)",
+        "tanggal_lahir": "2001-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Belgium"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Achterberg (580207)",
+        "nama_panggilan": "Tim Achterberg (580207)",
+        "tanggal_lahir": "1999-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turnhout",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Belgium"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

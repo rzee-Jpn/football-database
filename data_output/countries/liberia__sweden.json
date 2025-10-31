@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia  Sweden",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Wilson (258501)",
+        "nama_panggilan": "Peter Wilson (258501)",
+        "tanggal_lahir": "1996-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Sweden"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seth Hellberg (260560)",
+        "nama_panggilan": "Seth Hellberg (260560)",
+        "tanggal_lahir": "1995-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Liberia  Sweden"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Justin Salmon (494060)",
+        "nama_panggilan": "Justin Salmon (494060)",
+        "tanggal_lahir": "1999-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skärholmen",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Sweden"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

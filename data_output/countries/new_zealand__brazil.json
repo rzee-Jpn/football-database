@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Brazil",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Barbosa (1173070)",
+        "nama_panggilan": "Victor Barbosa (1173070)",
+        "tanggal_lahir": "2007-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "New Zealand  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Dibley-Dias (817611)",
+        "nama_panggilan": "Matt Dibley-Dias (817611)",
+        "tanggal_lahir": "2003-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lower Hutt",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Algeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boualem Khoukhi (222669)",
+        "nama_panggilan": "Boualem Khoukhi (222669)",
+        "tanggal_lahir": "1990-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bou Ismaïl",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Algeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Said Brahmi (306383)",
+        "nama_panggilan": "Said Brahmi (306383)",
+        "tanggal_lahir": "1995-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oran",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Algeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

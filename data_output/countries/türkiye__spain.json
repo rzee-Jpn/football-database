@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sercan Sararer (45464)",
+        "nama_panggilan": "Sercan Sararer (45464)",
+        "tanggal_lahir": "1989-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nürnberg",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

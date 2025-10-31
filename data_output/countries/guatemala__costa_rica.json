@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guatemala  Costa Rica",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damián Rivera (722649)",
+        "nama_panggilan": "Damián Rivera (722649)",
+        "tanggal_lahir": "2002-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cranston, Rhode Island",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  Costa Rica"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

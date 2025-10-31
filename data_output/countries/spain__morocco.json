@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Morocco",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khalid Noureddine (1034471)",
+        "nama_panggilan": "Khalid Noureddine (1034471)",
+        "tanggal_lahir": "2003-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Figueres",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simo (1101303)",
+        "nama_panggilan": "Simo (1101303)",
+        "tanggal_lahir": "2003-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huelva",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Kamal (128222)",
+        "nama_panggilan": "Mohamed Kamal (128222)",
+        "tanggal_lahir": "1992-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adnane Ghailan (1225762)",
+        "nama_panggilan": "Adnane Ghailan (1225762)",
+        "tanggal_lahir": "2000-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iomar Vidal (1161276)",
+        "nama_panggilan": "Iomar Vidal (1161276)",
+        "tanggal_lahir": "1999-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alcoy",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Messoussi (1184433)",
+        "nama_panggilan": "Diego Messoussi (1184433)",
+        "tanggal_lahir": "2003-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Otegui (374082)",
+        "nama_panggilan": "Antonio Otegui (374082)",
+        "tanggal_lahir": "1998-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendavia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssef Ali (431184)",
+        "nama_panggilan": "Youssef Ali (431184)",
+        "tanggal_lahir": "1997-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdelhadi Khalok (431318)",
+        "nama_panggilan": "Abdelhadi Khalok (431318)",
+        "tanggal_lahir": "1996-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conil de la Frontera",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Benktib (459282)",
+        "nama_panggilan": "Mohamed Benktib (459282)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moha Moukhliss (495622)",
+        "nama_panggilan": "Moha Moukhliss (495622)",
+        "tanggal_lahir": "2000-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karim El Kounni (699419)",
+        "nama_panggilan": "Karim El Kounni (699419)",
+        "tanggal_lahir": "1998-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bilal Kandoussi (701052)",
+        "nama_panggilan": "Bilal Kandoussi (701052)",
+        "tanggal_lahir": "2000-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Yousfi (709481)",
+        "nama_panggilan": "Ayoub Yousfi (709481)",
+        "tanggal_lahir": "2002-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lleida",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aloisio (71925)",
+        "nama_panggilan": "Aloisio (71925)",
+        "tanggal_lahir": "1979-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melilla",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssef Zayzoun (725920)",
+        "nama_panggilan": "Youssef Zayzoun (725920)",
+        "tanggal_lahir": "2001-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palamós",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aisar Ahmed (817753)",
+        "nama_panggilan": "Aisar Ahmed (817753)",
+        "tanggal_lahir": "2001-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ceuta",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Cherradi (939436)",
+        "nama_panggilan": "Adam Cherradi (939436)",
+        "tanggal_lahir": "2003-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hospitalet de Llobregat",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taufek Bayoud (944324)",
+        "nama_panggilan": "Taufek Bayoud (944324)",
+        "tanggal_lahir": "2001-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ceuta",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alí Ali Al-Lal (863983)",
+        "nama_panggilan": "Alí Ali Al-Lal (863983)",
+        "tanggal_lahir": "2000-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melilla",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zaki (865100)",
+        "nama_panggilan": "Zaki (865100)",
+        "tanggal_lahir": "2002-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melilla",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

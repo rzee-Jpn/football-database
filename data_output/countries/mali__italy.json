@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mali  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salif Sangare (613105)",
+        "nama_panggilan": "Salif Sangare (613105)",
+        "tanggal_lahir": "1998-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bregbo",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Souleymane Diamoutene (8189)",
+        "nama_panggilan": "Souleymane Diamoutene (8189)",
+        "tanggal_lahir": "1983-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sikasso",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

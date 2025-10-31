@@ -1,0 +1,1401 @@
+{
+  "kategori": "negara",
+  "nama_group": "Algeria",
+  "total_pemain": 41,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yacine Bezzaz (13763)",
+        "nama_panggilan": "Yacine Bezzaz (13763)",
+        "tanggal_lahir": "1981-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grarem Gouga",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maisser Ramy Bouteba (1234186)",
+        "nama_panggilan": "Maisser Ramy Bouteba (1234186)",
+        "tanggal_lahir": "2003-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constantine",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdennour Hassaine (1255314)",
+        "nama_panggilan": "Abdennour Hassaine (1255314)",
+        "tanggal_lahir": "2002-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tlemcen",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moha Belayachi (1256205)",
+        "nama_panggilan": "Moha Belayachi (1256205)",
+        "tanggal_lahir": "2004-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Essaïd Belkalem (162395)",
+        "nama_panggilan": "Essaïd Belkalem (162395)",
+        "tanggal_lahir": "1989-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mekla",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yahia Cherif (162447)",
+        "nama_panggilan": "Yahia Cherif (162447)",
+        "tanggal_lahir": "1985-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hydra",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Islam Slimani (174915)",
+        "nama_panggilan": "Islam Slimani (174915)",
+        "tanggal_lahir": "1988-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Hammamet",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youcef Belaïli (175014)",
+        "nama_panggilan": "Youcef Belaïli (175014)",
+        "tanggal_lahir": "1992-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oran",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Nabil Bellat (175480)",
+        "nama_panggilan": "Mohamed Nabil Bellat (175480)",
+        "tanggal_lahir": "1982-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zinedine Ferhat (232895)",
+        "nama_panggilan": "Zinedine Ferhat (232895)",
+        "tanggal_lahir": "1993-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bordj Menaïel",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Benyettou (233103)",
+        "nama_panggilan": "Mohamed Benyettou (233103)",
+        "tanggal_lahir": "1989-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mohammadia",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Azzi (236725)",
+        "nama_panggilan": "Ayoub Azzi (236725)",
+        "tanggal_lahir": "1989-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouargla",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Baghdad Bounedjah (209992)",
+        "nama_panggilan": "Baghdad Bounedjah (209992)",
+        "tanggal_lahir": "1991-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oran",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Abdellaoui (262208)",
+        "nama_panggilan": "Ayoub Abdellaoui (262208)",
+        "tanggal_lahir": "1993-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reghaïa",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Benkhemassa (262220)",
+        "nama_panggilan": "Mohamed Benkhemassa (262220)",
+        "tanggal_lahir": "1993-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oran",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zakaria Naidji (345562)",
+        "nama_panggilan": "Zakaria Naidji (345562)",
+        "tanggal_lahir": "1995-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bordj Bou Arreridj",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramy Bensebaini (284732)",
+        "nama_panggilan": "Ramy Bensebaini (284732)",
+        "tanggal_lahir": "1995-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constantine",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oussama Darfalou (321182)",
+        "nama_panggilan": "Oussama Darfalou (321182)",
+        "tanggal_lahir": "1993-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Menaâ",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youcef Atal (416108)",
+        "nama_panggilan": "Youcef Atal (416108)",
+        "tanggal_lahir": "1996-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boghni",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Farid El Melali (425400)",
+        "nama_panggilan": "Farid El Melali (425400)",
+        "tanggal_lahir": "1997-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blida",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naoufel Khacef (462738)",
+        "nama_panggilan": "Naoufel Khacef (462738)",
+        "tanggal_lahir": "1997-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kouba",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Mouali (475759)",
+        "nama_panggilan": "Hamza Mouali (475759)",
+        "tanggal_lahir": "1998-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Mouradia",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilyes Chetti (477834)",
+        "nama_panggilan": "Ilyes Chetti (477834)",
+        "tanggal_lahir": "1995-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Annaba",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faris Khenniche (44472)",
+        "nama_panggilan": "Faris Khenniche (44472)",
+        "tanggal_lahir": "1981-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karim Aribi (456080)",
+        "nama_panggilan": "Karim Aribi (456080)",
+        "tanggal_lahir": "1994-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Réghaïa",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Houssam Ghacha (503035)",
+        "nama_panggilan": "Houssam Ghacha (503035)",
+        "tanggal_lahir": "1995-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouled Djellal",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Billal Messaoudi (545400)",
+        "nama_panggilan": "Billal Messaoudi (545400)",
+        "tanggal_lahir": "1997-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kadiria",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haithem Loucif (550862)",
+        "nama_panggilan": "Haithem Loucif (550862)",
+        "tanggal_lahir": "1996-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Batna",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hicham Boudaoui (560593)",
+        "nama_panggilan": "Hicham Boudaoui (560593)",
+        "tanggal_lahir": "1999-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Béchar",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aïssa Boudechicha (592398)",
+        "nama_panggilan": "Aïssa Boudechicha (592398)",
+        "tanggal_lahir": "2000-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medjana",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdelkahar Kadri (592400)",
+        "nama_panggilan": "Abdelkahar Kadri (592400)",
+        "tanggal_lahir": "2000-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hammamet",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohand Larbi (631452)",
+        "nama_panggilan": "Mohand Larbi (631452)",
+        "tanggal_lahir": "1982-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tizi Ouzou",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafik Halliche (67815)",
+        "nama_panggilan": "Rafik Halliche (67815)",
+        "tanggal_lahir": "1986-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Algier",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmed Kendouci (645764)",
+        "nama_panggilan": "Ahmed Kendouci (645764)",
+        "tanggal_lahir": "1999-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ghriss",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kheireddine Zarabi (73738)",
+        "nama_panggilan": "Kheireddine Zarabi (73738)",
+        "tanggal_lahir": "1984-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hussein Dey",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Amoura (746910)",
+        "nama_panggilan": "Mohamed Amoura (746910)",
+        "tanggal_lahir": "2000-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tahir",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Malik (822938)",
+        "nama_panggilan": "Omar Malik (822938)",
+        "tanggal_lahir": "2002-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Monsef Bakrar (854382)",
+        "nama_panggilan": "Monsef Bakrar (854382)",
+        "tanggal_lahir": "2001-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sétif",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Belloumi (857079)",
+        "nama_panggilan": "Mohamed Belloumi (857079)",
+        "tanggal_lahir": "2002-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mascara",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Abbar (98259)",
+        "nama_panggilan": "Samir Abbar (98259)",
+        "tanggal_lahir": "1982-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mekla",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nehdim Lahocine (983282)",
+        "nama_panggilan": "Nehdim Lahocine (983282)",
+        "tanggal_lahir": "1992-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Algeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

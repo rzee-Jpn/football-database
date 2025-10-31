@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Serbia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Petric (28356)",
+        "nama_panggilan": "Denis Petric (28356)",
+        "tanggal_lahir": "1988-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Serbia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peda Misimovic (702887)",
+        "nama_panggilan": "Peda Misimovic (702887)",
+        "tanggal_lahir": "1994-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Serbia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Relja Obric (940553)",
+        "nama_panggilan": "Relja Obric (940553)",
+        "tanggal_lahir": "2006-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrade",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Serbia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

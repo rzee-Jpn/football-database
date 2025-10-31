@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vadik Murria (627283)",
+        "nama_panggilan": "Vadik Murria (627283)",
+        "tanggal_lahir": "2000-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kemerovo",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Spain"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Cheryshev (98322)",
+        "nama_panggilan": "Denis Cheryshev (98322)",
+        "tanggal_lahir": "1990-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nizhniy Novgorod",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  Argentina",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando Zampedri (104006)",
+        "nama_panggilan": "Fernando Zampedri (104006)",
+        "tanggal_lahir": "1988-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chajarí",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leandro Benegas (125899)",
+        "nama_panggilan": "Leandro Benegas (125899)",
+        "tanggal_lahir": "1988-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Catalán (237051)",
+        "nama_panggilan": "Matías Catalán (237051)",
+        "tanggal_lahir": "1992-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mar del Plata",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luciano Cabral (322610)",
+        "nama_panggilan": "Luciano Cabral (322610)",
+        "tanggal_lahir": "1995-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "General Alvear",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximiliano Schenfeld (589634)",
+        "nama_panggilan": "Maximiliano Schenfeld (589634)",
+        "tanggal_lahir": "1992-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Copiapó",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ulises Ortegoza (654814)",
+        "nama_panggilan": "Ulises Ortegoza (654814)",
+        "tanggal_lahir": "1997-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Nicolás de los Arroyos",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Barticciotto (737920)",
+        "nama_panggilan": "Bruno Barticciotto (737920)",
+        "tanggal_lahir": "2001-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitacura",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcelo Larrondo (87463)",
+        "nama_panggilan": "Marcelo Larrondo (87463)",
+        "tanggal_lahir": "1988-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tunuyán",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcelo Scatolaro (89255)",
+        "nama_panggilan": "Marcelo Scatolaro (89255)",
+        "tanggal_lahir": "1985-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Chile",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Croatia",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hannes Bladh Pijaca (1065042)",
+        "nama_panggilan": "Hannes Bladh Pijaca (1065042)",
+        "tanggal_lahir": "2005-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elton Fischerström Opancar (1069496)",
+        "nama_panggilan": "Elton Fischerström Opancar (1069496)",
+        "tanggal_lahir": "2007-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davor Blazevic (138408)",
+        "nama_panggilan": "Davor Blazevic (138408)",
+        "tanggal_lahir": "1993-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Falun",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rade Prica (1610)",
+        "nama_panggilan": "Rade Prica (1610)",
+        "tanggal_lahir": "1980-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljungby",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darko Lukanovic (18784)",
+        "nama_panggilan": "Darko Lukanovic (18784)",
+        "tanggal_lahir": "1984-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Branimir Hrgota (171209)",
+        "nama_panggilan": "Branimir Hrgota (171209)",
+        "tanggal_lahir": "1993-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Rogic (217069)",
+        "nama_panggilan": "Filip Rogic (217069)",
+        "tanggal_lahir": "1993-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eskilstuna",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Ladan (217747)",
+        "nama_panggilan": "Nikola Ladan (217747)",
+        "tanggal_lahir": "1993-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "William Kurtovic (323296)",
+        "nama_panggilan": "William Kurtovic (323296)",
+        "tanggal_lahir": "1996-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karlskrona",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Matić (940280)",
+        "nama_panggilan": "Oliver Matić (940280)",
+        "tanggal_lahir": "2004-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Vranjes (942009)",
+        "nama_panggilan": "Roberto Vranjes (942009)",
+        "tanggal_lahir": "2005-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Motala",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Celic (906924)",
+        "nama_panggilan": "David Celic (906924)",
+        "tanggal_lahir": "2003-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Kujundzic (892164)",
+        "nama_panggilan": "Antonio Kujundzic (892164)",
+        "tanggal_lahir": "2006-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kalmar",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Croatia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

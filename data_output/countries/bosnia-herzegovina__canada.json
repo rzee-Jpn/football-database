@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Asmir Begovic (33873)",
+        "nama_panggilan": "Asmir Begovic (33873)",
+        "tanggal_lahir": "1987-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trebinje",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  Canada"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

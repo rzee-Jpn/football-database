@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Afghanistan  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Najem (221619)",
+        "nama_panggilan": "Adam Najem (221619)",
+        "tanggal_lahir": "1995-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clifton, New Jersey",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Najem (312901)",
+        "nama_panggilan": "David Najem (312901)",
+        "tanggal_lahir": "1992-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Livingston, New Jersey",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

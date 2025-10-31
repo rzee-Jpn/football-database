@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Brazil",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edmar Galovskyi (43299)",
+        "nama_panggilan": "Edmar Galovskyi (43299)",
+        "tanggal_lahir": "1980-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mogi das Cruzes",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Brazil"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Júnior Moraes (52915)",
+        "nama_panggilan": "Júnior Moraes (52915)",
+        "tanggal_lahir": "1987-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santos",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Brazil"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marlos (68778)",
+        "nama_panggilan": "Marlos (68778)",
+        "tanggal_lahir": "1988-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São José dos Pinhais",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Brazil"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

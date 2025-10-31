@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Ghana",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taufik Seidu (1114187)",
+        "nama_panggilan": "Taufik Seidu (1114187)",
+        "tanggal_lahir": "2008-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ghana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nico Williams (709187)",
+        "nama_panggilan": "Nico Williams (709187)",
+        "tanggal_lahir": "2002-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pamplona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ghana"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cyprus  DR Congo",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Toly Paizanos (132652)",
+        "nama_panggilan": "Toly Paizanos (132652)",
+        "tanggal_lahir": "1985-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus  DR Congo"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

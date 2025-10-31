@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Syria  Canada",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mo Babouli (364640)",
+        "nama_panggilan": "Mo Babouli (364640)",
+        "tanggal_lahir": "1993-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Al Ain",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Belal Halbouni (741044)",
+        "nama_panggilan": "Belal Halbouni (741044)",
+        "tanggal_lahir": "1999-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London, Ontario",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Canada"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

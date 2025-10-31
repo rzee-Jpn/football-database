@@ -1,0 +1,653 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Ghana",
+  "total_pemain": 19,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Osei Bonsu (1090331)",
+        "nama_panggilan": "Aaron Osei Bonsu (1090331)",
+        "tanggal_lahir": "2005-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Ofori (129587)",
+        "nama_panggilan": "Marvin Ofori (129587)",
+        "tanggal_lahir": "1994-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heusden-Zolder",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dickson Agyeman (13031)",
+        "nama_panggilan": "Dickson Agyeman (13031)",
+        "tanggal_lahir": "1985-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Prince Asubonteng (13033)",
+        "nama_panggilan": "Prince Asubonteng (13033)",
+        "tanggal_lahir": "1986-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gyamfi Kyeremeh (335856)",
+        "nama_panggilan": "Gyamfi Kyeremeh (335856)",
+        "tanggal_lahir": "1995-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gent",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terry Osei-Berkoe (356139)",
+        "nama_panggilan": "Terry Osei-Berkoe (356139)",
+        "tanggal_lahir": "1998-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brugge",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Sowah Adjei (408839)",
+        "nama_panggilan": "Emmanuel Sowah Adjei (408839)",
+        "tanggal_lahir": "1998-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elisha Sam (420886)",
+        "nama_panggilan": "Elisha Sam (420886)",
+        "tanggal_lahir": "1997-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antwerpen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enoch Oteng (42529)",
+        "nama_panggilan": "Enoch Oteng (42529)",
+        "tanggal_lahir": "1988-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jérémy Doku (486049)",
+        "nama_panggilan": "Jérémy Doku (486049)",
+        "tanggal_lahir": "2002-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borgerhout",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Asoma (496872)",
+        "nama_panggilan": "Samuel Asoma (496872)",
+        "tanggal_lahir": "2002-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berekum",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacky Donkor (553217)",
+        "nama_panggilan": "Jacky Donkor (553217)",
+        "tanggal_lahir": "1998-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gent",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Desmond Acquah (707803)",
+        "nama_panggilan": "Desmond Acquah (707803)",
+        "tanggal_lahir": "2002-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dirk Asare (708453)",
+        "nama_panggilan": "Dirk Asare (708453)",
+        "tanggal_lahir": "2004-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mol",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pierre Dwomoh (652803)",
+        "nama_panggilan": "Pierre Dwomoh (652803)",
+        "tanggal_lahir": "2004-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gent",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenneth Boakye (660747)",
+        "nama_panggilan": "Kenneth Boakye (660747)",
+        "tanggal_lahir": "2003-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Asante (719654)",
+        "nama_panggilan": "Isaac Asante (719654)",
+        "tanggal_lahir": "2002-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enock Agyei (724041)",
+        "nama_panggilan": "Enock Agyei (724041)",
+        "tanggal_lahir": "2005-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Amuzu (964251)",
+        "nama_panggilan": "Joseph Amuzu (964251)",
+        "tanggal_lahir": "2004-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mechelen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Ghana"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Netherlands",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoine Makoli (1053783)",
+        "nama_panggilan": "Antoine Makoli (1053783)",
+        "tanggal_lahir": "2004-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "'s-Gravenhage",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arvin Appiah (433257)",
+        "nama_panggilan": "Arvin Appiah (433257)",
+        "tanggal_lahir": "2001-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derry Murkin (457341)",
+        "nama_panggilan": "Derry Murkin (457341)",
+        "tanggal_lahir": "1999-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colchester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malcolm Ebiowei (512354)",
+        "nama_panggilan": "Malcolm Ebiowei (512354)",
+        "tanggal_lahir": "2003-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Barkers (612580)",
+        "nama_panggilan": "Dylan Barkers (612580)",
+        "tanggal_lahir": "2000-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lesley Duru (835004)",
+        "nama_panggilan": "Lesley Duru (835004)",
+        "tanggal_lahir": "2001-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boyd Beacroft (953199)",
+        "nama_panggilan": "Boyd Beacroft (953199)",
+        "tanggal_lahir": "2005-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommy Setford (848753)",
+        "nama_panggilan": "Tommy Setford (848753)",
+        "tanggal_lahir": "2006-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haarlem",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sahid Kamara (965621)",
+        "nama_panggilan": "Sahid Kamara (965621)",
+        "tanggal_lahir": "2004-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abou Kanté (315095)",
+        "nama_panggilan": "Abou Kanté (315095)",
+        "tanggal_lahir": "1994-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pontoise",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mouhamadou Drammeh (399551)",
+        "nama_panggilan": "Mouhamadou Drammeh (399551)",
+        "tanggal_lahir": "1999-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

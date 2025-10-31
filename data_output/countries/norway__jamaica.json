@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Jamaica",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Travis Hernes (1053908)",
+        "nama_panggilan": "Travis Hernes (1053908)",
+        "tanggal_lahir": "2005-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heradsbygda",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Jamaica"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

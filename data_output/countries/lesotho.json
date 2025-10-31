@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lesotho",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sunny Jane (314454)",
+        "nama_panggilan": "Sunny Jane (314454)",
+        "tanggal_lahir": "1991-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maseru",
+          "negara": "Lesotho"
+        },
+        "kewarganegaraan": [
+          "Lesotho"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Napo Matsoso (482651)",
+        "nama_panggilan": "Napo Matsoso (482651)",
+        "tanggal_lahir": "1994-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maseru",
+          "negara": "Lesotho"
+        },
+        "kewarganegaraan": [
+          "Lesotho"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

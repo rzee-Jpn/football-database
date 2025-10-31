@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Italy",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaime León (198863)",
+        "nama_panggilan": "Jaime León (198863)",
+        "tanggal_lahir": "1983-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Italy"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Alberto Posenato (392020)",
+        "nama_panggilan": "Juan Alberto Posenato (392020)",
+        "tanggal_lahir": "1999-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogotá",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iván Córdoba (5772)",
+        "nama_panggilan": "Iván Córdoba (5772)",
+        "tanggal_lahir": "1976-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rionegro",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Italy"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Cuadrado (91970)",
+        "nama_panggilan": "Juan Cuadrado (91970)",
+        "tanggal_lahir": "1988-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Necoclí",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

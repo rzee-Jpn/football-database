@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guyana  England",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keanu Marsh-Brown (116653)",
+        "nama_panggilan": "Keanu Marsh-Brown (116653)",
+        "tanggal_lahir": "1992-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Callum Harriott (170413)",
+        "nama_panggilan": "Callum Harriott (170413)",
+        "tanggal_lahir": "1994-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norbury",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Jeffrey (208823)",
+        "nama_panggilan": "Anthony Jeffrey (208823)",
+        "tanggal_lahir": "1994-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kadell Daniel (212729)",
+        "nama_panggilan": "Kadell Daniel (212729)",
+        "tanggal_lahir": "1994-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reiss Greenidge (265231)",
+        "nama_panggilan": "Reiss Greenidge (265231)",
+        "tanggal_lahir": "1996-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kai McKenzie-Lyle (344534)",
+        "nama_panggilan": "Kai McKenzie-Lyle (344534)",
+        "tanggal_lahir": "1997-11-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "201.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Cort (36874)",
+        "nama_panggilan": "Leon Cort (36874)",
+        "tanggal_lahir": "1979-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terence Vancooten (406935)",
+        "nama_panggilan": "Terence Vancooten (406935)",
+        "tanggal_lahir": "1997-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston upon Thames",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Danns (4108)",
+        "nama_panggilan": "Neil Danns (4108)",
+        "tanggal_lahir": "1982-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Gordon (474225)",
+        "nama_panggilan": "Liam Gordon (474225)",
+        "tanggal_lahir": "1999-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stephen Duke-McKenna (503731)",
+        "nama_panggilan": "Stephen Duke-McKenna (503731)",
+        "tanggal_lahir": "2000-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Briggs (51318)",
+        "nama_panggilan": "Matthew Briggs (51318)",
+        "tanggal_lahir": "1991-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bayli Spencer-Adams (533083)",
+        "nama_panggilan": "Bayli Spencer-Adams (533083)",
+        "tanggal_lahir": "2001-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elliot Bonds (568092)",
+        "nama_panggilan": "Elliot Bonds (568092)",
+        "tanggal_lahir": "2000-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaiah Jones (696631)",
+        "nama_panggilan": "Isaiah Jones (696631)",
+        "tanggal_lahir": "1999-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathan Moriah-Welsh (655139)",
+        "nama_panggilan": "Nathan Moriah-Welsh (655139)",
+        "tanggal_lahir": "2002-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maliq Cadogan (814812)",
+        "nama_panggilan": "Maliq Cadogan (814812)",
+        "tanggal_lahir": "2004-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Guyana  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

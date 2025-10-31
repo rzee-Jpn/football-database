@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Australia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jason Kodor (1062986)",
+        "nama_panggilan": "Jason Kodor (1062986)",
+        "tanggal_lahir": "2006-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Australia"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

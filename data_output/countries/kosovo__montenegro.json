@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Montenegro",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arijanet Murić (371021)",
+        "nama_panggilan": "Arijanet Murić (371021)",
+        "tanggal_lahir": "1998-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schlieren",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Montenegro"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Bosnia-Herzegovina",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eman Markovic (374321)",
+        "nama_panggilan": "Eman Markovic (374321)",
+        "tanggal_lahir": "1999-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyngdal",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hasan Jahic (867529)",
+        "nama_panggilan": "Hasan Jahic (867529)",
+        "tanggal_lahir": "2001-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fredrikstad",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

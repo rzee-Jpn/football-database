@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Montenegro",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danko Boskovic (1246)",
+        "nama_panggilan": "Danko Boskovic (1246)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neustadt an der Weinstraße",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Montenegro"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzenan Pejcinovic (819636)",
+        "nama_panggilan": "Dzenan Pejcinovic (819636)",
+        "tanggal_lahir": "2005-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Montenegro"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

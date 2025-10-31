@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Hungary",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximilian Balatoni (923537)",
+        "nama_panggilan": "Maximilian Balatoni (923537)",
+        "tanggal_lahir": "2005-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lillestrøm",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Hungary"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

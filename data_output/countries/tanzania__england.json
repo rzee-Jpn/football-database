@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tanzania  England",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adi Yussuf (173484)",
+        "nama_panggilan": "Adi Yussuf (173484)",
+        "tanggal_lahir": "1992-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zanzibar",
+          "negara": "Tanzania"
+        },
+        "kewarganegaraan": [
+          "Tanzania  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Nditi (530949)",
+        "nama_panggilan": "Roberto Nditi (530949)",
+        "tanggal_lahir": "2000-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Basingstoke",
+          "negara": "Tanzania"
+        },
+        "kewarganegaraan": [
+          "Tanzania  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tarryn Allarakhia (602159)",
+        "nama_panggilan": "Tarryn Allarakhia (602159)",
+        "tanggal_lahir": "1997-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Tanzania"
+        },
+        "kewarganegaraan": [
+          "Tanzania  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haji Mnoga (625082)",
+        "nama_panggilan": "Haji Mnoga (625082)",
+        "tanggal_lahir": "2002-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Portsmouth",
+          "negara": "Tanzania"
+        },
+        "kewarganegaraan": [
+          "Tanzania  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

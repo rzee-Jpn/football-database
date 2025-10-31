@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Ethiopia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Ahmed (995642)",
+        "nama_panggilan": "Ali Ahmed (995642)",
+        "tanggal_lahir": "2000-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Ethiopia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

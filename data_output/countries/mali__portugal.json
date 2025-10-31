@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mali  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Djikiné (78555)",
+        "nama_panggilan": "Mamadou Djikiné (78555)",
+        "tanggal_lahir": "1987-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

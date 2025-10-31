@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Romania",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Pîrv de Godoy (1316253)",
+        "nama_panggilan": "Patrick Pîrv de Godoy (1316253)",
+        "tanggal_lahir": "2008-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curitiba",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Júnior Morais (125069)",
+        "nama_panggilan": "Júnior Morais (125069)",
+        "tanggal_lahir": "1986-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Luís",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Romania"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus Diniz (56621)",
+        "nama_panggilan": "Marcus Diniz (56621)",
+        "tanggal_lahir": "1987-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitória",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

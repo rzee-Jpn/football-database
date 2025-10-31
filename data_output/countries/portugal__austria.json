@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Austria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás Händel (645588)",
+        "nama_panggilan": "Tomás Händel (645588)",
+        "tanggal_lahir": "2000-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guimarães",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Austria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

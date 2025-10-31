@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Slovenia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Bozanic (43117)",
+        "nama_panggilan": "Oliver Bozanic (43117)",
+        "tanggal_lahir": "1989-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney, New South Wales",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Sweden",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakob Johansson (358421)",
+        "nama_panggilan": "Jakob Johansson (358421)",
+        "tanggal_lahir": "1998-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Sweden"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Magnus Mattsson (489929)",
+        "nama_panggilan": "Magnus Mattsson (489929)",
+        "tanggal_lahir": "1999-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marstal",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Sweden"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Jørgensen (585323)",
+        "nama_panggilan": "Filip Jørgensen (585323)",
+        "tanggal_lahir": "2002-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomma",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Sweden"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pelle Mattsson (587298)",
+        "nama_panggilan": "Pelle Mattsson (587298)",
+        "tanggal_lahir": "2001-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marstal",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

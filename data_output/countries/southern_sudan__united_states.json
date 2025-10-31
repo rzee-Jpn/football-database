@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Southern Sudan  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Machop Chol (637456)",
+        "nama_panggilan": "Machop Chol (637456)",
+        "tanggal_lahir": "1998-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Khartoum",
+          "negara": "Southern Sudan"
+        },
+        "kewarganegaraan": [
+          "Southern Sudan  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryen Jiba (986498)",
+        "nama_panggilan": "Ryen Jiba (986498)",
+        "tanggal_lahir": "2001-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pasco, Washington",
+          "negara": "Southern Sudan"
+        },
+        "kewarganegaraan": [
+          "Southern Sudan  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

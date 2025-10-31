@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chinese Taipei  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christopher Tiao (675763)",
+        "nama_panggilan": "Christopher Tiao (675763)",
+        "tanggal_lahir": "2001-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Randolph, New Jersey",
+          "negara": "Chinese Taipei"
+        },
+        "kewarganegaraan": [
+          "Chinese Taipei  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derrek Chan (990841)",
+        "nama_panggilan": "Derrek Chan (990841)",
+        "tanggal_lahir": "1998-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cowan Heights, California",
+          "negara": "Chinese Taipei"
+        },
+        "kewarganegaraan": [
+          "Chinese Taipei  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

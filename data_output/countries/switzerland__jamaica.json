@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Jamaica",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabio Dixon (464192)",
+        "nama_panggilan": "Fabio Dixon (464192)",
+        "tanggal_lahir": "1999-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Jamaica"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burkina Faso  Germany",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alassane Ouédraogo (45)",
+        "nama_panggilan": "Alassane Ouédraogo (45)",
+        "tanggal_lahir": "1980-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boussouma",
+          "negara": "Burkina Faso"
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Germany"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

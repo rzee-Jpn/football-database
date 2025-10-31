@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  India",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krish Raweri (1141452)",
+        "nama_panggilan": "Krish Raweri (1141452)",
+        "tanggal_lahir": "2003-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  India"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

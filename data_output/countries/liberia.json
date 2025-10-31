@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Farkarlun (1238056)",
+        "nama_panggilan": "Jimmy Farkarlun (1238056)",
+        "tanggal_lahir": "2001-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Sumo Jr (1382558)",
+        "nama_panggilan": "Anthony Sumo Jr (1382558)",
+        "tanggal_lahir": "1999-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Nagbe (188989)",
+        "nama_panggilan": "Joe Nagbe (188989)",
+        "tanggal_lahir": "1968-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nimba County",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Gebro (19011)",
+        "nama_panggilan": "George Gebro (19011)",
+        "tanggal_lahir": "1981-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Dixon (27280)",
+        "nama_panggilan": "Jimmy Dixon (27280)",
+        "tanggal_lahir": "1981-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jubmanburg",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dioh Williams (27299)",
+        "nama_panggilan": "Dioh Williams (27299)",
+        "tanggal_lahir": "1984-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manu Dagher (32315)",
+        "nama_panggilan": "Manu Dagher (32315)",
+        "tanggal_lahir": "1984-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Foya Kamara",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Allen Njie (600611)",
+        "nama_panggilan": "Allen Njie (600611)",
+        "tanggal_lahir": "1999-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barnersville",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cherif Diallo (610545)",
+        "nama_panggilan": "Cherif Diallo (610545)",
+        "tanggal_lahir": "1997-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashley Williams (615750)",
+        "nama_panggilan": "Ashley Williams (615750)",
+        "tanggal_lahir": "2000-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Kamara (637273)",
+        "nama_panggilan": "Mohammed Kamara (637273)",
+        "tanggal_lahir": "1997-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sinkor",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "McColm Cephas (67898)",
+        "nama_panggilan": "McColm Cephas (67898)",
+        "tanggal_lahir": "1978-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sampson Dweh (686806)",
+        "nama_panggilan": "Sampson Dweh (686806)",
+        "tanggal_lahir": "2001-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cyrus Saydee (712647)",
+        "nama_panggilan": "Cyrus Saydee (712647)",
+        "tanggal_lahir": "1992-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Othello Bah (735566)",
+        "nama_panggilan": "Othello Bah (735566)",
+        "tanggal_lahir": "1995-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Virginia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Melto Quiah (941647)",
+        "nama_panggilan": "Joseph Melto Quiah (941647)",
+        "tanggal_lahir": "2004-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tonia Tisdell (91233)",
+        "nama_panggilan": "Tonia Tisdell (91233)",
+        "tanggal_lahir": "1992-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

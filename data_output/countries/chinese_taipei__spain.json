@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chinese Taipei  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaki Yen (93629)",
+        "nama_panggilan": "Yaki Yen (93629)",
+        "tanggal_lahir": "1989-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto del Rosario",
+          "negara": "Chinese Taipei"
+        },
+        "kewarganegaraan": [
+          "Chinese Taipei  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

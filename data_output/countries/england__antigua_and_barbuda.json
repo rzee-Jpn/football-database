@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Antigua and Barbuda",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reigan Heskey (1056437)",
+        "nama_panggilan": "Reigan Heskey (1056437)",
+        "tanggal_lahir": "2008-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kiernan Hughes-Mason (126254)",
+        "nama_panggilan": "Kiernan Hughes-Mason (126254)",
+        "tanggal_lahir": "1991-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominic Samuel (203784)",
+        "nama_panggilan": "Dominic Samuel (203784)",
+        "tanggal_lahir": "1994-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ledley King (3360)",
+        "nama_panggilan": "Ledley King (3360)",
+        "tanggal_lahir": "1980-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kieron Dyer (3118)",
+        "nama_panggilan": "Kieron Dyer (3118)",
+        "tanggal_lahir": "1978-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ipswich",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darnell Johnson (314372)",
+        "nama_panggilan": "Darnell Johnson (314372)",
+        "tanggal_lahir": "1998-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leicester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lee Peltier (38094)",
+        "nama_panggilan": "Lee Peltier (38094)",
+        "tanggal_lahir": "1986-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dempsey Arlott-John (590214)",
+        "nama_panggilan": "Dempsey Arlott-John (590214)",
+        "tanggal_lahir": "2001-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leicester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rudi Pache (734353)",
+        "nama_panggilan": "Rudi Pache (734353)",
+        "tanggal_lahir": "2002-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slough",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaden Heskey (961833)",
+        "nama_panggilan": "Jaden Heskey (961833)",
+        "tanggal_lahir": "2005-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Antigua and Barbuda"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

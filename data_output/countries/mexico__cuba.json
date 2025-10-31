@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Cuba",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jairo González (131066)",
+        "nama_panggilan": "Jairo González (131066)",
+        "tanggal_lahir": "1992-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guadalajara",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Cuba"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Calvo (233916)",
+        "nama_panggilan": "Carlos Calvo (233916)",
+        "tanggal_lahir": "1992-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mérida",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Cuba"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ozziel Herrera (629006)",
+        "nama_panggilan": "Ozziel Herrera (629006)",
+        "tanggal_lahir": "2001-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Culiacán Rosales",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Cuba"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

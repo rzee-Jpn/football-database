@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bangladesh  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cuba Mitchell (1042598)",
+        "nama_panggilan": "Cuba Mitchell (1042598)",
+        "tanggal_lahir": "2005-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "Bangladesh"
+        },
+        "kewarganegaraan": [
+          "Bangladesh  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Choudhury (341501)",
+        "nama_panggilan": "Hamza Choudhury (341501)",
+        "tanggal_lahir": "1997-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Loughborough",
+          "negara": "Bangladesh"
+        },
+        "kewarganegaraan": [
+          "Bangladesh  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

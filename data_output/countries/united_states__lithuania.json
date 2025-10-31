@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Lithuania",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Owen Pratt (1163440)",
+        "nama_panggilan": "Owen Pratt (1163440)",
+        "tanggal_lahir": "2008-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Lithuania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charles Kazlauskas (27707)",
+        "nama_panggilan": "Charles Kazlauskas (27707)",
+        "tanggal_lahir": "1982-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milwaukee",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Lithuania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Turner (425306)",
+        "nama_panggilan": "Matt Turner (425306)",
+        "tanggal_lahir": "1994-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Park Ridge, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Lithuania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rokas Pukstas (887816)",
+        "nama_panggilan": "Rokas Pukstas (887816)",
+        "tanggal_lahir": "2004-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stillwater, Oklahoma",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Lithuania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

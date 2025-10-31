@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Egypt  Türkiye",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayman Abdelaziz (6963)",
+        "nama_panggilan": "Ayman Abdelaziz (6963)",
+        "tanggal_lahir": "1978-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sharkia",
+          "negara": "Egypt"
+        },
+        "kewarganegaraan": [
+          "Egypt  Türkiye"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

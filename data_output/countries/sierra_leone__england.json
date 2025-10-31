@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sierra Leone  England",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osman Kamara (1012708)",
+        "nama_panggilan": "Osman Kamara (1012708)",
+        "tanggal_lahir": "2006-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hindolo Mustapha (1047258)",
+        "nama_panggilan": "Hindolo Mustapha (1047258)",
+        "tanggal_lahir": "2006-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdulai Bell-Baggie (137088)",
+        "nama_panggilan": "Abdulai Bell-Baggie (137088)",
+        "tanggal_lahir": "1992-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Caulker (121280)",
+        "nama_panggilan": "Steven Caulker (121280)",
+        "tanggal_lahir": "1991-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mustapha Dumbuya (123145)",
+        "nama_panggilan": "Mustapha Dumbuya (123145)",
+        "tanggal_lahir": "1987-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albert Jarrett (14030)",
+        "nama_panggilan": "Albert Jarrett (14030)",
+        "tanggal_lahir": "1984-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aziz Deen-Conteh (141563)",
+        "nama_panggilan": "Aziz Deen-Conteh (141563)",
+        "tanggal_lahir": "1993-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bumpe",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Curtis Davies (18227)",
+        "nama_panggilan": "Curtis Davies (18227)",
+        "tanggal_lahir": "1985-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Bangura (216568)",
+        "nama_panggilan": "Samuel Bangura (216568)",
+        "tanggal_lahir": "1995-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alie Sesay (272036)",
+        "nama_panggilan": "Alie Sesay (272036)",
+        "tanggal_lahir": "1994-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sullay Kaikai (244130)",
+        "nama_panggilan": "Sullay Kaikai (244130)",
+        "tanggal_lahir": "1995-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Wright (255822)",
+        "nama_panggilan": "Kevin Wright (255822)",
+        "tanggal_lahir": "1995-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ilford",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amadou Bakayoko (320408)",
+        "nama_panggilan": "Amadou Bakayoko (320408)",
+        "tanggal_lahir": "1996-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kenema",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Idris Kanu (405982)",
+        "nama_panggilan": "Idris Kanu (405982)",
+        "tanggal_lahir": "1999-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osman Kakay (419576)",
+        "nama_panggilan": "Osman Kakay (419576)",
+        "tanggal_lahir": "1997-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josh Koroma (429578)",
+        "nama_panggilan": "Josh Koroma (429578)",
+        "tanggal_lahir": "1998-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyrese Fornah (503918)",
+        "nama_panggilan": "Tyrese Fornah (503918)",
+        "tanggal_lahir": "1999-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Camden",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kallum Cesay (696183)",
+        "nama_panggilan": "Kallum Cesay (696183)",
+        "tanggal_lahir": "2002-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamil Conteh (733494)",
+        "nama_panggilan": "Kamil Conteh (733494)",
+        "tanggal_lahir": "2002-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abraham Kanu (890866)",
+        "nama_panggilan": "Abraham Kanu (890866)",
+        "tanggal_lahir": "2005-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reading",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Kanu (965605)",
+        "nama_panggilan": "Daniel Kanu (965605)",
+        "tanggal_lahir": "2004-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lambeth",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

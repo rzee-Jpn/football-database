@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Dominican Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franck Angong (801270)",
+        "nama_panggilan": "Franck Angong (801270)",
+        "tanggal_lahir": "2002-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douala",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

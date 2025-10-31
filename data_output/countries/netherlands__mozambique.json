@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Mozambique",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenny Tete (206746)",
+        "nama_panggilan": "Kenny Tete (206746)",
+        "tanggal_lahir": "1995-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Mozambique"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

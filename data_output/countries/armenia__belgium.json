@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yvan Yagan (124198)",
+        "nama_panggilan": "Yvan Yagan (124198)",
+        "tanggal_lahir": "1989-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Belgium"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashot Sarkisjan (235855)",
+        "nama_panggilan": "Ashot Sarkisjan (235855)",
+        "tanggal_lahir": "1994-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Etchmiadzin",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Belgium"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

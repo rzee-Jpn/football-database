@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Bosnia-Herzegovina",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sadik Spijodic (341991)",
+        "nama_panggilan": "Sadik Spijodic (341991)",
+        "tanggal_lahir": "1996-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doborovci",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Memic (276035)",
+        "nama_panggilan": "Haris Memic (276035)",
+        "tanggal_lahir": "1995-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Winterswijk",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adnan Alisic (37912)",
+        "nama_panggilan": "Adnan Alisic (37912)",
+        "tanggal_lahir": "1984-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Orhan Džepar (355685)",
+        "nama_panggilan": "Orhan Džepar (355685)",
+        "tanggal_lahir": "1996-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eefde",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Haznadar (4677)",
+        "nama_panggilan": "Admir Haznadar (4677)",
+        "tanggal_lahir": "1985-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mijo Tunjic (52532)",
+        "nama_panggilan": "Mijo Tunjic (52532)",
+        "tanggal_lahir": "1988-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gradacac",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  Tanzania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diallo Irakoze (1100428)",
+        "nama_panggilan": "Diallo Irakoze (1100428)",
+        "tanggal_lahir": "2001-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigoma",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  Tanzania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

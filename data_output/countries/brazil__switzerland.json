@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Switzerland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piu (33344)",
+        "nama_panggilan": "Piu (33344)",
+        "tanggal_lahir": "1976-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pereira Barreto",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Silvio (38192)",
+        "nama_panggilan": "Carlos Silvio (38192)",
+        "tanggal_lahir": "1985-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mandaguari",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

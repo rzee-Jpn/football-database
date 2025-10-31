@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Latvia  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniels Ontuzans (336324)",
+        "nama_panggilan": "Daniels Ontuzans (336324)",
+        "tanggal_lahir": "2000-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vangaži",
+          "negara": "Latvia"
+        },
+        "kewarganegaraan": [
+          "Latvia  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cebrail Makreckis (363425)",
+        "nama_panggilan": "Cebrail Makreckis (363425)",
+        "tanggal_lahir": "2000-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aachen",
+          "negara": "Latvia"
+        },
+        "kewarganegaraan": [
+          "Latvia  Germany"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

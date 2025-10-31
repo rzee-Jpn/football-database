@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Wales",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Finn Surman (724809)",
+        "nama_panggilan": "Finn Surman (724809)",
+        "tanggal_lahir": "2003-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cardiff",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Wales"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

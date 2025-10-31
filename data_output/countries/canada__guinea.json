@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Guinea",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hanson Boakai (259573)",
+        "nama_panggilan": "Hanson Boakai (259573)",
+        "tanggal_lahir": "1996-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Teldou",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Guinea"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oumar Diallo (985403)",
+        "nama_panggilan": "Oumar Diallo (985403)",
+        "tanggal_lahir": "2005-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Guinea"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

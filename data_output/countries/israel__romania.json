@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  Romania",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oded Gavish (164195)",
+        "nama_panggilan": "Oded Gavish (164195)",
+        "tanggal_lahir": "1989-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Petah Tikva",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Doron Leidner (668596)",
+        "nama_panggilan": "Doron Leidner (668596)",
+        "tanggal_lahir": "2002-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rishon LeZion",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilay Feingold (945017)",
+        "nama_panggilan": "Ilay Feingold (945017)",
+        "tanggal_lahir": "2004-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Netanya",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

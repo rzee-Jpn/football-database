@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "North Macedonia  Australia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Georgievski (47615)",
+        "nama_panggilan": "Daniel Georgievski (47615)",
+        "tanggal_lahir": "1988-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blacktown, Sydney",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Australia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Vrteski (45329)",
+        "nama_panggilan": "Aleksandar Vrteski (45329)",
+        "tanggal_lahir": "1988-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karatha",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Australia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

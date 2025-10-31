@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Slovakia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amid Khan Agha (450222)",
+        "nama_panggilan": "Amid Khan Agha (450222)",
+        "tanggal_lahir": "2001-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Homburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Slovakia"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

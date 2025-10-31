@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malta  Cameroon",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yannick Yankam (408950)",
+        "nama_panggilan": "Yannick Yankam (408950)",
+        "tanggal_lahir": "1997-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Qormi",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Cameroon"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

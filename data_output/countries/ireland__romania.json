@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Romania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josh Giurgi (621994)",
+        "nama_panggilan": "Josh Giurgi (621994)",
+        "tanggal_lahir": "2002-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dublin",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

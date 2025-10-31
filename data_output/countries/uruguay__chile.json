@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  Chile",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Fracchia (531995)",
+        "nama_panggilan": "Matías Fracchia (531995)",
+        "tanggal_lahir": "1995-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Las Condes",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Chile"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

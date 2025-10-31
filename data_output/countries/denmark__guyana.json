@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Guyana",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Nygaard (3491)",
+        "nama_panggilan": "Marc Nygaard (3491)",
+        "tanggal_lahir": "1976-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Guyana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Braithwaite (95732)",
+        "nama_panggilan": "Martin Braithwaite (95732)",
+        "tanggal_lahir": "1991-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esbjerg",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Guyana"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

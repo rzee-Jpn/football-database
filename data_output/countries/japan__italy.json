@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Akira Fantini (395867)",
+        "nama_panggilan": "Akira Fantini (395867)",
+        "tanggal_lahir": "1998-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ichikawa, Chiba",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hide Vitalucci (708218)",
+        "nama_panggilan": "Hide Vitalucci (708218)",
+        "tanggal_lahir": "2002-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

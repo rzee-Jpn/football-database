@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iceland  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diegui (349886)",
+        "nama_panggilan": "Diegui (349886)",
+        "tanggal_lahir": "1993-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villaviciosa",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

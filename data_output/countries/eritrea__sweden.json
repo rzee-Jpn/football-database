@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Eritrea  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Saeid (211085)",
+        "nama_panggilan": "Mohammed Saeid (211085)",
+        "tanggal_lahir": "1990-12-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Örebro",
+          "negara": "Eritrea"
+        },
+        "kewarganegaraan": [
+          "Eritrea  Sweden"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henok Goitom (6838)",
+        "nama_panggilan": "Henok Goitom (6838)",
+        "tanggal_lahir": "1984-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solna",
+          "negara": "Eritrea"
+        },
+        "kewarganegaraan": [
+          "Eritrea  Sweden"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

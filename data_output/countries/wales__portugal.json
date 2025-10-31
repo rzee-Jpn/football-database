@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Ribeiro (63967)",
+        "nama_panggilan": "Christian Ribeiro (63967)",
+        "tanggal_lahir": "1989-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neath",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Portugal"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Brazil",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erivelton (186301)",
+        "nama_panggilan": "Erivelton (186301)",
+        "tanggal_lahir": "1995-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seraing",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Oliveira (22087)",
+        "nama_panggilan": "Luis Oliveira (22087)",
+        "tanggal_lahir": "1969-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Luís",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubenilson (26689)",
+        "nama_panggilan": "Rubenilson (26689)",
+        "tanggal_lahir": "1972-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Luis",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurent Lemoine (289584)",
+        "nama_panggilan": "Laurent Lemoine (289584)",
+        "tanggal_lahir": "1998-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Louvière",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danilo (51232)",
+        "nama_panggilan": "Danilo (51232)",
+        "tanggal_lahir": "1990-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Luís",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alves Da Silva (85901)",
+        "nama_panggilan": "Alves Da Silva (85901)",
+        "tanggal_lahir": "1983-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Goiania",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

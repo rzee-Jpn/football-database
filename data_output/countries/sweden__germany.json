@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nils Ramming (1145455)",
+        "nama_panggilan": "Nils Ramming (1145455)",
+        "tanggal_lahir": "2007-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Germany"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kolja Oudenne (392157)",
+        "nama_panggilan": "Kolja Oudenne (392157)",
+        "tanggal_lahir": "2001-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilhelm Loeper (405786)",
+        "nama_panggilan": "Wilhelm Loeper (405786)",
+        "tanggal_lahir": "1998-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

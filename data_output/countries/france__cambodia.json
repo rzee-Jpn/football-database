@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Cambodia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenny Oun (883706)",
+        "nama_panggilan": "Kenny Oun (883706)",
+        "tanggal_lahir": "2002-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vénissieux",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Cambodia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

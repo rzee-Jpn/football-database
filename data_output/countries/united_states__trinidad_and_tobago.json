@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Trinidad and Tobago",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Langston Blackstock (1109691)",
+        "nama_panggilan": "Langston Blackstock (1109691)",
+        "tanggal_lahir": "2000-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marietta, Georgia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robbie Findley (27167)",
+        "nama_panggilan": "Robbie Findley (27167)",
+        "tanggal_lahir": "1985-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Phoenix, Arizona",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shaq Moore (336168)",
+        "nama_panggilan": "Shaq Moore (336168)",
+        "tanggal_lahir": "1996-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Powder Springs, Georgia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamani Hill (44900)",
+        "nama_panggilan": "Kamani Hill (44900)",
+        "tanggal_lahir": "1985-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berkeley, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roald Mitchell (886749)",
+        "nama_panggilan": "Roald Mitchell (886749)",
+        "tanggal_lahir": "2003-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montclair, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Trinidad and Tobago"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

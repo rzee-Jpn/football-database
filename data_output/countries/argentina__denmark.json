@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Rasmussen (131219)",
+        "nama_panggilan": "Federico Rasmussen (131219)",
+        "tanggal_lahir": "1992-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coronel Dorrego",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Denmark"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

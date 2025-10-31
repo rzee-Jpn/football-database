@@ -1,0 +1,687 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ghana  Germany",
+  "total_pemain": 20,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Phil Ofosu-Ayeh (133858)",
+        "nama_panggilan": "Phil Ofosu-Ayeh (133858)",
+        "tanggal_lahir": "1991-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moers",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kingsley Schindler (153678)",
+        "nama_panggilan": "Kingsley Schindler (153678)",
+        "tanggal_lahir": "1993-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwasi Wriedt (154819)",
+        "nama_panggilan": "Kwasi Wriedt (154819)",
+        "tanggal_lahir": "1994-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeffrey Schlupp (157506)",
+        "nama_panggilan": "Jeffrey Schlupp (157506)",
+        "tanggal_lahir": "1992-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Boadu (162397)",
+        "nama_panggilan": "Emmanuel Boadu (162397)",
+        "tanggal_lahir": "1985-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sekondi-Takoradi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Gyamerah (192840)",
+        "nama_panggilan": "Jan Gyamerah (192840)",
+        "tanggal_lahir": "1995-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manfred Osei Kwadwo (167552)",
+        "nama_panggilan": "Manfred Osei Kwadwo (167552)",
+        "tanggal_lahir": "1995-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin-Prince Boateng (16922)",
+        "nama_panggilan": "Kevin-Prince Boateng (16922)",
+        "tanggal_lahir": "1987-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Abdulai (1781)",
+        "nama_panggilan": "Mohammed Abdulai (1781)",
+        "tanggal_lahir": "1980-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Braydon Manu (231590)",
+        "nama_panggilan": "Braydon Manu (231590)",
+        "tanggal_lahir": "1997-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Itzehoe",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Kuffour (208)",
+        "nama_panggilan": "Samuel Kuffour (208)",
+        "tanggal_lahir": "1976-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel-Kofi Kyereh (272587)",
+        "nama_panggilan": "Daniel-Kofi Kyereh (272587)",
+        "tanggal_lahir": "1996-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christopher Antwi-Adjei (289182)",
+        "nama_panggilan": "Christopher Antwi-Adjei (289182)",
+        "tanggal_lahir": "1994-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hagen",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stephan Ambrosius (327536)",
+        "nama_panggilan": "Stephan Ambrosius (327536)",
+        "tanggal_lahir": "1998-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Amissah (385412)",
+        "nama_panggilan": "Jordan Amissah (385412)",
+        "tanggal_lahir": "2001-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herne",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patric Pfeiffer (391742)",
+        "nama_panggilan": "Patric Pfeiffer (391742)",
+        "tanggal_lahir": "1999-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derrick Köhn (391780)",
+        "nama_panggilan": "Derrick Köhn (391780)",
+        "tanggal_lahir": "1999-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ransford Königsdörffer (470038)",
+        "nama_panggilan": "Ransford Königsdörffer (470038)",
+        "tanggal_lahir": "2001-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joselpho Barnes (521966)",
+        "nama_panggilan": "Joselpho Barnes (521966)",
+        "tanggal_lahir": "2001-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oberhausen",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charles Takyi (6824)",
+        "nama_panggilan": "Charles Takyi (6824)",
+        "tanggal_lahir": "1984-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

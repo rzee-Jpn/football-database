@@ -1,0 +1,789 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  England",
+  "total_pemain": 23,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Woody Burgess (1245940)",
+        "nama_panggilan": "Woody Burgess (1245940)",
+        "tanggal_lahir": "2007-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Wähling (160252)",
+        "nama_panggilan": "Alexander Wähling (160252)",
+        "tanggal_lahir": "1995-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Las Palmas de Gran Canaria",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukas Wilton (192467)",
+        "nama_panggilan": "Lukas Wilton (192467)",
+        "tanggal_lahir": "1995-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celle",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Finn Dahmen (251299)",
+        "nama_panggilan": "Finn Dahmen (251299)",
+        "tanggal_lahir": "1998-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wiesbaden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Wähling (282180)",
+        "nama_panggilan": "Nicolas Wähling (282180)",
+        "tanggal_lahir": "1997-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ludwigsburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keanan Bennetts (321096)",
+        "nama_panggilan": "Keanan Bennetts (321096)",
+        "tanggal_lahir": "1999-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukas Nmecha (314288)",
+        "nama_panggilan": "Lukas Nmecha (314288)",
+        "tanggal_lahir": "1998-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jake Wilton (388241)",
+        "nama_panggilan": "Jake Wilton (388241)",
+        "tanggal_lahir": "1999-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bergen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Wähling (364375)",
+        "nama_panggilan": "Oliver Wähling (364375)",
+        "tanggal_lahir": "1999-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ludwigsburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Felix Nmecha (406640)",
+        "nama_panggilan": "Felix Nmecha (406640)",
+        "tanggal_lahir": "2000-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Hunt (4687)",
+        "nama_panggilan": "Aaron Hunt (4687)",
+        "tanggal_lahir": "1986-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Goslar",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Glatzel (470604)",
+        "nama_panggilan": "Paul Glatzel (470604)",
+        "tanggal_lahir": "2001-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lewis Holtby (55508)",
+        "nama_panggilan": "Lewis Holtby (55508)",
+        "tanggal_lahir": "1990-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erkelenz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Jentzsch (557)",
+        "nama_panggilan": "Simon Jentzsch (557)",
+        "tanggal_lahir": "1976-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonas Kersken (597804)",
+        "nama_panggilan": "Jonas Kersken (597804)",
+        "tanggal_lahir": "2000-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jamal Musiala (580195)",
+        "nama_panggilan": "Jamal Musiala (580195)",
+        "tanggal_lahir": "2003-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bright Arrey-Mbi (580193)",
+        "nama_panggilan": "Bright Arrey-Mbi (580193)",
+        "tanggal_lahir": "2003-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumba",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Stumm (58207)",
+        "nama_panggilan": "Alexander Stumm (58207)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osazee Aghatise (583198)",
+        "nama_panggilan": "Osazee Aghatise (583198)",
+        "tanggal_lahir": "2002-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwadwo Baah (711247)",
+        "nama_panggilan": "Kwadwo Baah (711247)",
+        "tanggal_lahir": "2003-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henry-Jon Crosthwaite (736973)",
+        "nama_panggilan": "Henry-Jon Crosthwaite (736973)",
+        "tanggal_lahir": "2002-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gießen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jamie Wähling (923592)",
+        "nama_panggilan": "Jamie Wähling (923592)",
+        "tanggal_lahir": "2006-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karlsruhe",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Gyamfi (929713)",
+        "nama_panggilan": "Junior Gyamfi (929713)",
+        "tanggal_lahir": "2004-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  England"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

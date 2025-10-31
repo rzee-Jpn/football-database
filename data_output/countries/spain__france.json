@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  France",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxim Fernández (1179570)",
+        "nama_panggilan": "Maxim Fernández (1179570)",
+        "tanggal_lahir": "2002-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cormeilles-en-Parisis",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yanis Lelin (1387620)",
+        "nama_panggilan": "Yanis Lelin (1387620)",
+        "tanggal_lahir": "2002-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aymeric Laporte (176553)",
+        "nama_panggilan": "Aymeric Laporte (176553)",
+        "tanggal_lahir": "1994-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Agen",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Martínez (248022)",
+        "nama_panggilan": "Luis Martínez (248022)",
+        "tanggal_lahir": "1993-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arnedo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robin Le Normand (351809)",
+        "nama_panggilan": "Robin Le Normand (351809)",
+        "tanggal_lahir": "1996-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pabu",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Zurutuza (59375)",
+        "nama_panggilan": "David Zurutuza (59375)",
+        "tanggal_lahir": "1986-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rochefort",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Arias (71046)",
+        "nama_panggilan": "Carlos Arias (71046)",
+        "tanggal_lahir": "1977-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Málaga",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Guichard (713645)",
+        "nama_panggilan": "Sergio Guichard (713645)",
+        "tanggal_lahir": "2002-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granada",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Terrón (66103)",
+        "nama_panggilan": "José Terrón (66103)",
+        "tanggal_lahir": "1991-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torrelavega",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eliezer Mayenda (967346)",
+        "nama_panggilan": "Eliezer Mayenda (967346)",
+        "tanggal_lahir": "2005-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

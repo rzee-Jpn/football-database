@@ -1,0 +1,789 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Switzerland",
+  "total_pemain": 23,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romeu (13129)",
+        "nama_panggilan": "Romeu (13129)",
+        "tanggal_lahir": "1974-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lobão",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elton Monteiro (122722)",
+        "nama_panggilan": "Elton Monteiro (122722)",
+        "tanggal_lahir": "1994-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sion",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dany Malta (1256416)",
+        "nama_panggilan": "Dany Malta (1256416)",
+        "tanggal_lahir": "2004-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mika (138285)",
+        "nama_panggilan": "Mika (138285)",
+        "tanggal_lahir": "1991-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yverdon-les-Bains",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio Monteiro (144116)",
+        "nama_panggilan": "Fábio Monteiro (144116)",
+        "tanggal_lahir": "1990-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Pereira (192611)",
+        "nama_panggilan": "Joel Pereira (192611)",
+        "tanggal_lahir": "1996-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Le Locle",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Brito (192672)",
+        "nama_panggilan": "Bruno Brito (192672)",
+        "tanggal_lahir": "1991-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rúben Macedo (225119)",
+        "nama_panggilan": "Rúben Macedo (225119)",
+        "tanggal_lahir": "1996-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amarante",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago Ribeiro (237083)",
+        "nama_panggilan": "Tiago Ribeiro (237083)",
+        "tanggal_lahir": "1992-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yuri Ribeiro (258032)",
+        "nama_panggilan": "Yuri Ribeiro (258032)",
+        "tanggal_lahir": "1997-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vieira do Minho",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adriano Castanheira (243779)",
+        "nama_panggilan": "Adriano Castanheira (243779)",
+        "tanggal_lahir": "1993-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuchâtel",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "João Paiva (24832)",
+        "nama_panggilan": "João Paiva (24832)",
+        "tanggal_lahir": "1983-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lisboa",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "André Ribeiro (342482)",
+        "nama_panggilan": "André Ribeiro (342482)",
+        "tanggal_lahir": "1997-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carouge",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Pacheco (290508)",
+        "nama_panggilan": "Pedro Pacheco (290508)",
+        "tanggal_lahir": "1997-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paredes",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diogo Costa (357153)",
+        "nama_panggilan": "Diogo Costa (357153)",
+        "tanggal_lahir": "1999-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rothrist",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Marques (539807)",
+        "nama_panggilan": "Christian Marques (539807)",
+        "tanggal_lahir": "2003-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uster ZH",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "João Vítor (58986)",
+        "nama_panggilan": "João Vítor (58986)",
+        "tanggal_lahir": "1987-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valais",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diogo Monteiro (670713)",
+        "nama_panggilan": "Diogo Monteiro (670713)",
+        "tanggal_lahir": "2005-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thierry Moutinho (64804)",
+        "nama_panggilan": "Thierry Moutinho (64804)",
+        "tanggal_lahir": "1991-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genf",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Fernandes (719213)",
+        "nama_panggilan": "Marco Fernandes (719213)",
+        "tanggal_lahir": "1998-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Braga",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nuno Reis (83485)",
+        "nama_panggilan": "Nuno Reis (83485)",
+        "tanggal_lahir": "1991-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murten",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Costa (904621)",
+        "nama_panggilan": "Ricardo Costa (904621)",
+        "tanggal_lahir": "1994-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Locarno",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Dias (842582)",
+        "nama_panggilan": "Joel Dias (842582)",
+        "tanggal_lahir": "1998-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berna",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

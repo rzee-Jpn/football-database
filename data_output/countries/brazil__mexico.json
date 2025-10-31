@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Mexico",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danilo de Oliveira (107688)",
+        "nama_panggilan": "Danilo de Oliveira (107688)",
+        "tanggal_lahir": "1981-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Franca",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juninho (108935)",
+        "nama_panggilan": "Juninho (108935)",
+        "tanggal_lahir": "1977-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boa Viagem",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Camilo Sanvezzo (172285)",
+        "nama_panggilan": "Camilo Sanvezzo (172285)",
+        "tanggal_lahir": "1988-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Presidente Prudente",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matheus Dória (213841)",
+        "nama_panggilan": "Matheus Dória (213841)",
+        "tanggal_lahir": "1994-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Gonçalo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danilinho (45709)",
+        "nama_panggilan": "Danilinho (45709)",
+        "tanggal_lahir": "1987-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ponta Porã",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juninho (52697)",
+        "nama_panggilan": "Juninho (52697)",
+        "tanggal_lahir": "1982-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wenceslau Braz",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "William (53365)",
+        "nama_panggilan": "William (53365)",
+        "tanggal_lahir": "1986-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilson Matías (54872)",
+        "nama_panggilan": "Wilson Matías (54872)",
+        "tanggal_lahir": "1983-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limeira",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Flávio Rogério (58612)",
+        "nama_panggilan": "Flávio Rogério (58612)",
+        "tanggal_lahir": "1976-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siqueira",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Follé (66828)",
+        "nama_panggilan": "Rodrigo Follé (66828)",
+        "tanggal_lahir": "1984-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Veranópolis",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Silva (66895)",
+        "nama_panggilan": "Lucas Silva (66895)",
+        "tanggal_lahir": "1984-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miguel Calmon",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Édson Luis Zwaricz (67062)",
+        "nama_panggilan": "Édson Luis Zwaricz (67062)",
+        "tanggal_lahir": "1971-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "União da Victoria",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reinaldo Lima (995576)",
+        "nama_panggilan": "Reinaldo Lima (995576)",
+        "tanggal_lahir": "1981-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Brazil  Mexico"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

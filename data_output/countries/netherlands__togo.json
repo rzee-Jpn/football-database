@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Togo",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Fini (329453)",
+        "nama_panggilan": "Patrick Fini (329453)",
+        "tanggal_lahir": "1996-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiel",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Togo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cody Gakpo (434675)",
+        "nama_panggilan": "Cody Gakpo (434675)",
+        "tanggal_lahir": "1999-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eindhoven",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Togo"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nelson Egah (776881)",
+        "nama_panggilan": "Nelson Egah (776881)",
+        "tanggal_lahir": "2005-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Togo"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

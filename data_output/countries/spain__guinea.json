@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Guinea",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taliby Konate (603619)",
+        "nama_panggilan": "Taliby Konate (603619)",
+        "tanggal_lahir": "1997-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almería",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Guinea"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alpha (707571)",
+        "nama_panggilan": "Alpha (707571)",
+        "tanggal_lahir": "2002-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Guinea"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

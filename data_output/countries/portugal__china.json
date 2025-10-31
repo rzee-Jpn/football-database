@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  China",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Delgado (258021)",
+        "nama_panggilan": "Pedro Delgado (258021)",
+        "tanggal_lahir": "1997-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Portimão",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  China"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

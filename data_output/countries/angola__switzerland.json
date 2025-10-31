@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Angola  Switzerland",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Signori Antonio (147029)",
+        "nama_panggilan": "Signori Antonio (147029)",
+        "tanggal_lahir": "1994-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Switzerland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guilherme Afonso (25521)",
+        "nama_panggilan": "Guilherme Afonso (25521)",
+        "tanggal_lahir": "1985-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luanda",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Switzerland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Astor Kilezi (332811)",
+        "nama_panggilan": "Astor Kilezi (332811)",
+        "tanggal_lahir": "1996-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Biel-Bienne",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Switzerland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Genséric Kusunga (39533)",
+        "nama_panggilan": "Genséric Kusunga (39533)",
+        "tanggal_lahir": "1988-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genf",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Switzerland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "André Edgar (525924)",
+        "nama_panggilan": "André Edgar (525924)",
+        "tanggal_lahir": "1999-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sion",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Switzerland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

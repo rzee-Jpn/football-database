@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Georgia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Flamarion (465858)",
+        "nama_panggilan": "Flamarion (465858)",
+        "tanggal_lahir": "1996-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Brazil  Georgia"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

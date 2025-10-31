@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Poland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Mirabel (23267)",
+        "nama_panggilan": "Danny Mirabel (23267)",
+        "tanggal_lahir": "1987-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frederiksberg",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Schmeichel (3465)",
+        "nama_panggilan": "Peter Schmeichel (3465)",
+        "tanggal_lahir": "1963-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gladsaxe",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Poland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hans Christian Bernat (400535)",
+        "nama_panggilan": "Hans Christian Bernat (400535)",
+        "tanggal_lahir": "2000-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morud",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

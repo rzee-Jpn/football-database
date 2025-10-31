@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Sweden",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romário (118714)",
+        "nama_panggilan": "Romário (118714)",
+        "tanggal_lahir": "1985-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Imperatriz",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Sweden"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Ribeiro (228513)",
+        "nama_panggilan": "Pedro Ribeiro (228513)",
+        "tanggal_lahir": "1990-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belo Horizonte",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Sweden"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Mendes (37450)",
+        "nama_panggilan": "Daniel Mendes (37450)",
+        "tanggal_lahir": "1981-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Sweden"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardinho (52994)",
+        "nama_panggilan": "Ricardinho (52994)",
+        "tanggal_lahir": "1984-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curitiba",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Sweden"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

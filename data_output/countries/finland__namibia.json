@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Namibia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pyry Soiri (224458)",
+        "nama_panggilan": "Pyry Soiri (224458)",
+        "tanggal_lahir": "1994-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tammisaari",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Namibia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

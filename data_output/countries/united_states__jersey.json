@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Jersey",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marlon Fossey (408562)",
+        "nama_panggilan": "Marlon Fossey (408562)",
+        "tanggal_lahir": "1998-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Los Angeles, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Jersey"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

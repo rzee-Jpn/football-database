@@ -1,0 +1,619 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Argentina",
+  "total_pemain": 18,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oso (1032280)",
+        "nama_panggilan": "Oso (1032280)",
+        "tanggal_lahir": "2003-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torrevieja",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Falco (1060376)",
+        "nama_panggilan": "Nicolás Falco (1060376)",
+        "tanggal_lahir": "2004-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentino Raca (1064395)",
+        "nama_panggilan": "Valentino Raca (1064395)",
+        "tanggal_lahir": "2005-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Las Palmas de Gran Canaria",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Demiddi Gaido (1452613)",
+        "nama_panggilan": "Pedro Demiddi Gaido (1452613)",
+        "tanggal_lahir": "2009-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Nahuel (263843)",
+        "nama_panggilan": "Matías Nahuel (263843)",
+        "tanggal_lahir": "1996-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Farrando (317429)",
+        "nama_panggilan": "Manuel Farrando (317429)",
+        "tanggal_lahir": "1995-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciutadella de Menorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Olavide (298607)",
+        "nama_panggilan": "Miguel Olavide (298607)",
+        "tanggal_lahir": "1996-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pamplona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iván Moreno y Fabianesi (30728)",
+        "nama_panggilan": "Iván Moreno y Fabianesi (30728)",
+        "tanggal_lahir": "1979-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Badajoz",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Maffeo (535656)",
+        "nama_panggilan": "Victor Maffeo (535656)",
+        "tanggal_lahir": "2000-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sant Joan Despí",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maurizio Pochettino (537366)",
+        "nama_panggilan": "Maurizio Pochettino (537366)",
+        "tanggal_lahir": "2001-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentino Fattore (537373)",
+        "nama_panggilan": "Valentino Fattore (537373)",
+        "tanggal_lahir": "2001-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nico Melamed (570421)",
+        "nama_panggilan": "Nico Melamed (570421)",
+        "tanggal_lahir": "2001-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Castelldefels",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Cruz (585700)",
+        "nama_panggilan": "Juan Cruz (585700)",
+        "tanggal_lahir": "2000-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quilmes",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dani Aquino (59335)",
+        "nama_panggilan": "Dani Aquino (59335)",
+        "tanggal_lahir": "1990-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murcia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gonzalo Crettaz (631049)",
+        "nama_panggilan": "Gonzalo Crettaz (631049)",
+        "tanggal_lahir": "2000-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Díaz (7951)",
+        "nama_panggilan": "Pablo Díaz (7951)",
+        "tanggal_lahir": "1971-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Uriel Jové (724458)",
+        "nama_panggilan": "Uriel Jové (724458)",
+        "tanggal_lahir": "1999-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carmen (Santa Fe)",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emi Hernández (890629)",
+        "nama_panggilan": "Emi Hernández (890629)",
+        "tanggal_lahir": "2000-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

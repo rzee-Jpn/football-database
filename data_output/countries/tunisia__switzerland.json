@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  Switzerland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salim Khelifi (147049)",
+        "nama_panggilan": "Salim Khelifi (147049)",
+        "tanggal_lahir": "1994-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Switzerland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yassin Mikari (2878)",
+        "nama_panggilan": "Yassin Mikari (2878)",
+        "tanggal_lahir": "1983-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Switzerland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sayfallah Ltaief (388220)",
+        "nama_panggilan": "Sayfallah Ltaief (388220)",
+        "tanggal_lahir": "2000-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

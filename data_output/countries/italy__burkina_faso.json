@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Burkina Faso",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldo Banse (604690)",
+        "nama_panggilan": "Aldo Banse (604690)",
+        "tanggal_lahir": "2002-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Vito al Tagliamento",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustapha Yabre (616903)",
+        "nama_panggilan": "Moustapha Yabre (616903)",
+        "tanggal_lahir": "2002-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zabré",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rachid Kouda (702324)",
+        "nama_panggilan": "Rachid Kouda (702324)",
+        "tanggal_lahir": "2002-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cantù",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adams Bandaogo (808931)",
+        "nama_panggilan": "Adams Bandaogo (808931)",
+        "tanggal_lahir": "2004-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Parma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mo Dabre (916328)",
+        "nama_panggilan": "Mo Dabre (916328)",
+        "tanggal_lahir": "2003-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustafa Yabre (885859)",
+        "nama_panggilan": "Moustafa Yabre (885859)",
+        "tanggal_lahir": "2005-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

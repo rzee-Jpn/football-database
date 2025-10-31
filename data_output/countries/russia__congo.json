@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Congo",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erving Botaka (448880)",
+        "nama_panggilan": "Erving Botaka (448880)",
+        "tanggal_lahir": "1998-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pushkino, Moskau Oblast",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Congo"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Mampassi (712857)",
+        "nama_panggilan": "Mark Mampassi (712857)",
+        "tanggal_lahir": "2003-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Donetsk",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

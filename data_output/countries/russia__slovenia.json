@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Slovenia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandr Koksharov (817843)",
+        "nama_panggilan": "Aleksandr Koksharov (817843)",
+        "tanggal_lahir": "2004-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

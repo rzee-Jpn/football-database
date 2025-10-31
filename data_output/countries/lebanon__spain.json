@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lebanon  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Lajud (570560)",
+        "nama_panggilan": "Daniel Lajud (570560)",
+        "tanggal_lahir": "1999-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Veracruz",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon  Spain"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

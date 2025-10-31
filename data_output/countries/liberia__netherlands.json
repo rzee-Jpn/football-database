@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brem Soumaoro (330931)",
+        "nama_panggilan": "Brem Soumaoro (330931)",
+        "tanggal_lahir": "1996-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "N'Zérékoré",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Pabai (464699)",
+        "nama_panggilan": "Mark Pabai (464699)",
+        "tanggal_lahir": "2000-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Netherlands"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayouba Kosiah (596150)",
+        "nama_panggilan": "Ayouba Kosiah (596150)",
+        "tanggal_lahir": "2001-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almere",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

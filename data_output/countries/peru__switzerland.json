@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Peru  Switzerland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Pierre Rhyner (203981)",
+        "nama_panggilan": "Jean-Pierre Rhyner (203981)",
+        "tanggal_lahir": "1996-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Switzerland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivann Strohbach (346884)",
+        "nama_panggilan": "Ivann Strohbach (346884)",
+        "tanggal_lahir": "2000-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lancy",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Switzerland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

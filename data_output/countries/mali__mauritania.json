@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mali  Mauritania",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aly Malle (398809)",
+        "nama_panggilan": "Aly Malle (398809)",
+        "tanggal_lahir": "1998-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Mauritania"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ladji Malle (854314)",
+        "nama_panggilan": "Ladji Malle (854314)",
+        "tanggal_lahir": "2001-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Mauritania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

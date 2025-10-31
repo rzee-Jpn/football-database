@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Palestine  Argentina",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Agustín Manzur (563717)",
+        "nama_panggilan": "Agustín Manzur (563717)",
+        "tanggal_lahir": "2000-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guaymallén",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  Argentina"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

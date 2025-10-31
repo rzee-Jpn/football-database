@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Hungary",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "György Garics (2926)",
+        "nama_panggilan": "György Garics (2926)",
+        "tanggal_lahir": "1984-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Szombathely",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

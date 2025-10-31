@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Denmark",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Winston Reid (37526)",
+        "nama_panggilan": "Winston Reid (37526)",
+        "tanggal_lahir": "1988-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Denmark"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Obel-Hall (796980)",
+        "nama_panggilan": "Oscar Obel-Hall (796980)",
+        "tanggal_lahir": "2004-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Christchurch",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Denmark"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Spain",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jastin Garcia (1061665)",
+        "nama_panggilan": "Jastin Garcia (1061665)",
+        "tanggal_lahir": "2004-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lleida",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rogério (13197)",
+        "nama_panggilan": "Rogério (13197)",
+        "tanggal_lahir": "1976-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esposende",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Spain"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jair Amador (128479)",
+        "nama_panggilan": "Jair Amador (128479)",
+        "tanggal_lahir": "1989-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sao Jorge de Arroios",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Spain"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Rodriguez (332813)",
+        "nama_panggilan": "Davide Rodriguez (332813)",
+        "tanggal_lahir": "1996-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Locarno",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Spain"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandro Cordavias (699172)",
+        "nama_panggilan": "Sandro Cordavias (699172)",
+        "tanggal_lahir": "1998-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Figueira da Foz",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Spain"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

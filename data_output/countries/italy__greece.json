@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luigi Cennamo (17232)",
+        "nama_panggilan": "Luigi Cennamo (17232)",
+        "tanggal_lahir": "1980-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Greece"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francesco Karkalis (235822)",
+        "nama_panggilan": "Francesco Karkalis (235822)",
+        "tanggal_lahir": "1995-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pescara",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Greece"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

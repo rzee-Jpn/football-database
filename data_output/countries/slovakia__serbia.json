@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovakia  Serbia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boris Sekulic (217709)",
+        "nama_panggilan": "Boris Sekulic (217709)",
+        "tanggal_lahir": "1991-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beograd",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Serbia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

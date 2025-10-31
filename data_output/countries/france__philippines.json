@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Philippines",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alphonse Areola (120629)",
+        "nama_panggilan": "Alphonse Areola (120629)",
+        "tanggal_lahir": "1993-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Philippines"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

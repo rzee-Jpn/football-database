@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Ecuador",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mattia Pérez (705591)",
+        "nama_panggilan": "Mattia Pérez (705591)",
+        "tanggal_lahir": "2004-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monterotondo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

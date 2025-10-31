@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Australia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Macura (159212)",
+        "nama_panggilan": "Sasa Macura (159212)",
+        "tanggal_lahir": "1991-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Knin",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Australia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Ergic (2893)",
+        "nama_panggilan": "Ivan Ergic (2893)",
+        "tanggal_lahir": "1981-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šibenik",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Australia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Ilic (4138)",
+        "nama_panggilan": "Sasa Ilic (4138)",
+        "tanggal_lahir": "1972-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Australia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milos Ninkovic (48740)",
+        "nama_panggilan": "Milos Ninkovic (48740)",
+        "tanggal_lahir": "1984-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrade",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Australia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Strahinja Erakovic (574660)",
+        "nama_panggilan": "Strahinja Erakovic (574660)",
+        "tanggal_lahir": "2001-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Batajnica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Australia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

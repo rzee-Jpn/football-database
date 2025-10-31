@@ -1,0 +1,959 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Switzerland",
+  "total_pemain": 28,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Di Matteo (103679)",
+        "nama_panggilan": "Roberto Di Matteo (103679)",
+        "tanggal_lahir": "1970-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schaffhausen",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Flavio Chioda (106433)",
+        "nama_panggilan": "Flavio Chioda (106433)",
+        "tanggal_lahir": "1991-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Losanna",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefano Specker (1112400)",
+        "nama_panggilan": "Stefano Specker (1112400)",
+        "tanggal_lahir": "2008-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novara",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Ruffato (1083228)",
+        "nama_panggilan": "Davide Ruffato (1083228)",
+        "tanggal_lahir": "2006-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sorengo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenzo Lombardi (1175149)",
+        "nama_panggilan": "Lorenzo Lombardi (1175149)",
+        "tanggal_lahir": "2007-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlino",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simone Malacarne (139056)",
+        "nama_panggilan": "Simone Malacarne (139056)",
+        "tanggal_lahir": "1989-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zurigo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Orazio Ferranti (19748)",
+        "nama_panggilan": "Orazio Ferranti (19748)",
+        "tanggal_lahir": "1984-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paolo Ziliani (228303)",
+        "nama_panggilan": "Paolo Ziliani (228303)",
+        "tanggal_lahir": "1971-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Romanschorn",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Sweeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giovanni Proietti (23294)",
+        "nama_panggilan": "Giovanni Proietti (23294)",
+        "tanggal_lahir": "1977-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Rosafio (199722)",
+        "nama_panggilan": "Marco Rosafio (199722)",
+        "tanggal_lahir": "1994-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chur",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefano Botta (20188)",
+        "nama_panggilan": "Stefano Botta (20188)",
+        "tanggal_lahir": "1986-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Como",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Schiavano (320548)",
+        "nama_panggilan": "Thomas Schiavano (320548)",
+        "tanggal_lahir": "1996-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dario Benedetti (297629)",
+        "nama_panggilan": "Dario Benedetti (297629)",
+        "tanggal_lahir": "1998-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zurigo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlo Manicone (390123)",
+        "nama_panggilan": "Carlo Manicone (390123)",
+        "tanggal_lahir": "1998-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lugano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rocco Costantino (402915)",
+        "nama_panggilan": "Rocco Costantino (402915)",
+        "tanggal_lahir": "1990-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarau",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Orefice (434237)",
+        "nama_panggilan": "Antonio Orefice (434237)",
+        "tanggal_lahir": "1978-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baden",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Vettorel (459102)",
+        "nama_panggilan": "Thomas Vettorel (459102)",
+        "tanggal_lahir": "2000-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Feltre",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Kabamba (514614)",
+        "nama_panggilan": "Michael Kabamba (514614)",
+        "tanggal_lahir": "1990-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Como",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emanuele Cigagna (529826)",
+        "nama_panggilan": "Emanuele Cigagna (529826)",
+        "tanggal_lahir": "1999-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Motta di Livenza",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michele Coppola (61374)",
+        "nama_panggilan": "Michele Coppola (61374)",
+        "tanggal_lahir": "1988-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Radice (59241)",
+        "nama_panggilan": "Luca Radice (59241)",
+        "tanggal_lahir": "1987-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uster",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mirko Martucci (62255)",
+        "nama_panggilan": "Mirko Martucci (62255)",
+        "tanggal_lahir": "1988-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liestal",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrea Feltrin (707389)",
+        "nama_panggilan": "Andrea Feltrin (707389)",
+        "tanggal_lahir": "2002-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montebelluna",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alessio Zocco (65629)",
+        "nama_panggilan": "Alessio Zocco (65629)",
+        "tanggal_lahir": "1988-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Caroli (65718)",
+        "nama_panggilan": "Davide Caroli (65718)",
+        "tanggal_lahir": "1985-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismael Fiorenza (65939)",
+        "nama_panggilan": "Ismael Fiorenza (65939)",
+        "tanggal_lahir": "1983-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thalwil",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Domenico Ragucci (897656)",
+        "nama_panggilan": "Domenico Ragucci (897656)",
+        "tanggal_lahir": "2005-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Metafuni (86854)",
+        "nama_panggilan": "Mathieu Metafuni (86854)",
+        "tanggal_lahir": "1989-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

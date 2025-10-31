@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Gibraltar",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Walker (239183)",
+        "nama_panggilan": "Liam Walker (239183)",
+        "tanggal_lahir": "1988-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gibraltar",
+          "negara": "Gibraltar"
+        },
+        "kewarganegaraan": [
+          "Gibraltar"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tjay De Barr (376663)",
+        "nama_panggilan": "Tjay De Barr (376663)",
+        "tanggal_lahir": "2000-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gibraltar",
+          "negara": "Gibraltar"
+        },
+        "kewarganegaraan": [
+          "Gibraltar"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

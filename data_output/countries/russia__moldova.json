@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Moldova",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viktor Patrashko (426120)",
+        "nama_panggilan": "Viktor Patrashko (426120)",
+        "tanggal_lahir": "1998-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chișinău",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Moldova"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vitaliy Botnar (431706)",
+        "nama_panggilan": "Vitaliy Botnar (431706)",
+        "tanggal_lahir": "2001-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bălți",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Moldova"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valeriy Chuperka (98968)",
+        "nama_panggilan": "Valeriy Chuperka (98968)",
+        "tanggal_lahir": "1992-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiraspol",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Moldova"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

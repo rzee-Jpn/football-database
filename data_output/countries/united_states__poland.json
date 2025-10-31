@@ -1,0 +1,857 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Poland",
+  "total_pemain": 25,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cole Mrowka (1046042)",
+        "nama_panggilan": "Cole Mrowka (1046042)",
+        "tanggal_lahir": "2006-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chicago, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julian Hall (1054470)",
+        "nama_panggilan": "Julian Hall (1054470)",
+        "tanggal_lahir": "2008-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alan Rutkowski (1063082)",
+        "nama_panggilan": "Alan Rutkowski (1063082)",
+        "tanggal_lahir": "2006-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Greg Janicki (107833)",
+        "nama_panggilan": "Greg Janicki (107833)",
+        "tanggal_lahir": "1984-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rochester, Michigan",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Hlavaty (108305)",
+        "nama_panggilan": "Neil Hlavaty (108305)",
+        "tanggal_lahir": "1986-12-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berwyn, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Pyzdrowski (153971)",
+        "nama_panggilan": "Matt Pyzdrowski (153971)",
+        "tanggal_lahir": "1986-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hinsdale, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Caleb Stanko (190269)",
+        "nama_panggilan": "Caleb Stanko (190269)",
+        "tanggal_lahir": "1993-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Holly, Michigan",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hunter Gorskie (267594)",
+        "nama_panggilan": "Hunter Gorskie (267594)",
+        "tanggal_lahir": "1991-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Szetela (26854)",
+        "nama_panggilan": "Danny Szetela (26854)",
+        "tanggal_lahir": "1987-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Passaic, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Miazga (245893)",
+        "nama_panggilan": "Matt Miazga (245893)",
+        "tanggal_lahir": "1995-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clifton, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeff Larentowicz (24902)",
+        "nama_panggilan": "Jeff Larentowicz (24902)",
+        "tanggal_lahir": "1983-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pasadena, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "JT Marcinkowski (336163)",
+        "nama_panggilan": "JT Marcinkowski (336163)",
+        "tanggal_lahir": "1997-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alamo, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Wolyniec (30608)",
+        "nama_panggilan": "John Wolyniec (30608)",
+        "tanggal_lahir": "1977-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Staten Island, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frank Simek (31313)",
+        "nama_panggilan": "Frank Simek (31313)",
+        "tanggal_lahir": "1984-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Louis, Missouri",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brad Guzan (39471)",
+        "nama_panggilan": "Brad Guzan (39471)",
+        "tanggal_lahir": "1984-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Evergreen Park, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Wondolowski (39856)",
+        "nama_panggilan": "Chris Wondolowski (39856)",
+        "tanggal_lahir": "1983-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Danville, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damian Las (504143)",
+        "nama_panggilan": "Damian Las (504143)",
+        "tanggal_lahir": "2002-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Des Plaines, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lance Friesz (50492)",
+        "nama_panggilan": "Lance Friesz (50492)",
+        "tanggal_lahir": "1983-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mission Viejo, Kalifornien",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeff Gal (553399)",
+        "nama_panggilan": "Jeff Gal (553399)",
+        "tanggal_lahir": "1993-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chicago, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric Lichaj (61575)",
+        "nama_panggilan": "Eric Lichaj (61575)",
+        "tanggal_lahir": "1988-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Downers Grove, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Konopka (59471)",
+        "nama_panggilan": "Chris Konopka (59471)",
+        "tanggal_lahir": "1985-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toms River, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Slonina (656316)",
+        "nama_panggilan": "Gabriel Slonina (656316)",
+        "tanggal_lahir": "2004-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Addison, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Ruszel (661157)",
+        "nama_panggilan": "Marcel Ruszel (661157)",
+        "tanggal_lahir": "2004-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chicago, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chad Dombrowski (72095)",
+        "nama_panggilan": "Chad Dombrowski (72095)",
+        "tanggal_lahir": "1980-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "West Allis, Wisconsin",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Borto (817613)",
+        "nama_panggilan": "Alex Borto (817613)",
+        "tanggal_lahir": "2003-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "South Plainfield, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

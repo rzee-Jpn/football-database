@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Grenada  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shavon John-Brown (427228)",
+        "nama_panggilan": "Shavon John-Brown (427228)",
+        "tanggal_lahir": "1995-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montréal",
+          "negara": "Grenada"
+        },
+        "kewarganegaraan": [
+          "Grenada  Canada"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

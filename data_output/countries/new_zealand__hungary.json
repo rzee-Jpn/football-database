@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Hungary",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Louis Fenton (203552)",
+        "nama_panggilan": "Louis Fenton (203552)",
+        "tanggal_lahir": "1993-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wellington",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Hungary"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

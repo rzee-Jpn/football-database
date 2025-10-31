@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Germany",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roman Neustädter (40478)",
+        "nama_panggilan": "Roman Neustädter (40478)",
+        "tanggal_lahir": "1988-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dnepropetrovsk",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Germany"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Klassen (441987)",
+        "nama_panggilan": "Leon Klassen (441987)",
+        "tanggal_lahir": "2000-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Neuenahr-Ahrweiler",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Germany"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantin Rausch (45668)",
+        "nama_panggilan": "Konstantin Rausch (45668)",
+        "tanggal_lahir": "1990-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kozhevnikovo, Tomsk Oblast",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Germany"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Fust (522244)",
+        "nama_panggilan": "Leon Fust (522244)",
+        "tanggal_lahir": "2003-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Germany"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Larion Kosuchin (545429)",
+        "nama_panggilan": "Larion Kosuchin (545429)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Russia  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

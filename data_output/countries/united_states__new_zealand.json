@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  New Zealand",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyler Boyd (203330)",
+        "nama_panggilan": "Tyler Boyd (203330)",
+        "tanggal_lahir": "1994-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tauranga",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  New Zealand"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

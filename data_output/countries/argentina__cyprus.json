@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Cyprus",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Silvio González (55190)",
+        "nama_panggilan": "Silvio González (55190)",
+        "tanggal_lahir": "1980-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guernica",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Cyprus"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

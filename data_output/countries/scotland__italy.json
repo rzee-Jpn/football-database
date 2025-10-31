@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Iacovitti (287051)",
+        "nama_panggilan": "Alex Iacovitti (287051)",
+        "tanggal_lahir": "1997-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nottingham",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Italy"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlo Pignatiello (406734)",
+        "nama_panggilan": "Carlo Pignatiello (406734)",
+        "tanggal_lahir": "2000-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Italy"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vincent Angelini (736251)",
+        "nama_panggilan": "Vincent Angelini (736251)",
+        "tanggal_lahir": "2003-09-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

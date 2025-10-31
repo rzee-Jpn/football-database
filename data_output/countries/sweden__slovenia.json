@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Slovenia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "August Karlin (615238)",
+        "nama_panggilan": "August Karlin (615238)",
+        "tanggal_lahir": "2003-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malmö",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

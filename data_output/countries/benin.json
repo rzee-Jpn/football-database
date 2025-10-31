@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Benin",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdou-Fawaz Tamou Nanti Gossi (1089027)",
+        "nama_panggilan": "Abdou-Fawaz Tamou Nanti Gossi (1089027)",
+        "tanggal_lahir": "2004-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dava David Agossa (1100185)",
+        "nama_panggilan": "Dava David Agossa (1100185)",
+        "tanggal_lahir": "2003-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouinhi",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yamirou Ouorou (1295908)",
+        "nama_panggilan": "Yamirou Ouorou (1295908)",
+        "tanggal_lahir": "2006-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guy-Landry Koukoui (1296181)",
+        "nama_panggilan": "Guy-Landry Koukoui (1296181)",
+        "tanggal_lahir": "1992-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gnidjazoun",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cherif Yaya (1389099)",
+        "nama_panggilan": "Cherif Yaya (1389099)",
+        "tanggal_lahir": "2006-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anicet Adjamossi (14890)",
+        "nama_panggilan": "Anicet Adjamossi (14890)",
+        "tanggal_lahir": "1984-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porto-Novo",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seidou Barazé (221145)",
+        "nama_panggilan": "Seidou Barazé (221145)",
+        "tanggal_lahir": "1990-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abomey",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jodel Dossou (221151)",
+        "nama_panggilan": "Jodel Dossou (221151)",
+        "tanggal_lahir": "1992-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bohicon",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Ikililou (232670)",
+        "nama_panggilan": "Ibrahim Ikililou (232670)",
+        "tanggal_lahir": "1993-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aledjo-Koura",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jocelyn Ahouéya (20068)",
+        "nama_panggilan": "Jocelyn Ahouéya (20068)",
+        "tanggal_lahir": "1985-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abomey",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khaled Adénon (39174)",
+        "nama_panggilan": "Khaled Adénon (39174)",
+        "tanggal_lahir": "1985-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abobo",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéphane Sessègnon (37157)",
+        "nama_panggilan": "Stéphane Sessègnon (37157)",
+        "tanggal_lahir": "1984-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Allahe",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Femi Hollinger-Janzen (427612)",
+        "nama_panggilan": "Femi Hollinger-Janzen (427612)",
+        "tanggal_lahir": "1993-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cotonou",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noel Seka (51405)",
+        "nama_panggilan": "Noel Seka (51405)",
+        "tanggal_lahir": "1984-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Allahé",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustapha Agnidé (51448)",
+        "nama_panggilan": "Moustapha Agnidé (51448)",
+        "tanggal_lahir": "1981-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ifangni",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seïbou Mama (587935)",
+        "nama_panggilan": "Seïbou Mama (587935)",
+        "tanggal_lahir": "1995-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Parakou",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssouf Assogba (704436)",
+        "nama_panggilan": "Youssouf Assogba (704436)",
+        "tanggal_lahir": "2001-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Savè",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josué Chibozo (708078)",
+        "nama_panggilan": "Josué Chibozo (708078)",
+        "tanggal_lahir": "2003-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adromè",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Olou (65893)",
+        "nama_panggilan": "Oscar Olou (65893)",
+        "tanggal_lahir": "1987-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouidah",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charbel Gomez (830494)",
+        "nama_panggilan": "Charbel Gomez (830494)",
+        "tanggal_lahir": "2001-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cotonou",
+          "negara": "Benin"
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Candas Fiogbe (882988)",
+        "nama_panggilan": "Candas Fiogbe (882988)",
+        "tanggal_lahir": "2005-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samson Allagbé (846468)",
+        "nama_panggilan": "Samson Allagbé (846468)",
+        "tanggal_lahir": "2000-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Benin"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

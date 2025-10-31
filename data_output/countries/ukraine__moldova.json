@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Moldova",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleksandr Kucherenko (358956)",
+        "nama_panggilan": "Oleksandr Kucherenko (358956)",
+        "tanggal_lahir": "1991-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovyansk, Donetsk Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Moldova"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleksiy Palamarchuk (58939)",
+        "nama_panggilan": "Oleksiy Palamarchuk (58939)",
+        "tanggal_lahir": "1991-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bender, Moldova",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Moldova"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andriy Bezhenar (812726)",
+        "nama_panggilan": "Andriy Bezhenar (812726)",
+        "tanggal_lahir": "1991-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novoselytsya, Chernivtsi Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Moldova"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

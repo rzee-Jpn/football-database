@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Mexico",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Andrade (120093)",
+        "nama_panggilan": "Andrés Andrade (120093)",
+        "tanggal_lahir": "1989-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leitón Jiménez (119245)",
+        "nama_panggilan": "Leitón Jiménez (119245)",
+        "tanggal_lahir": "1989-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Juradó",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Avilés Hurtado (148713)",
+        "nama_panggilan": "Avilés Hurtado (148713)",
+        "tanggal_lahir": "1987-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timbiquí",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Martínez (154698)",
+        "nama_panggilan": "Cristian Martínez (154698)",
+        "tanggal_lahir": "1988-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quibdó",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Rentería (233007)",
+        "nama_panggilan": "Andrés Rentería (233007)",
+        "tanggal_lahir": "1993-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Calero (354330)",
+        "nama_panggilan": "Juan Calero (354330)",
+        "tanggal_lahir": "1998-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ginebra",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Chitiva (52611)",
+        "nama_panggilan": "Andrés Chitiva (52611)",
+        "tanggal_lahir": "1979-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogotá",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aquivaldo Mosquera (52619)",
+        "nama_panggilan": "Aquivaldo Mosquera (52619)",
+        "tanggal_lahir": "1981-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Apartadó",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Gabriel Rey (54862)",
+        "nama_panggilan": "Luis Gabriel Rey (54862)",
+        "tanggal_lahir": "1980-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucaramanga",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darwin Quintero (55666)",
+        "nama_panggilan": "Darwin Quintero (55666)",
+        "tanggal_lahir": "1987-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tumaco",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldo Leao Ramírez (63184)",
+        "nama_panggilan": "Aldo Leao Ramírez (63184)",
+        "tanggal_lahir": "1981-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Marta",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franco Arizala (77199)",
+        "nama_panggilan": "Franco Arizala (77199)",
+        "tanggal_lahir": "1986-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Magüi Payán",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Mexico"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Greece",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grégory Sofikitis (98317)",
+        "nama_panggilan": "Grégory Sofikitis (98317)",
+        "tanggal_lahir": "1985-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Greece"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Willie Overtoom (80709)",
+        "nama_panggilan": "Willie Overtoom (80709)",
+        "tanggal_lahir": "1986-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bertoua",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Netherlands"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

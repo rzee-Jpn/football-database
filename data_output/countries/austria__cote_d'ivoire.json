@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Cote d'Ivoire",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Namory Cissé (634034)",
+        "nama_panggilan": "Namory Cissé (634034)",
+        "tanggal_lahir": "2003-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Innsbruck",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

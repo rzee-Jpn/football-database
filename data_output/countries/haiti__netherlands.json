@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Haiti  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Regillio Nooitmeer (20043)",
+        "nama_panggilan": "Regillio Nooitmeer (20043)",
+        "tanggal_lahir": "1983-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richelor Sprangers (396005)",
+        "nama_panggilan": "Richelor Sprangers (396005)",
+        "tanggal_lahir": "1998-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port-au-Prince",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  Netherlands"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismaël François (610085)",
+        "nama_panggilan": "Ismaël François (610085)",
+        "tanggal_lahir": "2001-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port-au-Prince",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

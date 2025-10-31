@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Czech Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Hasal (487505)",
+        "nama_panggilan": "Thomas Hasal (487505)",
+        "tanggal_lahir": "1999-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cambridge, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Czech Republic"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

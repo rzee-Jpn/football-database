@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Austria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Sarac (307672)",
+        "nama_panggilan": "Dejan Sarac (307672)",
+        "tanggal_lahir": "1998-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Graz",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Austria"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrej Stevanovic (687184)",
+        "nama_panggilan": "Andrej Stevanovic (687184)",
+        "tanggal_lahir": "2004-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Serbia  Austria"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

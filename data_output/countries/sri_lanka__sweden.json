@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sri Lanka  Sweden",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adhavan Rajamohan (220458)",
+        "nama_panggilan": "Adhavan Rajamohan (220458)",
+        "tanggal_lahir": "1993-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Spånga",
+          "negara": "Sri Lanka"
+        },
+        "kewarganegaraan": [
+          "Sri Lanka  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

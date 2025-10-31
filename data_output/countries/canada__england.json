@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  England",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Bircham (13716)",
+        "nama_panggilan": "Marc Bircham (13716)",
+        "tanggal_lahir": "1978-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brent",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Fenwick (12695)",
+        "nama_panggilan": "Paul Fenwick (12695)",
+        "tanggal_lahir": "1969-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Chapman (189032)",
+        "nama_panggilan": "Jay Chapman (189032)",
+        "tanggal_lahir": "1994-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brampton, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iké Ugbo (339943)",
+        "nama_panggilan": "Iké Ugbo (339943)",
+        "tanggal_lahir": "1998-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Will Johnson (38215)",
+        "nama_panggilan": "Will Johnson (38215)",
+        "tanggal_lahir": "1987-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tom McGill (406556)",
+        "nama_panggilan": "Tom McGill (406556)",
+        "tanggal_lahir": "2000-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belleville",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Edgar (44910)",
+        "nama_panggilan": "David Edgar (44910)",
+        "tanggal_lahir": "1987-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kitchener, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Millar (487417)",
+        "nama_panggilan": "Liam Millar (487417)",
+        "tanggal_lahir": "1999-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Hastings (4992)",
+        "nama_panggilan": "Richard Hastings (4992)",
+        "tanggal_lahir": "1977-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prince George",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terry Dunfield (54757)",
+        "nama_panggilan": "Terry Dunfield (54757)",
+        "tanggal_lahir": "1982-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vancouver, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aribim Pepple (696502)",
+        "nama_panggilan": "Aribim Pepple (696502)",
+        "tanggal_lahir": "2002-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kettering",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Jebbison (746740)",
+        "nama_panggilan": "Daniel Jebbison (746740)",
+        "tanggal_lahir": "2003-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oakville, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah Abatneh (817966)",
+        "nama_panggilan": "Noah Abatneh (817966)",
+        "tanggal_lahir": "2004-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luc De Fougerolles (921995)",
+        "nama_panggilan": "Luc De Fougerolles (921995)",
+        "tanggal_lahir": "2005-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

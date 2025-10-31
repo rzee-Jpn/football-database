@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Angola  Belgium",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Vetokele (101201)",
+        "nama_panggilan": "Igor Vetokele (101201)",
+        "tanggal_lahir": "1992-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luanda",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Belgium"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dolly Menga (132414)",
+        "nama_panggilan": "Dolly Menga (132414)",
+        "tanggal_lahir": "1993-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Verviers",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Buatu (137313)",
+        "nama_panggilan": "Jonathan Buatu (137313)",
+        "tanggal_lahir": "1993-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liège",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Belgium"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Clinton Mata (187718)",
+        "nama_panggilan": "Clinton Mata (187718)",
+        "tanggal_lahir": "1992-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Verviers",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benson Manuel (322702)",
+        "nama_panggilan": "Benson Manuel (322702)",
+        "tanggal_lahir": "1997-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lokeren",
+          "negara": "Angola"
+        },
+        "kewarganegaraan": [
+          "Angola  Belgium"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sri Lanka  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sam Durrant (593981)",
+        "nama_panggilan": "Sam Durrant (593981)",
+        "tanggal_lahir": "2002-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "Sri Lanka"
+        },
+        "kewarganegaraan": [
+          "Sri Lanka  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dillon De Silva (683855)",
+        "nama_panggilan": "Dillon De Silva (683855)",
+        "tanggal_lahir": "2002-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sri Lanka"
+        },
+        "kewarganegaraan": [
+          "Sri Lanka  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

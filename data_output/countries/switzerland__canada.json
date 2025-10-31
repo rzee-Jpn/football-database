@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alain Rochat (4843)",
+        "nama_panggilan": "Alain Rochat (4843)",
+        "tanggal_lahir": "1983-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Jean-sur-Richelieu, Québec",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Canada"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

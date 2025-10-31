@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Luxembourg  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabian Heck (924125)",
+        "nama_panggilan": "Fabian Heck (924125)",
+        "tanggal_lahir": "2005-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bitburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Germany"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maurice Deville (85538)",
+        "nama_panggilan": "Maurice Deville (85538)",
+        "tanggal_lahir": "1992-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sulingen",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Germany"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

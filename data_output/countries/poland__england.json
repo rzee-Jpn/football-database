@@ -1,0 +1,619 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  England",
+  "total_pemain": 18,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kornel Misciur (1130022)",
+        "nama_panggilan": "Kornel Misciur (1130022)",
+        "tanggal_lahir": "2007-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Scarborough",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Janusz (1144587)",
+        "nama_panggilan": "Adrian Janusz (1144587)",
+        "tanggal_lahir": "2006-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rzeszow",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Kuszczak (1320)",
+        "nama_panggilan": "Tomasz Kuszczak (1320)",
+        "tanggal_lahir": "1982-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krosno Odrzańskie",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikolaj Lenarcik (1205844)",
+        "nama_panggilan": "Mikolaj Lenarcik (1205844)",
+        "tanggal_lahir": "2006-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Crewe",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Tyjon (1192864)",
+        "nama_panggilan": "Igor Tyjon (1192864)",
+        "tanggal_lahir": "2008-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pawel Abbott (13981)",
+        "nama_panggilan": "Pawel Abbott (13981)",
+        "tanggal_lahir": "1982-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "York",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Kubicki (158494)",
+        "nama_panggilan": "Patryk Kubicki (158494)",
+        "tanggal_lahir": "1993-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maksymilian Stryjek (240457)",
+        "nama_panggilan": "Maksymilian Stryjek (240457)",
+        "tanggal_lahir": "1996-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Starosta (38210)",
+        "nama_panggilan": "Ben Starosta (38210)",
+        "tanggal_lahir": "1987-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sheffield",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matty Cash (425334)",
+        "nama_panggilan": "Matty Cash (425334)",
+        "tanggal_lahir": "1997-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slough",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Kowalczyk (509588)",
+        "nama_panggilan": "Kacper Kowalczyk (509588)",
+        "tanggal_lahir": "2001-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hubert Graczyk (587018)",
+        "nama_panggilan": "Hubert Graczyk (587018)",
+        "tanggal_lahir": "2003-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skwierzyna",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Cybulski (698707)",
+        "nama_panggilan": "Bartosz Cybulski (698707)",
+        "tanggal_lahir": "2002-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Rosiak (742943)",
+        "nama_panggilan": "Michal Rosiak (742943)",
+        "tanggal_lahir": "2005-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białogard",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wiktor Gromek (905915)",
+        "nama_panggilan": "Wiktor Gromek (905915)",
+        "tanggal_lahir": "2005-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Biniek (845277)",
+        "nama_panggilan": "Dominik Biniek (845277)",
+        "tanggal_lahir": "2004-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxi Oyedele (863204)",
+        "nama_panggilan": "Maxi Oyedele (863204)",
+        "tanggal_lahir": "2004-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Salford",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Levis Pitan (967336)",
+        "nama_panggilan": "Levis Pitan (967336)",
+        "tanggal_lahir": "2005-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coventry",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  England"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Morocco  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bono (207834)",
+        "nama_panggilan": "Bono (207834)",
+        "tanggal_lahir": "1991-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal, Quebec",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Canada"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

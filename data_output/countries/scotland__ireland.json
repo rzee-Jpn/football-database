@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Ireland",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1992-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bellshill",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Armstrong (225236)",
+        "nama_panggilan": "Danny Armstrong (225236)",
+        "tanggal_lahir": "1997-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Taunton",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Greg Docherty (227618)",
+        "nama_panggilan": "Greg Docherty (227618)",
+        "tanggal_lahir": "1996-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milngavie",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josh McPake (424014)",
+        "nama_panggilan": "Josh McPake (424014)",
+        "tanggal_lahir": "2001-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coatbridge",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Andreucci (719671)",
+        "nama_panggilan": "Ben Andreucci (719671)",
+        "tanggal_lahir": "2004-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bedford",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobby Wales (924850)",
+        "nama_panggilan": "Bobby Wales (924850)",
+        "tanggal_lahir": "2005-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hurlford",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

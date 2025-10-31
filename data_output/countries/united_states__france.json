@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  France",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Janis Covi (1046942)",
+        "nama_panggilan": "Ibrahim Janis Covi (1046942)",
+        "tanggal_lahir": "2000-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darius Lane (1242124)",
+        "nama_panggilan": "Darius Lane (1242124)",
+        "tanggal_lahir": "2007-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoine Hoppenot (216602)",
+        "nama_panggilan": "Antoine Hoppenot (216602)",
+        "tanggal_lahir": "1990-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romain Gall (242325)",
+        "nama_panggilan": "Romain Gall (242325)",
+        "tanggal_lahir": "1995-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quentin Westberg (33934)",
+        "nama_panggilan": "Quentin Westberg (33934)",
+        "tanggal_lahir": "1986-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suresnes",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amadou Dia (354912)",
+        "nama_panggilan": "Amadou Dia (354912)",
+        "tanggal_lahir": "1993-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nantes",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan (355369)",
+        "nama_panggilan": "Jordan (355369)",
+        "tanggal_lahir": "1996-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Washington, D. C.",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timothy Weah (370846)",
+        "nama_panggilan": "Timothy Weah (370846)",
+        "tanggal_lahir": "2000-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mael Corboz (413859)",
+        "nama_panggilan": "Mael Corboz (413859)",
+        "tanggal_lahir": "1994-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mobile, Alabama",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Chaney (426894)",
+        "nama_panggilan": "Christian Chaney (426894)",
+        "tanggal_lahir": "1994-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fresno, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastien Des Pres (481591)",
+        "nama_panggilan": "Sebastien Des Pres (481591)",
+        "tanggal_lahir": "1998-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Encinitas, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Remi Prieur (611030)",
+        "nama_panggilan": "Remi Prieur (611030)",
+        "tanggal_lahir": "1997-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mödling",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Evan Rotundo (745460)",
+        "nama_panggilan": "Evan Rotundo (745460)",
+        "tanggal_lahir": "2004-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Diego, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Koffi (748958)",
+        "nama_panggilan": "Patrick Koffi (748958)",
+        "tanggal_lahir": "2001-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dallas, Texas",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Brick (931099)",
+        "nama_panggilan": "Mathieu Brick (931099)",
+        "tanggal_lahir": "2005-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

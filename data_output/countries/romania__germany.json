@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximilian Nicu (2345)",
+        "nama_panggilan": "Maximilian Nicu (2345)",
+        "tanggal_lahir": "1982-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prien am Chiemsee",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexi Pitu (547822)",
+        "nama_panggilan": "Alexi Pitu (547822)",
+        "tanggal_lahir": "2002-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karlsruhe",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronny Philp (60026)",
+        "nama_panggilan": "Ronny Philp (60026)",
+        "tanggal_lahir": "1989-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sibiu",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Ghana",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Koffi Kouao (481513)",
+        "nama_panggilan": "Koffi Kouao (481513)",
+        "tanggal_lahir": "1998-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Ghana"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Diomandé (658531)",
+        "nama_panggilan": "Mohamed Diomandé (658531)",
+        "tanggal_lahir": "2001-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yopougon",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Ghana"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

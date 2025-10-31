@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovakia  Hungary",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomas Lenarth (105063)",
+        "nama_panggilan": "Tomas Lenarth (105063)",
+        "tanggal_lahir": "1990-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dunajská Streda",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ákos Szarka (143032)",
+        "nama_panggilan": "Ákos Szarka (143032)",
+        "tanggal_lahir": "1990-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dunajská Streda",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jozef Urblik (255887)",
+        "nama_panggilan": "Jozef Urblik (255887)",
+        "tanggal_lahir": "1996-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bardejov",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukas Szabó (272593)",
+        "nama_panggilan": "Lukas Szabó (272593)",
+        "tanggal_lahir": "1992-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šaľa",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Sandal (316891)",
+        "nama_panggilan": "Dominik Sandal (316891)",
+        "tanggal_lahir": "1997-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dunajská Streda",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gergely Tumma (434079)",
+        "nama_panggilan": "Gergely Tumma (434079)",
+        "tanggal_lahir": "2000-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galanta",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zoltán Harsányi (50590)",
+        "nama_panggilan": "Zoltán Harsányi (50590)",
+        "tanggal_lahir": "1987-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Senec",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomas Kosicky (78496)",
+        "nama_panggilan": "Tomas Kosicky (78496)",
+        "tanggal_lahir": "1986-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bratislava",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gábor Tóth (802868)",
+        "nama_panggilan": "Gábor Tóth (802868)",
+        "tanggal_lahir": "1993-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stanislav Varga (9495)",
+        "nama_panggilan": "Stanislav Varga (9495)",
+        "tanggal_lahir": "1972-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lipany",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zoltán Bognár (90753)",
+        "nama_panggilan": "Zoltán Bognár (90753)",
+        "tanggal_lahir": "1988-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bence Kovács (884979)",
+        "nama_panggilan": "Bence Kovács (884979)",
+        "tanggal_lahir": "2004-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galanta",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Hungary"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

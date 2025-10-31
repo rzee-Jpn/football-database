@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Switzerland",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Álex Geijo (15981)",
+        "nama_panggilan": "Álex Geijo (15981)",
+        "tanggal_lahir": "1982-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Raillo (178282)",
+        "nama_panggilan": "Manuel Raillo (178282)",
+        "tanggal_lahir": "1990-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Córdoba",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Luis Deus (29172)",
+        "nama_panggilan": "José Luis Deus (29172)",
+        "tanggal_lahir": "1977-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Díaz (355534)",
+        "nama_panggilan": "Lucas Díaz (355534)",
+        "tanggal_lahir": "1996-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ginebra",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Ángel Manso (625656)",
+        "nama_panggilan": "Miguel Ángel Manso (625656)",
+        "tanggal_lahir": "2000-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Gallen",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Delgado (7996)",
+        "nama_panggilan": "Javier Delgado (7996)",
+        "tanggal_lahir": "1980-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

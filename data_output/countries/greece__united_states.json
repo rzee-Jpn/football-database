@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Tambakis (68436)",
+        "nama_panggilan": "Alexander Tambakis (68436)",
+        "tanggal_lahir": "1992-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athens",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah Allen (819603)",
+        "nama_panggilan": "Noah Allen (819603)",
+        "tanggal_lahir": "2004-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pembroke Pines, Florida",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

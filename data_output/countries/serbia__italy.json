@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milos Milicevic (1056743)",
+        "nama_panggilan": "Milos Milicevic (1056743)",
+        "tanggal_lahir": "2006-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Serbia  Italy"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Stanković (3428)",
+        "nama_panggilan": "Dejan Stanković (3428)",
+        "tanggal_lahir": "1978-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrade",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Italy"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Stanković (780136)",
+        "nama_panggilan": "Aleksandar Stanković (780136)",
+        "tanggal_lahir": "2005-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

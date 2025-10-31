@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Thailand",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geoffrey Prommayon (20154)",
+        "nama_panggilan": "Geoffrey Prommayon (20154)",
+        "tanggal_lahir": "1971-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Udon Thani",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Thailand"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Thong (256888)",
+        "nama_panggilan": "Brian Thong (256888)",
+        "tanggal_lahir": "1994-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Phanat Nikhom",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Thailand"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mees Eppink (933914)",
+        "nama_panggilan": "Mees Eppink (933914)",
+        "tanggal_lahir": "2006-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bangkok",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Thailand"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

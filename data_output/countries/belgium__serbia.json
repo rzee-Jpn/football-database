@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Serbia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Strahinja Ristovic (699925)",
+        "nama_panggilan": "Strahinja Ristovic (699925)",
+        "tanggal_lahir": "2000-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beograd",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Serbia"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Pejčić (840907)",
+        "nama_panggilan": "Nikola Pejčić (840907)",
+        "tanggal_lahir": "2000-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antwerpen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Serbia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Stanic (864370)",
+        "nama_panggilan": "Alexandre Stanic (864370)",
+        "tanggal_lahir": "2004-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Serbia"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

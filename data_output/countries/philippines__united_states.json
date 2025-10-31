@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zico Bailey (370980)",
+        "nama_panggilan": "Zico Bailey (370980)",
+        "tanggal_lahir": "2000-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Henderson, Nevada",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Monis (724442)",
+        "nama_panggilan": "Alex Monis (724442)",
+        "tanggal_lahir": "2003-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Downers Grove, Illinois",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  United States"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

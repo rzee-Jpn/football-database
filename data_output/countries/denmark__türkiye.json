@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Türkiye",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rezan Corlu (283193)",
+        "nama_panggilan": "Rezan Corlu (283193)",
+        "tanggal_lahir": "1997-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glostrup",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Türkiye"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yasin Dogan (587311)",
+        "nama_panggilan": "Yasin Dogan (587311)",
+        "tanggal_lahir": "2001-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Türkiye"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zidan Sertdemir (788445)",
+        "nama_panggilan": "Zidan Sertdemir (788445)",
+        "tanggal_lahir": "2005-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ishøj",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Türkiye"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oğuz Han Aynaoğlu (94296)",
+        "nama_panggilan": "Oğuz Han Aynaoğlu (94296)",
+        "tanggal_lahir": "1992-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Farum",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Türkiye"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

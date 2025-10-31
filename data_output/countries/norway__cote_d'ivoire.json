@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Cote d'Ivoire",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luc Kassi (238694)",
+        "nama_panggilan": "Luc Kassi (238694)",
+        "tanggal_lahir": "1994-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adama Diomande (93145)",
+        "nama_panggilan": "Adama Diomande (93145)",
+        "tanggal_lahir": "1990-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

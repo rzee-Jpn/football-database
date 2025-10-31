@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Croatia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dino Martinovic (143090)",
+        "nama_panggilan": "Dino Martinovic (143090)",
+        "tanggal_lahir": "1990-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karlovac",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Croatia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandro Bloudek (31393)",
+        "nama_panggilan": "Sandro Bloudek (31393)",
+        "tanggal_lahir": "1986-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Croatia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josip Ilicic (80351)",
+        "nama_panggilan": "Josip Ilicic (80351)",
+        "tanggal_lahir": "1988-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prijedor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Croatia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

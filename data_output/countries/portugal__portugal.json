@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hevertton (695121)",
+        "nama_panggilan": "Hevertton (695121)",
+        "tanggal_lahir": "2001-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Mateus (ES)",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

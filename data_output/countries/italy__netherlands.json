@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Netherlands",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ruben Serpe (1186985)",
+        "nama_panggilan": "Ruben Serpe (1186985)",
+        "tanggal_lahir": "2007-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pontremoli",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurens Serpe (500164)",
+        "nama_panggilan": "Laurens Serpe (500164)",
+        "tanggal_lahir": "2001-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fivizzano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Netherlands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenzo Codutti (704693)",
+        "nama_panggilan": "Lorenzo Codutti (704693)",
+        "tanggal_lahir": "2003-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Coppola (660860)",
+        "nama_panggilan": "Diego Coppola (660860)",
+        "tanggal_lahir": "2003-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bussolengo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Netherlands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Philip Serpe (937229)",
+        "nama_panggilan": "Philip Serpe (937229)",
+        "tanggal_lahir": "2003-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fivizzano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Netherlands"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

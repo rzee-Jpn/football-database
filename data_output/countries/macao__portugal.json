@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Macao  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Kong (236727)",
+        "nama_panggilan": "David Kong (236727)",
+        "tanggal_lahir": "1994-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Macao",
+          "negara": "Macao"
+        },
+        "kewarganegaraan": [
+          "Macao  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

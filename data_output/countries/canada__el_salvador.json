@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  El Salvador",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maycoll Canizales (2549)",
+        "nama_panggilan": "Maycoll Canizales (2549)",
+        "tanggal_lahir": "1982-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quezaltepeque",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  El Salvador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

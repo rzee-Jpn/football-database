@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Togo",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wisdom Amey (818878)",
+        "nama_panggilan": "Wisdom Amey (818878)",
+        "tanggal_lahir": "2005-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bassano del Grappa",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Togo"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

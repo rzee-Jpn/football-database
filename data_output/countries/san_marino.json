@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "San Marino",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alberto Riccardi (1005012)",
+        "nama_panggilan": "Alberto Riccardi (1005012)",
+        "tanggal_lahir": "2006-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mattia Stefanelli (136137)",
+        "nama_panggilan": "Mattia Stefanelli (136137)",
+        "tanggal_lahir": "1993-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Città di San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elia Benedettini (269421)",
+        "nama_panggilan": "Elia Benedettini (269421)",
+        "tanggal_lahir": "1995-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borgo Maggiore",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Cesarini (241063)",
+        "nama_panggilan": "Davide Cesarini (241063)",
+        "tanggal_lahir": "1995-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Città di San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simone Benedettini (352610)",
+        "nama_panggilan": "Simone Benedettini (352610)",
+        "tanggal_lahir": "1997-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicola Nanni (401384)",
+        "nama_panggilan": "Nicola Nanni (401384)",
+        "tanggal_lahir": "2000-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Città di San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldo Simoncini (41146)",
+        "nama_panggilan": "Aldo Simoncini (41146)",
+        "tanggal_lahir": "1986-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filippo Fabbri (616906)",
+        "nama_panggilan": "Filippo Fabbri (616906)",
+        "tanggal_lahir": "2002-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Marino",
+          "negara": "San Marino"
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Valli (90493)",
+        "nama_panggilan": "Matteo Valli (90493)",
+        "tanggal_lahir": "1986-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacopo Pari (927256)",
+        "nama_panggilan": "Jacopo Pari (927256)",
+        "tanggal_lahir": "2005-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "San Marino"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

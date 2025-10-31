@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Grenada  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kharlton Belmar (325368)",
+        "nama_panggilan": "Kharlton Belmar (325368)",
+        "tanggal_lahir": "1992-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Virginia Beach, Virginia",
+          "negara": "Grenada"
+        },
+        "kewarganegaraan": [
+          "Grenada  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shalrie Joseph (39892)",
+        "nama_panggilan": "Shalrie Joseph (39892)",
+        "tanggal_lahir": "1978-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. George’s",
+          "negara": "Grenada"
+        },
+        "kewarganegaraan": [
+          "Grenada  United States"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "AJ Paterson (562537)",
+        "nama_panggilan": "AJ Paterson (562537)",
+        "tanggal_lahir": "1996-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Key Largo, Florida",
+          "negara": "Grenada"
+        },
+        "kewarganegaraan": [
+          "Grenada  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

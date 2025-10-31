@@ -1,0 +1,619 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  India",
+  "total_pemain": 18,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Chungh (1018831)",
+        "nama_panggilan": "Aaron Chungh (1018831)",
+        "tanggal_lahir": "2007-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Batth (129049)",
+        "nama_panggilan": "Danny Batth (129049)",
+        "tanggal_lahir": "1990-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brierley Hill",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mal Benning (210545)",
+        "nama_panggilan": "Mal Benning (210545)",
+        "tanggal_lahir": "1993-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sandwell",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yan Dhanda (332340)",
+        "nama_panggilan": "Yan Dhanda (332340)",
+        "tanggal_lahir": "1998-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dudley",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dilan Markanday (530807)",
+        "nama_panggilan": "Dilan Markanday (530807)",
+        "tanggal_lahir": "2001-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ollie Tipton (576348)",
+        "nama_panggilan": "Ollie Tipton (576348)",
+        "tanggal_lahir": "2003-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Drewe (683846)",
+        "nama_panggilan": "Aaron Drewe (683846)",
+        "tanggal_lahir": "2001-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Will Grewal-Pollard (696579)",
+        "nama_panggilan": "Will Grewal-Pollard (696579)",
+        "tanggal_lahir": "2002-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arjan Raikhy (698637)",
+        "nama_panggilan": "Arjan Raikhy (698637)",
+        "tanggal_lahir": "2002-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wolverhampton",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kam Kandola (700430)",
+        "nama_panggilan": "Kam Kandola (700430)",
+        "tanggal_lahir": "2004-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wolverhampton",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rohan Luthra (703469)",
+        "nama_panggilan": "Rohan Luthra (703469)",
+        "tanggal_lahir": "2002-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taylor Foran (657815)",
+        "nama_panggilan": "Taylor Foran (657815)",
+        "tanggal_lahir": "2003-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sonny Singh (814681)",
+        "nama_panggilan": "Sonny Singh (814681)",
+        "tanggal_lahir": "2004-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amardeep Singh (92092)",
+        "nama_panggilan": "Amardeep Singh (92092)",
+        "tanggal_lahir": "1990-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leamington Spa",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brandon Khela (921735)",
+        "nama_panggilan": "Brandon Khela (921735)",
+        "tanggal_lahir": "2005-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coventry",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rio Shipston (871160)",
+        "nama_panggilan": "Rio Shipston (871160)",
+        "tanggal_lahir": "2004-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sheffield",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Caylan Vickers (890860)",
+        "nama_panggilan": "Caylan Vickers (890860)",
+        "tanggal_lahir": "2004-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Windsor",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sai Sachdev (967304)",
+        "nama_panggilan": "Sai Sachdev (967304)",
+        "tanggal_lahir": "2005-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leicester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  India"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

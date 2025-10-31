@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  Greece",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Themistoklis Tzimopoulos (34204)",
+        "nama_panggilan": "Themistoklis Tzimopoulos (34204)",
+        "tanggal_lahir": "1985-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kozani",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Greece"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Bertos (43145)",
+        "nama_panggilan": "Leo Bertos (43145)",
+        "tanggal_lahir": "1981-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wellington",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Greece"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kosta Barbarouses (50200)",
+        "nama_panggilan": "Kosta Barbarouses (50200)",
+        "tanggal_lahir": "1990-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wellington",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  Greece"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

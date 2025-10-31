@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Luxembourg  Portugal",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric Veiga (251447)",
+        "nama_panggilan": "Eric Veiga (251447)",
+        "tanggal_lahir": "1997-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gerson Rodrigues (282734)",
+        "nama_panggilan": "Gerson Rodrigues (282734)",
+        "tanggal_lahir": "1995-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pragal",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leandro Barreiro (357233)",
+        "nama_panggilan": "Leandro Barreiro (357233)",
+        "tanggal_lahir": "2000-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erpeldingen",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Do Rego (465781)",
+        "nama_panggilan": "Hugo Do Rego (465781)",
+        "tanggal_lahir": "2003-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Issa Bah (566861)",
+        "nama_panggilan": "Issa Bah (566861)",
+        "tanggal_lahir": "2002-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diogo Monteiro (586669)",
+        "nama_panggilan": "Diogo Monteiro (586669)",
+        "tanggal_lahir": "2004-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adulai Djabi Embalo (926287)",
+        "nama_panggilan": "Adulai Djabi Embalo (926287)",
+        "tanggal_lahir": "2005-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Duarte (885845)",
+        "nama_panggilan": "Diego Duarte (885845)",
+        "tanggal_lahir": "2006-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxembourg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás Moreira (902701)",
+        "nama_panggilan": "Tomás Moreira (902701)",
+        "tanggal_lahir": "2005-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porto",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Portugal"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

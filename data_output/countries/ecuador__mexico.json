@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  Mexico",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wálter Ayoví (22589)",
+        "nama_panggilan": "Wálter Ayoví (22589)",
+        "tanggal_lahir": "1979-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Mexico"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fidel Martínez (75612)",
+        "nama_panggilan": "Fidel Martínez (75612)",
+        "tanggal_lahir": "1990-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Shushufindi",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Mexico"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joao Rojas (92729)",
+        "nama_panggilan": "Joao Rojas (92729)",
+        "tanggal_lahir": "1989-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Troncal",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Mexico"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

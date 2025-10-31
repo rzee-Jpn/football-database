@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Norway",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pat Onstad (39852)",
+        "nama_panggilan": "Pat Onstad (39852)",
+        "tanggal_lahir": "1968-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vancouver, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Norway"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sébastian Breza (459842)",
+        "nama_panggilan": "Sébastian Breza (459842)",
+        "tanggal_lahir": "1998-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ottawa, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Norway"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

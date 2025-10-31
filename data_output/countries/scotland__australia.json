@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Australia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grant Brebner (12687)",
+        "nama_panggilan": "Grant Brebner (12687)",
+        "tanggal_lahir": "1977-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edinburgh",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Australia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Souttar (235767)",
+        "nama_panggilan": "John Souttar (235767)",
+        "tanggal_lahir": "1996-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aberdeen",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Australia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lyndon Dykes (347138)",
+        "nama_panggilan": "Lyndon Dykes (347138)",
+        "tanggal_lahir": "1995-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gold Coast",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Australia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Lochhead (335547)",
+        "nama_panggilan": "Scott Lochhead (335547)",
+        "tanggal_lahir": "1997-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Australia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

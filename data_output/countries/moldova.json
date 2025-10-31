@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Moldova",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacov Zalevschi (110139)",
+        "nama_panggilan": "Jacov Zalevschi (110139)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Moldova"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Tonica (1233812)",
+        "nama_panggilan": "Daniel Tonica (1233812)",
+        "tanggal_lahir": "2007-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Moldova"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viorel Frunza (46547)",
+        "nama_panggilan": "Viorel Frunza (46547)",
+        "tanggal_lahir": "1979-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleg Sischin (44282)",
+        "nama_panggilan": "Oleg Sischin (44282)",
+        "tanggal_lahir": "1975-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniil Dimitrișin (992712)",
+        "nama_panggilan": "Daniil Dimitrișin (992712)",
+        "tanggal_lahir": "2007-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

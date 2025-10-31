@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Cote d'Ivoire",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruce Djite (43093)",
+        "nama_panggilan": "Bruce Djite (43093)",
+        "tanggal_lahir": "1987-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Washington, D.C.",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonas Salley (43185)",
+        "nama_panggilan": "Jonas Salley (43185)",
+        "tanggal_lahir": "1982-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Pedro",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

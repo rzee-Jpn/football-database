@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josecarlos van Rankin (221412)",
+        "nama_panggilan": "Josecarlos van Rankin (221412)",
+        "tanggal_lahir": "1993-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexico City",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Netherlands"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teun Wilke (631331)",
+        "nama_panggilan": "Teun Wilke (631331)",
+        "tanggal_lahir": "2002-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Querétaro",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Netherlands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

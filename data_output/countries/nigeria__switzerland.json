@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Switzerland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Osigwe (199453)",
+        "nama_panggilan": "Sebastian Osigwe (199453)",
+        "tanggal_lahir": "1994-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luzern",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Switzerland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Ukoh (61361)",
+        "nama_panggilan": "Steven Ukoh (61361)",
+        "tanggal_lahir": "1991-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bern",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

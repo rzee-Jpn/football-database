@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  England",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ian Poveda (392763)",
+        "nama_panggilan": "Ian Poveda (392763)",
+        "tanggal_lahir": "2000-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Víctor Zapata (366884)",
+        "nama_panggilan": "Víctor Zapata (366884)",
+        "tanggal_lahir": "1994-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Paila",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Alzate (476237)",
+        "nama_panggilan": "Steven Alzate (476237)",
+        "tanggal_lahir": "1998-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexéi Rojas (940915)",
+        "nama_panggilan": "Alexéi Rojas (940915)",
+        "tanggal_lahir": "2005-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Basildon",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Montano (87667)",
+        "nama_panggilan": "Cristian Montano (87667)",
+        "tanggal_lahir": "1991-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás Ángel (856184)",
+        "nama_panggilan": "Tomás Ángel (856184)",
+        "tanggal_lahir": "2003-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  England"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

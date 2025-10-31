@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Martinique",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Witsel (35047)",
+        "nama_panggilan": "Axel Witsel (35047)",
+        "tanggal_lahir": "1989-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liège",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Martinique"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

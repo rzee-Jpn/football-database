@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Costa Rica  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óscar Duarte (175323)",
+        "nama_panggilan": "Óscar Duarte (175323)",
+        "tanggal_lahir": "1989-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Catarina",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Spain"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Sequeira (378482)",
+        "nama_panggilan": "Patrick Sequeira (378482)",
+        "tanggal_lahir": "1999-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto Limón",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Spain"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keylor Navas (79422)",
+        "nama_panggilan": "Keylor Navas (79422)",
+        "tanggal_lahir": "1986-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Isidro de El General",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

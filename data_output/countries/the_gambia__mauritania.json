@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Mauritania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sheikh Sibi (459310)",
+        "nama_panggilan": "Sheikh Sibi (459310)",
+        "tanggal_lahir": "1998-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Talliding",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Mauritania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

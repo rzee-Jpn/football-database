@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Somalia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Islam Feruz (130427)",
+        "nama_panggilan": "Islam Feruz (130427)",
+        "tanggal_lahir": "1995-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kismayo",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Somalia"
+        ],
+        "tinggi_badan_cm": "163.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

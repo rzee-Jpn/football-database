@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Benin",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Adeagbo (607586)",
+        "nama_panggilan": "Enzo Adeagbo (607586)",
+        "tanggal_lahir": "2002-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Meyrin",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Benin"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

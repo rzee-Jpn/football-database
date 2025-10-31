@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "North Macedonia  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Mahmudov (56415)",
+        "nama_panggilan": "Denis Mahmudov (56415)",
+        "tanggal_lahir": "1989-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Veles",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Stankov (92742)",
+        "nama_panggilan": "Antonio Stankov (92742)",
+        "tanggal_lahir": "1991-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stip",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

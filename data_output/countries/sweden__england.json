@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  England",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moe Shubbar (1035408)",
+        "nama_panggilan": "Moe Shubbar (1035408)",
+        "tanggal_lahir": "2003-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göteborg",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Genesis Antwi (1045121)",
+        "nama_panggilan": "Genesis Antwi (1045121)",
+        "tanggal_lahir": "2007-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Billal Nuur Mohamed (1270162)",
+        "nama_panggilan": "Billal Nuur Mohamed (1270162)",
+        "tanggal_lahir": "2006-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Watson (257102)",
+        "nama_panggilan": "Max Watson (257102)",
+        "tanggal_lahir": "1996-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bankeryd",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Isherwood (322075)",
+        "nama_panggilan": "Thomas Isherwood (322075)",
+        "tanggal_lahir": "1998-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Söderort",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Dovin (527329)",
+        "nama_panggilan": "Oliver Dovin (527329)",
+        "tanggal_lahir": "2002-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jack Cooper-Love (625002)",
+        "nama_panggilan": "Jack Cooper-Love (625002)",
+        "tanggal_lahir": "2001-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aneby",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elliot Stroud (687622)",
+        "nama_panggilan": "Elliot Stroud (687622)",
+        "tanggal_lahir": "2002-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

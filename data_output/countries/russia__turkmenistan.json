@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Turkmenistan",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzhamaldin Khodzhaniyazov (262718)",
+        "nama_panggilan": "Dzhamaldin Khodzhaniyazov (262718)",
+        "tanggal_lahir": "1996-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baýramaly",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Turkmenistan"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danil Poluboyarinov (281556)",
+        "nama_panggilan": "Danil Poluboyarinov (281556)",
+        "tanggal_lahir": "1997-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aşgabat",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Turkmenistan"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

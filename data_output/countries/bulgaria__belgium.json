@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bulgaria  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Kolev (239527)",
+        "nama_panggilan": "Aleksandar Kolev (239527)",
+        "tanggal_lahir": "1992-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Turnhout",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Belgium"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

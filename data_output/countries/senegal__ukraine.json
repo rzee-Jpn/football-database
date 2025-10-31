@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Ukraine",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Papa Gueye (59414)",
+        "nama_panggilan": "Papa Gueye (59414)",
+        "tanggal_lahir": "1984-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Ukraine"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

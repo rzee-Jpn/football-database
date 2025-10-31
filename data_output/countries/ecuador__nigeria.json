@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  Nigeria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustavo Nnachi (718985)",
+        "nama_panggilan": "Gustavo Nnachi (718985)",
+        "tanggal_lahir": "2002-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quito",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

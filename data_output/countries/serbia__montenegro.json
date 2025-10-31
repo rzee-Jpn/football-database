@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Montenegro",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Rogac (132999)",
+        "nama_panggilan": "Ivan Rogac (132999)",
+        "tanggal_lahir": "1992-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nikšić",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladan Savic (46178)",
+        "nama_panggilan": "Vladan Savic (46178)",
+        "tanggal_lahir": "1979-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berane",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Slobodan Tedic (505652)",
+        "nama_panggilan": "Slobodan Tedic (505652)",
+        "tanggal_lahir": "2000-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Podgorica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petar Skuletic (58295)",
+        "nama_panggilan": "Petar Skuletic (58295)",
+        "tanggal_lahir": "1990-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Danilovgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mladen Lambulic (69063)",
+        "nama_panggilan": "Mladen Lambulic (69063)",
+        "tanggal_lahir": "1972-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Podgorica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djordje Susnjar (94344)",
+        "nama_panggilan": "Djordje Susnjar (94344)",
+        "tanggal_lahir": "1992-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ruma",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Montenegro"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

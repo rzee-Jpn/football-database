@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Indonesia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Egy Maulana Vikri (548371)",
+        "nama_panggilan": "Egy Maulana Vikri (548371)",
+        "tanggal_lahir": "2000-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medan",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Witan (630444)",
+        "nama_panggilan": "Witan (630444)",
+        "tanggal_lahir": "2001-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palu",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bagus Kahfi (723604)",
+        "nama_panggilan": "Bagus Kahfi (723604)",
+        "tanggal_lahir": "2002-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Magelang",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marselino Ferdinan (875219)",
+        "nama_panggilan": "Marselino Ferdinan (875219)",
+        "tanggal_lahir": "2004-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jakarta",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

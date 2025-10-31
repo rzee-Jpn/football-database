@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Palestine",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahmoud Abunada (669629)",
+        "nama_panggilan": "Mahmoud Abunada (669629)",
+        "tanggal_lahir": "2000-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Palestine"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Majed (86071)",
+        "nama_panggilan": "Ibrahim Majed (86071)",
+        "tanggal_lahir": "1990-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuwait City",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Palestine"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

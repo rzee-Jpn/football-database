@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Italy",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Larry Clark Guifo Bogne (1178539)",
+        "nama_panggilan": "Larry Clark Guifo Bogne (1178539)",
+        "tanggal_lahir": "1997-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Padova",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Italy"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paulin Damo (197920)",
+        "nama_panggilan": "Paulin Damo (197920)",
+        "tanggal_lahir": "1994-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giuseppe Nyamsi (804187)",
+        "nama_panggilan": "Giuseppe Nyamsi (804187)",
+        "tanggal_lahir": "2003-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Mballa Amougou (886362)",
+        "nama_panggilan": "Emmanuel Mballa Amougou (886362)",
+        "tanggal_lahir": "1998-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Italy"
+        ],
+        "tinggi_badan_cm": "202.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

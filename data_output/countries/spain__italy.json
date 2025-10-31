@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Italy",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicola Di Domenico (1381054)",
+        "nama_panggilan": "Nicola Di Domenico (1381054)",
+        "tanggal_lahir": "2006-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Sangalli (197131)",
+        "nama_panggilan": "Marco Sangalli (197131)",
+        "tanggal_lahir": "1992-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Donostia-San Sebastián",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Sangalli (289286)",
+        "nama_panggilan": "Luca Sangalli (289286)",
+        "tanggal_lahir": "1995-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Sebastián",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrea Orlandi (29117)",
+        "nama_panggilan": "Andrea Orlandi (29117)",
+        "tanggal_lahir": "1984-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gianni Cassaro (335247)",
+        "nama_panggilan": "Gianni Cassaro (335247)",
+        "tanggal_lahir": "1992-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lloret de Mar",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pau Russo (653645)",
+        "nama_panggilan": "Pau Russo (653645)",
+        "tanggal_lahir": "2002-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarragona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kaleb Jiménez (724437)",
+        "nama_panggilan": "Kaleb Jiménez (724437)",
+        "tanggal_lahir": "2002-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tariq Spezie (75575)",
+        "nama_panggilan": "Tariq Spezie (75575)",
+        "tanggal_lahir": "1980-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sharjah",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Víctor Rossi López (956732)",
+        "nama_panggilan": "Víctor Rossi López (956732)",
+        "tanggal_lahir": "2005-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bilbao",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Italy"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

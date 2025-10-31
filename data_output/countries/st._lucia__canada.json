@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "St. Lucia  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Caniggia Elva (330795)",
+        "nama_panggilan": "Caniggia Elva (330795)",
+        "tanggal_lahir": "1996-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vieux Fort",
+          "negara": "St. Lucia"
+        },
+        "kewarganegaraan": [
+          "St. Lucia  Canada"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

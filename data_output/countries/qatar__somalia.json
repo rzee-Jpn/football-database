@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Somalia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yusuf Abdurisag (589099)",
+        "nama_panggilan": "Yusuf Abdurisag (589099)",
+        "tanggal_lahir": "1999-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "-",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Somalia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Faisal Adam (670722)",
+        "nama_panggilan": "Adam Faisal Adam (670722)",
+        "tanggal_lahir": "1996-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Somalia"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Peru  Cuba",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rolando Díaz (449112)",
+        "nama_panggilan": "Rolando Díaz (449112)",
+        "tanggal_lahir": "1999-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trujillo",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Cuba"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

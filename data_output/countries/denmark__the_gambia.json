@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  The Gambia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seejou King (192541)",
+        "nama_panggilan": "Seejou King (192541)",
+        "tanggal_lahir": "1992-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hvidovre",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  The Gambia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Bah (452607)",
+        "nama_panggilan": "Alexander Bah (452607)",
+        "tanggal_lahir": "1997-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Årslev",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  The Gambia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Donovan Parisian (1360939)",
+        "nama_panggilan": "Donovan Parisian (1360939)",
+        "tanggal_lahir": "2004-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Queen Creek, Arizona",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  United States"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yura Movsisyan (39280)",
+        "nama_panggilan": "Yura Movsisyan (39280)",
+        "tanggal_lahir": "1987-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baku",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  United States"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

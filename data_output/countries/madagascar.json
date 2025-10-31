@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Madagascar",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéphan Raheriharimanana (170957)",
+        "nama_panggilan": "Stéphan Raheriharimanana (170957)",
+        "tanggal_lahir": "1993-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toamasina",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Amada (236598)",
+        "nama_panggilan": "Ibrahim Amada (236598)",
+        "tanggal_lahir": "1990-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antananarivo",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Héry Randriantsara (291424)",
+        "nama_panggilan": "Héry Randriantsara (291424)",
+        "tanggal_lahir": "1995-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antananarivo",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar"
+        ],
+        "tinggi_badan_cm": "154.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

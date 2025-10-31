@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Egypt",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismael Blanco (30715)",
+        "nama_panggilan": "Ismael Blanco (30715)",
+        "tanggal_lahir": "1983-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Elena",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Egypt"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

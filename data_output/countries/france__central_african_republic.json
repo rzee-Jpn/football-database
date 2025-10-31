@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Central African Republic",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sami Wattel (1006409)",
+        "nama_panggilan": "Sami Wattel (1006409)",
+        "tanggal_lahir": "2006-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Besançon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josias Sabone (1160232)",
+        "nama_panggilan": "Josias Sabone (1160232)",
+        "tanggal_lahir": "2006-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reims",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric Kossingou (149318)",
+        "nama_panggilan": "Eric Kossingou (149318)",
+        "tanggal_lahir": "1978-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kurt Zouma (157509)",
+        "nama_panggilan": "Kurt Zouma (157509)",
+        "tanggal_lahir": "1994-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Sambia (335147)",
+        "nama_panggilan": "Junior Sambia (335147)",
+        "tanggal_lahir": "1996-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Potel (45068)",
+        "nama_panggilan": "Christian Potel (45068)",
+        "tanggal_lahir": "1973-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montfermeil",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mapou Yanga-Mbiwa (57480)",
+        "nama_panggilan": "Mapou Yanga-Mbiwa (57480)",
+        "tanggal_lahir": "1989-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bangui",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Gourna-Douath (620313)",
+        "nama_panggilan": "Lucas Gourna-Douath (620313)",
+        "tanggal_lahir": "2003-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villeneuve-Saint-Georges",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yoan Zouma (690615)",
+        "nama_panggilan": "Yoan Zouma (690615)",
+        "tanggal_lahir": "1998-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aymeric Zouma (813160)",
+        "nama_panggilan": "Aymeric Zouma (813160)",
+        "tanggal_lahir": "2000-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jérôme Yoncourt (815368)",
+        "nama_panggilan": "Jérôme Yoncourt (815368)",
+        "tanggal_lahir": "1998-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kinsley Guere-Kossambia (848335)",
+        "nama_panggilan": "Kinsley Guere-Kossambia (848335)",
+        "tanggal_lahir": "2001-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Central African Republic"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

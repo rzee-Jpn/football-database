@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Libya  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmad Benali (121402)",
+        "nama_panggilan": "Ahmad Benali (121402)",
+        "tanggal_lahir": "1992-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "Libya"
+        },
+        "kewarganegaraan": [
+          "Libya  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

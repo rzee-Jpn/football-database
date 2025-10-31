@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aarón Ochoa (1109577)",
+        "nama_panggilan": "Aarón Ochoa (1109577)",
+        "tanggal_lahir": "2007-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marbella",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Spain"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anselmo García MacNulty (631904)",
+        "nama_panggilan": "Anselmo García MacNulty (631904)",
+        "tanggal_lahir": "2003-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sevilla",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Spain"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Patrick (841121)",
+        "nama_panggilan": "John Patrick (841121)",
+        "tanggal_lahir": "2003-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Spain"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

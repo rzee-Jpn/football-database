@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  Algeria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aïmen Demai (12099)",
+        "nama_panggilan": "Aïmen Demai (12099)",
+        "tanggal_lahir": "1982-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thionville",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Algeria"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

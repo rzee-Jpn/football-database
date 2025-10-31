@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Mali",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mousa Dembélé (19368)",
+        "nama_panggilan": "Mousa Dembélé (19368)",
+        "tanggal_lahir": "1987-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antwerpen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Mali"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bahnou Seydina Diarra (168172)",
+        "nama_panggilan": "Bahnou Seydina Diarra (168172)",
+        "tanggal_lahir": "1994-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Mali"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

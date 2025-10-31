@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Luxembourg  Belgium",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eliot Thelen (1120047)",
+        "nama_panggilan": "Eliot Thelen (1120047)",
+        "tanggal_lahir": "2007-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxembourg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guy Blaise (20234)",
+        "nama_panggilan": "Guy Blaise (20234)",
+        "tanggal_lahir": "1980-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aubange",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Prudhomme (494733)",
+        "nama_panggilan": "Lucas Prudhomme (494733)",
+        "tanggal_lahir": "1999-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arlon",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timothy Martin (497692)",
+        "nama_panggilan": "Timothy Martin (497692)",
+        "tanggal_lahir": "2001-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arlon",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéphane Gillet (5549)",
+        "nama_panggilan": "Stéphane Gillet (5549)",
+        "tanggal_lahir": "1977-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Moris (78570)",
+        "nama_panggilan": "Anthony Moris (78570)",
+        "tanggal_lahir": "1990-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arlon",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Belgium"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

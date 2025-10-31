@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tibor Cica (141043)",
+        "nama_panggilan": "Tibor Cica (141043)",
+        "tanggal_lahir": "1993-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malmö",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Sweden"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mirko Kramaric (46581)",
+        "nama_panggilan": "Mirko Kramaric (46581)",
+        "tanggal_lahir": "1989-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zagreb",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

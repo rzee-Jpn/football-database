@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Lesotho",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tsoanelo Letsosa (719678)",
+        "nama_panggilan": "Tsoanelo Letsosa (719678)",
+        "tanggal_lahir": "2004-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quthing",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Lesotho"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

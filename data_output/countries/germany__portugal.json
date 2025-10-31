@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Portugal",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefano Borges (149783)",
+        "nama_panggilan": "Stefano Borges (149783)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Allgaier (230802)",
+        "nama_panggilan": "Pedro Allgaier (230802)",
+        "tanggal_lahir": "1997-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Burgweiler",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sérgio da Silva Pinto (277)",
+        "nama_panggilan": "Sérgio da Silva Pinto (277)",
+        "tanggal_lahir": "1980-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vila Nova de Gaia",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Niklas-Wilson Sommer (288073)",
+        "nama_panggilan": "Niklas-Wilson Sommer (288073)",
+        "tanggal_lahir": "1998-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dessau",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Morais (414807)",
+        "nama_panggilan": "Pedro Morais (414807)",
+        "tanggal_lahir": "2000-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrique Pereira da Silva (467422)",
+        "nama_panggilan": "Enrique Pereira da Silva (467422)",
+        "tanggal_lahir": "2002-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lübeck",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago Estêvão (541836)",
+        "nama_panggilan": "Tiago Estêvão (541836)",
+        "tanggal_lahir": "2002-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heinsberg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raul Paula (716756)",
+        "nama_panggilan": "Raul Paula (716756)",
+        "tanggal_lahir": "2004-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Böblingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Azevedo (800952)",
+        "nama_panggilan": "Alexandre Azevedo (800952)",
+        "tanggal_lahir": "2005-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nürtingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Portugal"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zourab Sopromadze (1034729)",
+        "nama_panggilan": "Zourab Sopromadze (1034729)",
+        "tanggal_lahir": "2002-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caen",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  France"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georges Mikautadze (729814)",
+        "nama_panggilan": "Georges Mikautadze (729814)",
+        "tanggal_lahir": "2000-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  France"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

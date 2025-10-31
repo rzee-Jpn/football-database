@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  France",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhon Balzán Riascos (1243402)",
+        "nama_panggilan": "Jhon Balzán Riascos (1243402)",
+        "tanggal_lahir": "2006-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barbacoas",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Yepes (5507)",
+        "nama_panggilan": "Mario Yepes (5507)",
+        "tanggal_lahir": "1976-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Ospina (73396)",
+        "nama_panggilan": "David Ospina (73396)",
+        "tanggal_lahir": "1988-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yamilson Rivera (77182)",
+        "nama_panggilan": "Yamilson Rivera (77182)",
+        "tanggal_lahir": "1989-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tumaco",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  France"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

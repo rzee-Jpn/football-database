@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Gabon",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Serge Ngoma Jr. (817115)",
+        "nama_panggilan": "Serge Ngoma Jr. (817115)",
+        "tanggal_lahir": "2005-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "North Plainfield, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Gabon"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

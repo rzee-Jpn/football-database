@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Switzerland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Tchaoulé (374256)",
+        "nama_panggilan": "Jimmy Tchaoulé (374256)",
+        "tanggal_lahir": "1997-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "M'Bonoura Anyama",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sidiki Camara (660520)",
+        "nama_panggilan": "Sidiki Camara (660520)",
+        "tanggal_lahir": "2002-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Switzerland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

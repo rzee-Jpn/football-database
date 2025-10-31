@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Thailand  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thanawat Suengchitthawon (427691)",
+        "nama_panggilan": "Thanawat Suengchitthawon (427691)",
+        "tanggal_lahir": "2000-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bangkok",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  France"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Boutsingkham (620319)",
+        "nama_panggilan": "Hugo Boutsingkham (620319)",
+        "tanggal_lahir": "2003-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Champs-sur-Marne",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  France"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

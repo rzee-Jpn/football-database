@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  Mexico",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastián Sosa (76592)",
+        "nama_panggilan": "Sebastián Sosa (76592)",
+        "tanggal_lahir": "1986-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Mexico"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Rossello (994246)",
+        "nama_panggilan": "Daniel Rossello (994246)",
+        "tanggal_lahir": "1972-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Mexico"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

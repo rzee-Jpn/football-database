@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Isle of Man",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Doyle (430369)",
+        "nama_panggilan": "Liam Doyle (430369)",
+        "tanggal_lahir": "1992-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douglas",
+          "negara": "Isle of Man"
+        },
+        "kewarganegaraan": [
+          "Isle of Man"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

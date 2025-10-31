@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chad  Cameroon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmad Ngouyamsa (723416)",
+        "nama_panggilan": "Ahmad Ngouyamsa (723416)",
+        "tanggal_lahir": "2000-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Chad"
+        },
+        "kewarganegaraan": [
+          "Chad  Cameroon"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "2002-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ngaoundéré",
+          "negara": "Chad"
+        },
+        "kewarganegaraan": [
+          "Chad  Cameroon"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

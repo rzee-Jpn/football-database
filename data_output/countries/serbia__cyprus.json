@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Cyprus",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Jovanovic (34483)",
+        "nama_panggilan": "Sasa Jovanovic (34483)",
+        "tanggal_lahir": "1974-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leskovac",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Cyprus"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Scepovic (99977)",
+        "nama_panggilan": "Marko Scepovic (99977)",
+        "tanggal_lahir": "1991-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrade",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Cyprus"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

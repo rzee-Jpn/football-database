@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  England",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Pinto (1050218)",
+        "nama_panggilan": "Kevin Pinto (1050218)",
+        "tanggal_lahir": "2006-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seixal",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Fortes (1120419)",
+        "nama_panggilan": "Rodrigo Fortes (1120419)",
+        "tanggal_lahir": "2007-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominic Dos Santos Martins (1203143)",
+        "nama_panggilan": "Dominic Dos Santos Martins (1203143)",
+        "tanggal_lahir": "2005-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric Hamelberg (1170907)",
+        "nama_panggilan": "Eric Hamelberg (1170907)",
+        "tanggal_lahir": "2007-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio Sturgeon (194641)",
+        "nama_panggilan": "Fábio Sturgeon (194641)",
+        "tanggal_lahir": "1994-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almada",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago Ilori (177859)",
+        "nama_panggilan": "Tiago Ilori (177859)",
+        "tanggal_lahir": "1993-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rúben Lameiras (264848)",
+        "nama_panggilan": "Rúben Lameiras (264848)",
+        "tanggal_lahir": "1994-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lisboa",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jake Gonçalves (292403)",
+        "nama_panggilan": "Jake Gonçalves (292403)",
+        "tanggal_lahir": "1994-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Gonçalo",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Lavinier (392772)",
+        "nama_panggilan": "Marcel Lavinier (392772)",
+        "tanggal_lahir": "2000-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás Reymão (464307)",
+        "nama_panggilan": "Tomás Reymão (464307)",
+        "tanggal_lahir": "1998-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lisboa",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio Carvalho (559263)",
+        "nama_panggilan": "Fábio Carvalho (559263)",
+        "tanggal_lahir": "2002-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torres Vedras",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio Tavares (614086)",
+        "nama_panggilan": "Fábio Tavares (614086)",
+        "tanggal_lahir": "2001-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Matosinhos",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brandon Aveiro (703467)",
+        "nama_panggilan": "Brandon Aveiro (703467)",
+        "tanggal_lahir": "2001-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Bandeira (745846)",
+        "nama_panggilan": "Mauro Bandeira (745846)",
+        "tanggal_lahir": "2003-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Loures",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brad de Jesus (952716)",
+        "nama_panggilan": "Brad de Jesus (952716)",
+        "tanggal_lahir": "2006-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quévin Castro (872546)",
+        "nama_panggilan": "Quévin Castro (872546)",
+        "tanggal_lahir": "2001-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Linda-a-Velha",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Cardoso (888638)",
+        "nama_panggilan": "Leo Cardoso (888638)",
+        "tanggal_lahir": "2006-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almada",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

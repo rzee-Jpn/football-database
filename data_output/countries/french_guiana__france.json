@@ -1,0 +1,823 @@
+{
+  "kategori": "negara",
+  "nama_group": "French Guiana  France",
+  "total_pemain": 24,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ansley Panelle (1032065)",
+        "nama_panggilan": "Ansley Panelle (1032065)",
+        "tanggal_lahir": "2000-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rivelino Anastase (112014)",
+        "nama_panggilan": "Rivelino Anastase (112014)",
+        "tanggal_lahir": "1980-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Laurent-du-Maroni",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Otchowan Abese (1071949)",
+        "nama_panggilan": "Otchowan Abese (1071949)",
+        "tanggal_lahir": "2005-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bebeto Gainsa (1087590)",
+        "nama_panggilan": "Bebeto Gainsa (1087590)",
+        "tanggal_lahir": "2002-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Laurent-du-Maroni",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Soubervie (110154)",
+        "nama_panggilan": "Anthony Soubervie (110154)",
+        "tanggal_lahir": "1984-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josué Albert (170487)",
+        "nama_panggilan": "Josué Albert (170487)",
+        "tanggal_lahir": "1992-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colombes",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Donovan Léon (170911)",
+        "nama_panggilan": "Donovan Léon (170911)",
+        "tanggal_lahir": "1992-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loïc Baal (170922)",
+        "nama_panggilan": "Loïc Baal (170922)",
+        "tanggal_lahir": "1992-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arnold Abelinti (345987)",
+        "nama_panggilan": "Arnold Abelinti (345987)",
+        "tanggal_lahir": "1991-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kourou",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yoann Salmier (351843)",
+        "nama_panggilan": "Yoann Salmier (351843)",
+        "tanggal_lahir": "1992-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villiers-le-Bel",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roy Contout (28987)",
+        "nama_panggilan": "Roy Contout (28987)",
+        "tanggal_lahir": "1985-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claude Dambury (29285)",
+        "nama_panggilan": "Claude Dambury (29285)",
+        "tanggal_lahir": "1971-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ludovic Baal (39913)",
+        "nama_panggilan": "Ludovic Baal (39913)",
+        "tanggal_lahir": "1986-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shaquille Dutard (511527)",
+        "nama_panggilan": "Shaquille Dutard (511527)",
+        "tanggal_lahir": "1996-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Claude Darcheville (5382)",
+        "nama_panggilan": "Jean-Claude Darcheville (5382)",
+        "tanggal_lahir": "1975-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sinnamary",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Ménard (565085)",
+        "nama_panggilan": "Anthony Ménard (565085)",
+        "tanggal_lahir": "1996-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cabourg",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc-Antoine Fortuné (5652)",
+        "nama_panggilan": "Marc-Antoine Fortuné (5652)",
+        "tanggal_lahir": "1981-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Golitin (593316)",
+        "nama_panggilan": "Marvin Golitin (593316)",
+        "tanggal_lahir": "1999-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sloan Privat (66407)",
+        "nama_panggilan": "Sloan Privat (66407)",
+        "tanggal_lahir": "1989-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yohan Marmot (804662)",
+        "nama_panggilan": "Yohan Marmot (804662)",
+        "tanggal_lahir": "1999-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colombes",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dany Florentine (822460)",
+        "nama_panggilan": "Dany Florentine (822460)",
+        "tanggal_lahir": "2002-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Rimane (93751)",
+        "nama_panggilan": "Kévin Rimane (93751)",
+        "tanggal_lahir": "1991-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mickaël Bod (855004)",
+        "nama_panggilan": "Mickaël Bod (855004)",
+        "tanggal_lahir": "2002-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cayenne",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Nemouthé (856887)",
+        "nama_panggilan": "Thomas Nemouthé (856887)",
+        "tanggal_lahir": "2001-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Le Blanc-Mesnil",
+          "negara": "French Guiana"
+        },
+        "kewarganegaraan": [
+          "French Guiana  France"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

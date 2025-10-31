@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergiy Omelyanovych (19521)",
+        "nama_panggilan": "Sergiy Omelyanovych (19521)",
+        "tanggal_lahir": "1977-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kadiyivka, Lugansk Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Belgium"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleksandr Yakovenko (31776)",
+        "nama_panggilan": "Oleksandr Yakovenko (31776)",
+        "tanggal_lahir": "1987-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kyiv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Belgium"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleg Iachtchouk (9596)",
+        "nama_panggilan": "Oleg Iachtchouk (9596)",
+        "tanggal_lahir": "1977-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grybova, Ternopil Region",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Belgium"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

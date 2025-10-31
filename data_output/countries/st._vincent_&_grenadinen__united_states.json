@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "St. Vincent & Grenadinen  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shak Adams (763520)",
+        "nama_panggilan": "Shak Adams (763520)",
+        "tanggal_lahir": "1998-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nashville, Tennessee",
+          "negara": "St. Vincent & Grenadinen"
+        },
+        "kewarganegaraan": [
+          "St. Vincent & Grenadinen  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

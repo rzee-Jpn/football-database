@@ -1,0 +1,653 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Romania",
+  "total_pemain": 19,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Susanu (1054575)",
+        "nama_panggilan": "Marco Susanu (1054575)",
+        "tanggal_lahir": "2005-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Padova",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolò Pauliuc (1080906)",
+        "nama_panggilan": "Nicolò Pauliuc (1080906)",
+        "tanggal_lahir": "2006-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torino",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduard Ungureanu (1313621)",
+        "nama_panggilan": "Eduard Ungureanu (1313621)",
+        "tanggal_lahir": "2008-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniele Paul (1334720)",
+        "nama_panggilan": "Daniele Paul (1334720)",
+        "tanggal_lahir": "2009-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erick Ciobanu (1362152)",
+        "nama_panggilan": "Erick Ciobanu (1362152)",
+        "tanggal_lahir": "2008-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Marcoci (1300523)",
+        "nama_panggilan": "Alexandru Marcoci (1300523)",
+        "tanggal_lahir": "2009-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vizzolo Predabissi",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alessandro Coroama (1250205)",
+        "nama_panggilan": "Alessandro Coroama (1250205)",
+        "tanggal_lahir": "2007-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cirié",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommaso Stegărescu (1253673)",
+        "nama_panggilan": "Tommaso Stegărescu (1253673)",
+        "tanggal_lahir": "2008-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Mancino (1186650)",
+        "nama_panggilan": "Christian Mancino (1186650)",
+        "tanggal_lahir": "2006-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borgaro Torinese",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Căuz (283421)",
+        "nama_panggilan": "Cristian Căuz (283421)",
+        "tanggal_lahir": "1996-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pordenone",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simone Potop (405508)",
+        "nama_panggilan": "Simone Potop (405508)",
+        "tanggal_lahir": "2000-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torino",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Boloca (441515)",
+        "nama_panggilan": "Daniel Boloca (441515)",
+        "tanggal_lahir": "1998-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chieri",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Lupu (613212)",
+        "nama_panggilan": "Dennis Lupu (613212)",
+        "tanggal_lahir": "2000-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Firenze",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Ceica (818859)",
+        "nama_panggilan": "Roberto Ceica (818859)",
+        "tanggal_lahir": "2005-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Munteanu (936507)",
+        "nama_panggilan": "Daniel Munteanu (936507)",
+        "tanggal_lahir": "2005-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paolo Budău (939770)",
+        "nama_panggilan": "Paolo Budău (939770)",
+        "tanggal_lahir": "2005-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Marcone (86083)",
+        "nama_panggilan": "Richard Marcone (86083)",
+        "tanggal_lahir": "1993-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucarest",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolao Cardoso (87052)",
+        "nama_panggilan": "Nicolao Cardoso (87052)",
+        "tanggal_lahir": "1991-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nacka",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Cociobanu (968724)",
+        "nama_panggilan": "Matteo Cociobanu (968724)",
+        "tanggal_lahir": "2006-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alba",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

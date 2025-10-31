@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bulgaria  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zoran Jankovic (15355)",
+        "nama_panggilan": "Zoran Jankovic (15355)",
+        "tanggal_lahir": "1974-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Inđija",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Serbia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zlatomir Zagorcic (15358)",
+        "nama_panggilan": "Zlatomir Zagorcic (15358)",
+        "tanggal_lahir": "1971-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novi Sad",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Serbia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

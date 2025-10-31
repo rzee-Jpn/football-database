@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "India  Qatar",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aashir Vazhappilli (1269134)",
+        "nama_panggilan": "Aashir Vazhappilli (1269134)",
+        "tanggal_lahir": "2006-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "India"
+        },
+        "kewarganegaraan": [
+          "India  Qatar"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

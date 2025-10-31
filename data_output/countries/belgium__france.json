@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  France",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Théo Defourny (104543)",
+        "nama_panggilan": "Théo Defourny (104543)",
+        "tanggal_lahir": "1992-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bourg Saint Maurice",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thibaud Verlinden (338673)",
+        "nama_panggilan": "Thibaud Verlinden (338673)",
+        "tanggal_lahir": "1999-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brugge",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Corentin Koçur (358644)",
+        "nama_panggilan": "Corentin Koçur (358644)",
+        "tanggal_lahir": "1995-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tourcoing",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Belme (41916)",
+        "nama_panggilan": "Mathieu Belme (41916)",
+        "tanggal_lahir": "1979-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sam De Meester (54035)",
+        "nama_panggilan": "Sam De Meester (54035)",
+        "tanggal_lahir": "1982-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ahala",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Pollet (56811)",
+        "nama_panggilan": "David Pollet (56811)",
+        "tanggal_lahir": "1988-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Bassée",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oussama Naciri (590838)",
+        "nama_panggilan": "Oussama Naciri (590838)",
+        "tanggal_lahir": "1999-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Charleroi",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henri Maton (810062)",
+        "nama_panggilan": "Henri Maton (810062)",
+        "tanggal_lahir": "2004-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mouscron",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geoffrey Ghesquière (72737)",
+        "nama_panggilan": "Geoffrey Ghesquière (72737)",
+        "tanggal_lahir": "1989-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roncq",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayanda Sishuba (977877)",
+        "nama_panggilan": "Ayanda Sishuba (977877)",
+        "tanggal_lahir": "2005-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tournai",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  France"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

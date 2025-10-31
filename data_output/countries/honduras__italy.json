@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Honduras  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Suazo (20749)",
+        "nama_panggilan": "David Suazo (20749)",
+        "tanggal_lahir": "1979-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Pedro Sula",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Italy"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rigoberto Rivas (451353)",
+        "nama_panggilan": "Rigoberto Rivas (451353)",
+        "tanggal_lahir": "1998-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Balfate",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valerio Marinacci (650250)",
+        "nama_panggilan": "Valerio Marinacci (650250)",
+        "tanggal_lahir": "2003-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Italy"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

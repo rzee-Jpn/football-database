@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "North Macedonia  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stevica Ristic (26314)",
+        "nama_panggilan": "Stevica Ristic (26314)",
+        "tanggal_lahir": "1982-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vršac",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Serbia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Predrag Randelovic (58289)",
+        "nama_panggilan": "Predrag Randelovic (58289)",
+        "tanggal_lahir": "1990-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nis",
+          "negara": "North Macedonia"
+        },
+        "kewarganegaraan": [
+          "North Macedonia  Serbia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

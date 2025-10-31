@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Iraq",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ameen Al-Dakhil (620598)",
+        "nama_panggilan": "Ameen Al-Dakhil (620598)",
+        "tanggal_lahir": "2002-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baghdad",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Iraq"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

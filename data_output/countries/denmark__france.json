@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  France",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pierre-Emile Højbjerg (167799)",
+        "nama_panggilan": "Pierre-Emile Højbjerg (167799)",
+        "tanggal_lahir": "1995-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Theo Sander (799899)",
+        "nama_panggilan": "Theo Sander (799899)",
+        "tanggal_lahir": "2005-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skørping",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  France"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikel Gogorza (937680)",
+        "nama_panggilan": "Mikel Gogorza (937680)",
+        "tanggal_lahir": "2006-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bergen",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  France"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

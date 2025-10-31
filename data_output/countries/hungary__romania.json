@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Romania",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roland Gergely (1125872)",
+        "nama_panggilan": "Roland Gergely (1125872)",
+        "tanggal_lahir": "2005-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odorheiu Secuiesc",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vasile Miriuta (179)",
+        "nama_panggilan": "Vasile Miriuta (179)",
+        "tanggal_lahir": "1968-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baia Sprie",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tamás Szántó (235529)",
+        "nama_panggilan": "Tamás Szántó (235529)",
+        "tanggal_lahir": "1996-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sopron",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szilárd Kálmán (449535)",
+        "nama_panggilan": "Szilárd Kálmán (449535)",
+        "tanggal_lahir": "1997-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odorheiu Secuiesc",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Simuț (955524)",
+        "nama_panggilan": "Mario Simuț (955524)",
+        "tanggal_lahir": "2003-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Attila Girsik (956606)",
+        "nama_panggilan": "Attila Girsik (956606)",
+        "tanggal_lahir": "2006-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szabolcs Dusinszki (869975)",
+        "nama_panggilan": "Szabolcs Dusinszki (869975)",
+        "tanggal_lahir": "2005-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odorheiu Secuiesc",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

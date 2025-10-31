@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Germany",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derek Septien (1279838)",
+        "nama_panggilan": "Derek Septien (1279838)",
+        "tanggal_lahir": "2005-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boca del Río",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jürgen Damm (221735)",
+        "nama_panggilan": "Jürgen Damm (221735)",
+        "tanggal_lahir": "1992-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Túxpam de Rodríguez Cano",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Corona (70020)",
+        "nama_panggilan": "Manuel Corona (70020)",
+        "tanggal_lahir": "1983-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Konstanz",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christopher Engelhart (796253)",
+        "nama_panggilan": "Christopher Engelhart (796253)",
+        "tanggal_lahir": "1999-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morelia",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

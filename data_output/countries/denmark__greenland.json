@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Greenland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jesper Grønkjær (3137)",
+        "nama_panggilan": "Jesper Grønkjær (3137)",
+        "tanggal_lahir": "1977-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Godthåb",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Greenland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

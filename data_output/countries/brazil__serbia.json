@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Serbia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lyanco (379807)",
+        "nama_panggilan": "Lyanco (379807)",
+        "tanggal_lahir": "1997-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitória",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Serbia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cléo (48929)",
+        "nama_panggilan": "Cléo (48929)",
+        "tanggal_lahir": "1985-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guarapuava",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Evandro (53359)",
+        "nama_panggilan": "Evandro (53359)",
+        "tanggal_lahir": "1986-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blumenau",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Serbia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

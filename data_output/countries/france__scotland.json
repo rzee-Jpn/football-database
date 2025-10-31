@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Scotland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikael Mandron (218144)",
+        "nama_panggilan": "Mikael Mandron (218144)",
+        "tanggal_lahir": "1994-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boulogne-sur-Mer",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Scotland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobby Allain (314862)",
+        "nama_panggilan": "Bobby Allain (314862)",
+        "tanggal_lahir": "1991-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clamart",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Scotland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

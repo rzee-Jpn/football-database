@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ulises de la Cruz (3842)",
+        "nama_panggilan": "Ulises de la Cruz (3842)",
+        "tanggal_lahir": "1974-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bolívar",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremy Sarmiento (568005)",
+        "nama_panggilan": "Jeremy Sarmiento (568005)",
+        "tanggal_lahir": "2002-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

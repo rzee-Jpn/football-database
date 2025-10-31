@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Cape Verde",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ulisses Garcia (192616)",
+        "nama_panggilan": "Ulisses Garcia (192616)",
+        "tanggal_lahir": "1996-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almada",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Cape Verde"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gelson Fernandes (20081)",
+        "nama_panggilan": "Gelson Fernandes (20081)",
+        "tanggal_lahir": "1986-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Praia",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Cape Verde"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

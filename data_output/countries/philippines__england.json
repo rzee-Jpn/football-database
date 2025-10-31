@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Reed (61667)",
+        "nama_panggilan": "Adam Reed (61667)",
+        "tanggal_lahir": "1991-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hartlepool",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Etheridge (61694)",
+        "nama_panggilan": "Neil Etheridge (61694)",
+        "tanggal_lahir": "1990-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

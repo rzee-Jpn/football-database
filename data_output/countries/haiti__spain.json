@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Haiti  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kensly Vázquez (715819)",
+        "nama_panggilan": "Kensly Vázquez (715819)",
+        "tanggal_lahir": "2003-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port-au-Prince",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

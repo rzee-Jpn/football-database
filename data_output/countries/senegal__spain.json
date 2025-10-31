@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Spain",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Assane Diao (1061282)",
+        "nama_panggilan": "Assane Diao (1061282)",
+        "tanggal_lahir": "2005-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ndongane",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saliou Mandiang (1079049)",
+        "nama_panggilan": "Saliou Mandiang (1079049)",
+        "tanggal_lahir": "2003-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arrecife",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Sylla (166683)",
+        "nama_panggilan": "Mamadou Sylla (166683)",
+        "tanggal_lahir": "1994-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kedougou",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keita Baldé (238752)",
+        "nama_panggilan": "Keita Baldé (238752)",
+        "tanggal_lahir": "1995-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arbùcies",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Tounkara (242965)",
+        "nama_panggilan": "Mamadou Tounkara (242965)",
+        "tanggal_lahir": "1996-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blanes",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amath Ndiaye (339820)",
+        "nama_panggilan": "Amath Ndiaye (339820)",
+        "tanggal_lahir": "1996-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pape Cheikh (336828)",
+        "nama_panggilan": "Pape Cheikh (336828)",
+        "tanggal_lahir": "1997-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guédiawaye",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sekou Gassama (337070)",
+        "nama_panggilan": "Sekou Gassama (337070)",
+        "tanggal_lahir": "1995-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granollers",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Gomis (357310)",
+        "nama_panggilan": "Christian Gomis (357310)",
+        "tanggal_lahir": "2000-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pikine",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alpha Diounkou (554175)",
+        "nama_panggilan": "Alpha Diounkou (554175)",
+        "tanggal_lahir": "2001-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sindone",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zourdine Thior (563335)",
+        "nama_panggilan": "Zourdine Thior (563335)",
+        "tanggal_lahir": "1997-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julio Pape Bayo (691805)",
+        "nama_panggilan": "Julio Pape Bayo (691805)",
+        "tanggal_lahir": "1987-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ziguinchor",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibra Sow (934420)",
+        "nama_panggilan": "Ibra Sow (934420)",
+        "tanggal_lahir": "2007-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cheikh Diamanka (887054)",
+        "nama_panggilan": "Cheikh Diamanka (887054)",
+        "tanggal_lahir": "2001-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yacouba Dabo (981037)",
+        "nama_panggilan": "Yacouba Dabo (981037)",
+        "tanggal_lahir": "2002-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kandiounkou",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Spain"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

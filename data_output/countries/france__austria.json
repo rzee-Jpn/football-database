@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Austria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Rosenfelder (127193)",
+        "nama_panggilan": "Marco Rosenfelder (127193)",
+        "tanggal_lahir": "1993-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ingwiller",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Austria"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mali  Cote d'Ivoire",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aboubacar Sidibé (1314454)",
+        "nama_panggilan": "Aboubacar Sidibé (1314454)",
+        "tanggal_lahir": "2006-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoine Sekongo (1178476)",
+        "nama_panggilan": "Antoine Sekongo (1178476)",
+        "tanggal_lahir": "2004-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Attécoubé",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rominigue Kouamé (277635)",
+        "nama_panggilan": "Rominigue Kouamé (277635)",
+        "tanggal_lahir": "1996-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lopou",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yves Bissouma (410425)",
+        "nama_panggilan": "Yves Bissouma (410425)",
+        "tanggal_lahir": "1996-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Issia",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Zohi (524929)",
+        "nama_panggilan": "Kévin Zohi (524929)",
+        "tanggal_lahir": "1996-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lopou",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dama Kanoute (637816)",
+        "nama_panggilan": "Dama Kanoute (637816)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "El Bilal Touré (649016)",
+        "nama_panggilan": "El Bilal Touré (649016)",
+        "tanggal_lahir": "2001-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adjamé",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Habib Keïta (669000)",
+        "nama_panggilan": "Habib Keïta (669000)",
+        "tanggal_lahir": "2002-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bamako",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nadjib Cissé (922496)",
+        "nama_panggilan": "Nadjib Cissé (922496)",
+        "tanggal_lahir": "2000-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Mali"
+        },
+        "kewarganegaraan": [
+          "Mali  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

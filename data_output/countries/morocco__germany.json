@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Morocco  Germany",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilias Ebnoutalib (1203570)",
+        "nama_panggilan": "Ilias Ebnoutalib (1203570)",
+        "tanggal_lahir": "2005-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamadi Al-Ghaddioui (193534)",
+        "nama_panggilan": "Hamadi Al-Ghaddioui (193534)",
+        "tanggal_lahir": "1990-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nasir El Kasmi (1967)",
+        "nama_panggilan": "Nasir El Kasmi (1967)",
+        "tanggal_lahir": "1982-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wuppertal",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdelaziz Ahanfouf (229)",
+        "nama_panggilan": "Abdelaziz Ahanfouf (229)",
+        "tanggal_lahir": "1978-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Flörsheim",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anas Ouahim (240889)",
+        "nama_panggilan": "Anas Ouahim (240889)",
+        "tanggal_lahir": "1997-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leverkusen",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdelhamid Sabiri (340394)",
+        "nama_panggilan": "Abdelhamid Sabiri (340394)",
+        "tanggal_lahir": "1996-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Goulmima",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nassim Boujellab (346332)",
+        "nama_panggilan": "Nassim Boujellab (346332)",
+        "tanggal_lahir": "1999-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hagen",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adil Chihi (28907)",
+        "nama_panggilan": "Adil Chihi (28907)",
+        "tanggal_lahir": "1988-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oualid Mokhtari (2915)",
+        "nama_panggilan": "Oualid Mokhtari (2915)",
+        "tanggal_lahir": "1982-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nador",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aymen Barkok (315332)",
+        "nama_panggilan": "Aymen Barkok (315332)",
+        "tanggal_lahir": "1998-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayman Azhil (452068)",
+        "nama_panggilan": "Ayman Azhil (452068)",
+        "tanggal_lahir": "2001-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Amsif (45674)",
+        "nama_panggilan": "Mohamed Amsif (45674)",
+        "tanggal_lahir": "1989-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aziz Bouhaddouz (49821)",
+        "nama_panggilan": "Aziz Bouhaddouz (49821)",
+        "tanggal_lahir": "1987-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berkane",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Loune (519868)",
+        "nama_panggilan": "Ali Loune (519868)",
+        "tanggal_lahir": "2002-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hanau",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faouzi Atmani (6321)",
+        "nama_panggilan": "Faouzi Atmani (6321)",
+        "tanggal_lahir": "1984-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oualid Mhamdi (673273)",
+        "nama_panggilan": "Oualid Mhamdi (673273)",
+        "tanggal_lahir": "2003-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eschweiler",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayman Aourir (696027)",
+        "nama_panggilan": "Ayman Aourir (696027)",
+        "tanggal_lahir": "2004-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Anhari (751027)",
+        "nama_panggilan": "Hamza Anhari (751027)",
+        "tanggal_lahir": "2004-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hemer",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Younes El Haddoudi (820677)",
+        "nama_panggilan": "Younes El Haddoudi (820677)",
+        "tanggal_lahir": "2005-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Chaikhoun (938946)",
+        "nama_panggilan": "Ayoub Chaikhoun (938946)",
+        "tanggal_lahir": "2006-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nassim El Ouarti (924330)",
+        "nama_panggilan": "Nassim El Ouarti (924330)",
+        "tanggal_lahir": "2005-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Soden am Taunus",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anas Alaoui (896352)",
+        "nama_panggilan": "Anas Alaoui (896352)",
+        "tanggal_lahir": "2006-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mainz",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

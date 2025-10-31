@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Philippines",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kadin Chung (407650)",
+        "nama_panggilan": "Kadin Chung (407650)",
+        "tanggal_lahir": "1998-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New Westminster, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Philippines"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Metcalfe (501710)",
+        "nama_panggilan": "Patrick Metcalfe (501710)",
+        "tanggal_lahir": "1998-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vancouver, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Philippines"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

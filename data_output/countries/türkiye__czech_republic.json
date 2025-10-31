@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Czech Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enes Kimia (600230)",
+        "nama_panggilan": "Enes Kimia (600230)",
+        "tanggal_lahir": "1998-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Teplice",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Czech Republic"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

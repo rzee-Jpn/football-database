@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guyana  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terell Ondaan (187598)",
+        "nama_panggilan": "Terell Ondaan (187598)",
+        "tanggal_lahir": "1993-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  Netherlands"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

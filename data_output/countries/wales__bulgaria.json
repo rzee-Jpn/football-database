@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Bulgaria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Popov (667508)",
+        "nama_panggilan": "Chris Popov (667508)",
+        "tanggal_lahir": "2004-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cardiff",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Bulgaria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

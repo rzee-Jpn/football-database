@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Russia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Douglas Santos (220793)",
+        "nama_panggilan": "Douglas Santos (220793)",
+        "tanggal_lahir": "1994-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "João Pessoa",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Russia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malcom (323704)",
+        "nama_panggilan": "Malcom (323704)",
+        "tanggal_lahir": "1997-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Russia"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudinho (403315)",
+        "nama_panggilan": "Claudinho (403315)",
+        "tanggal_lahir": "1997-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guarulhos",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Russia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

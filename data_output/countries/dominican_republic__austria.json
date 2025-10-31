@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Dominican Republic  Austria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Jungbauer (807746)",
+        "nama_panggilan": "Thomas Jungbauer (807746)",
+        "tanggal_lahir": "2005-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jarabacoa",
+          "negara": "Dominican Republic"
+        },
+        "kewarganegaraan": [
+          "Dominican Republic  Austria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

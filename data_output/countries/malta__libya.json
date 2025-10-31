@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malta  Libya",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rashed Al-Tumi (497103)",
+        "nama_panggilan": "Rashed Al-Tumi (497103)",
+        "tanggal_lahir": "2000-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valletta",
+          "negara": "Malta"
+        },
+        "kewarganegaraan": [
+          "Malta  Libya"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

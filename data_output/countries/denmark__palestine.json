@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Palestine",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Essam Salamoun (380485)",
+        "nama_panggilan": "Essam Salamoun (380485)",
+        "tanggal_lahir": "1996-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsingør",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Palestine"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yousef Salech (701226)",
+        "nama_panggilan": "Yousef Salech (701226)",
+        "tanggal_lahir": "2002-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hellerup",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Palestine"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tammer Bany (801989)",
+        "nama_panggilan": "Tammer Bany (801989)",
+        "tanggal_lahir": "2003-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Palestine"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

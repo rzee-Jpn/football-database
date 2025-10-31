@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Ukraine",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iván Buhajeruk (1341853)",
+        "nama_panggilan": "Iván Buhajeruk (1341853)",
+        "tanggal_lahir": "2000-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santo Tomé",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ukraine"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustavo Blanco Leschuk (181006)",
+        "nama_panggilan": "Gustavo Blanco Leschuk (181006)",
+        "tanggal_lahir": "1991-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ukraine"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patricio Ostachuk (842911)",
+        "nama_panggilan": "Patricio Ostachuk (842911)",
+        "tanggal_lahir": "2000-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oberá",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Ukraine"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

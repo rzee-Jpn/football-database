@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Paraguay",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexis Chamorro (720524)",
+        "nama_panggilan": "Alexis Chamorro (720524)",
+        "tanggal_lahir": "2002-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asunción",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Paraguay"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

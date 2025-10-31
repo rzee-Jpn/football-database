@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  United States",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramiro Funes Mori (11111)",
+        "nama_panggilan": "Ramiro Funes Mori (11111)",
+        "tanggal_lahir": "1991-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franco Escobar (338169)",
+        "nama_panggilan": "Franco Escobar (338169)",
+        "tanggal_lahir": "1995-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Espinoza (278992)",
+        "nama_panggilan": "Cristian Espinoza (278992)",
+        "tanggal_lahir": "1995-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milton Valenzuela (422401)",
+        "nama_panggilan": "Milton Valenzuela (422401)",
+        "tanggal_lahir": "1998-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Lombardi (611025)",
+        "nama_panggilan": "Aaron Lombardi (611025)",
+        "tanggal_lahir": "1995-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Cuello (636466)",
+        "nama_panggilan": "Emil Cuello (636466)",
+        "tanggal_lahir": "1997-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Sabella (676731)",
+        "nama_panggilan": "Valentin Sabella (676731)",
+        "tanggal_lahir": "1999-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustavo Bou (71608)",
+        "nama_panggilan": "Gustavo Bou (71608)",
+        "tanggal_lahir": "1990-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Concordia",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rocco Ríos Novo (661126)",
+        "nama_panggilan": "Rocco Ríos Novo (661126)",
+        "tanggal_lahir": "2002-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Los Angeles, California",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Díaz (87845)",
+        "nama_panggilan": "Mauro Díaz (87845)",
+        "tanggal_lahir": "1991-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Concepción del Uruguay",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Togo",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fousseni Ouro-Sama (1175160)",
+        "nama_panggilan": "Fousseni Ouro-Sama (1175160)",
+        "tanggal_lahir": "2003-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arsène Wukanya (1182282)",
+        "nama_panggilan": "Arsène Wukanya (1182282)",
+        "tanggal_lahir": "2006-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gent",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sernane Segniagbeto (463208)",
+        "nama_panggilan": "Sernane Segniagbeto (463208)",
+        "tanggal_lahir": "1999-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huy",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

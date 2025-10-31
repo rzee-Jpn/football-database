@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cote d'Ivoire  Burkina Faso",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elohim Kaboré (1072185)",
+        "nama_panggilan": "Elohim Kaboré (1072185)",
+        "tanggal_lahir": "2006-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bakary Soro (39194)",
+        "nama_panggilan": "Bakary Soro (39194)",
+        "tanggal_lahir": "1985-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Anyama",
+          "negara": "Cote d'Ivoire"
+        },
+        "kewarganegaraan": [
+          "Cote d'Ivoire  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  England",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florent Hoti (614085)",
+        "nama_panggilan": "Florent Hoti (614085)",
+        "tanggal_lahir": "2000-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurence Shala (743416)",
+        "nama_panggilan": "Laurence Shala (743416)",
+        "tanggal_lahir": "2004-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Besart Topalloj (747562)",
+        "nama_panggilan": "Besart Topalloj (747562)",
+        "tanggal_lahir": "2001-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

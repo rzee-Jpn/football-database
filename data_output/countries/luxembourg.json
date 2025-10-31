@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Luxembourg",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Philipps (117509)",
+        "nama_panggilan": "Chris Philipps (117509)",
+        "tanggal_lahir": "1994-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wiltz",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sébastien Thill (158594)",
+        "nama_panggilan": "Sébastien Thill (158594)",
+        "tanggal_lahir": "1993-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurent Jans (163724)",
+        "nama_panggilan": "Laurent Jans (163724)",
+        "tanggal_lahir": "1992-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rick Hess (165313)",
+        "nama_panggilan": "Rick Hess (165313)",
+        "tanggal_lahir": "1994-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurent Thill (23911)",
+        "nama_panggilan": "Laurent Thill (23911)",
+        "tanggal_lahir": "1969-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeff Strasser (24)",
+        "nama_panggilan": "Jeff Strasser (24)",
+        "tanggal_lahir": "1974-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florian Bohnert (251448)",
+        "nama_panggilan": "Florian Bohnert (251448)",
+        "tanggal_lahir": "1997-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Bollendorf (339022)",
+        "nama_panggilan": "Paul Bollendorf (339022)",
+        "tanggal_lahir": "1980-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olivier Thill (287015)",
+        "nama_panggilan": "Olivier Thill (287015)",
+        "tanggal_lahir": "1996-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vincent Thill (316760)",
+        "nama_panggilan": "Vincent Thill (316760)",
+        "tanggal_lahir": "2000-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aurélien Joachim (38004)",
+        "nama_panggilan": "Aurélien Joachim (38004)",
+        "tanggal_lahir": "1986-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Virton",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Kips (363514)",
+        "nama_panggilan": "Tim Kips (363514)",
+        "tanggal_lahir": "2000-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beckerich",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yohann Torres (586676)",
+        "nama_panggilan": "Yohann Torres (586676)",
+        "tanggal_lahir": "2004-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eldin Dzogovic (627658)",
+        "nama_panggilan": "Eldin Dzogovic (627658)",
+        "tanggal_lahir": "2003-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxemburg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabio Lohei (650013)",
+        "nama_panggilan": "Fabio Lohei (650013)",
+        "tanggal_lahir": "2005-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Niederkorn",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

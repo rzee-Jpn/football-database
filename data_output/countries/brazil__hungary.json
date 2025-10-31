@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Hungary",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio Guarú (167407)",
+        "nama_panggilan": "Fábio Guarú (167407)",
+        "tanggal_lahir": "1987-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guarulhos",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Myke (285468)",
+        "nama_panggilan": "Myke (285468)",
+        "tanggal_lahir": "1992-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curitiba",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

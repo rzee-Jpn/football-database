@@ -1,0 +1,653 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Poland",
+  "total_pemain": 19,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cléber (13130)",
+        "nama_panggilan": "Cléber (13130)",
+        "tanggal_lahir": "1974-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brasilia",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus Vinícius (135183)",
+        "nama_panggilan": "Marcus Vinícius (135183)",
+        "tanggal_lahir": "1984-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belford Roxo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Golas (122844)",
+        "nama_panggilan": "Victor Golas (122844)",
+        "tanggal_lahir": "1990-12-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arapongas",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Dybal (210505)",
+        "nama_panggilan": "Bruno Dybal (210505)",
+        "tanggal_lahir": "1994-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filipe Luís (21725)",
+        "nama_panggilan": "Filipe Luís (21725)",
+        "tanggal_lahir": "1985-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jaraguá do Sul",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leândro (264870)",
+        "nama_panggilan": "Leândro (264870)",
+        "tanggal_lahir": "1988-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Andradina",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hernâni (24506)",
+        "nama_panggilan": "Hernâni (24506)",
+        "tanggal_lahir": "1984-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antônio Carlos",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Júlio César (249062)",
+        "nama_panggilan": "Júlio César (249062)",
+        "tanggal_lahir": "1994-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Araucária",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hermes (32267)",
+        "nama_panggilan": "Hermes (32267)",
+        "tanggal_lahir": "1974-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo (29528)",
+        "nama_panggilan": "Rodrigo (29528)",
+        "tanggal_lahir": "1979-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kady Borges (484873)",
+        "nama_panggilan": "Kady Borges (484873)",
+        "tanggal_lahir": "1996-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curitiba",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deleu (54988)",
+        "nama_panggilan": "Deleu (54988)",
+        "tanggal_lahir": "1984-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Penedo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alemão (560417)",
+        "nama_panggilan": "Alemão (560417)",
+        "tanggal_lahir": "1998-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Campo Erê",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arthur Wenderroscky (743585)",
+        "nama_panggilan": "Arthur Wenderroscky (743585)",
+        "tanggal_lahir": "2005-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nova Friburgo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leandro (76071)",
+        "nama_panggilan": "Leandro (76071)",
+        "tanggal_lahir": "1983-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fábio (95261)",
+        "nama_panggilan": "Fábio (95261)",
+        "tanggal_lahir": "1990-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Osasco",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronald (959092)",
+        "nama_panggilan": "Ronald (959092)",
+        "tanggal_lahir": "2003-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Porto Alegre",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guilherme Zimovski (973575)",
+        "nama_panggilan": "Guilherme Zimovski (973575)",
+        "tanggal_lahir": "2004-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brasília",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel (995883)",
+        "nama_panggilan": "Gabriel (995883)",
+        "tanggal_lahir": "2003-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guarapuava",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Czech Republic  Croatia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Simic (198613)",
+        "nama_panggilan": "Stefan Simic (198613)",
+        "tanggal_lahir": "1995-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Praha",
+          "negara": "Czech Republic"
+        },
+        "kewarganegaraan": [
+          "Czech Republic  Croatia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Türkiye",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Souleymane Youla (1081)",
+        "nama_panggilan": "Souleymane Youla (1081)",
+        "tanggal_lahir": "1981-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Türkiye"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "İbrahim Yattara (6917)",
+        "nama_panggilan": "İbrahim Yattara (6917)",
+        "tanggal_lahir": "1980-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kamsar",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Türkiye"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

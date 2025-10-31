@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sotiris Costoulas (18428)",
+        "nama_panggilan": "Sotiris Costoulas (18428)",
+        "tanggal_lahir": "1974-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lüttich",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgios Galitsios (29894)",
+        "nama_panggilan": "Georgios Galitsios (29894)",
+        "tanggal_lahir": "1986-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Larisa",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantinos Karetsas (990148)",
+        "nama_panggilan": "Konstantinos Karetsas (990148)",
+        "tanggal_lahir": "2007-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genk",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Belgium"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

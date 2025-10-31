@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Germany",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juanma Herzog (1146029)",
+        "nama_panggilan": "Juanma Herzog (1146029)",
+        "tanggal_lahir": "2004-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de Tenerife",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maikel (39220)",
+        "nama_panggilan": "Maikel (39220)",
+        "tanggal_lahir": "1976-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Iserlohn",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aarón Darias (39221)",
+        "nama_panggilan": "Aarón Darias (39221)",
+        "tanggal_lahir": "1982-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio López (523972)",
+        "nama_panggilan": "Sergio López (523972)",
+        "tanggal_lahir": "1999-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Remscheid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximilian Pérez Hintermeier (586058)",
+        "nama_panggilan": "Maximilian Pérez Hintermeier (586058)",
+        "tanggal_lahir": "2003-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óscar Silva (70990)",
+        "nama_panggilan": "Óscar Silva (70990)",
+        "tanggal_lahir": "1977-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hannover",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joselu (81999)",
+        "nama_panggilan": "Joselu (81999)",
+        "tanggal_lahir": "1990-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

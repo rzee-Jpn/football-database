@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  The Gambia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ousman Touray (1025280)",
+        "nama_panggilan": "Ousman Touray (1025280)",
+        "tanggal_lahir": "2003-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Columbia, Maryland",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  The Gambia"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Modou Jadama (373927)",
+        "nama_panggilan": "Modou Jadama (373927)",
+        "tanggal_lahir": "1994-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Serekunda",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  The Gambia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Costa Ferreira (132460)",
+        "nama_panggilan": "Pedro Costa Ferreira (132460)",
+        "tanggal_lahir": "1991-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelos",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Léo Abreu (476024)",
+        "nama_panggilan": "Léo Abreu (476024)",
+        "tanggal_lahir": "1998-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Câmara de Lobos",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamede (506150)",
+        "nama_panggilan": "Mamede (506150)",
+        "tanggal_lahir": "2002-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reggio Calabria",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

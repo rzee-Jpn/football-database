@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Sri Lanka",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nishan Velupillay (888140)",
+        "nama_panggilan": "Nishan Velupillay (888140)",
+        "tanggal_lahir": "2001-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melbourne",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Sri Lanka"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

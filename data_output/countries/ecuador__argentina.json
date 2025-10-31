@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  Argentina",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Burrai (223888)",
+        "nama_panggilan": "Javier Burrai (223888)",
+        "tanggal_lahir": "1990-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Nicolás",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Argentina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damián Díaz (55167)",
+        "nama_panggilan": "Damián Díaz (55167)",
+        "tanggal_lahir": "1986-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

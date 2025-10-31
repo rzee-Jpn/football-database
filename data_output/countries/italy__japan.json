@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Japan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Aluigi (728231)",
+        "nama_panggilan": "Davide Aluigi (728231)",
+        "tanggal_lahir": "2002-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Urbino",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Japan"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

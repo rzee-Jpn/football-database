@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Mali",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ntji Tounkara (1064401)",
+        "nama_panggilan": "Ntji Tounkara (1064401)",
+        "tanggal_lahir": "2005-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bakary Traoré (1064503)",
+        "nama_panggilan": "Bakary Traoré (1064503)",
+        "tanggal_lahir": "2004-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Elche",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oumar Camara Sinaba (1107581)",
+        "nama_panggilan": "Oumar Camara Sinaba (1107581)",
+        "tanggal_lahir": "2006-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Umaru Konare (1226602)",
+        "nama_panggilan": "Umaru Konare (1226602)",
+        "tanggal_lahir": "2004-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monforte del Cid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Madou Camara (1442809)",
+        "nama_panggilan": "Madou Camara (1442809)",
+        "tanggal_lahir": "2006-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adama Traoré (204103)",
+        "nama_panggilan": "Adama Traoré (204103)",
+        "tanggal_lahir": "1996-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "L'Hospitalet de Llobregat",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Buba Sangaré (962125)",
+        "nama_panggilan": "Buba Sangaré (962125)",
+        "tanggal_lahir": "2007-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Elche",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mali"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

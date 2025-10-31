@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Okeke (1011669)",
+        "nama_panggilan": "Michael Okeke (1011669)",
+        "tanggal_lahir": "2005-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Callum Styles (435062)",
+        "nama_panggilan": "Callum Styles (435062)",
+        "tanggal_lahir": "2000-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oldham",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  England"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

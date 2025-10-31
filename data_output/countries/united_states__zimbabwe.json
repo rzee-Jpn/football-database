@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Zimbabwe",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Mwakutuya (1246469)",
+        "nama_panggilan": "Isaac Mwakutuya (1246469)",
+        "tanggal_lahir": "2007-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Zimbabwe"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thabo Nare (1167507)",
+        "nama_panggilan": "Thabo Nare (1167507)",
+        "tanggal_lahir": "2003-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cary, North Carolina",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Zimbabwe"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eddie Munjoma (636468)",
+        "nama_panggilan": "Eddie Munjoma (636468)",
+        "tanggal_lahir": "1998-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "McKinney, Texas",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Zimbabwe"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

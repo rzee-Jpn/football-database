@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Guadeloupe",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sinclair Baddy Dega (395354)",
+        "nama_panggilan": "Sinclair Baddy Dega (395354)",
+        "tanggal_lahir": "1998-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Cloud",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Guadeloupe"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

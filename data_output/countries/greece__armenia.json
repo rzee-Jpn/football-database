@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Armenia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Mkrtchyan (168441)",
+        "nama_panggilan": "Andreas Mkrtchyan (168441)",
+        "tanggal_lahir": "1988-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alexandroupoli",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Armenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vasilios Poghosyan (423960)",
+        "nama_panggilan": "Vasilios Poghosyan (423960)",
+        "tanggal_lahir": "1998-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athens",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Armenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

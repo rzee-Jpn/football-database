@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Togo",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roggerio Nyakossi (805484)",
+        "nama_panggilan": "Roggerio Nyakossi (805484)",
+        "tanggal_lahir": "2004-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Togo"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

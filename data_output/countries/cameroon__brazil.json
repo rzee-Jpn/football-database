@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Brazil",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Tagueu (184928)",
+        "nama_panggilan": "Joel Tagueu (184928)",
+        "tanggal_lahir": "1993-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nkongsamba",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

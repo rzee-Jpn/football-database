@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Portugal",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "William (13153)",
+        "nama_panggilan": "William (13153)",
+        "tanggal_lahir": "1968-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douala",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albert Meyong (17370)",
+        "nama_panggilan": "Albert Meyong (17370)",
+        "tanggal_lahir": "1980-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Clément Beaud (28883)",
+        "nama_panggilan": "Clément Beaud (28883)",
+        "tanggal_lahir": "1980-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "William (35661)",
+        "nama_panggilan": "William (35661)",
+        "tanggal_lahir": "1979-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "NGoundere",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aboubakar (640843)",
+        "nama_panggilan": "Aboubakar (640843)",
+        "tanggal_lahir": "1995-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douala",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Paul Yontcha (81776)",
+        "nama_panggilan": "Jean-Paul Yontcha (81776)",
+        "tanggal_lahir": "1983-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Portugal"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

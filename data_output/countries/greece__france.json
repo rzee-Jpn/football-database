@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonis Rikka (37875)",
+        "nama_panggilan": "Antonis Rikka (37875)",
+        "tanggal_lahir": "1986-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

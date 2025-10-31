@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Scotland",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rhian Dodds (12747)",
+        "nama_panggilan": "Rhian Dodds (12747)",
+        "tanggal_lahir": "1979-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Irvine",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jim Brennan (11653)",
+        "nama_panggilan": "Jim Brennan (11653)",
+        "tanggal_lahir": "1977-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "East York, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fraser Aird (198388)",
+        "nama_panggilan": "Fraser Aird (198388)",
+        "tanggal_lahir": "1995-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Scarborough, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin McKenna (177)",
+        "nama_panggilan": "Kevin McKenna (177)",
+        "tanggal_lahir": "1980-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Calgary, Alberta",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iain Hume (34207)",
+        "nama_panggilan": "Iain Hume (34207)",
+        "tanggal_lahir": "1983-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edinburgh",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Norman Jr. (483310)",
+        "nama_panggilan": "David Norman Jr. (483310)",
+        "tanggal_lahir": "1998-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New Westminster, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Arfield (55291)",
+        "nama_panggilan": "Scott Arfield (55291)",
+        "tanggal_lahir": "1988-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Livingston",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Scotland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

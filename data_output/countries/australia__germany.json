@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Germany",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Mauk (189231)",
+        "nama_panggilan": "Stefan Mauk (189231)",
+        "tanggal_lahir": "1995-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adelaide",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Germany"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Schwarzer (3357)",
+        "nama_panggilan": "Mark Schwarzer (3357)",
+        "tanggal_lahir": "1972-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Wilmering (660145)",
+        "nama_panggilan": "Daniel Wilmering (660145)",
+        "tanggal_lahir": "2000-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jake Girdwood-Reich (867761)",
+        "nama_panggilan": "Jake Girdwood-Reich (867761)",
+        "tanggal_lahir": "2004-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

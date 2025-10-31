@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bozidar Tadic (28699)",
+        "nama_panggilan": "Bozidar Tadic (28699)",
+        "tanggal_lahir": "1983-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Loznica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Greece"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Athanasios Stojnovic (628332)",
+        "nama_panggilan": "Athanasios Stojnovic (628332)",
+        "tanggal_lahir": "2003-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Komotini",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Greece"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

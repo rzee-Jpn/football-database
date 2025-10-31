@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  Ukraine",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beka Vachiberadze (204045)",
+        "nama_panggilan": "Beka Vachiberadze (204045)",
+        "tanggal_lahir": "1996-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kutaisi",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Ukraine"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valeriane Gvilia (335191)",
+        "nama_panggilan": "Valeriane Gvilia (335191)",
+        "tanggal_lahir": "1994-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zugdidi",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Ukraine"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giorgi Tsitaishvili (419067)",
+        "nama_panggilan": "Giorgi Tsitaishvili (419067)",
+        "tanggal_lahir": "2000-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rischon LeZion",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Ukraine"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Akaki Meladze (717704)",
+        "nama_panggilan": "Akaki Meladze (717704)",
+        "tanggal_lahir": "2003-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Georgia  Ukraine"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

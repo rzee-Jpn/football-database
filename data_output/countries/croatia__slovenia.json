@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Slovenia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristjan Matosevic (340448)",
+        "nama_panggilan": "Kristjan Matosevic (340448)",
+        "tanggal_lahir": "1997-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Slovenia"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Dzankic (502684)",
+        "nama_panggilan": "Aljaz Dzankic (502684)",
+        "tanggal_lahir": "2002-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ptuj",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

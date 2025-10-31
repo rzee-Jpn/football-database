@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Tunisia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kerim Mrabti (225569)",
+        "nama_panggilan": "Kerim Mrabti (225569)",
+        "tanggal_lahir": "1994-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nacka",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Tunisia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elyas Bouzaiene (369308)",
+        "nama_panggilan": "Elyas Bouzaiene (369308)",
+        "tanggal_lahir": "1997-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Flemingsberg",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Tunisia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yasin Ayari (667287)",
+        "nama_panggilan": "Yasin Ayari (667287)",
+        "tanggal_lahir": "2003-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solna",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Tunisia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taha Ayari (920310)",
+        "nama_panggilan": "Taha Ayari (920310)",
+        "tanggal_lahir": "2005-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solna",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Tunisia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

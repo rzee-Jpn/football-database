@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Madagascar",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean Freddi Greco (498557)",
+        "nama_panggilan": "Jean Freddi Greco (498557)",
+        "tanggal_lahir": "2001-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Andohatapenaka",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Madagascar"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yannick Barmaz (961232)",
+        "nama_panggilan": "Yannick Barmaz (961232)",
+        "tanggal_lahir": "2005-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aosta",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Madagascar"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

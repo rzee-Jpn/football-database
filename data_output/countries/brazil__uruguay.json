@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Uruguay",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Felipe Gedoz (242808)",
+        "nama_panggilan": "Felipe Gedoz (242808)",
+        "tanggal_lahir": "1993-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Muçum",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Uruguay"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jarro Pedroso (420400)",
+        "nama_panggilan": "Jarro Pedroso (420400)",
+        "tanggal_lahir": "1994-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pedro Osório",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Uruguay"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

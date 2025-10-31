@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  Cameroon",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grégory Djoufack (1407063)",
+        "nama_panggilan": "Grégory Djoufack (1407063)",
+        "tanggal_lahir": "2002-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussels",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  Cameroon"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

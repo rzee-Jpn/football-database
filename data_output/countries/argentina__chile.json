@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Chile",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás Avilés (1064191)",
+        "nama_panggilan": "Tomás Avilés (1064191)",
+        "tanggal_lahir": "2004-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río Gallegos",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paulo Oballes (1119107)",
+        "nama_panggilan": "Paulo Oballes (1119107)",
+        "tanggal_lahir": "1997-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Concepción",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximiliano Cerato (134495)",
+        "nama_panggilan": "Maximiliano Cerato (134495)",
+        "tanggal_lahir": "1988-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río Gallegos",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ignacio Casari (1237768)",
+        "nama_panggilan": "Ignacio Casari (1237768)",
+        "tanggal_lahir": "2006-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rivadavia",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Dituro (144128)",
+        "nama_panggilan": "Matías Dituro (144128)",
+        "tanggal_lahir": "1987-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bigand",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Zárate (26456)",
+        "nama_panggilan": "Mauro Zárate (26456)",
+        "tanggal_lahir": "1987-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Morón",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ezequiel Vidal (267655)",
+        "nama_panggilan": "Ezequiel Vidal (267655)",
+        "tanggal_lahir": "1995-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bahía Blanca",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Passerini (334586)",
+        "nama_panggilan": "Lucas Passerini (334586)",
+        "tanggal_lahir": "1994-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Formosa",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Vila (310654)",
+        "nama_panggilan": "Luis Vila (310654)",
+        "tanggal_lahir": "1992-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bahía Blanca",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramiro González (439663)",
+        "nama_panggilan": "Ramiro González (439663)",
+        "tanggal_lahir": "1990-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando Otárola (440176)",
+        "nama_panggilan": "Fernando Otárola (440176)",
+        "tanggal_lahir": "1986-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Buonanotte (45646)",
+        "nama_panggilan": "Diego Buonanotte (45646)",
+        "tanggal_lahir": "1988-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Teodelina",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "161.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Muñoz (486238)",
+        "nama_panggilan": "Matías Muñoz (486238)",
+        "tanggal_lahir": "1996-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río Gallegos",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Ignacio Méndez (508134)",
+        "nama_panggilan": "Juan Ignacio Méndez (508134)",
+        "tanggal_lahir": "1997-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luján de Cuyo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julio Barroso (51354)",
+        "nama_panggilan": "Julio Barroso (51354)",
+        "tanggal_lahir": "1985-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Martín",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Rinaldi (539160)",
+        "nama_panggilan": "Nicolás Rinaldi (539160)",
+        "tanggal_lahir": "1993-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "General Lamadrid",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Gioino (578397)",
+        "nama_panggilan": "Sergio Gioino (578397)",
+        "tanggal_lahir": "1974-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Nicolás",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Germán Lanaro (63585)",
+        "nama_panggilan": "Germán Lanaro (63585)",
+        "tanggal_lahir": "1986-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villa Regina",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ariel Nahuelpán (68562)",
+        "nama_panggilan": "Ariel Nahuelpán (68562)",
+        "tanggal_lahir": "1987-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Diez (82205)",
+        "nama_panggilan": "Nicolás Diez (82205)",
+        "tanggal_lahir": "1977-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Zárate (943555)",
+        "nama_panggilan": "Luca Zárate (943555)",
+        "tanggal_lahir": "1998-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villa Luzuriaga",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Castro (87512)",
+        "nama_panggilan": "Matías Castro (87512)",
+        "tanggal_lahir": "1991-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuquén",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Chile"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

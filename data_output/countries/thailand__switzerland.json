@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Thailand  Switzerland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charyl Chappuis (111417)",
+        "nama_panggilan": "Charyl Chappuis (111417)",
+        "tanggal_lahir": "1992-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kloten",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  Switzerland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chitchanok Xaysensourinthone (165409)",
+        "nama_panggilan": "Chitchanok Xaysensourinthone (165409)",
+        "tanggal_lahir": "1994-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

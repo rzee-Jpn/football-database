@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Cote d'Ivoire",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benito (491960)",
+        "nama_panggilan": "Benito (491960)",
+        "tanggal_lahir": "1998-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

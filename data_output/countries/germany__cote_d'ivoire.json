@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Cote d'Ivoire",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Serge Gnabry (159471)",
+        "nama_panggilan": "Serge Gnabry (159471)",
+        "tanggal_lahir": "1995-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Tah (196357)",
+        "nama_panggilan": "Jonathan Tah (196357)",
+        "tanggal_lahir": "1996-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oliver Schmitt (343336)",
+        "nama_panggilan": "Oliver Schmitt (343336)",
+        "tanggal_lahir": "2000-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josha Vagnoman (448258)",
+        "nama_panggilan": "Josha Vagnoman (448258)",
+        "tanggal_lahir": "2000-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faroukou Cissé (684317)",
+        "nama_panggilan": "Faroukou Cissé (684317)",
+        "tanggal_lahir": "2004-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

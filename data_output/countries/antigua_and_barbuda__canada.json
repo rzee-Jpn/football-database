@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Antigua and Barbuda  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dayonn Harris (673961)",
+        "nama_panggilan": "Dayonn Harris (673961)",
+        "tanggal_lahir": "1997-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milton, Ontario",
+          "negara": "Antigua and Barbuda"
+        },
+        "kewarganegaraan": [
+          "Antigua and Barbuda  Canada"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

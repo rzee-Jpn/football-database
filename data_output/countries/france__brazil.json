@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Brazil",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sophian Do Carmo (1079742)",
+        "nama_panggilan": "Sophian Do Carmo (1079742)",
+        "tanggal_lahir": "2005-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Everton (1191473)",
+        "nama_panggilan": "Everton (1191473)",
+        "tanggal_lahir": "2007-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Crouzat (170887)",
+        "nama_panggilan": "Mathieu Crouzat (170887)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belo Horizonte",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxence Fortier (533827)",
+        "nama_panggilan": "Maxence Fortier (533827)",
+        "tanggal_lahir": "1999-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Annemasse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salatiel Decarpentrie (734171)",
+        "nama_panggilan": "Salatiel Decarpentrie (734171)",
+        "tanggal_lahir": "2002-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Olinda",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Everson Jr (919236)",
+        "nama_panggilan": "Everson Jr (919236)",
+        "tanggal_lahir": "2003-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

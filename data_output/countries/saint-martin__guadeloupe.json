@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Saint-Martin  Guadeloupe",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jalen Segor (669745)",
+        "nama_panggilan": "Jalen Segor (669745)",
+        "tanggal_lahir": "2000-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Goyave",
+          "negara": "Saint-Martin"
+        },
+        "kewarganegaraan": [
+          "Saint-Martin  Guadeloupe"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

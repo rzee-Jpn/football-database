@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Cote d'Ivoire",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abel Behma (424832)",
+        "nama_panggilan": "Abel Behma (424832)",
+        "tanggal_lahir": "1992-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadouba Diaby (490288)",
+        "nama_panggilan": "Mamadouba Diaby (490288)",
+        "tanggal_lahir": "1997-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Séguéla",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Koné (70348)",
+        "nama_panggilan": "Ibrahim Koné (70348)",
+        "tanggal_lahir": "1989-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abidjan",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

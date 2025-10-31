@@ -1,0 +1,993 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Mexico",
+  "total_pemain": 29,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrián Cano (1015590)",
+        "nama_panggilan": "Adrián Cano (1015590)",
+        "tanggal_lahir": "1971-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Córdoba",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guido Pizarro (105899)",
+        "nama_panggilan": "Guido Pizarro (105899)",
+        "tanggal_lahir": "1990-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "César Alexenicer (1083705)",
+        "nama_panggilan": "César Alexenicer (1083705)",
+        "tanggal_lahir": "1978-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Miguel de Tucumán",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Melillo (108564)",
+        "nama_panggilan": "Diego Melillo (108564)",
+        "tanggal_lahir": "1975-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luján",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darío Franco (233278)",
+        "nama_panggilan": "Darío Franco (233278)",
+        "tanggal_lahir": "1969-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cruz Alta",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neri Cardozo (19955)",
+        "nama_panggilan": "Neri Cardozo (19955)",
+        "tanggal_lahir": "1986-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Gandolfi (26242)",
+        "nama_panggilan": "Javier Gandolfi (26242)",
+        "tanggal_lahir": "1980-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Pereyra (26252)",
+        "nama_panggilan": "Gabriel Pereyra (26252)",
+        "tanggal_lahir": "1978-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pellegrini, Santa Fe",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubens Sambueza (26268)",
+        "nama_panggilan": "Rubens Sambueza (26268)",
+        "tanggal_lahir": "1984-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zapala",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Ibáñez (267753)",
+        "nama_panggilan": "Nicolás Ibáñez (267753)",
+        "tanggal_lahir": "1994-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Venado Tuerto",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Vilar (28170)",
+        "nama_panggilan": "Federico Vilar (28170)",
+        "tanggal_lahir": "1977-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Boselli (40822)",
+        "nama_panggilan": "Mauro Boselli (40822)",
+        "tanggal_lahir": "1985-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Augusto Gómez (44929)",
+        "nama_panggilan": "Juan Augusto Gómez (44929)",
+        "tanggal_lahir": "1976-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Miguel de Tucumán",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ariel González (51084)",
+        "nama_panggilan": "Ariel González (51084)",
+        "tanggal_lahir": "1974-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alfredo Moreno (53337)",
+        "nama_panggilan": "Alfredo Moreno (53337)",
+        "tanggal_lahir": "1980-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago del Estero",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emanuel Villa (54022)",
+        "nama_panggilan": "Emanuel Villa (54022)",
+        "tanggal_lahir": "1982-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Casilda",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martín Bravo (54480)",
+        "nama_panggilan": "Martín Bravo (54480)",
+        "tanggal_lahir": "1986-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Fé",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Silvio Rudman (549595)",
+        "nama_panggilan": "Silvio Rudman (549595)",
+        "tanggal_lahir": "1969-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José María Basanta (55997)",
+        "nama_panggilan": "José María Basanta (55997)",
+        "tanggal_lahir": "1984-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauricio Romero (59894)",
+        "nama_panggilan": "Mauricio Romero (59894)",
+        "tanggal_lahir": "1983-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Pampa",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Cejas (58527)",
+        "nama_panggilan": "Mauro Cejas (58527)",
+        "tanggal_lahir": "1985-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adrogué",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Cuevas (62363)",
+        "nama_panggilan": "Juan Cuevas (62363)",
+        "tanggal_lahir": "1988-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coronel Pringles",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "162.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jorge Almirón (63085)",
+        "nama_panggilan": "Jorge Almirón (63085)",
+        "tanggal_lahir": "1971-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Olsina (67160)",
+        "nama_panggilan": "Diego Olsina (67160)",
+        "tanggal_lahir": "1978-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Fé",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Torres (68122)",
+        "nama_panggilan": "Pablo Torres (68122)",
+        "tanggal_lahir": "1984-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Avellaneda",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Alustiza (64843)",
+        "nama_panggilan": "Matías Alustiza (64843)",
+        "tanggal_lahir": "1984-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Azul",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Martínez (76157)",
+        "nama_panggilan": "Miguel Martínez (76157)",
+        "tanggal_lahir": "1984-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Muñoz Mustafá (7804)",
+        "nama_panggilan": "Javier Muñoz Mustafá (7804)",
+        "tanggal_lahir": "1980-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Fé",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darío Benedetto (92693)",
+        "nama_panggilan": "Darío Benedetto (92693)",
+        "tanggal_lahir": "1990-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berazategui",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Mexico"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

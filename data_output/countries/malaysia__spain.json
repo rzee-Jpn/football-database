@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malaysia  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Palmero (1011316)",
+        "nama_panggilan": "Gabriel Palmero (1011316)",
+        "tanggal_lahir": "2002-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Palma",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Irazábal (510987)",
+        "nama_panggilan": "Jon Irazábal (510987)",
+        "tanggal_lahir": "1996-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bilbao",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia  Spain"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Natxo Insa (57808)",
+        "nama_panggilan": "Natxo Insa (57808)",
+        "tanggal_lahir": "1986-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cocentaina",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia  Spain"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

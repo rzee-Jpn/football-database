@@ -1,0 +1,6841 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia",
+  "total_pemain": 201,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rajko Rotman (100303)",
+        "nama_panggilan": "Rajko Rotman (100303)",
+        "tanggal_lahir": "1989-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nik Cebulj (1008686)",
+        "nama_panggilan": "Nik Cebulj (1008686)",
+        "tanggal_lahir": "2006-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Drobnic (1009616)",
+        "nama_panggilan": "Dominik Drobnic (1009616)",
+        "tanggal_lahir": "2007-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Pejičić (1009633)",
+        "nama_panggilan": "David Pejičić (1009633)",
+        "tanggal_lahir": "2007-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alin Kumer Celik (1009622)",
+        "nama_panggilan": "Alin Kumer Celik (1009622)",
+        "tanggal_lahir": "2007-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tai Znuderl (1009621)",
+        "nama_panggilan": "Tai Znuderl (1009621)",
+        "tanggal_lahir": "2007-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "201.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Strajnar (1009618)",
+        "nama_panggilan": "Aljaz Strajnar (1009618)",
+        "tanggal_lahir": "2007-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Župančič (1037480)",
+        "nama_panggilan": "Jan Župančič (1037480)",
+        "tanggal_lahir": "2005-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksander Knavs (1056)",
+        "nama_panggilan": "Aleksander Knavs (1056)",
+        "tanggal_lahir": "1975-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mladen Mutavčić (1066212)",
+        "nama_panggilan": "Mladen Mutavčić (1066212)",
+        "tanggal_lahir": "2006-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boban Jovic (112669)",
+        "nama_panggilan": "Boban Jovic (112669)",
+        "tanggal_lahir": "1991-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rok Vadjunec (1069495)",
+        "nama_panggilan": "Rok Vadjunec (1069495)",
+        "tanggal_lahir": "2006-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Mutavcic (1076425)",
+        "nama_panggilan": "Jan Mutavcic (1076425)",
+        "tanggal_lahir": "2007-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Struna (108119)",
+        "nama_panggilan": "Aljaz Struna (108119)",
+        "tanggal_lahir": "1990-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piran",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nejc Mevlja (108882)",
+        "nama_panggilan": "Nejc Mevlja (108882)",
+        "tanggal_lahir": "1990-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elvis Bratanovic (131972)",
+        "nama_panggilan": "Elvis Bratanovic (131972)",
+        "tanggal_lahir": "1992-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zlatko Zahovic (13234)",
+        "nama_panggilan": "Zlatko Zahovic (13234)",
+        "tanggal_lahir": "1971-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kris Jogan (127643)",
+        "nama_panggilan": "Kris Jogan (127643)",
+        "tanggal_lahir": "1991-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Zivec (128033)",
+        "nama_panggilan": "Sasa Zivec (128033)",
+        "tanggal_lahir": "1991-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nova Gorica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amedej Vetrih (121481)",
+        "nama_panggilan": "Amedej Vetrih (121481)",
+        "tanggal_lahir": "1990-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šempeter pri Novi Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Oblak (121483)",
+        "nama_panggilan": "Jan Oblak (121483)",
+        "tanggal_lahir": "1993-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Škofja Loka",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Azbe Jug (116918)",
+        "nama_panggilan": "Azbe Jug (116918)",
+        "tanggal_lahir": "1992-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anej Koroša (1170243)",
+        "nama_panggilan": "Anej Koroša (1170243)",
+        "tanggal_lahir": "2007-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nemanja Milojevic (1171155)",
+        "nama_panggilan": "Nemanja Milojevic (1171155)",
+        "tanggal_lahir": "2007-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Krajnc (138584)",
+        "nama_panggilan": "Luka Krajnc (138584)",
+        "tanggal_lahir": "1994-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ptuj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Suljic (138746)",
+        "nama_panggilan": "Admir Suljic (138746)",
+        "tanggal_lahir": "1981-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alen Krcic (145227)",
+        "nama_panggilan": "Alen Krcic (145227)",
+        "tanggal_lahir": "1988-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Jakomin (1458)",
+        "nama_panggilan": "Sasa Jakomin (1458)",
+        "tanggal_lahir": "1973-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Goran Sukalo (1459)",
+        "nama_panggilan": "Goran Sukalo (1459)",
+        "tanggal_lahir": "1981-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enej Jelenic (148538)",
+        "nama_panggilan": "Enej Jelenic (148538)",
+        "tanggal_lahir": "1992-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Urban Zibert (148972)",
+        "nama_panggilan": "Urban Zibert (148972)",
+        "tanggal_lahir": "1992-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Benedicic (149809)",
+        "nama_panggilan": "Zan Benedicic (149809)",
+        "tanggal_lahir": "1995-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Cotman (149784)",
+        "nama_panggilan": "Aljaz Cotman (149784)",
+        "tanggal_lahir": "1994-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matija Boben (149810)",
+        "nama_panggilan": "Matija Boben (149810)",
+        "tanggal_lahir": "1994-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miha Zajc (149829)",
+        "nama_panggilan": "Miha Zajc (149829)",
+        "tanggal_lahir": "1994-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miso Brecko (15300)",
+        "nama_panggilan": "Miso Brecko (15300)",
+        "tanggal_lahir": "1984-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trbovlje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milivoje Novakovic (16162)",
+        "nama_panggilan": "Milivoje Novakovic (16162)",
+        "tanggal_lahir": "1979-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Klemen Lavric (18293)",
+        "nama_panggilan": "Klemen Lavric (18293)",
+        "tanggal_lahir": "1981-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Velenje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petar Stojanović (183841)",
+        "nama_panggilan": "Petar Stojanović (183841)",
+        "tanggal_lahir": "1995-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maks Barisic (183845)",
+        "nama_panggilan": "Maks Barisic (183845)",
+        "tanggal_lahir": "1995-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Grabic (18431)",
+        "nama_panggilan": "Dejan Grabic (18431)",
+        "tanggal_lahir": "1980-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novo Mesto",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Kurbus (186800)",
+        "nama_panggilan": "Dejan Kurbus (186800)",
+        "tanggal_lahir": "1993-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Verbic (188180)",
+        "nama_panggilan": "Benjamin Verbic (188180)",
+        "tanggal_lahir": "1993-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Trajkovski (190048)",
+        "nama_panggilan": "Dejan Trajkovski (190048)",
+        "tanggal_lahir": "1992-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrej Tasic (19527)",
+        "nama_panggilan": "Andrej Tasic (19527)",
+        "tanggal_lahir": "1977-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dare Vrsic (19579)",
+        "nama_panggilan": "Dare Vrsic (19579)",
+        "tanggal_lahir": "1984-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rudi Pozeg Vancas (168152)",
+        "nama_panggilan": "Rudi Pozeg Vancas (168152)",
+        "tanggal_lahir": "1994-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novo Mesto",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Stulac (171159)",
+        "nama_panggilan": "Leo Stulac (171159)",
+        "tanggal_lahir": "1994-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damjan Bohar (174504)",
+        "nama_panggilan": "Damjan Bohar (174504)",
+        "tanggal_lahir": "1991-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murska Sobota",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Borut Semler (17724)",
+        "nama_panggilan": "Borut Semler (17724)",
+        "tanggal_lahir": "1985-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murska Sobota",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tadej Vidmajer (179063)",
+        "nama_panggilan": "Tadej Vidmajer (179063)",
+        "tanggal_lahir": "1992-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miha Blazic (179806)",
+        "nama_panggilan": "Miha Blazic (179806)",
+        "tanggal_lahir": "1993-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andraz Sporar (179860)",
+        "nama_panggilan": "Andraz Sporar (179860)",
+        "tanggal_lahir": "1994-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Majer (180805)",
+        "nama_panggilan": "Zan Majer (180805)",
+        "tanggal_lahir": "1992-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jure Balkovec (181410)",
+        "nama_panggilan": "Jure Balkovec (181410)",
+        "tanggal_lahir": "1994-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novo Mesto",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saso Fornezzi (22109)",
+        "nama_panggilan": "Saso Fornezzi (22109)",
+        "tanggal_lahir": "1982-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ziga Skoflek (223030)",
+        "nama_panggilan": "Ziga Skoflek (223030)",
+        "tanggal_lahir": "1994-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vojnik",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gregor Sikosek (224892)",
+        "nama_panggilan": "Gregor Sikosek (224892)",
+        "tanggal_lahir": "1994-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brežice",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaž Ivačič (231923)",
+        "nama_panggilan": "Aljaž Ivačič (231923)",
+        "tanggal_lahir": "1993-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Nunic (201668)",
+        "nama_panggilan": "Marko Nunic (201668)",
+        "tanggal_lahir": "1993-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Domen Crnigoj (216599)",
+        "nama_panggilan": "Domen Crnigoj (216599)",
+        "tanggal_lahir": "1995-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valter Birsa (26105)",
+        "nama_panggilan": "Valter Birsa (26105)",
+        "tanggal_lahir": "1986-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miran Burgic (26108)",
+        "nama_panggilan": "Miran Burgic (26108)",
+        "tanggal_lahir": "1984-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trbovlje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jani Sturm (26132)",
+        "nama_panggilan": "Jani Sturm (26132)",
+        "tanggal_lahir": "1982-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brda",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mirnes Sisic (26876)",
+        "nama_panggilan": "Mirnes Sisic (26876)",
+        "tanggal_lahir": "1981-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Bozicic (24259)",
+        "nama_panggilan": "Sasa Bozicic (24259)",
+        "tanggal_lahir": "1983-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrej Kvas (24270)",
+        "nama_panggilan": "Andrej Kvas (24270)",
+        "tanggal_lahir": "1980-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ptuj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damir Bartulovic (245015)",
+        "nama_panggilan": "Damir Bartulovic (245015)",
+        "tanggal_lahir": "1996-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Gorenc Stankovic (245034)",
+        "nama_panggilan": "Jon Gorenc Stankovic (245034)",
+        "tanggal_lahir": "1996-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grega Sorcan (245092)",
+        "nama_panggilan": "Grega Sorcan (245092)",
+        "tanggal_lahir": "1996-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Rodic (24569)",
+        "nama_panggilan": "Aleksandar Rodic (24569)",
+        "tanggal_lahir": "1979-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kozarska Dubica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bostjan Cesar (24606)",
+        "nama_panggilan": "Bostjan Cesar (24606)",
+        "tanggal_lahir": "1982-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Medved (340425)",
+        "nama_panggilan": "Zan Medved (340425)",
+        "tanggal_lahir": "1999-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Koblar (340408)",
+        "nama_panggilan": "Luka Koblar (340408)",
+        "tanggal_lahir": "1999-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomi Horvat (340415)",
+        "nama_panggilan": "Tomi Horvat (340415)",
+        "tanggal_lahir": "1999-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murska Sobota",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Celar (340427)",
+        "nama_panggilan": "Zan Celar (340427)",
+        "tanggal_lahir": "1999-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Vekic (341535)",
+        "nama_panggilan": "Igor Vekic (341535)",
+        "tanggal_lahir": "1998-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dalibor Stevanovic (34643)",
+        "nama_panggilan": "Dalibor Stevanovic (34643)",
+        "tanggal_lahir": "1984-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Ivkic (351785)",
+        "nama_panggilan": "Dominik Ivkic (351785)",
+        "tanggal_lahir": "1997-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matija Kavcic (351791)",
+        "nama_panggilan": "Matija Kavcic (351791)",
+        "tanggal_lahir": "1997-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Tijanic (351792)",
+        "nama_panggilan": "David Tijanic (351792)",
+        "tanggal_lahir": "1997-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaka Kolenc (278823)",
+        "nama_panggilan": "Jaka Kolenc (278823)",
+        "tanggal_lahir": "1994-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nova Gorica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Handanovič (28021)",
+        "nama_panggilan": "Samir Handanovič (28021)",
+        "tanggal_lahir": "1984-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ziga Zivko (280375)",
+        "nama_panggilan": "Ziga Zivko (280375)",
+        "tanggal_lahir": "1995-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andraz Kirm (28393)",
+        "nama_panggilan": "Andraz Kirm (28393)",
+        "tanggal_lahir": "1984-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erik Gliha (284608)",
+        "nama_panggilan": "Erik Gliha (284608)",
+        "tanggal_lahir": "1997-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Niort",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mika Mario Rokavec (286163)",
+        "nama_panggilan": "Mika Mario Rokavec (286163)",
+        "tanggal_lahir": "1997-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zeljko Milinovic (28798)",
+        "nama_panggilan": "Zeljko Milinovic (28798)",
+        "tanggal_lahir": "1969-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Sweeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zlatko Dedic (28835)",
+        "nama_panggilan": "Zlatko Dedic (28835)",
+        "tanggal_lahir": "1984-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bihać",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Vokic (290698)",
+        "nama_panggilan": "Dejan Vokic (290698)",
+        "tanggal_lahir": "1996-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Kramaric (318705)",
+        "nama_panggilan": "Martin Kramaric (318705)",
+        "tanggal_lahir": "1997-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandi Ogrinec (320858)",
+        "nama_panggilan": "Sandi Ogrinec (320858)",
+        "tanggal_lahir": "1998-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Kondic (320857)",
+        "nama_panggilan": "Igor Kondic (320857)",
+        "tanggal_lahir": "1998-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timi Max Elsnik (320854)",
+        "nama_panggilan": "Timi Max Elsnik (320854)",
+        "tanggal_lahir": "1998-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zlatoličje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matija Rom (320861)",
+        "nama_panggilan": "Matija Rom (320861)",
+        "tanggal_lahir": "1998-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vitja Valencic (320870)",
+        "nama_panggilan": "Vitja Valencic (320870)",
+        "tanggal_lahir": "1999-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Petrovic (320859)",
+        "nama_panggilan": "Dejan Petrovic (320859)",
+        "tanggal_lahir": "1998-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rače",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rok Vodisek (320871)",
+        "nama_panggilan": "Rok Vodisek (320871)",
+        "tanggal_lahir": "1998-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Blaz Kramer (322288)",
+        "nama_panggilan": "Blaz Kramer (322288)",
+        "tanggal_lahir": "1996-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Jurcevic (325124)",
+        "nama_panggilan": "Mario Jurcevic (325124)",
+        "tanggal_lahir": "1995-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Zuzek (325222)",
+        "nama_panggilan": "Zan Zuzek (325222)",
+        "tanggal_lahir": "1997-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Spasoje Bulajic (33)",
+        "nama_panggilan": "Spasoje Bulajic (33)",
+        "tanggal_lahir": "1975-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Velimir Varga (33479)",
+        "nama_panggilan": "Velimir Varga (33479)",
+        "tanggal_lahir": "1980-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jezica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Mlakar (309180)",
+        "nama_panggilan": "Jan Mlakar (309180)",
+        "tanggal_lahir": "1998-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrej Kotnik (382007)",
+        "nama_panggilan": "Andrej Kotnik (382007)",
+        "tanggal_lahir": "1995-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nova Gorica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Sporn (356936)",
+        "nama_panggilan": "Jon Sporn (356936)",
+        "tanggal_lahir": "1997-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Gucek (365779)",
+        "nama_panggilan": "Luka Gucek (365779)",
+        "tanggal_lahir": "1999-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brežice",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Rogelj (371861)",
+        "nama_panggilan": "Zan Rogelj (371861)",
+        "tanggal_lahir": "1999-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaka Bijol (371851)",
+        "nama_panggilan": "Jaka Bijol (371851)",
+        "tanggal_lahir": "1999-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vuzenica",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matevz Vidovsek (371863)",
+        "nama_panggilan": "Matevz Vidovsek (371863)",
+        "tanggal_lahir": "1999-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Brekalo (371864)",
+        "nama_panggilan": "David Brekalo (371864)",
+        "tanggal_lahir": "1998-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vanja Drkusic (371856)",
+        "nama_panggilan": "Vanja Drkusic (371856)",
+        "tanggal_lahir": "1999-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novo mesto",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Kelhar (40118)",
+        "nama_panggilan": "Dejan Kelhar (40118)",
+        "tanggal_lahir": "1984-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brezice",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Gnezda Cerin (401394)",
+        "nama_panggilan": "Adam Gnezda Cerin (401394)",
+        "tanggal_lahir": "1999-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Postojna",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Plosnik (40349)",
+        "nama_panggilan": "Peter Plosnik (40349)",
+        "tanggal_lahir": "1981-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rok Straus (41080)",
+        "nama_panggilan": "Rok Straus (41080)",
+        "tanggal_lahir": "1987-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sanel Sehic (41245)",
+        "nama_panggilan": "Sanel Sehic (41245)",
+        "tanggal_lahir": "1984-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Velenje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Zaletel (412517)",
+        "nama_panggilan": "Zan Zaletel (412517)",
+        "tanggal_lahir": "1999-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zagorje ob Savi",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristijan Kondic (420595)",
+        "nama_panggilan": "Kristijan Kondic (420595)",
+        "tanggal_lahir": "1998-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elian Demirovic (459937)",
+        "nama_panggilan": "Elian Demirovic (459937)",
+        "tanggal_lahir": "2000-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Žan Kolmanič (469686)",
+        "nama_panggilan": "Žan Kolmanič (469686)",
+        "tanggal_lahir": "2000-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dusan Stojinovic (469688)",
+        "nama_panggilan": "Dusan Stojinovic (469688)",
+        "tanggal_lahir": "2000-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Egzon Kryeziu (469693)",
+        "nama_panggilan": "Egzon Kryeziu (469693)",
+        "tanggal_lahir": "2000-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nik Prelec (469690)",
+        "nama_panggilan": "Nik Prelec (469690)",
+        "tanggal_lahir": "2001-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Zec (469709)",
+        "nama_panggilan": "David Zec (469709)",
+        "tanggal_lahir": "2000-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Gorenc (476165)",
+        "nama_panggilan": "Jan Gorenc (476165)",
+        "tanggal_lahir": "1999-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brezice",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ester Sokler (481244)",
+        "nama_panggilan": "Ester Sokler (481244)",
+        "tanggal_lahir": "1999-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Pavlev (437334)",
+        "nama_panggilan": "Daniel Pavlev (437334)",
+        "tanggal_lahir": "2000-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bojan Jokic (44317)",
+        "nama_panggilan": "Bojan Jokic (44317)",
+        "tanggal_lahir": "1986-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anton Zlogar (44334)",
+        "nama_panggilan": "Anton Zlogar (44334)",
+        "tanggal_lahir": "1977-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Izola",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Domen Gril (487603)",
+        "nama_panggilan": "Domen Gril (487603)",
+        "tanggal_lahir": "2001-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Fatkic (491963)",
+        "nama_panggilan": "Kenan Fatkic (491963)",
+        "tanggal_lahir": "1997-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nino Zugelj (496989)",
+        "nama_panggilan": "Nino Zugelj (496989)",
+        "tanggal_lahir": "2000-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abel Marc (502342)",
+        "nama_panggilan": "Abel Marc (502342)",
+        "tanggal_lahir": "2001-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renato Simic (502347)",
+        "nama_panggilan": "Renato Simic (502347)",
+        "tanggal_lahir": "2001-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nino Kukovec (502355)",
+        "nama_panggilan": "Nino Kukovec (502355)",
+        "tanggal_lahir": "2001-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Goran Cvijanovic (50247)",
+        "nama_panggilan": "Goran Cvijanovic (50247)",
+        "tanggal_lahir": "1986-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivica Guberac (50269)",
+        "nama_panggilan": "Ivica Guberac (50269)",
+        "tanggal_lahir": "1988-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Koprivec (50286)",
+        "nama_panggilan": "Jan Koprivec (50286)",
+        "tanggal_lahir": "1988-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastjan Komel (50284)",
+        "nama_panggilan": "Sebastjan Komel (50284)",
+        "tanggal_lahir": "1986-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Matavz (50303)",
+        "nama_panggilan": "Tim Matavz (50303)",
+        "tanggal_lahir": "1989-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Etien Velikonja (50384)",
+        "nama_panggilan": "Etien Velikonja (50384)",
+        "tanggal_lahir": "1988-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Vipotnik (506942)",
+        "nama_panggilan": "Zan Vipotnik (506942)",
+        "tanggal_lahir": "2002-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Flakus Bosilj (506941)",
+        "nama_panggilan": "David Flakus Bosilj (506941)",
+        "tanggal_lahir": "2002-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Markus (515480)",
+        "nama_panggilan": "Benjamin Markus (515480)",
+        "tanggal_lahir": "2001-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Kampl (53418)",
+        "nama_panggilan": "Kevin Kampl (53418)",
+        "tanggal_lahir": "1990-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solingen",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anze Pucihar (567077)",
+        "nama_panggilan": "Anze Pucihar (567077)",
+        "tanggal_lahir": "2001-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Bacinovic (60074)",
+        "nama_panggilan": "Armin Bacinovic (60074)",
+        "tanggal_lahir": "1989-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zan Luk Leban (605757)",
+        "nama_panggilan": "Zan Luk Leban (605757)",
+        "tanggal_lahir": "2002-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Domen Zajsek (622202)",
+        "nama_panggilan": "Domen Zajsek (622202)",
+        "tanggal_lahir": "2003-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ptuj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Feratovic (627439)",
+        "nama_panggilan": "Amir Feratovic (627439)",
+        "tanggal_lahir": "2002-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Sesko (627442)",
+        "nama_panggilan": "Benjamin Sesko (627442)",
+        "tanggal_lahir": "2003-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Radeče",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Casar (682519)",
+        "nama_panggilan": "Aljaz Casar (682519)",
+        "tanggal_lahir": "2000-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murska Sobota",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzengis Cavusevic (68287)",
+        "nama_panggilan": "Dzengis Cavusevic (68287)",
+        "tanggal_lahir": "1987-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gasper Tratnik (689207)",
+        "nama_panggilan": "Gasper Tratnik (689207)",
+        "tanggal_lahir": "2000-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Postojna",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrik Ostrc (694318)",
+        "nama_panggilan": "Enrik Ostrc (694318)",
+        "tanggal_lahir": "2002-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Postojna",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Turk (700643)",
+        "nama_panggilan": "Martin Turk (700643)",
+        "tanggal_lahir": "2003-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matevz Dajcar (704079)",
+        "nama_panggilan": "Matevz Dajcar (704079)",
+        "tanggal_lahir": "2002-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andraz Struna (70592)",
+        "nama_panggilan": "Andraz Struna (70592)",
+        "tanggal_lahir": "1989-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tjas Begic (708186)",
+        "nama_panggilan": "Tjas Begic (708186)",
+        "tanggal_lahir": "2003-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Izola",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rok Bržan (708193)",
+        "nama_panggilan": "Rok Bržan (708193)",
+        "tanggal_lahir": "2003-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Žan Jevšenak (708192)",
+        "nama_panggilan": "Žan Jevšenak (708192)",
+        "tanggal_lahir": "2003-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Uros Korun (70872)",
+        "nama_panggilan": "Uros Korun (70872)",
+        "tanggal_lahir": "1987-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enej Marsetic (714059)",
+        "nama_panggilan": "Enej Marsetic (714059)",
+        "tanggal_lahir": "2004-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Izola",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Kacinari (657338)",
+        "nama_panggilan": "Aaron Kacinari (657338)",
+        "tanggal_lahir": "2001-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Izola",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nejc Gradisar (793476)",
+        "nama_panggilan": "Nejc Gradisar (793476)",
+        "tanggal_lahir": "2002-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tio Cipot (795431)",
+        "nama_panggilan": "Tio Cipot (795431)",
+        "tanggal_lahir": "2003-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Murska Sobota",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rajko Rep (80525)",
+        "nama_panggilan": "Rajko Rep (80525)",
+        "tanggal_lahir": "1990-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rogatec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roman Bezjak (80672)",
+        "nama_panggilan": "Roman Bezjak (80672)",
+        "tanggal_lahir": "1989-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Srdjan Kuzmic (722375)",
+        "nama_panggilan": "Srdjan Kuzmic (722375)",
+        "tanggal_lahir": "2004-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matjaz Kamensek-Pahic (722377)",
+        "nama_panggilan": "Matjaz Kamensek-Pahic (722377)",
+        "tanggal_lahir": "2004-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lovro Stubljar (728516)",
+        "nama_panggilan": "Lovro Stubljar (728516)",
+        "tanggal_lahir": "2004-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novo Mesto",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jost Pisek (728517)",
+        "nama_panggilan": "Jost Pisek (728517)",
+        "tanggal_lahir": "2002-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trbovlje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzoni Novak (729)",
+        "nama_panggilan": "Dzoni Novak (729)",
+        "tanggal_lahir": "1969-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vid Belec (73090)",
+        "nama_panggilan": "Vid Belec (73090)",
+        "tanggal_lahir": "1990-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rene Krhin (73092)",
+        "nama_panggilan": "Rene Krhin (73092)",
+        "tanggal_lahir": "1990-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aljaz Tavcar (744482)",
+        "nama_panggilan": "Aljaz Tavcar (744482)",
+        "tanggal_lahir": "2000-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nik Omladic (75665)",
+        "nama_panggilan": "Nik Omladic (75665)",
+        "tanggal_lahir": "1989-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dalibor Radujko (76080)",
+        "nama_panggilan": "Dalibor Radujko (76080)",
+        "tanggal_lahir": "1985-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Vuckic (76560)",
+        "nama_panggilan": "Haris Vuckic (76560)",
+        "tanggal_lahir": "1992-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nejc Vidmar (77248)",
+        "nama_panggilan": "Nejc Vidmar (77248)",
+        "tanggal_lahir": "1989-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Lazarevic (77603)",
+        "nama_panggilan": "Dejan Lazarevic (77603)",
+        "tanggal_lahir": "1990-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mitja Ilenič (822074)",
+        "nama_panggilan": "Mitja Ilenič (822074)",
+        "tanggal_lahir": "2004-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samo Matjaž (822072)",
+        "nama_panggilan": "Samo Matjaž (822072)",
+        "tanggal_lahir": "2004-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bor Zunec (942099)",
+        "nama_panggilan": "Bor Zunec (942099)",
+        "tanggal_lahir": "2005-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Milec (94523)",
+        "nama_panggilan": "Martin Milec (94523)",
+        "tanggal_lahir": "1991-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandi Arcon (94527)",
+        "nama_panggilan": "Sandi Arcon (94527)",
+        "tanggal_lahir": "1991-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sempeter pri Gorici",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tai Matea Panic (949165)",
+        "nama_panggilan": "Tai Matea Panic (949165)",
+        "tanggal_lahir": "2003-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koper",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rok Schaubach (953958)",
+        "nama_panggilan": "Rok Schaubach (953958)",
+        "tanggal_lahir": "2004-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lun Boncina (905068)",
+        "nama_panggilan": "Lun Boncina (905068)",
+        "tanggal_lahir": "2002-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Beric (91415)",
+        "nama_panggilan": "Robert Beric (91415)",
+        "tanggal_lahir": "1991-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krsko",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nejc Skubic (91434)",
+        "nama_panggilan": "Nejc Skubic (91434)",
+        "tanggal_lahir": "1989-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Delamea Mlinar (87214)",
+        "nama_panggilan": "Antonio Delamea Mlinar (87214)",
+        "tanggal_lahir": "1991-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sinisa Andjelkovic (84622)",
+        "nama_panggilan": "Sinisa Andjelkovic (84622)",
+        "tanggal_lahir": "1986-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gregor Rezonja (85368)",
+        "nama_panggilan": "Gregor Rezonja (85368)",
+        "tanggal_lahir": "1981-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ermin Siljak (8565)",
+        "nama_panggilan": "Ermin Siljak (8565)",
+        "tanggal_lahir": "1973-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jasmin Kurtic (85825)",
+        "nama_panggilan": "Jasmin Kurtic (85825)",
+        "tanggal_lahir": "1989-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Crnomelj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Mlakar (866221)",
+        "nama_panggilan": "Luka Mlakar (866221)",
+        "tanggal_lahir": "2006-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miha Trdan (984375)",
+        "nama_panggilan": "Miha Trdan (984375)",
+        "tanggal_lahir": "2005-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Topalović (991744)",
+        "nama_panggilan": "Luka Topalović (991744)",
+        "tanggal_lahir": "2006-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lovro Golic (991751)",
+        "nama_panggilan": "Lovro Golic (991751)",
+        "tanggal_lahir": "2006-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Celje",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cyprus",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christos Evzona (1066074)",
+        "nama_panggilan": "Christos Evzona (1066074)",
+        "tanggal_lahir": "2005-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Páfos",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Melanarkitis (127750)",
+        "nama_panggilan": "Andreas Melanarkitis (127750)",
+        "tanggal_lahir": "1975-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limassol",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantinos Laifis (121570)",
+        "nama_panggilan": "Konstantinos Laifis (121570)",
+        "tanggal_lahir": "1993-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paralimni",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Angelos Tsiaklis (125049)",
+        "nama_panggilan": "Angelos Tsiaklis (125049)",
+        "tanggal_lahir": "1989-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Karo (203966)",
+        "nama_panggilan": "Andreas Karo (203966)",
+        "tanggal_lahir": "1996-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonis Makris (27251)",
+        "nama_panggilan": "Antonis Makris (27251)",
+        "tanggal_lahir": "1981-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantinos Sotiriou (246607)",
+        "nama_panggilan": "Konstantinos Sotiriou (246607)",
+        "tanggal_lahir": "1996-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Omorfita",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Chatziathanasiou (321217)",
+        "nama_panggilan": "Andreas Chatziathanasiou (321217)",
+        "tanggal_lahir": "1997-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Larnaca",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Athos Chrysostomou (33083)",
+        "nama_panggilan": "Athos Chrysostomou (33083)",
+        "tanggal_lahir": "1981-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limassol",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Panagiotis Artymatas (298627)",
+        "nama_panggilan": "Panagiotis Artymatas (298627)",
+        "tanggal_lahir": "1998-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paralimni",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grigoris Kastanos (298635)",
+        "nama_panggilan": "Grigoris Kastanos (298635)",
+        "tanggal_lahir": "1998-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sotira",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kostas Pileas (298642)",
+        "nama_panggilan": "Kostas Pileas (298642)",
+        "tanggal_lahir": "1998-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Geroskipou",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giannis Kosti (435288)",
+        "nama_panggilan": "Giannis Kosti (435288)",
+        "tanggal_lahir": "2000-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ormideia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Katsantonis (470248)",
+        "nama_panggilan": "Andreas Katsantonis (470248)",
+        "tanggal_lahir": "2000-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aglantzia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgios Efrem (44790)",
+        "nama_panggilan": "Georgios Efrem (44790)",
+        "tanggal_lahir": "1989-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limassol",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Agapios Vrikkis (511878)",
+        "nama_panggilan": "Agapios Vrikkis (511878)",
+        "tanggal_lahir": "2001-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marinos Tzionis (511885)",
+        "nama_panggilan": "Marinos Tzionis (511885)",
+        "tanggal_lahir": "2001-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Analiontas",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giorgos Pavlidis (614990)",
+        "nama_panggilan": "Giorgos Pavlidis (614990)",
+        "tanggal_lahir": "2003-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Ioannou (833381)",
+        "nama_panggilan": "Andreas Ioannou (833381)",
+        "tanggal_lahir": "2005-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limassol",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Panagiotis Karagiorgis (942003)",
+        "nama_panggilan": "Panagiotis Karagiorgis (942003)",
+        "tanggal_lahir": "2005-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aradippou",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Angelos Neofytou (950111)",
+        "nama_panggilan": "Angelos Neofytou (950111)",
+        "tanggal_lahir": "2005-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zanos Savva (928900)",
+        "nama_panggilan": "Zanos Savva (928900)",
+        "tanggal_lahir": "2005-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Cyprus"
+        },
+        "kewarganegaraan": [
+          "Cyprus"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

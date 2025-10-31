@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Hungary",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Groppioni (102324)",
+        "nama_panggilan": "Federico Groppioni (102324)",
+        "tanggal_lahir": "1984-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Fekete (1066246)",
+        "nama_panggilan": "Marco Fekete (1066246)",
+        "tanggal_lahir": "2005-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brescia",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aurelio Currenti (417906)",
+        "nama_panggilan": "Aurelio Currenti (417906)",
+        "tanggal_lahir": "1998-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Basel",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Hungary"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pietro Santi (672879)",
+        "nama_panggilan": "Pietro Santi (672879)",
+        "tanggal_lahir": "2002-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Civitavecchia",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Hungary"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

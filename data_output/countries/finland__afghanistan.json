@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Afghanistan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moshtagh Yaghoubi (206553)",
+        "nama_panggilan": "Moshtagh Yaghoubi (206553)",
+        "tanggal_lahir": "1994-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kabul",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Afghanistan"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

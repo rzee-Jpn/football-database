@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Romania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Dagau (1201576)",
+        "nama_panggilan": "Luca Dagau (1201576)",
+        "tanggal_lahir": "2007-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Argentan",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

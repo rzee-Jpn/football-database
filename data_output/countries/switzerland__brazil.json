@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Brazil",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Léo Lacroix (149652)",
+        "nama_panggilan": "Léo Lacroix (149652)",
+        "tanggal_lahir": "1992-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Etterlin (19739)",
+        "nama_panggilan": "Leo Etterlin (19739)",
+        "tanggal_lahir": "1981-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olivier Joos (237668)",
+        "nama_panggilan": "Olivier Joos (237668)",
+        "tanggal_lahir": "1997-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Olten",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Magnum Paulino (33523)",
+        "nama_panggilan": "Magnum Paulino (33523)",
+        "tanggal_lahir": "1982-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah De Queiroz (357860)",
+        "nama_panggilan": "Noah De Queiroz (357860)",
+        "tanggal_lahir": "2002-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sorengo",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adler (367634)",
+        "nama_panggilan": "Adler (367634)",
+        "tanggal_lahir": "1998-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matheus Vieira (449528)",
+        "nama_panggilan": "Matheus Vieira (449528)",
+        "tanggal_lahir": "1998-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Salvador",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Willy Vogt (500782)",
+        "nama_panggilan": "Willy Vogt (500782)",
+        "tanggal_lahir": "2002-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guarapuava",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leandro Zbinden (507524)",
+        "nama_panggilan": "Leandro Zbinden (507524)",
+        "tanggal_lahir": "2002-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fribourg",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukas Winzap (534486)",
+        "nama_panggilan": "Lukas Winzap (534486)",
+        "tanggal_lahir": "2001-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Monteiro (537821)",
+        "nama_panggilan": "Lucas Monteiro (537821)",
+        "tanggal_lahir": "2001-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Meyrin",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrico De Nobile (544401)",
+        "nama_panggilan": "Enrico De Nobile (544401)",
+        "tanggal_lahir": "2003-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schaffhausen",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roméo Beney (700479)",
+        "nama_panggilan": "Roméo Beney (700479)",
+        "tanggal_lahir": "2005-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yverdon-les-Bains",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Weber (810972)",
+        "nama_panggilan": "Patrick Weber (810972)",
+        "tanggal_lahir": "2004-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego De Souza (902988)",
+        "nama_panggilan": "Diego De Souza (902988)",
+        "tanggal_lahir": "2005-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wil SG",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

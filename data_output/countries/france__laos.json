@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Laos",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sheun Xiong (1134325)",
+        "nama_panggilan": "Sheun Xiong (1134325)",
+        "tanggal_lahir": "2004-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Avignon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Laos"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Inthasane (45261)",
+        "nama_panggilan": "Mathieu Inthasane (45261)",
+        "tanggal_lahir": "1986-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tours",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Laos"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,4495 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina",
+  "total_pemain": 132,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Cvjetkovic (1044985)",
+        "nama_panggilan": "Luka Cvjetkovic (1044985)",
+        "tanggal_lahir": "2006-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brčko",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almir Kasumovic (104914)",
+        "nama_panggilan": "Almir Kasumovic (104914)",
+        "tanggal_lahir": "1994-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Langenhagen",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edin Visca (109217)",
+        "nama_panggilan": "Edin Visca (109217)",
+        "tanggal_lahir": "1990-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Olovo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mirsad Basic (1093230)",
+        "nama_panggilan": "Mirsad Basic (1093230)",
+        "tanggal_lahir": "2005-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muamer Avdic (131727)",
+        "nama_panggilan": "Muamer Avdic (131727)",
+        "tanggal_lahir": "1993-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nermin Zolotić (131740)",
+        "nama_panggilan": "Nermin Zolotić (131740)",
+        "tanggal_lahir": "1993-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nermin Haskic (135528)",
+        "nama_panggilan": "Nermin Haskic (135528)",
+        "tanggal_lahir": "1989-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banovići",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emir Halilovic (135883)",
+        "nama_panggilan": "Emir Halilovic (135883)",
+        "tanggal_lahir": "1989-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zvornik",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almedin Civa (1231)",
+        "nama_panggilan": "Almedin Civa (1231)",
+        "tanggal_lahir": "1972-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Breza",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Senad Husic (119302)",
+        "nama_panggilan": "Senad Husic (119302)",
+        "tanggal_lahir": "1990-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kalesija",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bozo Musa (143008)",
+        "nama_panggilan": "Bozo Musa (143008)",
+        "tanggal_lahir": "1988-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Široki Brijeg",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almir Filipovic (143221)",
+        "nama_panggilan": "Almir Filipovic (143221)",
+        "tanggal_lahir": "1970-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gojko Cimirot (150482)",
+        "nama_panggilan": "Gojko Cimirot (150482)",
+        "tanggal_lahir": "1992-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trebinje",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Hasagic (15448)",
+        "nama_panggilan": "Kenan Hasagic (15448)",
+        "tanggal_lahir": "1980-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kakanj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldin Cajic (163380)",
+        "nama_panggilan": "Aldin Cajic (163380)",
+        "tanggal_lahir": "1992-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Konjic",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Akrapović (164)",
+        "nama_panggilan": "Bruno Akrapović (164)",
+        "tanggal_lahir": "1967-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Duljevic (184473)",
+        "nama_panggilan": "Haris Duljevic (184473)",
+        "tanggal_lahir": "1993-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzemo Neslanovic (18746)",
+        "nama_panggilan": "Dzemo Neslanovic (18746)",
+        "tanggal_lahir": "1983-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adnan Kovacevic (187669)",
+        "nama_panggilan": "Adnan Kovacevic (187669)",
+        "tanggal_lahir": "1993-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kotor Varoš",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nermin Celikovic (1897)",
+        "nama_panggilan": "Nermin Celikovic (1897)",
+        "tanggal_lahir": "1980-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomislav Tomic (190272)",
+        "nama_panggilan": "Tomislav Tomic (190272)",
+        "tanggal_lahir": "1990-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adi Mehremic (192897)",
+        "nama_panggilan": "Adi Mehremic (192897)",
+        "tanggal_lahir": "1992-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Semir Devoli (1932)",
+        "nama_panggilan": "Semir Devoli (1932)",
+        "tanggal_lahir": "1976-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jasmin Fejzic (19471)",
+        "nama_panggilan": "Jasmin Fejzic (19471)",
+        "tanggal_lahir": "1986-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Živinice",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irfan Hadzic (197881)",
+        "nama_panggilan": "Irfan Hadzic (197881)",
+        "tanggal_lahir": "1993-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prozor-Rama",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Skahic (165807)",
+        "nama_panggilan": "Ibrahim Skahic (165807)",
+        "tanggal_lahir": "1993-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amar Rahmanovic (166086)",
+        "nama_panggilan": "Amar Rahmanovic (166086)",
+        "tanggal_lahir": "1994-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sindelfingen",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Hodzic (166753)",
+        "nama_panggilan": "Armin Hodzic (166753)",
+        "tanggal_lahir": "1994-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bojan Letic (166985)",
+        "nama_panggilan": "Bojan Letic (166985)",
+        "tanggal_lahir": "1992-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brčko",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Harba (179893)",
+        "nama_panggilan": "Haris Harba (179893)",
+        "tanggal_lahir": "1988-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Foča",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzenan Burekovic (227639)",
+        "nama_panggilan": "Dzenan Burekovic (227639)",
+        "tanggal_lahir": "1995-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sead Mehic (2287)",
+        "nama_panggilan": "Sead Mehic (2287)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijeljina",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Mihojevic (235646)",
+        "nama_panggilan": "Marko Mihojevic (235646)",
+        "tanggal_lahir": "1996-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trebinje",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Branko Okic (2362)",
+        "nama_panggilan": "Branko Okic (2362)",
+        "tanggal_lahir": "1969-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kreševo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Asim Skaljic (20103)",
+        "nama_panggilan": "Asim Skaljic (20103)",
+        "tanggal_lahir": "1981-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alen Basic (21194)",
+        "nama_panggilan": "Alen Basic (21194)",
+        "tanggal_lahir": "1980-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lepenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almir Turkovic (25776)",
+        "nama_panggilan": "Almir Turkovic (25776)",
+        "tanggal_lahir": "1970-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Jovicic (258268)",
+        "nama_panggilan": "Aleksandar Jovicic (258268)",
+        "tanggal_lahir": "1995-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marin Popovic (260682)",
+        "nama_panggilan": "Marin Popovic (260682)",
+        "tanggal_lahir": "1994-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Riad Bajic (263267)",
+        "nama_panggilan": "Riad Bajic (263267)",
+        "tanggal_lahir": "1994-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mladen Veselinovic (265849)",
+        "nama_panggilan": "Mladen Veselinovic (265849)",
+        "tanggal_lahir": "1993-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renato Gojkovic (238058)",
+        "nama_panggilan": "Renato Gojkovic (238058)",
+        "tanggal_lahir": "1995-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Goran Karacic (243679)",
+        "nama_panggilan": "Goran Karacic (243679)",
+        "tanggal_lahir": "1996-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albin Pelak (24622)",
+        "nama_panggilan": "Albin Pelak (24622)",
+        "tanggal_lahir": "1981-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stojko Kikic (249477)",
+        "nama_panggilan": "Stojko Kikic (249477)",
+        "tanggal_lahir": "1993-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yverdon les Bains",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rifet Kapic (251676)",
+        "nama_panggilan": "Rifet Kapic (251676)",
+        "tanggal_lahir": "1995-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cazin",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Safet Nadarevic (34574)",
+        "nama_panggilan": "Safet Nadarevic (34574)",
+        "tanggal_lahir": "1980-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cazin",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomislav Stanic (27998)",
+        "nama_panggilan": "Tomislav Stanic (27998)",
+        "tanggal_lahir": "1981-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Adzem (28374)",
+        "nama_panggilan": "Admir Adzem (28374)",
+        "tanggal_lahir": "1973-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edin Džeko (28396)",
+        "nama_panggilan": "Edin Džeko (28396)",
+        "tanggal_lahir": "1986-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ajdin Mahmutovic (28436)",
+        "nama_panggilan": "Ajdin Mahmutovic (28436)",
+        "tanggal_lahir": "1986-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doboj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Avdija Vrsajevic (28481)",
+        "nama_panggilan": "Avdija Vrsajevic (28481)",
+        "tanggal_lahir": "1986-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tešanj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almir Tolja (2908)",
+        "nama_panggilan": "Almir Tolja (2908)",
+        "tanggal_lahir": "1974-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Travnik",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eldar Civic (317764)",
+        "nama_panggilan": "Eldar Civic (317764)",
+        "tanggal_lahir": "1996-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Advan Kadusic (318829)",
+        "nama_panggilan": "Advan Kadusic (318829)",
+        "tanggal_lahir": "1997-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amer Hiros (328119)",
+        "nama_panggilan": "Amer Hiros (328119)",
+        "tanggal_lahir": "1996-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Smail Prevljak (328264)",
+        "nama_panggilan": "Smail Prevljak (328264)",
+        "tanggal_lahir": "1995-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Konjic",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ensar Arifovic (33159)",
+        "nama_panggilan": "Ensar Arifovic (33159)",
+        "tanggal_lahir": "1980-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ermedin Demirovic (335457)",
+        "nama_panggilan": "Ermedin Demirovic (335457)",
+        "tanggal_lahir": "1998-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kemal Osmankovic (293223)",
+        "nama_panggilan": "Kemal Osmankovic (293223)",
+        "tanggal_lahir": "1997-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darko Todorovic (293231)",
+        "nama_panggilan": "Darko Todorovic (293231)",
+        "tanggal_lahir": "1997-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijeljina",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Spahic (2993)",
+        "nama_panggilan": "Amir Spahic (2993)",
+        "tanggal_lahir": "1983-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Asmir Ikanovic (3034)",
+        "nama_panggilan": "Asmir Ikanovic (3034)",
+        "tanggal_lahir": "1976-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enis Nadarevic (37889)",
+        "nama_panggilan": "Enis Nadarevic (37889)",
+        "tanggal_lahir": "1987-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bihać",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Velibor Djuric (38513)",
+        "nama_panggilan": "Velibor Djuric (38513)",
+        "tanggal_lahir": "1982-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vlasenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Vladavic (38887)",
+        "nama_panggilan": "Admir Vladavic (38887)",
+        "tanggal_lahir": "1982-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubinje",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jusuf Gazibegovic (393745)",
+        "nama_panggilan": "Jusuf Gazibegovic (393745)",
+        "tanggal_lahir": "2000-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Salzburg",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzenan Hosic (36440)",
+        "nama_panggilan": "Dzenan Hosic (36440)",
+        "tanggal_lahir": "1976-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alen Mustafic (368631)",
+        "nama_panggilan": "Alen Mustafic (368631)",
+        "tanggal_lahir": "1999-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nermin Hadzic (372609)",
+        "nama_panggilan": "Nermin Hadzic (372609)",
+        "tanggal_lahir": "1994-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Srebrenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nedim Hadzic (372850)",
+        "nama_panggilan": "Nedim Hadzic (372850)",
+        "tanggal_lahir": "1999-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Selmir Pidro (372848)",
+        "nama_panggilan": "Selmir Pidro (372848)",
+        "tanggal_lahir": "1998-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bugojno",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sadik Skrijelj (396662)",
+        "nama_panggilan": "Sadik Skrijelj (396662)",
+        "tanggal_lahir": "1998-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Ljevakovic (39957)",
+        "nama_panggilan": "Admir Ljevakovic (39957)",
+        "tanggal_lahir": "1984-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tesanj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Numan Kurdic (400058)",
+        "nama_panggilan": "Numan Kurdic (400058)",
+        "tanggal_lahir": "1999-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tesanj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salko Mujanovic (419626)",
+        "nama_panggilan": "Salko Mujanovic (419626)",
+        "tanggal_lahir": "1996-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Halid Sabanovic (422986)",
+        "nama_panggilan": "Halid Sabanovic (422986)",
+        "tanggal_lahir": "1999-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Almir Porca (425358)",
+        "nama_panggilan": "Almir Porca (425358)",
+        "tanggal_lahir": "1996-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damir Memisevic (4305)",
+        "nama_panggilan": "Damir Memisevic (4305)",
+        "tanggal_lahir": "1984-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Bjelos (434801)",
+        "nama_panggilan": "Nikola Bjelos (434801)",
+        "tanggal_lahir": "1998-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokolac",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Besim Ibricic (45957)",
+        "nama_panggilan": "Besim Ibricic (45957)",
+        "tanggal_lahir": "1984-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vedad Radonja (461717)",
+        "nama_panggilan": "Vedad Radonja (461717)",
+        "tanggal_lahir": "2001-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edin Cocalic (46205)",
+        "nama_panggilan": "Edin Cocalic (46205)",
+        "tanggal_lahir": "1987-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Visegrad",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Sehic (46252)",
+        "nama_panggilan": "Ibrahim Sehic (46252)",
+        "tanggal_lahir": "1988-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rogatica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eldin Masic (46319)",
+        "nama_panggilan": "Eldin Masic (46319)",
+        "tanggal_lahir": "1987-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maglaj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Radovanovic (46388)",
+        "nama_panggilan": "Igor Radovanovic (46388)",
+        "tanggal_lahir": "1985-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Imad Rondic (464154)",
+        "nama_panggilan": "Imad Rondic (464154)",
+        "tanggal_lahir": "1999-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Gradascevic (47227)",
+        "nama_panggilan": "Samir Gradascevic (47227)",
+        "tanggal_lahir": "1978-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Loznica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muamer Salibasic (47465)",
+        "nama_panggilan": "Muamer Salibasic (47465)",
+        "tanggal_lahir": "1984-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrej Djokanovic (483008)",
+        "nama_panggilan": "Andrej Djokanovic (483008)",
+        "tanggal_lahir": "2001-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kasindo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Belmin Dizdarevic (483007)",
+        "nama_panggilan": "Belmin Dizdarevic (483007)",
+        "tanggal_lahir": "2001-08-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ervin Zukanovic (44059)",
+        "nama_panggilan": "Ervin Zukanovic (44059)",
+        "tanggal_lahir": "1987-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Cerimagic (45571)",
+        "nama_panggilan": "Armin Cerimagic (45571)",
+        "tanggal_lahir": "1994-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Papac (4960)",
+        "nama_panggilan": "Sasa Papac (4960)",
+        "tanggal_lahir": "1980-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Rankic (501958)",
+        "nama_panggilan": "Stefan Rankic (501958)",
+        "tanggal_lahir": "2001-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijeljina",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amar Dedić (519184)",
+        "nama_panggilan": "Amar Dedić (519184)",
+        "tanggal_lahir": "2002-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zell am See",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mehmed Alispahic (51958)",
+        "nama_panggilan": "Mehmed Alispahic (51958)",
+        "tanggal_lahir": "1987-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bugojno",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ajdin Hasic (522851)",
+        "nama_panggilan": "Ajdin Hasic (522851)",
+        "tanggal_lahir": "2001-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Said Husejinovic (52314)",
+        "nama_panggilan": "Said Husejinovic (52314)",
+        "tanggal_lahir": "1988-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zvornik",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dino Hamzic (52452)",
+        "nama_panggilan": "Dino Hamzic (52452)",
+        "tanggal_lahir": "1988-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Drakul (52492)",
+        "nama_panggilan": "Dejan Drakul (52492)",
+        "tanggal_lahir": "1988-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gacko",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Turanjanin (528206)",
+        "nama_panggilan": "Nikola Turanjanin (528206)",
+        "tanggal_lahir": "2001-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Hodzic (570548)",
+        "nama_panggilan": "Armin Hodzic (570548)",
+        "tanggal_lahir": "2000-02-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petar Zovko (602299)",
+        "nama_panggilan": "Petar Zovko (602299)",
+        "tanggal_lahir": "2002-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amar Begic (603003)",
+        "nama_panggilan": "Amar Begic (603003)",
+        "tanggal_lahir": "2000-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Cerdic (609668)",
+        "nama_panggilan": "Marko Cerdic (609668)",
+        "tanggal_lahir": "1998-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tomislavgrad",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alden Suvalija (614420)",
+        "nama_panggilan": "Alden Suvalija (614420)",
+        "tanggal_lahir": "2002-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muhamed Sahinovic (584112)",
+        "nama_panggilan": "Muhamed Sahinovic (584112)",
+        "tanggal_lahir": "2003-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faris Krkalic (590554)",
+        "nama_panggilan": "Faris Krkalic (590554)",
+        "tanggal_lahir": "2002-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salih Husic (620906)",
+        "nama_panggilan": "Salih Husic (620906)",
+        "tanggal_lahir": "2002-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mostar",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faruk Dalipagic (620908)",
+        "nama_panggilan": "Faruk Dalipagic (620908)",
+        "tanggal_lahir": "2003-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zoran Milutinovic (63937)",
+        "nama_panggilan": "Zoran Milutinovic (63937)",
+        "tanggal_lahir": "1988-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prijedor",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Admir Bristric (678606)",
+        "nama_panggilan": "Admir Bristric (678606)",
+        "tanggal_lahir": "2003-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damjan Dordan (679686)",
+        "nama_panggilan": "Damjan Dordan (679686)",
+        "tanggal_lahir": "2003-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Faruk Hujdurovic (687)",
+        "nama_panggilan": "Faruk Hujdurovic (687)",
+        "tanggal_lahir": "1970-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bijeljina",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Mahmud (690906)",
+        "nama_panggilan": "Ali Mahmud (690906)",
+        "tanggal_lahir": "2004-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Marjanovic (701598)",
+        "nama_panggilan": "Sasa Marjanovic (701598)",
+        "tanggal_lahir": "2002-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irfan Ramic (651770)",
+        "nama_panggilan": "Irfan Ramic (651770)",
+        "tanggal_lahir": "2004-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Semir Dzombic (65499)",
+        "nama_panggilan": "Semir Dzombic (65499)",
+        "tanggal_lahir": "1989-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Damjanovic (663128)",
+        "nama_panggilan": "Luka Damjanovic (663128)",
+        "tanggal_lahir": "2003-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Riad Masala (665526)",
+        "nama_panggilan": "Riad Masala (665526)",
+        "tanggal_lahir": "2004-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anes Krdzalic (665532)",
+        "nama_panggilan": "Anes Krdzalic (665532)",
+        "tanggal_lahir": "2004-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doboj",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dzemal Berberovic (6693)",
+        "nama_panggilan": "Dzemal Berberovic (6693)",
+        "tanggal_lahir": "1981-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adnan Secerovic (78497)",
+        "nama_panggilan": "Adnan Secerovic (78497)",
+        "tanggal_lahir": "1991-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zivinice",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adnan Zahirovic (78947)",
+        "nama_panggilan": "Adnan Zahirovic (78947)",
+        "tanggal_lahir": "1990-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Radoslav Radulović (793988)",
+        "nama_panggilan": "Radoslav Radulović (793988)",
+        "tanggal_lahir": "1972-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Jaganjac (798026)",
+        "nama_panggilan": "Hamza Jaganjac (798026)",
+        "tanggal_lahir": "2004-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zlatan Bajramovic (752)",
+        "nama_panggilan": "Zlatan Bajramovic (752)",
+        "tanggal_lahir": "1979-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nidal Celik (819566)",
+        "nama_panggilan": "Nidal Celik (819566)",
+        "tanggal_lahir": "2006-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikola Gajic (925235)",
+        "nama_panggilan": "Nikola Gajic (925235)",
+        "tanggal_lahir": "2006-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Hamzic (92617)",
+        "nama_panggilan": "Amir Hamzic (92617)",
+        "tanggal_lahir": "1975-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zvornik",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tino Divkovic (99054)",
+        "nama_panggilan": "Tino Divkovic (99054)",
+        "tanggal_lahir": "1991-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

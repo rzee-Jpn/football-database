@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Belarus",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andriy Raspopov (59886)",
+        "nama_panggilan": "Andriy Raspopov (59886)",
+        "tanggal_lahir": "1978-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lviv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Belarus"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artem Milevskyi (9800)",
+        "nama_panggilan": "Artem Milevskyi (9800)",
+        "tanggal_lahir": "1985-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Minsk",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Belarus"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

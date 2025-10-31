@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "New Zealand  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyler Bindon (1007720)",
+        "nama_panggilan": "Tyler Bindon (1007720)",
+        "tanggal_lahir": "2005-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Auckland",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kip Colvey (172320)",
+        "nama_panggilan": "Kip Colvey (172320)",
+        "tanggal_lahir": "1994-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lihue, Hawaii",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erik Panzer (204771)",
+        "nama_panggilan": "Erik Panzer (204771)",
+        "tanggal_lahir": "1993-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nelson",
+          "negara": "New Zealand"
+        },
+        "kewarganegaraan": [
+          "New Zealand  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Panama  Peru",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alberto Quintero (126019)",
+        "nama_panggilan": "Alberto Quintero (126019)",
+        "tanggal_lahir": "1987-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama  Peru"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guatemala  United States",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "DeCarlo Guerra (1010904)",
+        "nama_panggilan": "DeCarlo Guerra (1010904)",
+        "tanggal_lahir": "2008-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Los Angeles, California",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olger Escobar (1039953)",
+        "nama_panggilan": "Olger Escobar (1039953)",
+        "tanggal_lahir": "2006-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lynn, Massachusetts",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Evans (1085546)",
+        "nama_panggilan": "Matthew Evans (1085546)",
+        "tanggal_lahir": "2006-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Simi Valley, California",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Top (174600)",
+        "nama_panggilan": "Jonathan Top (174600)",
+        "tanggal_lahir": "1993-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Forth Worth, Texas",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubio Rubín (331282)",
+        "nama_panggilan": "Rubio Rubín (331282)",
+        "tanggal_lahir": "1996-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beaverton, Oregon",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Samayoa (354671)",
+        "nama_panggilan": "Nicolás Samayoa (354671)",
+        "tanggal_lahir": "1995-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nueva Guatemala de la Asunción",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicholas Hagen (354667)",
+        "nama_panggilan": "Nicholas Hagen (354667)",
+        "tanggal_lahir": "1996-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nueva Guatemala de la Asunción",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aarón Herrera (401362)",
+        "nama_panggilan": "Aarón Herrera (401362)",
+        "tanggal_lahir": "1997-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Las Cruces, New Mexico",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darwin Lom (747770)",
+        "nama_panggilan": "Darwin Lom (747770)",
+        "tanggal_lahir": "1997-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guastatoya, El Progreso",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arquímides Ordóñez (905609)",
+        "nama_panggilan": "Arquímides Ordóñez (905609)",
+        "tanggal_lahir": "2003-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cincinnati, Ohio",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yoskar Galván-Mercado (920827)",
+        "nama_panggilan": "Yoskar Galván-Mercado (920827)",
+        "tanggal_lahir": "2003-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lexington, Nebraska",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "160.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arian Recinos (993583)",
+        "nama_panggilan": "Arian Recinos (993583)",
+        "tanggal_lahir": "2005-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stamford, Connecticut",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

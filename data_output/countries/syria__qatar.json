@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Syria  Qatar",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdulhamid Mumen Sebaei (1061913)",
+        "nama_panggilan": "Abdulhamid Mumen Sebaei (1061913)",
+        "tanggal_lahir": "2004-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Syria  Qatar"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khalid Radwan (346492)",
+        "nama_panggilan": "Khalid Radwan (346492)",
+        "tanggal_lahir": "1990-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "-",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Qatar"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdulla Mahmoud Mahmoud (830372)",
+        "nama_panggilan": "Abdulla Mahmoud Mahmoud (830372)",
+        "tanggal_lahir": "2001-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Qatar"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Romania",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cadú (14274)",
+        "nama_panggilan": "Cadú (14274)",
+        "tanggal_lahir": "1981-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paços de Ferreira",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Ponde (198005)",
+        "nama_panggilan": "Cristian Ponde (198005)",
+        "tanggal_lahir": "1995-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Făureşti",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marian Huja (478347)",
+        "nama_panggilan": "Marian Huja (478347)",
+        "tanggal_lahir": "1999-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cacém",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Romania"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

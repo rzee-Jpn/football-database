@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Romania",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Munteanu (1008481)",
+        "nama_panggilan": "Jonathan Munteanu (1008481)",
+        "tanggal_lahir": "2005-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Pârvu (1029548)",
+        "nama_panggilan": "Alexandru Pârvu (1029548)",
+        "tanggal_lahir": "2005-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Phoenix, Arizona",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Chirilă (1073380)",
+        "nama_panggilan": "Andrei Chirilă (1073380)",
+        "tanggal_lahir": "2008-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Allentown, Pennsylvania",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Turdean (1193854)",
+        "nama_panggilan": "Robert Turdean (1193854)",
+        "tanggal_lahir": "2010-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Niles, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Romania"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danny Barbir (330186)",
+        "nama_panggilan": "Danny Barbir (330186)",
+        "tanggal_lahir": "1998-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Atlanta, Georgia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Romania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

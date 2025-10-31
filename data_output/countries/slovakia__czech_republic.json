@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovakia  Czech Republic",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Prohaszka (63963)",
+        "nama_panggilan": "Martin Prohaszka (63963)",
+        "tanggal_lahir": "1973-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nové Zámky",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Czech Republic"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Hlohovsky (74707)",
+        "nama_panggilan": "Filip Hlohovsky (74707)",
+        "tanggal_lahir": "1988-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Handlová",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  Czech Republic"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

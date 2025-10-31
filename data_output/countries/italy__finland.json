@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Finland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacopo Fiorucci (160211)",
+        "nama_panggilan": "Jacopo Fiorucci (160211)",
+        "tanggal_lahir": "1991-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Perugia",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

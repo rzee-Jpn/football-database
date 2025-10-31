@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aras Özbiliz (124891)",
+        "nama_panggilan": "Aras Özbiliz (124891)",
+        "tanggal_lahir": "1990-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Netherlands"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gor Agbaljan (255739)",
+        "nama_panggilan": "Gor Agbaljan (255739)",
+        "tanggal_lahir": "1997-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Talin",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shant Bedrosian (275970)",
+        "nama_panggilan": "Shant Bedrosian (275970)",
+        "tanggal_lahir": "1995-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Qamishli",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Netherlands"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

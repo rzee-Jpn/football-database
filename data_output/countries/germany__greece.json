@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Greece",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fotios Adamidis (1034545)",
+        "nama_panggilan": "Fotios Adamidis (1034545)",
+        "tanggal_lahir": "2006-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kai Kaissis (243614)",
+        "nama_panggilan": "Kai Kaissis (243614)",
+        "tanggal_lahir": "1996-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oldenburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Minos Gouras (278569)",
+        "nama_panggilan": "Minos Gouras (278569)",
+        "tanggal_lahir": "1998-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Speyer",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Jann (329893)",
+        "nama_panggilan": "Nicolas Jann (329893)",
+        "tanggal_lahir": "1992-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wangen im Allgäu",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgios Pintidis (336326)",
+        "nama_panggilan": "Georgios Pintidis (336326)",
+        "tanggal_lahir": "2000-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Titisee-Neustadt",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikos Zografakis (296431)",
+        "nama_panggilan": "Nikos Zografakis (296431)",
+        "tanggal_lahir": "1999-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonis Aidonis (405674)",
+        "nama_panggilan": "Antonis Aidonis (405674)",
+        "tanggal_lahir": "2001-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neustadt an der Weinstraße",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charalambos Makridis (414318)",
+        "nama_panggilan": "Charalambos Makridis (414318)",
+        "tanggal_lahir": "1996-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Minden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Bazdrigiannis (450176)",
+        "nama_panggilan": "Alexander Bazdrigiannis (450176)",
+        "tanggal_lahir": "2002-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julian Rufidis (528855)",
+        "nama_panggilan": "Julian Rufidis (528855)",
+        "tanggal_lahir": "2000-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hannover",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikolaos Nakas (6329)",
+        "nama_panggilan": "Nikolaos Nakas (6329)",
+        "tanggal_lahir": "1982-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ludwigsburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Kastanaras (675565)",
+        "nama_panggilan": "Thomas Kastanaras (675565)",
+        "tanggal_lahir": "2003-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Babis Drakas (675612)",
+        "nama_panggilan": "Babis Drakas (675612)",
+        "tanggal_lahir": "2003-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Waiblingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Wenig (654872)",
+        "nama_panggilan": "Marcel Wenig (654872)",
+        "tanggal_lahir": "2004-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nürnberg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jannis Nikolaou (93649)",
+        "nama_panggilan": "Jannis Nikolaou (93649)",
+        "tanggal_lahir": "1993-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Greece"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

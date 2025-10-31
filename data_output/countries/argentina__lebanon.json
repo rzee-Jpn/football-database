@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Lebanon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudio Husaín (3416)",
+        "nama_panggilan": "Claudio Husaín (3416)",
+        "tanggal_lahir": "1974-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Justo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Lebanon"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Isa Luna (663710)",
+        "nama_panggilan": "Kevin Isa Luna (663710)",
+        "tanggal_lahir": "2001-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Miguel de Tucumán",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Lebanon"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

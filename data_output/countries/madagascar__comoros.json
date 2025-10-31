@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Madagascar  Comoros",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Adinany (654092)",
+        "nama_panggilan": "Bryan Adinany (654092)",
+        "tanggal_lahir": "2000-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar  Comoros"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Héctor Herrera (122043)",
+        "nama_panggilan": "Héctor Herrera (122043)",
+        "tanggal_lahir": "1990-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tijuana",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Portugal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jesús Corona (125165)",
+        "nama_panggilan": "Jesús Corona (125165)",
+        "tanggal_lahir": "1993-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hermosillo",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Portugal"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

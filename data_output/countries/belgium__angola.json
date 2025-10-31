@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Angola",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruny Nsimba (452584)",
+        "nama_panggilan": "Bruny Nsimba (452584)",
+        "tanggal_lahir": "2000-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukunzao",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Angola"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jossue Dolet (535833)",
+        "nama_panggilan": "Jossue Dolet (535833)",
+        "tanggal_lahir": "2002-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enschede",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Angola"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Léandre Kuavita (723485)",
+        "nama_panggilan": "Léandre Kuavita (723485)",
+        "tanggal_lahir": "2004-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Verviers",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Angola"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

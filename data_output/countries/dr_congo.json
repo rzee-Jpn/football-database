@@ -1,0 +1,1911 @@
+{
+  "kategori": "negara",
+  "nama_group": "DR Congo",
+  "total_pemain": 56,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Honoré Bayanginisa (1321676)",
+        "nama_panggilan": "Honoré Bayanginisa (1321676)",
+        "tanggal_lahir": "2005-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Jacques Ngita (1334587)",
+        "nama_panggilan": "Jean-Jacques Ngita (1334587)",
+        "tanggal_lahir": "2005-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kolwezi",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ruben Bakwetila (1287517)",
+        "nama_panggilan": "Ruben Bakwetila (1287517)",
+        "tanggal_lahir": "2006-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marlon Baluzeyi (129671)",
+        "nama_panggilan": "Marlon Baluzeyi (129671)",
+        "tanggal_lahir": "1988-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aime Azende (1300242)",
+        "nama_panggilan": "Aime Azende (1300242)",
+        "tanggal_lahir": "2005-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Messy Manitu (1248495)",
+        "nama_panggilan": "Messy Manitu (1248495)",
+        "tanggal_lahir": "2006-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kabamba Musasa (118984)",
+        "nama_panggilan": "Kabamba Musasa (118984)",
+        "tanggal_lahir": "1985-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Baba (1191480)",
+        "nama_panggilan": "Jonathan Baba (1191480)",
+        "tanggal_lahir": "2006-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bandundu",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cédric Lubasa (150492)",
+        "nama_panggilan": "Cédric Lubasa (150492)",
+        "tanggal_lahir": "1983-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Kabananga (153067)",
+        "nama_panggilan": "Junior Kabananga (153067)",
+        "tanggal_lahir": "1989-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1980-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Kinkela (16252)",
+        "nama_panggilan": "Christian Kinkela (16252)",
+        "tanggal_lahir": "1982-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Copain Kortland (186491)",
+        "nama_panggilan": "Copain Kortland (186491)",
+        "tanggal_lahir": "1973-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lemare",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ange Nsilu (166950)",
+        "nama_panggilan": "Ange Nsilu (166950)",
+        "tanggal_lahir": "1986-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Trésor Nyamwisi (170913)",
+        "nama_panggilan": "Trésor Nyamwisi (170913)",
+        "tanggal_lahir": "1990-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christ Bongo (200306)",
+        "nama_panggilan": "Christ Bongo (200306)",
+        "tanggal_lahir": "1976-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chancel Mbemba (203348)",
+        "nama_panggilan": "Chancel Mbemba (203348)",
+        "tanggal_lahir": "1994-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Luyindama (262793)",
+        "nama_panggilan": "Christian Luyindama (262793)",
+        "tanggal_lahir": "1994-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Firmin Mubele (265504)",
+        "nama_panggilan": "Firmin Mubele (265504)",
+        "tanggal_lahir": "1994-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chadrac Akolo (247459)",
+        "nama_panggilan": "Chadrac Akolo (247459)",
+        "tanggal_lahir": "1995-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Mazolo (25529)",
+        "nama_panggilan": "Junior Mazolo (25529)",
+        "tanggal_lahir": "1981-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Biscotte Mbala (33263)",
+        "nama_panggilan": "Biscotte Mbala (33263)",
+        "tanggal_lahir": "1985-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olivier Nzuzi Niati Polo (3045)",
+        "nama_panggilan": "Olivier Nzuzi Niati Polo (3045)",
+        "tanggal_lahir": "1980-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Breston Malula (312051)",
+        "nama_panggilan": "Breston Malula (312051)",
+        "tanggal_lahir": "2000-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bern",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Bolingi (315337)",
+        "nama_panggilan": "Jonathan Bolingi (315337)",
+        "tanggal_lahir": "1994-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Merveille Bokadi (368612)",
+        "nama_panggilan": "Merveille Bokadi (368612)",
+        "tanggal_lahir": "1996-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Paul Kielo Lezi (37424)",
+        "nama_panggilan": "Jean-Paul Kielo Lezi (37424)",
+        "tanggal_lahir": "1984-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Meschack Elia (423678)",
+        "nama_panggilan": "Meschack Elia (423678)",
+        "tanggal_lahir": "1997-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ngonda Muzinga (426790)",
+        "nama_panggilan": "Ngonda Muzinga (426790)",
+        "tanggal_lahir": "1994-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brazzaville",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dieumerci Mbokani (44624)",
+        "nama_panggilan": "Dieumerci Mbokani (44624)",
+        "tanggal_lahir": "1985-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edo Kayembe (486477)",
+        "nama_panggilan": "Edo Kayembe (486477)",
+        "tanggal_lahir": "1998-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kananga",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Malango (488875)",
+        "nama_panggilan": "Ben Malango (488875)",
+        "tanggal_lahir": "1993-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andre Kona (51878)",
+        "nama_panggilan": "Andre Kona (51878)",
+        "tanggal_lahir": "1970-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lubumbashi",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Somé (54768)",
+        "nama_panggilan": "Ibrahim Somé (54768)",
+        "tanggal_lahir": "1988-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thierry Makengo Miangu (550291)",
+        "nama_panggilan": "Thierry Makengo Miangu (550291)",
+        "tanggal_lahir": "1988-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Silas (612826)",
+        "nama_panggilan": "Silas (612826)",
+        "tanggal_lahir": "1998-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michee Ngalina (580812)",
+        "nama_panggilan": "Michee Ngalina (580812)",
+        "tanggal_lahir": "2000-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Paku-Tshela (67933)",
+        "nama_panggilan": "David Paku-Tshela (67933)",
+        "tanggal_lahir": "1985-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beni Mangana (700630)",
+        "nama_panggilan": "Beni Mangana (700630)",
+        "tanggal_lahir": "2001-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Cipenga (700565)",
+        "nama_panggilan": "Brian Cipenga (700565)",
+        "tanggal_lahir": "1998-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Tshibangu (707165)",
+        "nama_panggilan": "Isaac Tshibangu (707165)",
+        "tanggal_lahir": "2003-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustafa Ava Dongo (708876)",
+        "nama_panggilan": "Moustafa Ava Dongo (708876)",
+        "tanggal_lahir": "1996-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ridge Mobulu (64663)",
+        "nama_panggilan": "Ridge Mobulu (64663)",
+        "tanggal_lahir": "1991-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aigle",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dan Mukoko (796591)",
+        "nama_panggilan": "Dan Mukoko (796591)",
+        "tanggal_lahir": "1997-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francis Eusebio Mbaki (802764)",
+        "nama_panggilan": "Francis Eusebio Mbaki (802764)",
+        "tanggal_lahir": "1999-11-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beverly Makangila (735723)",
+        "nama_panggilan": "Beverly Makangila (735723)",
+        "tanggal_lahir": "2000-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grace Katshimuka (952024)",
+        "nama_panggilan": "Grace Katshimuka (952024)",
+        "tanggal_lahir": "1994-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lionel Tekadiobanza (952023)",
+        "nama_panggilan": "Lionel Tekadiobanza (952023)",
+        "tanggal_lahir": "1995-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yesua Motango (924687)",
+        "nama_panggilan": "Yesua Motango (924687)",
+        "tanggal_lahir": "2005-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Mazolo (87746)",
+        "nama_panggilan": "Axel Mazolo (87746)",
+        "tanggal_lahir": "1986-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franck Nkela (84685)",
+        "nama_panggilan": "Franck Nkela (84685)",
+        "tanggal_lahir": "1984-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Makabi Lilepo (853132)",
+        "nama_panggilan": "Makabi Lilepo (853132)",
+        "tanggal_lahir": "1997-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Nsundi (853692)",
+        "nama_panggilan": "Christian Nsundi (853692)",
+        "tanggal_lahir": "2001-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vital Bahati (861411)",
+        "nama_panggilan": "Vital Bahati (861411)",
+        "tanggal_lahir": "2002-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukavu",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Owe Bonyanga (866163)",
+        "nama_panggilan": "Owe Bonyanga (866163)",
+        "tanggal_lahir": "1999-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arnold Vula (981444)",
+        "nama_panggilan": "Arnold Vula (981444)",
+        "tanggal_lahir": "1999-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kinshasa",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

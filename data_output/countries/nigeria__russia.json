@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Odemwingie (12516)",
+        "nama_panggilan": "Peter Odemwingie (12516)",
+        "tanggal_lahir": "1981-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Russia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Idowu (178957)",
+        "nama_panggilan": "Bryan Idowu (178957)",
+        "tanggal_lahir": "1992-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Petersburg",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Russia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

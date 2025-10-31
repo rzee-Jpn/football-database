@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Moldova",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Paraschiv (605543)",
+        "nama_panggilan": "Daniel Paraschiv (605543)",
+        "tanggal_lahir": "1999-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brașov",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Moldova"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladislav Blănuță (706166)",
+        "nama_panggilan": "Vladislav Blănuță (706166)",
+        "tanggal_lahir": "2002-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hîncești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Moldova"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

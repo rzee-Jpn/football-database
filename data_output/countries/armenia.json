@@ -1,0 +1,381 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia",
+  "total_pemain": 11,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sargis Adamyan (125614)",
+        "nama_panggilan": "Sargis Adamyan (125614)",
+        "tanggal_lahir": "1993-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yerevan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gevorg Badalyan (139754)",
+        "nama_panggilan": "Gevorg Badalyan (139754)",
+        "tanggal_lahir": "1991-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erewan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ara Hovhannisyan (252578)",
+        "nama_panggilan": "Ara Hovhannisyan (252578)",
+        "tanggal_lahir": "1986-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erewan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vahan Bichakhchyan (399348)",
+        "nama_panggilan": "Vahan Bichakhchyan (399348)",
+        "tanggal_lahir": "1999-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gyumri",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Harutyun Vardanyan (4845)",
+        "nama_panggilan": "Harutyun Vardanyan (4845)",
+        "tanggal_lahir": "1970-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gyumri",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artur Petrosyan (4852)",
+        "nama_panggilan": "Artur Petrosyan (4852)",
+        "tanggal_lahir": "1971-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gyumri",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Narek Grigoryan (545546)",
+        "nama_panggilan": "Narek Grigoryan (545546)",
+        "tanggal_lahir": "2001-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yerevan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gevorg Ghazaryan (55734)",
+        "nama_panggilan": "Gevorg Ghazaryan (55734)",
+        "tanggal_lahir": "1988-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erewan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Henrikh Mkhitaryan (55735)",
+        "nama_panggilan": "Henrikh Mkhitaryan (55735)",
+        "tanggal_lahir": "1989-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yerevan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Narek Beglaryan (59203)",
+        "nama_panggilan": "Narek Beglaryan (59203)",
+        "tanggal_lahir": "1985-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Noyemberyan",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antony Kazaryan (670538)",
+        "nama_panggilan": "Antony Kazaryan (670538)",
+        "tanggal_lahir": "2000-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Armenia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

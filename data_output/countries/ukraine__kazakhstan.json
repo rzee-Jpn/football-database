@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Kazakhstan",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladyslav Nekhtiy (259869)",
+        "nama_panggilan": "Vladyslav Nekhtiy (259869)",
+        "tanggal_lahir": "1991-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almaty",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Kazakhstan"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Chuchman (57864)",
+        "nama_panggilan": "Igor Chuchman (57864)",
+        "tanggal_lahir": "1985-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lviv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Kazakhstan"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduard Stolboviy (837539)",
+        "nama_panggilan": "Eduard Stolboviy (837539)",
+        "tanggal_lahir": "1972-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malynivka, Kharkiv Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Kazakhstan"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oleksandr Mitrofanov (84495)",
+        "nama_panggilan": "Oleksandr Mitrofanov (84495)",
+        "tanggal_lahir": "1977-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dzhankoy, AR Krym",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Kazakhstan"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

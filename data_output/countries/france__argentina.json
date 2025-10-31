@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Argentina",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neal Maupay (217115)",
+        "nama_panggilan": "Neal Maupay (217115)",
+        "tanggal_lahir": "1996-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Versailles",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Vargas-Ríos (281926)",
+        "nama_panggilan": "Hugo Vargas-Ríos (281926)",
+        "tanggal_lahir": "1994-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chambray-lès-Tours",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Gigliotti (28511)",
+        "nama_panggilan": "David Gigliotti (28511)",
+        "tanggal_lahir": "1985-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Trezeguet (4146)",
+        "nama_panggilan": "David Trezeguet (4146)",
+        "tanggal_lahir": "1977-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rouen",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Esteban Laugaa (459702)",
+        "nama_panggilan": "Esteban Laugaa (459702)",
+        "tanggal_lahir": "2000-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Parigi",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Manzinali (468709)",
+        "nama_panggilan": "Thomas Manzinali (468709)",
+        "tanggal_lahir": "1990-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cordoba",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillaume Gigliotti (60541)",
+        "nama_panggilan": "Guillaume Gigliotti (60541)",
+        "tanggal_lahir": "1989-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istres",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéphane Véron (7873)",
+        "nama_panggilan": "Stéphane Véron (7873)",
+        "tanggal_lahir": "1986-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sens",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antony Lopez Peralta (76368)",
+        "nama_panggilan": "Antony Lopez Peralta (76368)",
+        "tanggal_lahir": "1981-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Royan",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Abt (812491)",
+        "nama_panggilan": "Victor Abt (812491)",
+        "tanggal_lahir": "1993-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

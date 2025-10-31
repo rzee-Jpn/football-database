@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Türkiye",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustave Bebbe (37085)",
+        "nama_panggilan": "Gustave Bebbe (37085)",
+        "tanggal_lahir": "1982-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaounde",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Türkiye"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

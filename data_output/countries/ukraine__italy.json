@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tanasiy Kosovan (242506)",
+        "nama_panggilan": "Tanasiy Kosovan (242506)",
+        "tanggal_lahir": "1995-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banyliv, Chernivtsi Oblast",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Yakubiv (621232)",
+        "nama_panggilan": "Sergio Yakubiv (621232)",
+        "tanggal_lahir": "2002-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aprilia",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladyslav Nagrudnyi (935822)",
+        "nama_panggilan": "Vladyslav Nagrudnyi (935822)",
+        "tanggal_lahir": "2005-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borghetto Lodigiano",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

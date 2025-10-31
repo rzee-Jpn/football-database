@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kelly Gray (39844)",
+        "nama_panggilan": "Kelly Gray (39844)",
+        "tanggal_lahir": "1981-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palo Alto, Kalifornien",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Russia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrew Thomas (635673)",
+        "nama_panggilan": "Andrew Thomas (635673)",
+        "tanggal_lahir": "1998-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Russia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

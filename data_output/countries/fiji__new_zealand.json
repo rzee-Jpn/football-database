@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Fiji  New Zealand",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roy Krishna (64495)",
+        "nama_panggilan": "Roy Krishna (64495)",
+        "tanggal_lahir": "1987-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siberia, Macuata",
+          "negara": "Fiji"
+        },
+        "kewarganegaraan": [
+          "Fiji  New Zealand"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

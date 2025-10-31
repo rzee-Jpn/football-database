@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Zambia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charly Musonda Jr. (177862)",
+        "nama_panggilan": "Charly Musonda Jr. (177862)",
+        "tanggal_lahir": "1996-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Zambia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Timor-Leste  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudio Osorio (503985)",
+        "nama_panggilan": "Claudio Osorio (503985)",
+        "tanggal_lahir": "2002-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fatuhada",
+          "negara": "Timor-Leste"
+        },
+        "kewarganegaraan": [
+          "Timor-Leste  England"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

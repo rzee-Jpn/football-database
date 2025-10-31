@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  Uruguay",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Brosque (18626)",
+        "nama_panggilan": "Alex Brosque (18626)",
+        "tanggal_lahir": "1983-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Uruguay"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Cáceres (226739)",
+        "nama_panggilan": "Anthony Cáceres (226739)",
+        "tanggal_lahir": "1992-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Uruguay"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard García (3695)",
+        "nama_panggilan": "Richard García (3695)",
+        "tanggal_lahir": "1981-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Perth",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  Uruguay"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

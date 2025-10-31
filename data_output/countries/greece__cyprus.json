@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Cyprus",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irineos Papadimitriou (1188652)",
+        "nama_panggilan": "Irineos Papadimitriou (1188652)",
+        "tanggal_lahir": "2007-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marousi",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Cyprus"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilias Kostis (614988)",
+        "nama_panggilan": "Ilias Kostis (614988)",
+        "tanggal_lahir": "2003-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thessaloniki",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Cyprus"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stavros Tsoukalas (58494)",
+        "nama_panggilan": "Stavros Tsoukalas (58494)",
+        "tanggal_lahir": "1988-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thessaloniki",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Cyprus"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

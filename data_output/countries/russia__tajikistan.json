@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Tajikistan",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandr Mukhin (1046123)",
+        "nama_panggilan": "Aleksandr Mukhin (1046123)",
+        "tanggal_lahir": "2005-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rostov-na-Donu",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Tajikistan"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shodibek Sharipov (1059167)",
+        "nama_panggilan": "Shodibek Sharipov (1059167)",
+        "tanggal_lahir": "2005-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Russia  Tajikistan"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mukhammad Sultonov (144559)",
+        "nama_panggilan": "Mukhammad Sultonov (144559)",
+        "tanggal_lahir": "1992-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yavan, Qurghonteppa Region",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Tajikistan"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ansor Khabibov (685219)",
+        "nama_panggilan": "Ansor Khabibov (685219)",
+        "tanggal_lahir": "2003-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarikishti, Dushanbe Region",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Tajikistan"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

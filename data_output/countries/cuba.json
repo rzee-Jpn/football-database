@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cuba",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Álvaro Ruiz Rente (1037099)",
+        "nama_panggilan": "Álvaro Ruiz Rente (1037099)",
+        "tanggal_lahir": "2006-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karel Pérez (1183411)",
+        "nama_panggilan": "Karel Pérez (1183411)",
+        "tanggal_lahir": "2005-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cuba",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yendry Díaz (158298)",
+        "nama_panggilan": "Yendry Díaz (158298)",
+        "tanggal_lahir": "1987-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Matanzas",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jorge Corrales (210374)",
+        "nama_panggilan": "Jorge Corrales (210374)",
+        "tanggal_lahir": "1991-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pinar del Río",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maikel Chang (259271)",
+        "nama_panggilan": "Maikel Chang (259271)",
+        "tanggal_lahir": "1991-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Luis (247888)",
+        "nama_panggilan": "Daniel Luis (247888)",
+        "tanggal_lahir": "1994-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darío Suárez (378200)",
+        "nama_panggilan": "Darío Suárez (378200)",
+        "tanggal_lahir": "1992-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frank López (354564)",
+        "nama_panggilan": "Frank López (354564)",
+        "tanggal_lahir": "1995-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cienfuegos",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Randy Morgado Martinez (549187)",
+        "nama_panggilan": "Randy Morgado Martinez (549187)",
+        "tanggal_lahir": "1989-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raiko Arozarena (599401)",
+        "nama_panggilan": "Raiko Arozarena (599401)",
+        "tanggal_lahir": "1997-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pinar del Río",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ariel Martínez (62818)",
+        "nama_panggilan": "Ariel Martínez (62818)",
+        "tanggal_lahir": "1986-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sancti Spíritus",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geobel Pérez (628727)",
+        "nama_panggilan": "Geobel Pérez (628727)",
+        "tanggal_lahir": "1999-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frank Nodarse (629342)",
+        "nama_panggilan": "Frank Nodarse (629342)",
+        "tanggal_lahir": "2000-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Modesto Méndez (744587)",
+        "nama_panggilan": "Modesto Méndez (744587)",
+        "tanggal_lahir": "1998-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pinar del Rio",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Heviel Cordovés (84017)",
+        "nama_panggilan": "Heviel Cordovés (84017)",
+        "tanggal_lahir": "1989-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arroyo Naranjo, La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

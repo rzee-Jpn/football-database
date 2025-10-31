@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Monaco",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edoardo Cavaliere (1208731)",
+        "nama_panggilan": "Edoardo Cavaliere (1208731)",
+        "tanggal_lahir": "2006-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monaco",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Monaco"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francesco Renzetti (84845)",
+        "nama_panggilan": "Francesco Renzetti (84845)",
+        "tanggal_lahir": "1988-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monte Carlo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Monaco"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

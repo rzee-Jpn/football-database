@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Montenegro",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Predrag Filipovic (26007)",
+        "nama_panggilan": "Predrag Filipovic (26007)",
+        "tanggal_lahir": "1975-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Podgorica",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Montenegro"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petar Bojovic (59627)",
+        "nama_panggilan": "Petar Bojovic (59627)",
+        "tanggal_lahir": "1984-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berane",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Montenegro"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

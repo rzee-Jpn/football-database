@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bosnia-Herzegovina  North Macedonia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haris Hajradinovic (215592)",
+        "nama_panggilan": "Haris Hajradinovic (215592)",
+        "tanggal_lahir": "1994-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prilep",
+          "negara": "Bosnia-Herzegovina"
+        },
+        "kewarganegaraan": [
+          "Bosnia-Herzegovina  North Macedonia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

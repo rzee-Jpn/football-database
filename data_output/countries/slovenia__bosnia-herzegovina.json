@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Bosnia-Herzegovina",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damir Zukić (1115031)",
+        "nama_panggilan": "Damir Zukić (1115031)",
+        "tanggal_lahir": "2004-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Velic (372380)",
+        "nama_panggilan": "Emil Velic (372380)",
+        "tanggal_lahir": "1995-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ljubljana",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

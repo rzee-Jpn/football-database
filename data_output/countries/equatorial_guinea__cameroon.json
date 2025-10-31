@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Equatorial Guinea  Cameroon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Bikoro (398557)",
+        "nama_panggilan": "Federico Bikoro (398557)",
+        "tanggal_lahir": "1996-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douala",
+          "negara": "Equatorial Guinea"
+        },
+        "kewarganegaraan": [
+          "Equatorial Guinea  Cameroon"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thierry Fidjeu-Tazemeta (41491)",
+        "nama_panggilan": "Thierry Fidjeu-Tazemeta (41491)",
+        "tanggal_lahir": "1982-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Douala",
+          "negara": "Equatorial Guinea"
+        },
+        "kewarganegaraan": [
+          "Equatorial Guinea  Cameroon"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

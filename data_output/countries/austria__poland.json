@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Poland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Sobczyk (287191)",
+        "nama_panggilan": "Alex Sobczyk (287191)",
+        "tanggal_lahir": "1997-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobby Olejnik (6170)",
+        "nama_panggilan": "Bobby Olejnik (6170)",
+        "tanggal_lahir": "1986-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Pekala (8197)",
+        "nama_panggilan": "Tomasz Pekala (8197)",
+        "tanggal_lahir": "1984-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wroclaw",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

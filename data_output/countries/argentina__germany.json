@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Germany",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexis Steimbach (1046802)",
+        "nama_panggilan": "Alexis Steimbach (1046802)",
+        "tanggal_lahir": "2002-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coronel Suárez",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Manuel Lungarzo (284722)",
+        "nama_panggilan": "Juan Manuel Lungarzo (284722)",
+        "tanggal_lahir": "1992-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chivilcoy",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alan Schönfeld (417438)",
+        "nama_panggilan": "Alan Schönfeld (417438)",
+        "tanggal_lahir": "1993-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Don Torcuato",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrián Spörle (440371)",
+        "nama_panggilan": "Adrián Spörle (440371)",
+        "tanggal_lahir": "1995-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Centenario",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Schlegel (504258)",
+        "nama_panggilan": "Rodrigo Schlegel (504258)",
+        "tanggal_lahir": "1997-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Remedios de Escalada",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateo Klimowicz (540302)",
+        "nama_panggilan": "Mateo Klimowicz (540302)",
+        "tanggal_lahir": "2000-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Facundo Parra (54794)",
+        "nama_panggilan": "Facundo Parra (54794)",
+        "tanggal_lahir": "1985-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Misael Tarón (873176)",
+        "nama_panggilan": "Misael Tarón (873176)",
+        "tanggal_lahir": "2000-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villa Ángela",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joaquin Suhs (864433)",
+        "nama_panggilan": "Joaquin Suhs (864433)",
+        "tanggal_lahir": "1995-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mar del Plata",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

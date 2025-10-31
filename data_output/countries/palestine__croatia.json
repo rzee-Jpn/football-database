@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Palestine  Croatia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muhamed Al-Ghoul (342573)",
+        "nama_panggilan": "Muhamed Al-Ghoul (342573)",
+        "tanggal_lahir": "1996-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zagreb",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  Croatia"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

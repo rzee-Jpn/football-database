@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Equatorial Guinea",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Eneme (615618)",
+        "nama_panggilan": "Santiago Eneme (615618)",
+        "tanggal_lahir": "2000-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malabo",
+          "negara": "Equatorial Guinea"
+        },
+        "kewarganegaraan": [
+          "Equatorial Guinea"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gael Joel Akogo (707407)",
+        "nama_panggilan": "Gael Joel Akogo (707407)",
+        "tanggal_lahir": "2003-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ebibeyin",
+          "negara": "Equatorial Guinea"
+        },
+        "kewarganegaraan": [
+          "Equatorial Guinea"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

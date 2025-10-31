@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Brazil",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafhinha (145872)",
+        "nama_panggilan": "Rafhinha (145872)",
+        "tanggal_lahir": "1992-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mal Candidorondon",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Mendes (17082)",
+        "nama_panggilan": "Christian Mendes (17082)",
+        "tanggal_lahir": "1972-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thiago De Lima Silva (17895)",
+        "nama_panggilan": "Thiago De Lima Silva (17895)",
+        "tanggal_lahir": "1983-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronivaldo (256167)",
+        "nama_panggilan": "Ronivaldo (256167)",
+        "tanggal_lahir": "1989-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orós",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reinaldo Ribeiro (31125)",
+        "nama_panggilan": "Reinaldo Ribeiro (31125)",
+        "tanggal_lahir": "1981-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Muriaé",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sidinei de Oliveira (40193)",
+        "nama_panggilan": "Sidinei de Oliveira (40193)",
+        "tanggal_lahir": "1984-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jailson (45835)",
+        "nama_panggilan": "Jailson (45835)",
+        "tanggal_lahir": "1984-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duque de Caxias",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Brazil"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

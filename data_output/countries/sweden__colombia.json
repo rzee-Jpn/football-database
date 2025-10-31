@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Colombia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Qwiberg (225217)",
+        "nama_panggilan": "Joel Qwiberg (225217)",
+        "tanggal_lahir": "1992-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogotá",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Colombia"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Helm (964105)",
+        "nama_panggilan": "Adrian Helm (964105)",
+        "tanggal_lahir": "2005-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  Colombia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Switzerland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saidy Janko (196435)",
+        "nama_panggilan": "Saidy Janko (196435)",
+        "tanggal_lahir": "1995-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

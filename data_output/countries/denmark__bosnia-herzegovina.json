@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Bosnia-Herzegovina",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muamer Brajanac (462819)",
+        "nama_panggilan": "Muamer Brajanac (462819)",
+        "tanggal_lahir": "2001-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kolding",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dalibor Gotovac (44580)",
+        "nama_panggilan": "Dalibor Gotovac (44580)",
+        "tanggal_lahir": "1979-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sanel Kapidzic (76111)",
+        "nama_panggilan": "Sanel Kapidzic (76111)",
+        "tanggal_lahir": "1990-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

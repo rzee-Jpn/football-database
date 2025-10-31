@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andriy Voronin (1075)",
+        "nama_panggilan": "Andriy Voronin (1075)",
+        "tanggal_lahir": "1979-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odessa",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anton Makarenko (37309)",
+        "nama_panggilan": "Anton Makarenko (37309)",
+        "tanggal_lahir": "1988-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kharkiv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Germany"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denys Prychynenko (93862)",
+        "nama_panggilan": "Denys Prychynenko (93862)",
+        "tanggal_lahir": "1992-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Potsdam",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

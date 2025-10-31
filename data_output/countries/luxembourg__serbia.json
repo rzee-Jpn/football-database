@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Luxembourg  Serbia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danel Sinani (346499)",
+        "nama_panggilan": "Danel Sinani (346499)",
+        "tanggal_lahir": "1997-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vahid Selimovic (351072)",
+        "nama_panggilan": "Vahid Selimovic (351072)",
+        "tanggal_lahir": "1997-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luxembourg",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Serbia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seid Korac (490573)",
+        "nama_panggilan": "Seid Korac (490573)",
+        "tanggal_lahir": "2001-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Niederkorn",
+          "negara": "Luxembourg"
+        },
+        "kewarganegaraan": [
+          "Luxembourg  Serbia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

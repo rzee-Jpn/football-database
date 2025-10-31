@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Azerbaijan  Brazil",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ernani Pereira (25451)",
+        "nama_panggilan": "Ernani Pereira (25451)",
+        "tanggal_lahir": "1978-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belo Horizonte",
+          "negara": "Azerbaijan"
+        },
+        "kewarganegaraan": [
+          "Azerbaijan  Brazil"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leandro Gomes (44313)",
+        "nama_panggilan": "Leandro Gomes (44313)",
+        "tanggal_lahir": "1976-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Azerbaijan"
+        },
+        "kewarganegaraan": [
+          "Azerbaijan  Brazil"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

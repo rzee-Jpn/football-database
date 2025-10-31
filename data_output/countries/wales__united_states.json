@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Henley (173585)",
+        "nama_panggilan": "Adam Henley (173585)",
+        "tanggal_lahir": "1994-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Knoxville, Tennessee",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boaz Myhill (3838)",
+        "nama_panggilan": "Boaz Myhill (3838)",
+        "tanggal_lahir": "1982-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Modesto, Kalifornien",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

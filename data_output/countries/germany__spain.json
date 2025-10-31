@@ -1,0 +1,993 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Spain",
+  "total_pemain": 29,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Aguirre-Vazquez (10968)",
+        "nama_panggilan": "Armando Aguirre-Vazquez (10968)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Soden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Palacios (146096)",
+        "nama_panggilan": "Federico Palacios (146096)",
+        "tanggal_lahir": "1995-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hannover",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenny-Prince Redondo (196147)",
+        "nama_panggilan": "Kenny-Prince Redondo (196147)",
+        "tanggal_lahir": "1994-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Cueto (232376)",
+        "nama_panggilan": "Lucas Cueto (232376)",
+        "tanggal_lahir": "1996-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Kolbe (200042)",
+        "nama_panggilan": "Sebastian Kolbe (200042)",
+        "tanggal_lahir": "1996-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Waiblingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Pino Tellez (216427)",
+        "nama_panggilan": "Kevin Pino Tellez (216427)",
+        "tanggal_lahir": "1995-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hemer",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafael García (241973)",
+        "nama_panggilan": "Rafael García (241973)",
+        "tanggal_lahir": "1993-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aachen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Eckert Ayensa (249303)",
+        "nama_panggilan": "Dennis Eckert Ayensa (249303)",
+        "tanggal_lahir": "1997-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Enrique Ríos Alonso (343374)",
+        "nama_panggilan": "José Enrique Ríos Alonso (343374)",
+        "tanggal_lahir": "2000-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stuttgart",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benedikt Fernandez (32153)",
+        "nama_panggilan": "Benedikt Fernandez (32153)",
+        "tanggal_lahir": "1985-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Jabiri (32542)",
+        "nama_panggilan": "Adam Jabiri (32542)",
+        "tanggal_lahir": "1984-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kitzingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrique Katsianas Sanchez (472245)",
+        "nama_panggilan": "Enrique Katsianas Sanchez (472245)",
+        "tanggal_lahir": "2002-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bietigheim-Bissingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcos Álvarez (47944)",
+        "nama_panggilan": "Marcos Álvarez (47944)",
+        "tanggal_lahir": "1991-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gelnhausen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nahuel Noll (600942)",
+        "nama_panggilan": "Nahuel Noll (600942)",
+        "tanggal_lahir": "2003-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Schröder (610798)",
+        "nama_panggilan": "Jan Schröder (610798)",
+        "tanggal_lahir": "2003-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herrenberg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Jung (58995)",
+        "nama_panggilan": "Anthony Jung (58995)",
+        "tanggal_lahir": "1991-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villajoyosa",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davino Knappe (595126)",
+        "nama_panggilan": "Davino Knappe (595126)",
+        "tanggal_lahir": "2003-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Offenburg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Gómez (6288)",
+        "nama_panggilan": "Mario Gómez (6288)",
+        "tanggal_lahir": "1985-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Riedlingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Richter (634638)",
+        "nama_panggilan": "Marc Richter (634638)",
+        "tanggal_lahir": "1999-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Copado (636898)",
+        "nama_panggilan": "Lucas Copado (636898)",
+        "tanggal_lahir": "2004-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Macias Alvarez (6545)",
+        "nama_panggilan": "José Macias Alvarez (6545)",
+        "tanggal_lahir": "1975-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Vega Zambrano (810304)",
+        "nama_panggilan": "Joel Vega Zambrano (810304)",
+        "tanggal_lahir": "2004-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielefeld",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francisco Copado (728)",
+        "nama_panggilan": "Francisco Copado (728)",
+        "tanggal_lahir": "1974-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiel",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Oliveira (729165)",
+        "nama_panggilan": "Nicolas Oliveira (729165)",
+        "tanggal_lahir": "2004-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oviedo",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ruben Müller (907085)",
+        "nama_panggilan": "Ruben Müller (907085)",
+        "tanggal_lahir": "2005-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rottweil",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Farrona Pulido (91842)",
+        "nama_panggilan": "Manuel Farrona Pulido (91842)",
+        "tanggal_lahir": "1993-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaltenkirchen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Elekwa (920041)",
+        "nama_panggilan": "Emmanuel Elekwa (920041)",
+        "tanggal_lahir": "2005-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Atemkeng (924673)",
+        "nama_panggilan": "Junior Atemkeng (924673)",
+        "tanggal_lahir": "2006-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Ortega (85941)",
+        "nama_panggilan": "Stefan Ortega (85941)",
+        "tanggal_lahir": "1992-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hofgeismar",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

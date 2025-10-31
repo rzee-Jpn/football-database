@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Nigeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "German Onugkha (568318)",
+        "nama_panggilan": "German Onugkha (568318)",
+        "tanggal_lahir": "1996-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adessoye Oyewole (59180)",
+        "nama_panggilan": "Adessoye Oyewole (59180)",
+        "tanggal_lahir": "1982-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Nigeria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

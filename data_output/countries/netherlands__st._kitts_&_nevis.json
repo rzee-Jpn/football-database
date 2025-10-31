@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  St. Kitts & Nevis",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremiah St. Juste (288253)",
+        "nama_panggilan": "Jeremiah St. Juste (288253)",
+        "tanggal_lahir": "1996-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  St. Kitts & Nevis"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaden Moore (653728)",
+        "nama_panggilan": "Jaden Moore (653728)",
+        "tanggal_lahir": "2003-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  St. Kitts & Nevis"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Norway  Kosovo",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aridon Racaj (943128)",
+        "nama_panggilan": "Aridon Racaj (943128)",
+        "tanggal_lahir": "2005-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarpsborg",
+          "negara": "Norway"
+        },
+        "kewarganegaraan": [
+          "Norway  Kosovo"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

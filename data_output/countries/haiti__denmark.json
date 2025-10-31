@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Haiti  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeppe Simonsen (331975)",
+        "nama_panggilan": "Jeppe Simonsen (331975)",
+        "tanggal_lahir": "1995-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kolding",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  Denmark"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

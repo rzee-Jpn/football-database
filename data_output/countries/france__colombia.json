@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Colombia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francisco Donzelot (111744)",
+        "nama_panggilan": "Francisco Donzelot (111744)",
+        "tanggal_lahir": "1986-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogotá",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Colombia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillaume Dauphin (881373)",
+        "nama_panggilan": "Guillaume Dauphin (881373)",
+        "tanggal_lahir": "1996-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paz de Ariporo",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Colombia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Germany",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Conor Noß (520857)",
+        "nama_panggilan": "Conor Noß (520857)",
+        "tanggal_lahir": "2001-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Sweden",
+  "total_pemain": 18,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Labinot Kelmendi (112582)",
+        "nama_panggilan": "Labinot Kelmendi (112582)",
+        "tanggal_lahir": "1983-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ardian Murati (1373540)",
+        "nama_panggilan": "Ardian Murati (1373540)",
+        "tanggal_lahir": "2007-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loret Sadiku (116611)",
+        "nama_panggilan": "Loret Sadiku (116611)",
+        "tanggal_lahir": "1991-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pristina",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dardan Rexhepi (150868)",
+        "nama_panggilan": "Dardan Rexhepi (150868)",
+        "tanggal_lahir": "1992-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtina",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arbër Zeneli (222876)",
+        "nama_panggilan": "Arbër Zeneli (222876)",
+        "tanggal_lahir": "1995-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Falun",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Dresevic (321135)",
+        "nama_panggilan": "Ibrahim Dresevic (321135)",
+        "tanggal_lahir": "1997-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fuxerna",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Xhevdet Llumnica (30403)",
+        "nama_panggilan": "Xhevdet Llumnica (30403)",
+        "tanggal_lahir": "1979-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtina",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonard Pllana (383883)",
+        "nama_panggilan": "Leonard Pllana (383883)",
+        "tanggal_lahir": "1996-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mitrovica",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shpetim Hasani (36208)",
+        "nama_panggilan": "Shpetim Hasani (36208)",
+        "tanggal_lahir": "1982-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gjilan",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jetmir Haliti (410840)",
+        "nama_panggilan": "Jetmir Haliti (410840)",
+        "tanggal_lahir": "1996-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Växjö",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Astrit Selmani (423879)",
+        "nama_panggilan": "Astrit Selmani (423879)",
+        "tanggal_lahir": "1997-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malmö",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edi Sylisufaj (442823)",
+        "nama_panggilan": "Edi Sylisufaj (442823)",
+        "tanggal_lahir": "2000-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erion Sadiku (570253)",
+        "nama_panggilan": "Erion Sadiku (570253)",
+        "tanggal_lahir": "2002-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patriot Sejdiu (593411)",
+        "nama_panggilan": "Patriot Sejdiu (593411)",
+        "tanggal_lahir": "2000-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Priština",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anel Rashkaj (59569)",
+        "nama_panggilan": "Anel Rashkaj (59569)",
+        "tanggal_lahir": "1989-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prizren",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismet Lushaku (671101)",
+        "nama_panggilan": "Ismet Lushaku (671101)",
+        "tanggal_lahir": "2000-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eskilstuna",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Donart Lubishtani (808082)",
+        "nama_panggilan": "Donart Lubishtani (808082)",
+        "tanggal_lahir": "2004-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Malmö",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dion Krasniqi (734054)",
+        "nama_panggilan": "Dion Krasniqi (734054)",
+        "tanggal_lahir": "2003-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eslöv",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Sweden"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

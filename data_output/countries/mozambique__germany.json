@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mozambique  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeffrey Obst (124717)",
+        "nama_panggilan": "Jeffrey Obst (124717)",
+        "tanggal_lahir": "1993-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronny Marcos (159037)",
+        "nama_panggilan": "Ronny Marcos (159037)",
+        "tanggal_lahir": "1993-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oldenburg in Holstein",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique  Germany"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alfons Amade (296340)",
+        "nama_panggilan": "Alfons Amade (296340)",
+        "tanggal_lahir": "1999-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heidelberg",
+          "negara": "Mozambique"
+        },
+        "kewarganegaraan": [
+          "Mozambique  Germany"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

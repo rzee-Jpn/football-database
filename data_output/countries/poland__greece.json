@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miroslaw Sznaucner (17220)",
+        "nama_panggilan": "Miroslaw Sznaucner (17220)",
+        "tanggal_lahir": "1979-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bedzin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Greece"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Zoladz (199306)",
+        "nama_panggilan": "Bruno Zoladz (199306)",
+        "tanggal_lahir": "1991-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Korinth",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Greece"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

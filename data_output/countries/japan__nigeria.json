@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  Nigeria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Kokubo (501737)",
+        "nama_panggilan": "Leo Kokubo (501737)",
+        "tanggal_lahir": "2001-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "---, Chiba",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Chima Fujita (697277)",
+        "nama_panggilan": "Joel Chima Fujita (697277)",
+        "tanggal_lahir": "2002-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Machida, Tokyo",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Nigeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

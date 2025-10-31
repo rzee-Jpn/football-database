@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guatemala  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathaniel Méndez-Laing (125409)",
+        "nama_panggilan": "Nathaniel Méndez-Laing (125409)",
+        "tanggal_lahir": "1992-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "Guatemala"
+        },
+        "kewarganegaraan": [
+          "Guatemala  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

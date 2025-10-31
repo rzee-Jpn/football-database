@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  Ukraine",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boris Kleyman (177475)",
+        "nama_panggilan": "Boris Kleyman (177475)",
+        "tanggal_lahir": "1990-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vinnytsia",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ukraine"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maksim Grechkin (347270)",
+        "nama_panggilan": "Maksim Grechkin (347270)",
+        "tanggal_lahir": "1996-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kyiv",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ukraine"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

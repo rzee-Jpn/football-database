@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Vietnam",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cong Phuong Nguyen (380459)",
+        "nama_panggilan": "Cong Phuong Nguyen (380459)",
+        "tanggal_lahir": "1995-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Do Luong, Nghe An",
+          "negara": "Vietnam"
+        },
+        "kewarganegaraan": [
+          "Vietnam"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quang Hai Nguyen (419387)",
+        "nama_panggilan": "Quang Hai Nguyen (419387)",
+        "tanggal_lahir": "1997-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hanoi",
+          "negara": "Vietnam"
+        },
+        "kewarganegaraan": [
+          "Vietnam"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

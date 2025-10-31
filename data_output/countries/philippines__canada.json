@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Baldisimo (493611)",
+        "nama_panggilan": "Michael Baldisimo (493611)",
+        "tanggal_lahir": "2000-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vancouver, British Columbia",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Canada"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

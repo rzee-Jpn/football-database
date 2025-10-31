@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karse (1042715)",
+        "nama_panggilan": "Karse (1042715)",
+        "tanggal_lahir": "2005-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vila do Conde",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Portugal"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Avto (209012)",
+        "nama_panggilan": "Avto (209012)",
+        "tanggal_lahir": "1991-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiflis",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Portugal"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

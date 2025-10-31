@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  Ireland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayman Ben Mohamed (249446)",
+        "nama_panggilan": "Ayman Ben Mohamed (249446)",
+        "tanggal_lahir": "1994-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Ireland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

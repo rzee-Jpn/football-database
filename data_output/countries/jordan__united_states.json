@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Jordan  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammad Abualnadi (658052)",
+        "nama_panggilan": "Mohammad Abualnadi (658052)",
+        "tanggal_lahir": "2001-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Overland Park, Kansas",
+          "negara": "Jordan"
+        },
+        "kewarganegaraan": [
+          "Jordan  United States"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

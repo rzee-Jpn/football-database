@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Scotland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Maxwell (104686)",
+        "nama_panggilan": "Chris Maxwell (104686)",
+        "tanggal_lahir": "1990-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Asaph",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Scotland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terry Taylor (463758)",
+        "nama_panggilan": "Terry Taylor (463758)",
+        "tanggal_lahir": "2001-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aberdeen",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Scotland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Venezuela  Portugal",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Balbo (1012731)",
+        "nama_panggilan": "Luis Balbo (1012731)",
+        "tanggal_lahir": "2006-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto Ordaz",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chicabala (115712)",
+        "nama_panggilan": "Chicabala (115712)",
+        "tanggal_lahir": "1980-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad Bolívar",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Portugal"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Víctor García (195762)",
+        "nama_panggilan": "Víctor García (195762)",
+        "tanggal_lahir": "1994-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cúa",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Portugal"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando de Ornelas (5195)",
+        "nama_panggilan": "Fernando de Ornelas (5195)",
+        "tanggal_lahir": "1976-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caracas",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manu Morais (641408)",
+        "nama_panggilan": "Manu Morais (641408)",
+        "tanggal_lahir": "1998-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caracas",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Portugal"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

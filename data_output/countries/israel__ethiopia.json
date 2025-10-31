@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  Ethiopia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eli Dasa (163847)",
+        "nama_panggilan": "Eli Dasa (163847)",
+        "tanggal_lahir": "1992-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Netanya",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ethiopia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gadi Kinda (200560)",
+        "nama_panggilan": "Gadi Kinda (200560)",
+        "tanggal_lahir": "1994-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Addis Ababa",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ethiopia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yonas Malede (211845)",
+        "nama_panggilan": "Yonas Malede (211845)",
+        "tanggal_lahir": "1999-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiryat Bialik",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ethiopia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Or Inbrum (342700)",
+        "nama_panggilan": "Or Inbrum (342700)",
+        "tanggal_lahir": "1996-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiryat Gat",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Ethiopia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

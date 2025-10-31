@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  Ghana",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Hackman (375039)",
+        "nama_panggilan": "Emmanuel Hackman (375039)",
+        "tanggal_lahir": "1995-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Ghana"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Philip Awuku (860256)",
+        "nama_panggilan": "Philip Awuku (860256)",
+        "tanggal_lahir": "2000-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Ghana"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

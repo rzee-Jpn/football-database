@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Bosnia-Herzegovina",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dino Arslanagic (110660)",
+        "nama_panggilan": "Dino Arslanagic (110660)",
+        "tanggal_lahir": "1993-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nivelles",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gordan Vidovic (13378)",
+        "nama_panggilan": "Gordan Vidovic (13378)",
+        "tanggal_lahir": "1968-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Sweeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amar Milisic (981699)",
+        "nama_panggilan": "Amar Milisic (981699)",
+        "tanggal_lahir": "2007-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Belgium  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Sierra Leone",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denni Conteh (22852)",
+        "nama_panggilan": "Denni Conteh (22852)",
+        "tanggal_lahir": "1975-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kopenhagen",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Daramy (574385)",
+        "nama_panggilan": "Mohamed Daramy (574385)",
+        "tanggal_lahir": "2002-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hvidovre",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

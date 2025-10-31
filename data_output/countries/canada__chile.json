@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Chile",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristián Gutiérrez (385104)",
+        "nama_panggilan": "Cristián Gutiérrez (385104)",
+        "tanggal_lahir": "1997-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Greenfield Park",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Chile"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

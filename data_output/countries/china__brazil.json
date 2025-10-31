@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "China  Brazil",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elkeson (103588)",
+        "nama_panggilan": "Elkeson (103588)",
+        "tanggal_lahir": "1989-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coelho Neto",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Brazil"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernandinho (230937)",
+        "nama_panggilan": "Fernandinho (230937)",
+        "tanggal_lahir": "1993-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limeira",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Brazil"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Serginho (329013)",
+        "nama_panggilan": "Serginho (329013)",
+        "tanggal_lahir": "1995-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monte Aprazível",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Brazil"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aloísio (55246)",
+        "nama_panggilan": "Aloísio (55246)",
+        "tanggal_lahir": "1988-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Araranguá",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Brazil"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alan (73460)",
+        "nama_panggilan": "Alan (73460)",
+        "tanggal_lahir": "1989-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barbosa",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

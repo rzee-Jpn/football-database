@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Honduras",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1980-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuxtla Gutiérrez",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Honduras"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

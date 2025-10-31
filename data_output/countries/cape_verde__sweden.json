@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cape Verde  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sixten Mohlin (249106)",
+        "nama_panggilan": "Sixten Mohlin (249106)",
+        "tanggal_lahir": "1996-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Cape Verde"
+        },
+        "kewarganegaraan": [
+          "Cape Verde  Sweden"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristopher Da Graca (322061)",
+        "nama_panggilan": "Kristopher Da Graca (322061)",
+        "tanggal_lahir": "1998-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göteborg",
+          "negara": "Cape Verde"
+        },
+        "kewarganegaraan": [
+          "Cape Verde  Sweden"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

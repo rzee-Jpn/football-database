@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Portugal",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christos Katsoulis (1045838)",
+        "nama_panggilan": "Christos Katsoulis (1045838)",
+        "tanggal_lahir": "2002-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Portugal"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zeca (131161)",
+        "nama_panggilan": "Zeca (131161)",
+        "tanggal_lahir": "1988-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lisboa",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Portugal"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

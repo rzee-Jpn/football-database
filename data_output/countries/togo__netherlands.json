@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdel-Malik Aziz (964797)",
+        "nama_panggilan": "Abdel-Malik Aziz (964797)",
+        "tanggal_lahir": "2003-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Groningen",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

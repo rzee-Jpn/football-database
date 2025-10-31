@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cuba  Italy",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Festino (1057173)",
+        "nama_panggilan": "Cristian Festino (1057173)",
+        "tanggal_lahir": "2006-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samon Reider Rodríguez (138827)",
+        "nama_panggilan": "Samon Reider Rodríguez (138827)",
+        "tanggal_lahir": "1988-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guantánamo",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Davide Incerti (652204)",
+        "nama_panggilan": "Davide Incerti (652204)",
+        "tanggal_lahir": "2002-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Habana",
+          "negara": "Cuba"
+        },
+        "kewarganegaraan": [
+          "Cuba  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis La Rocca (929524)",
+        "nama_panggilan": "Luis La Rocca (929524)",
+        "tanggal_lahir": "2005-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Cuba  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

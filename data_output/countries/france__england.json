@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  England",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loody Bellamy (352433)",
+        "nama_panggilan": "Loody Bellamy (352433)",
+        "tanggal_lahir": "1994-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moulins",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Olise (566723)",
+        "nama_panggilan": "Michael Olise (566723)",
+        "tanggal_lahir": "2001-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Virgil Gomis (628220)",
+        "nama_panggilan": "Virgil Gomis (628220)",
+        "tanggal_lahir": "1999-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aubergenville",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed-Ali Cho (670847)",
+        "nama_panggilan": "Mohamed-Ali Cho (670847)",
+        "tanggal_lahir": "2004-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stains",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thimothée Lo-Tutala (655877)",
+        "nama_panggilan": "Thimothée Lo-Tutala (655877)",
+        "tanggal_lahir": "2003-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gonesse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Winston André (931159)",
+        "nama_panggilan": "Winston André (931159)",
+        "tanggal_lahir": "2004-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexis Lafon (98270)",
+        "nama_panggilan": "Alexis Lafon (98270)",
+        "tanggal_lahir": "1986-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Versailles",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

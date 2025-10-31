@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zidane Yáñez (1151028)",
+        "nama_panggilan": "Zidane Yáñez (1151028)",
+        "tanggal_lahir": "2008-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Union",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  United States"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Bazaes (990833)",
+        "nama_panggilan": "Jonathan Bazaes (990833)",
+        "tanggal_lahir": "2002-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Favian Loyola (998206)",
+        "nama_panggilan": "Favian Loyola (998206)",
+        "tanggal_lahir": "2005-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Camp Lejeune, North Carolina",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

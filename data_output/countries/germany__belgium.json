@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Belgium",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sören Ihssen (274083)",
+        "nama_panggilan": "Sören Ihssen (274083)",
+        "tanggal_lahir": "1995-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sascha Kotysch (41125)",
+        "nama_panggilan": "Sascha Kotysch (41125)",
+        "tanggal_lahir": "1988-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kirchheimbolanden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matona-Glody Ngyombo (525775)",
+        "nama_panggilan": "Matona-Glody Ngyombo (525775)",
+        "tanggal_lahir": "1998-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siegen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Belgium"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

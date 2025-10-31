@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  Bulgaria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Vajushi (136142)",
+        "nama_panggilan": "Armando Vajushi (136142)",
+        "tanggal_lahir": "1991-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Shkodër",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Bulgaria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Sadiku (140082)",
+        "nama_panggilan": "Armando Sadiku (140082)",
+        "tanggal_lahir": "1991-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Elbasan",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Bulgaria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

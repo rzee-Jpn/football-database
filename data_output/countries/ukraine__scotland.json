@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Scotland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergiy Baltacha Jr. (186836)",
+        "nama_panggilan": "Sergiy Baltacha Jr. (186836)",
+        "tanggal_lahir": "1979-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiew",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Scotland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Poland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Walasiak (13497)",
+        "nama_panggilan": "Jonathan Walasiak (13497)",
+        "tanggal_lahir": "1982-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mons",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julien Habdas (149628)",
+        "nama_panggilan": "Julien Habdas (149628)",
+        "tanggal_lahir": "1990-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Charleroi",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Kaminski (77757)",
+        "nama_panggilan": "Thomas Kaminski (77757)",
+        "tanggal_lahir": "1992-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dendermonde",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

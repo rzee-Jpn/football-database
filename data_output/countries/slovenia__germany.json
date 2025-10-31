@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Germany",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Bilac (1135658)",
+        "nama_panggilan": "Max Bilac (1135658)",
+        "tanggal_lahir": "2007-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Slovenia  Germany"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Ivanusa (19478)",
+        "nama_panggilan": "Marcel Ivanusa (19478)",
+        "tanggal_lahir": "1985-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ptuj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Germany"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominic Maroh (41023)",
+        "nama_panggilan": "Dominic Maroh (41023)",
+        "tanggal_lahir": "1987-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nürtingen",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomaz Stopajnik (536524)",
+        "nama_panggilan": "Tomaz Stopajnik (536524)",
+        "tanggal_lahir": "2001-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slovenj Gradec",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rajko Tavcar (769)",
+        "nama_panggilan": "Rajko Tavcar (769)",
+        "tanggal_lahir": "1974-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kranj",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

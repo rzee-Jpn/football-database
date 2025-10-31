@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Czech Republic  Greece",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Papadopulos (9329)",
+        "nama_panggilan": "Michal Papadopulos (9329)",
+        "tanggal_lahir": "1985-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ostrava",
+          "negara": "Czech Republic"
+        },
+        "kewarganegaraan": [
+          "Czech Republic  Greece"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

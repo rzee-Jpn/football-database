@@ -1,0 +1,3305 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Italy",
+  "total_pemain": 97,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sébastien Corchia (102744)",
+        "nama_panggilan": "Sébastien Corchia (102744)",
+        "tanggal_lahir": "1990-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Noisy-le-Sec",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Flavien Michelini (102923)",
+        "nama_panggilan": "Flavien Michelini (102923)",
+        "tanggal_lahir": "1986-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rillieux-la-Pape",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tony Badalassi (1051124)",
+        "nama_panggilan": "Tony Badalassi (1051124)",
+        "tanggal_lahir": "2002-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cagnes-sur-Mer",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loïc Cianti (1051192)",
+        "nama_panggilan": "Loïc Cianti (1051192)",
+        "tanggal_lahir": "2002-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabien Valeri (111215)",
+        "nama_panggilan": "Fabien Valeri (111215)",
+        "tanggal_lahir": "1974-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Noisy-le-Sec",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonin Melis (1119937)",
+        "nama_panggilan": "Antonin Melis (1119937)",
+        "tanggal_lahir": "2005-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Forbach",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rémy Cabella (113707)",
+        "nama_panggilan": "Rémy Cabella (113707)",
+        "tanggal_lahir": "1990-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ajaccio",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Daubenfeld (1143135)",
+        "nama_panggilan": "Lucas Daubenfeld (1143135)",
+        "tanggal_lahir": "2006-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Yassin Faiz (1145683)",
+        "nama_panggilan": "Mohamed Yassin Faiz (1145683)",
+        "tanggal_lahir": "2004-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yael Trepy (1099924)",
+        "nama_panggilan": "Yael Trepy (1099924)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Essebbar (1105202)",
+        "nama_panggilan": "Omar Essebbar (1105202)",
+        "tanggal_lahir": "2002-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Castelfranco",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Reale (126530)",
+        "nama_panggilan": "Enzo Reale (126530)",
+        "tanggal_lahir": "1991-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vénissieux",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Bova (126739)",
+        "nama_panggilan": "Anthony Bova (126739)",
+        "tanggal_lahir": "1990-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raphaël Gherardi (127208)",
+        "nama_panggilan": "Raphaël Gherardi (127208)",
+        "tanggal_lahir": "1992-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Le Blanc Mesnil",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noan Gallo (1201868)",
+        "nama_panggilan": "Noan Gallo (1201868)",
+        "tanggal_lahir": "2006-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Firminy",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathan Lorenzelli (1256751)",
+        "nama_panggilan": "Nathan Lorenzelli (1256751)",
+        "tanggal_lahir": "2006-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Agen",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Pala (1159563)",
+        "nama_panggilan": "Matteo Pala (1159563)",
+        "tanggal_lahir": "2006-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fréjus",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Taramelli (1176346)",
+        "nama_panggilan": "Valentin Taramelli (1176346)",
+        "tanggal_lahir": "2006-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ermont",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Kalombola (1177140)",
+        "nama_panggilan": "Enzo Kalombola (1177140)",
+        "tanggal_lahir": "2005-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montfermeil",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bader Alem (1194120)",
+        "nama_panggilan": "Bader Alem (1194120)",
+        "tanggal_lahir": "2005-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manerbio",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandro Baldacchino (1457505)",
+        "nama_panggilan": "Sandro Baldacchino (1457505)",
+        "tanggal_lahir": "2008-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andréa Damiani (150528)",
+        "nama_panggilan": "Andréa Damiani (150528)",
+        "tanggal_lahir": "1985-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarascon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabio Genga (182895)",
+        "nama_panggilan": "Fabio Genga (182895)",
+        "tanggal_lahir": "1995-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cannes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Mangani (18934)",
+        "nama_panggilan": "Thomas Mangani (18934)",
+        "tanggal_lahir": "1987-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carpentras",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Mocio (190366)",
+        "nama_panggilan": "Lucas Mocio (190366)",
+        "tanggal_lahir": "1994-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villefranche-sur-Saône",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Petrilli (191453)",
+        "nama_panggilan": "Anthony Petrilli (191453)",
+        "tanggal_lahir": "1993-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitry-sur-Seine",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mickaël Salamone (164919)",
+        "nama_panggilan": "Mickaël Salamone (164919)",
+        "tanggal_lahir": "1992-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villeneuve-la-Garenne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sébastien Pennacchio (203522)",
+        "nama_panggilan": "Sébastien Pennacchio (203522)",
+        "tanggal_lahir": "1983-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tourcoing",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Léoni (203760)",
+        "nama_panggilan": "Kévin Léoni (203760)",
+        "tanggal_lahir": "1993-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Jean",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexy Bosetti (212937)",
+        "nama_panggilan": "Alexy Bosetti (212937)",
+        "tanggal_lahir": "1993-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Basilio (242716)",
+        "nama_panggilan": "Enzo Basilio (242716)",
+        "tanggal_lahir": "1994-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dijon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gino Bernardini (337915)",
+        "nama_panggilan": "Gino Bernardini (337915)",
+        "tanggal_lahir": "1997-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Etienne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florian Andreani (342199)",
+        "nama_panggilan": "Florian Andreani (342199)",
+        "tanggal_lahir": "1997-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cédric De Cicco (34353)",
+        "nama_panggilan": "Cédric De Cicco (34353)",
+        "tanggal_lahir": "1978-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Cappellari (351861)",
+        "nama_panggilan": "Alexandre Cappellari (351861)",
+        "tanggal_lahir": "1997-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Claude",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Caruso (324820)",
+        "nama_panggilan": "Lucas Caruso (324820)",
+        "tanggal_lahir": "1998-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Avold",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Sirufo (33630)",
+        "nama_panggilan": "Anthony Sirufo (33630)",
+        "tanggal_lahir": "1978-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belfort",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Flachi (38476)",
+        "nama_panggilan": "Anthony Flachi (38476)",
+        "tanggal_lahir": "1986-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Roselli (353397)",
+        "nama_panggilan": "Alexandre Roselli (353397)",
+        "tanggal_lahir": "1997-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Décines-Charpieu",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Morgan Amalfitano (39883)",
+        "nama_panggilan": "Morgan Amalfitano (39883)",
+        "tanggal_lahir": "1985-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andréa Gambetta (404821)",
+        "nama_panggilan": "Andréa Gambetta (404821)",
+        "tanggal_lahir": "1996-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillaume Bosca (481721)",
+        "nama_panggilan": "Guillaume Bosca (481721)",
+        "tanggal_lahir": "1989-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Orlando Silvestri (43972)",
+        "nama_panggilan": "Orlando Silvestri (43972)",
+        "tanggal_lahir": "1972-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Cozza (485965)",
+        "nama_panggilan": "Nicolas Cozza (485965)",
+        "tanggal_lahir": "1999-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ganges",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julien Célestine (518073)",
+        "nama_panggilan": "Julien Célestine (518073)",
+        "tanggal_lahir": "1997-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edwin Massucco (526523)",
+        "nama_panggilan": "Edwin Massucco (526523)",
+        "tanggal_lahir": "1999-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sébastien Squillaci (5293)",
+        "nama_panggilan": "Sébastien Squillaci (5293)",
+        "tanggal_lahir": "1980-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damien Grégorini (5309)",
+        "nama_panggilan": "Damien Grégorini (5309)",
+        "tanggal_lahir": "1979-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lionel Létizi (5550)",
+        "nama_panggilan": "Lionel Létizi (5550)",
+        "tanggal_lahir": "1973-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cédric Uras (5584)",
+        "nama_panggilan": "Cédric Uras (5584)",
+        "tanggal_lahir": "1977-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Roubini (562465)",
+        "nama_panggilan": "Richard Roubini (562465)",
+        "tanggal_lahir": "1998-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastien De Maio (56830)",
+        "nama_panggilan": "Sebastien De Maio (56830)",
+        "tanggal_lahir": "1987-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Denis",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jody Viviani (5688)",
+        "nama_panggilan": "Jody Viviani (5688)",
+        "tanggal_lahir": "1982-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Ciotat",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yohan Mollo (60570)",
+        "nama_panggilan": "Yohan Mollo (60570)",
+        "tanggal_lahir": "1989-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lisandru Tramoni (607227)",
+        "nama_panggilan": "Lisandru Tramoni (607227)",
+        "tanggal_lahir": "2003-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ajaccio",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilario de Clemente (589950)",
+        "nama_panggilan": "Ilario de Clemente (589950)",
+        "tanggal_lahir": "2000-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ugo Madoni (592742)",
+        "nama_panggilan": "Ugo Madoni (592742)",
+        "tanggal_lahir": "1993-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cormeilles-en-Parisis",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rocco Ascone (620318)",
+        "nama_panggilan": "Rocco Ascone (620318)",
+        "tanggal_lahir": "2003-09-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villeneuve-d'Ascq",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pascal Michelizzi (622572)",
+        "nama_panggilan": "Pascal Michelizzi (622572)",
+        "tanggal_lahir": "1995-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arnas",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Marsella (624784)",
+        "nama_panggilan": "Lucas Marsella (624784)",
+        "tanggal_lahir": "2000-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Scordato (626590)",
+        "nama_panggilan": "Dylan Scordato (626590)",
+        "tanggal_lahir": "2001-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Ciotat",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sam Sanna (694549)",
+        "nama_panggilan": "Sam Sanna (694549)",
+        "tanggal_lahir": "1999-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lourdes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alessio Andreottola (703012)",
+        "nama_panggilan": "Alessio Andreottola (703012)",
+        "tanggal_lahir": "2003-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colmar",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Louis Carlotti (643991)",
+        "nama_panggilan": "Jean-Louis Carlotti (643991)",
+        "tanggal_lahir": "1998-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bastia",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Colella (648757)",
+        "nama_panggilan": "Hugo Colella (648757)",
+        "tanggal_lahir": "1999-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Strasbourg",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Bonelli (659510)",
+        "nama_panggilan": "Lucas Bonelli (659510)",
+        "tanggal_lahir": "2003-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Melun",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Dupuis (784577)",
+        "nama_panggilan": "Enzo Dupuis (784577)",
+        "tanggal_lahir": "2002-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cannes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Zitelli (79572)",
+        "nama_panggilan": "David Zitelli (79572)",
+        "tanggal_lahir": "1968-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Longwy",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Fortunato (796954)",
+        "nama_panggilan": "Mario Fortunato (796954)",
+        "tanggal_lahir": "2002-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabio Vanni (801577)",
+        "nama_panggilan": "Fabio Vanni (801577)",
+        "tanggal_lahir": "2002-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aubagne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frédéric Sammaritano (80173)",
+        "nama_panggilan": "Frédéric Sammaritano (80173)",
+        "tanggal_lahir": "1986-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vannes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "162.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geoffrey Niccoletti (804742)",
+        "nama_panggilan": "Geoffrey Niccoletti (804742)",
+        "tanggal_lahir": "2000-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mattéo Benigni (806790)",
+        "nama_panggilan": "Mattéo Benigni (806790)",
+        "tanggal_lahir": "2002-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colmar",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Nobili (806794)",
+        "nama_panggilan": "Enzo Nobili (806794)",
+        "tanggal_lahir": "2002-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nantes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amaury Roperti (812356)",
+        "nama_panggilan": "Amaury Roperti (812356)",
+        "tanggal_lahir": "1995-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cannes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenzo Vinci (812469)",
+        "nama_panggilan": "Lorenzo Vinci (812469)",
+        "tanggal_lahir": "1996-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cannes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Grasso (729456)",
+        "nama_panggilan": "Enzo Grasso (729456)",
+        "tanggal_lahir": "1996-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nogent-sur-Marne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Russo (736650)",
+        "nama_panggilan": "David Russo (736650)",
+        "tanggal_lahir": "1998-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxence Renoud (740909)",
+        "nama_panggilan": "Maxence Renoud (740909)",
+        "tanggal_lahir": "2000-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Voiron",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Giagnorio (818109)",
+        "nama_panggilan": "Marco Giagnorio (818109)",
+        "tanggal_lahir": "2001-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Strasbourg",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Cato (944252)",
+        "nama_panggilan": "Marco Cato (944252)",
+        "tanggal_lahir": "1994-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Saulve",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "2004-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vigevano",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vincent Laurini (94936)",
+        "nama_panggilan": "Vincent Laurini (94936)",
+        "tanggal_lahir": "1989-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thionville",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gino Caoki (918250)",
+        "nama_panggilan": "Gino Caoki (918250)",
+        "tanggal_lahir": "2004-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Herblain",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Sulas (929845)",
+        "nama_panggilan": "Enzo Sulas (929845)",
+        "tanggal_lahir": "2002-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aubagne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthieu Dario (875362)",
+        "nama_panggilan": "Matthieu Dario (875362)",
+        "tanggal_lahir": "1998-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Talence",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Valtriani (889140)",
+        "nama_panggilan": "Thomas Valtriani (889140)",
+        "tanggal_lahir": "1999-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathieu Pastorelli (897838)",
+        "nama_panggilan": "Mathieu Pastorelli (897838)",
+        "tanggal_lahir": "2002-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Théo Parrinello (838812)",
+        "nama_panggilan": "Théo Parrinello (838812)",
+        "tanggal_lahir": "2001-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nîmes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stevo Chillemi (963168)",
+        "nama_panggilan": "Stevo Chillemi (963168)",
+        "tanggal_lahir": "2004-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nizza",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Guidoni (973226)",
+        "nama_panggilan": "Luca Guidoni (973226)",
+        "tanggal_lahir": "2004-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pablo Pilati (973858)",
+        "nama_panggilan": "Pablo Pilati (973858)",
+        "tanggal_lahir": "1998-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Valeri (978761)",
+        "nama_panggilan": "Lucas Valeri (978761)",
+        "tanggal_lahir": "2002-02-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vincent Di Bartoloméo (98261)",
+        "nama_panggilan": "Vincent Di Bartoloméo (98261)",
+        "tanggal_lahir": "1981-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montluçon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ludovic Gasparotto (98279)",
+        "nama_panggilan": "Ludovic Gasparotto (98279)",
+        "tanggal_lahir": "1989-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bordeaux",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Groppi (982906)",
+        "nama_panggilan": "Hugo Groppi (982906)",
+        "tanggal_lahir": "2004-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aix-en-Provence",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandro Tabarracci (983285)",
+        "nama_panggilan": "Sandro Tabarracci (983285)",
+        "tanggal_lahir": "2004-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

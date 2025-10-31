@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  Mexico",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Pinto (40431)",
+        "nama_panggilan": "Miguel Pinto (40431)",
+        "tanggal_lahir": "1983-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Talagante",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Mexico"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Héctor Mancilla (44920)",
+        "nama_panggilan": "Héctor Mancilla (44920)",
+        "tanggal_lahir": "1980-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Purranque",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Mexico"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

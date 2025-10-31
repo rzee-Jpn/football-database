@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Togo",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eyram Viegbe (1005071)",
+        "nama_panggilan": "Eyram Viegbe (1005071)",
+        "tanggal_lahir": "2004-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Livry-Gargan",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Louis Siliadin (1060303)",
+        "nama_panggilan": "Louis Siliadin (1060303)",
+        "tanggal_lahir": "2001-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luan Gadegbeku (1075584)",
+        "nama_panggilan": "Luan Gadegbeku (1075584)",
+        "tanggal_lahir": "2007-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Juvisy-sur-Orge",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Olatunji (1370590)",
+        "nama_panggilan": "Jonathan Olatunji (1370590)",
+        "tanggal_lahir": "1997-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexis Vossah (1200427)",
+        "nama_panggilan": "Alexis Vossah (1200427)",
+        "tanggal_lahir": "2008-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alfortville",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugues Ayivi (124800)",
+        "nama_panggilan": "Hugues Ayivi (124800)",
+        "tanggal_lahir": "1986-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Foly Amegatse (1175187)",
+        "nama_panggilan": "Foly Amegatse (1175187)",
+        "tanggal_lahir": "2006-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loïc Gagnon (138052)",
+        "nama_panggilan": "Loïc Gagnon (138052)",
+        "tanggal_lahir": "1991-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bondy",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Corentin Tolisso (190393)",
+        "nama_panggilan": "Corentin Tolisso (190393)",
+        "tanggal_lahir": "1994-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarare",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean-Charles Behlow (281606)",
+        "nama_panggilan": "Jean-Charles Behlow (281606)",
+        "tanggal_lahir": "1993-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nantes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charles Abi (418658)",
+        "nama_panggilan": "Charles Abi (418658)",
+        "tanggal_lahir": "2000-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clermont-Ferrand",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lilian Brassier (485960)",
+        "nama_panggilan": "Lilian Brassier (485960)",
+        "tanggal_lahir": "1999-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Argenteuil",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gil Lawson (596283)",
+        "nama_panggilan": "Gil Lawson (596283)",
+        "tanggal_lahir": "1994-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Epinay-sur-Seine",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Melvin Sitti (689089)",
+        "nama_panggilan": "Melvin Sitti (689089)",
+        "tanggal_lahir": "2000-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bradley Barcola (708265)",
+        "nama_panggilan": "Bradley Barcola (708265)",
+        "tanggal_lahir": "2002-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenz Assignon (711969)",
+        "nama_panggilan": "Lorenz Assignon (711969)",
+        "tanggal_lahir": "2000-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grasse",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe-Loïc Affamah (644768)",
+        "nama_panggilan": "Joe-Loïc Affamah (644768)",
+        "tanggal_lahir": "2002-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karl de Souza (736649)",
+        "nama_panggilan": "Karl de Souza (736649)",
+        "tanggal_lahir": "1998-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nogent-sur-Marne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Herman Ako (812483)",
+        "nama_panggilan": "Herman Ako (812483)",
+        "tanggal_lahir": "1993-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Senaya (830890)",
+        "nama_panggilan": "Marvin Senaya (830890)",
+        "tanggal_lahir": "2001-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Maurice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kurtis Chadet (941249)",
+        "nama_panggilan": "Kurtis Chadet (941249)",
+        "tanggal_lahir": "2003-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Courcouronnes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Idjessi Metsoko (913305)",
+        "nama_panggilan": "Idjessi Metsoko (913305)",
+        "tanggal_lahir": "2002-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stains",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Togo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

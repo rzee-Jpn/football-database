@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Azerbaijan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramik Gadzhyev (1158515)",
+        "nama_panggilan": "Ramik Gadzhyev (1158515)",
+        "tanggal_lahir": "2005-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baku",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Azerbaijan"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

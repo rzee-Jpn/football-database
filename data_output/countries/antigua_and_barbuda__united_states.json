@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Antigua and Barbuda  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Drake Hadeed (1023183)",
+        "nama_panggilan": "Drake Hadeed (1023183)",
+        "tanggal_lahir": "2007-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miami, Florida",
+          "negara": "Antigua and Barbuda"
+        },
+        "kewarganegaraan": [
+          "Antigua and Barbuda  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Daley (763757)",
+        "nama_panggilan": "Amir Daley (763757)",
+        "tanggal_lahir": "2002-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Elmont, New York",
+          "negara": "Antigua and Barbuda"
+        },
+        "kewarganegaraan": [
+          "Antigua and Barbuda  United States"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

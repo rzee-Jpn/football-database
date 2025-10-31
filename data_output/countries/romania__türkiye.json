@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Türkiye",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ianis Hagi (282076)",
+        "nama_panggilan": "Ianis Hagi (282076)",
+        "tanggal_lahir": "1998-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Türkiye"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ümit Akdağ (958647)",
+        "nama_panggilan": "Ümit Akdağ (958647)",
+        "tanggal_lahir": "2003-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Türkiye"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

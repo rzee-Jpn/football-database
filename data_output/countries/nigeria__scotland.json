@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Scotland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eseosa Sule (1102807)",
+        "nama_panggilan": "Eseosa Sule (1102807)",
+        "tanggal_lahir": "2006-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Scotland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

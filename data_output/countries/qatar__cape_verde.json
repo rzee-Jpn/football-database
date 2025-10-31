@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Cape Verde",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Miguel (228727)",
+        "nama_panggilan": "Pedro Miguel (228727)",
+        "tanggal_lahir": "1990-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Algueirão–Mem Martins",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Cape Verde"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

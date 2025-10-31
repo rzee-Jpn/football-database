@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Türkiye",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Uche Okechukwu (102313)",
+        "nama_panggilan": "Uche Okechukwu (102313)",
+        "tanggal_lahir": "1967-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Türkiye"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay-Jay Okocha (3708)",
+        "nama_panggilan": "Jay-Jay Okocha (3708)",
+        "tanggal_lahir": "1973-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enugu",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Türkiye"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Umut İsa Daramola (617262)",
+        "nama_panggilan": "Umut İsa Daramola (617262)",
+        "tanggal_lahir": "1991-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaduna",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Türkiye"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

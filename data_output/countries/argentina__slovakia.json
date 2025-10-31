@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Slovakia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Gorosito (125281)",
+        "nama_panggilan": "Nicolas Gorosito (125281)",
+        "tanggal_lahir": "1988-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rafaela",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Slovakia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Portugal",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcos Lopes (1065833)",
+        "nama_panggilan": "Marcos Lopes (1065833)",
+        "tanggal_lahir": "2005-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Portugal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Mora (14396)",
+        "nama_panggilan": "Miguel Mora (14396)",
+        "tanggal_lahir": "1974-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Portugal"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Víctor Monteiro (255505)",
+        "nama_panggilan": "Víctor Monteiro (255505)",
+        "tanggal_lahir": "1994-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Creixomil-Guimaraes",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Portugal"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Ander Amelibia (330655)",
+        "nama_panggilan": "Jon Ander Amelibia (330655)",
+        "tanggal_lahir": "1994-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Getxo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Portugal"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ángel Algobia (638589)",
+        "nama_panggilan": "Ángel Algobia (638589)",
+        "tanggal_lahir": "1999-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Velilla de San Antonio",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

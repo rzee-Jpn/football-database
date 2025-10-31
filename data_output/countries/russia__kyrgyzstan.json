@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Kyrgyzstan",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maksim Yakovlev (113934)",
+        "nama_panggilan": "Maksim Yakovlev (113934)",
+        "tanggal_lahir": "1991-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bishkek",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Kyrgyzstan"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilzat Akhmetov (334440)",
+        "nama_panggilan": "Ilzat Akhmetov (334440)",
+        "tanggal_lahir": "1997-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bishkek",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Kyrgyzstan"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

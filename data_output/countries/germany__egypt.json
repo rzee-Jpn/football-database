@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Egypt",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keanu Staude (264310)",
+        "nama_panggilan": "Keanu Staude (264310)",
+        "tanggal_lahir": "1997-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielefeld",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Egypt"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amin Farouk (692397)",
+        "nama_panggilan": "Amin Farouk (692397)",
+        "tanggal_lahir": "2003-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mainz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Egypt"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Tolba (813730)",
+        "nama_panggilan": "Mohammed Tolba (813730)",
+        "tanggal_lahir": "2004-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Essen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Egypt"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

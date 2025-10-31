@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Milovanov (392655)",
+        "nama_panggilan": "Bogdan Milovanov (392655)",
+        "tanggal_lahir": "1998-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lugansk",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaroslav Meykher (574213)",
+        "nama_panggilan": "Yaroslav Meykher (574213)",
+        "tanggal_lahir": "2000-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ternopil",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

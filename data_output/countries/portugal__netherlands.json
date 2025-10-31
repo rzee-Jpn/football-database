@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tiago Faria da Silva (384010)",
+        "nama_panggilan": "Tiago Faria da Silva (384010)",
+        "tanggal_lahir": "1992-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guimarães",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Netherlands"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rúben Rodrigues (531674)",
+        "nama_panggilan": "Rúben Rodrigues (531674)",
+        "tanggal_lahir": "1996-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oliveira de Azeméis",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Netherlands"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

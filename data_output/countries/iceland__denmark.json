@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iceland  Denmark",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frederik Schram (279338)",
+        "nama_panggilan": "Frederik Schram (279338)",
+        "tanggal_lahir": "1995-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dragør",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Denmark"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikael Anderson (403673)",
+        "nama_panggilan": "Mikael Anderson (403673)",
+        "tanggal_lahir": "1998-07-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reykjavík",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Denmark"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

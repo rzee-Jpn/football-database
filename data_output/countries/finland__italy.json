@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Italy",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lauri Dalla Valle (91056)",
+        "nama_panggilan": "Lauri Dalla Valle (91056)",
+        "tanggal_lahir": "1991-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kontiolahti",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

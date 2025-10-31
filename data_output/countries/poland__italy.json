@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Italy",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wiktor Paszynski (1055985)",
+        "nama_panggilan": "Wiktor Paszynski (1055985)",
+        "tanggal_lahir": "2005-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Zieliński (181136)",
+        "nama_panggilan": "Piotr Zieliński (181136)",
+        "tanggal_lahir": "1994-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ząbkowice Śląskie",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Italy"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafal Urbanski (555575)",
+        "nama_panggilan": "Rafal Urbanski (555575)",
+        "tanggal_lahir": "2001-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Szczecin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Italy"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tommaso Guercio (717900)",
+        "nama_panggilan": "Tommaso Guercio (717900)",
+        "tanggal_lahir": "2005-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Codogno",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Italy"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucio Ceci (946939)",
+        "nama_panggilan": "Lucio Ceci (946939)",
+        "tanggal_lahir": "2005-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnobrzeg",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Italy"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

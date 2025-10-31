@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  North Macedonia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bashkim Kadrii (91851)",
+        "nama_panggilan": "Bashkim Kadrii (91851)",
+        "tanggal_lahir": "1991-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  North Macedonia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

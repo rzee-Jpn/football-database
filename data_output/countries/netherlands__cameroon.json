@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Cameroon",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven van der Sloot (548935)",
+        "nama_panggilan": "Steven van der Sloot (548935)",
+        "tanggal_lahir": "2002-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Limbe",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Cameroon"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aimé Omgba (568373)",
+        "nama_panggilan": "Aimé Omgba (568373)",
+        "tanggal_lahir": "2002-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leiden",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Cameroon"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Peru  Spain",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Advíncula (103890)",
+        "nama_panggilan": "Luis Advíncula (103890)",
+        "tanggal_lahir": "1990-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Carmen",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Callens (147462)",
+        "nama_panggilan": "Alexander Callens (147462)",
+        "tanggal_lahir": "1992-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Callao",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Peña (224672)",
+        "nama_panggilan": "Sergio Peña (224672)",
+        "tanggal_lahir": "1995-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lima",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Benavente (232859)",
+        "nama_panggilan": "Cristian Benavente (232859)",
+        "tanggal_lahir": "1994-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alcalá de Henares",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Merino (34538)",
+        "nama_panggilan": "Roberto Merino (34538)",
+        "tanggal_lahir": "1982-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chiclayo",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renato Tapia (277137)",
+        "nama_panggilan": "Renato Tapia (277137)",
+        "tanggal_lahir": "1995-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lima",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Acasiete (30563)",
+        "nama_panggilan": "Santiago Acasiete (30563)",
+        "tanggal_lahir": "1977-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Callao",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeisson Martínez (480953)",
+        "nama_panggilan": "Jeisson Martínez (480953)",
+        "tanggal_lahir": "1994-12-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lima",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Vilca (639763)",
+        "nama_panggilan": "Rodrigo Vilca (639763)",
+        "tanggal_lahir": "1999-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lima",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alessandro Burlamaqui (657479)",
+        "nama_panggilan": "Alessandro Burlamaqui (657479)",
+        "tanggal_lahir": "2002-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lima",
+          "negara": "Peru"
+        },
+        "kewarganegaraan": [
+          "Peru  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

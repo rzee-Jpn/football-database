@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Paraguay  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óscar Cardozo (45865)",
+        "nama_panggilan": "Óscar Cardozo (45865)",
+        "tanggal_lahir": "1983-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Juan Eulogio Estigarribia",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Portugal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

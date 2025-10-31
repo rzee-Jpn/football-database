@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Lebanon",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karim Haider Dib (883996)",
+        "nama_panggilan": "Karim Haider Dib (883996)",
+        "tanggal_lahir": "2003-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "-",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Lebanon"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

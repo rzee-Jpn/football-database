@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Hungary",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dániel Pintér (1096186)",
+        "nama_panggilan": "Dániel Pintér (1096186)",
+        "tanggal_lahir": "2007-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Hungary"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Howard (4267)",
+        "nama_panggilan": "Tim Howard (4267)",
+        "tanggal_lahir": "1979-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "North Brunswick, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Hungary"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Anderson (504146)",
+        "nama_panggilan": "Sebastian Anderson (504146)",
+        "tanggal_lahir": "2002-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sacramento, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Hungary"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacob Labovitz (587444)",
+        "nama_panggilan": "Jacob Labovitz (587444)",
+        "tanggal_lahir": "1998-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Great Falls, Virginia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Hungary"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Okorie (838000)",
+        "nama_panggilan": "David Okorie (838000)",
+        "tanggal_lahir": "2004-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alexandria, Virginia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Hungary"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

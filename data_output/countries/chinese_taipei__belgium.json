@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chinese Taipei  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Xavier Chen (19363)",
+        "nama_panggilan": "Xavier Chen (19363)",
+        "tanggal_lahir": "1983-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berchem-Sainte-Agathe",
+          "negara": "Chinese Taipei"
+        },
+        "kewarganegaraan": [
+          "Chinese Taipei  Belgium"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

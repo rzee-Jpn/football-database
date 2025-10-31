@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  India",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Taylor (67416)",
+        "nama_panggilan": "Neil Taylor (67416)",
+        "tanggal_lahir": "1989-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St Asaph",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  India"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  The Gambia",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malik Sesay (1043623)",
+        "nama_panggilan": "Malik Sesay (1043623)",
+        "tanggal_lahir": "2003-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Colley (303455)",
+        "nama_panggilan": "Joseph Colley (303455)",
+        "tanggal_lahir": "1999-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kanifing",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Roback (673495)",
+        "nama_panggilan": "Emil Roback (673495)",
+        "tanggal_lahir": "2003-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norrköping",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Sise (81655)",
+        "nama_panggilan": "Joe Sise (81655)",
+        "tanggal_lahir": "1989-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Halmstad",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alieu Njie (934527)",
+        "nama_panggilan": "Alieu Njie (934527)",
+        "tanggal_lahir": "2005-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stora Tuna",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Momodou Lamin Sonko (929876)",
+        "nama_panggilan": "Momodou Lamin Sonko (929876)",
+        "tanggal_lahir": "2005-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göteborg",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  The Gambia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

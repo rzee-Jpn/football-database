@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Poland",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grégoire Swiderski (1063990)",
+        "nama_panggilan": "Grégoire Swiderski (1063990)",
+        "tanggal_lahir": "2005-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bruges",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoni Klukowski (1085939)",
+        "nama_panggilan": "Antoni Klukowski (1085939)",
+        "tanggal_lahir": "2007-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lille",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Klukowski (12509)",
+        "nama_panggilan": "Michael Klukowski (12509)",
+        "tanggal_lahir": "1981-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amstetten",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Pelc (146551)",
+        "nama_panggilan": "Daniel Pelc (146551)",
+        "tanggal_lahir": "1986-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Misik (250339)",
+        "nama_panggilan": "Patryk Misik (250339)",
+        "tanggal_lahir": "1994-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brantford",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrew Ornoch (28107)",
+        "nama_panggilan": "Andrew Ornoch (28107)",
+        "tanggal_lahir": "1985-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominick Zator (496606)",
+        "nama_panggilan": "Dominick Zator (496606)",
+        "tanggal_lahir": "1994-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Calgary, Alberta",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Misiewicz (84882)",
+        "nama_panggilan": "Michal Misiewicz (84882)",
+        "tanggal_lahir": "1991-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athen",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

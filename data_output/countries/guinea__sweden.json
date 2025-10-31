@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aly Keita (114803)",
+        "nama_panggilan": "Aly Keita (114803)",
+        "tanggal_lahir": "1986-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Västerås",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Sweden"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikael Dyrestam (96043)",
+        "nama_panggilan": "Mikael Dyrestam (96043)",
+        "tanggal_lahir": "1991-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Växjö",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Sweden"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

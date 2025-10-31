@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  China",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Leijten (892983)",
+        "nama_panggilan": "Ryan Leijten (892983)",
+        "tanggal_lahir": "2003-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boxtel",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  China"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

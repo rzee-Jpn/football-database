@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Wales",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremías James (986408)",
+        "nama_panggilan": "Jeremías James (986408)",
+        "tanggal_lahir": "2001-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trelew",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Wales"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

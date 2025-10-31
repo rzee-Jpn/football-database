@@ -1,0 +1,619 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Senegal",
+  "total_pemain": 18,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahamadou Baldé (1054209)",
+        "nama_panggilan": "Mahamadou Baldé (1054209)",
+        "tanggal_lahir": "2004-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Diawara (1060375)",
+        "nama_panggilan": "Mamadou Diawara (1060375)",
+        "tanggal_lahir": "2004-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaya Daffe (1121741)",
+        "nama_panggilan": "Yaya Daffe (1121741)",
+        "tanggal_lahir": "2004-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moha Ndiaye (1125102)",
+        "nama_panggilan": "Moha Ndiaye (1125102)",
+        "tanggal_lahir": "2002-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almería",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Seye (1231319)",
+        "nama_panggilan": "Mohamed Seye (1231319)",
+        "tanggal_lahir": "1999-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valencia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moustapha Seck (268179)",
+        "nama_panggilan": "Moustapha Seck (268179)",
+        "tanggal_lahir": "1996-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibourahima Baldé (398061)",
+        "nama_panggilan": "Ibourahima Baldé (398061)",
+        "tanggal_lahir": "1999-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arbúcies",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bambo Diaby (435493)",
+        "nama_panggilan": "Bambo Diaby (435493)",
+        "tanggal_lahir": "1997-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moha Ramos (495602)",
+        "nama_panggilan": "Moha Ramos (495602)",
+        "tanggal_lahir": "2000-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de Tenerife",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zidane Vaz (636538)",
+        "nama_panggilan": "Zidane Vaz (636538)",
+        "tanggal_lahir": "2000-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almería",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adama Boiro (710671)",
+        "nama_panggilan": "Adama Boiro (710671)",
+        "tanggal_lahir": "2002-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamor Niang (715650)",
+        "nama_panggilan": "Mamor Niang (715650)",
+        "tanggal_lahir": "2002-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Sylla (654177)",
+        "nama_panggilan": "Mamadou Sylla (654177)",
+        "tanggal_lahir": "2003-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Baba Diocou (941567)",
+        "nama_panggilan": "Baba Diocou (941567)",
+        "tanggal_lahir": "2005-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fassada",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amadou Konate (908492)",
+        "nama_panggilan": "Amadou Konate (908492)",
+        "tanggal_lahir": "2002-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Assane Ndiaye (963316)",
+        "nama_panggilan": "Assane Ndiaye (963316)",
+        "tanggal_lahir": "1999-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Jr (967688)",
+        "nama_panggilan": "Armando Jr (967688)",
+        "tanggal_lahir": "2001-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thiès",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Siren Diao (984708)",
+        "nama_panggilan": "Siren Diao (984708)",
+        "tanggal_lahir": "2005-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Figueres",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Senegal"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

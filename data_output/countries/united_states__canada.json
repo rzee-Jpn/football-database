@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Canada",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francesco Di Ponzio (1008524)",
+        "nama_panggilan": "Francesco Di Ponzio (1008524)",
+        "tanggal_lahir": "2005-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Fisher (1239933)",
+        "nama_panggilan": "Mark Fisher (1239933)",
+        "tanggal_lahir": "2000-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Calgary, Alberta",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teal Bunbury (141217)",
+        "nama_panggilan": "Teal Bunbury (141217)",
+        "tanggal_lahir": "1990-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton, Ontario",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ethan Finlay (212949)",
+        "nama_panggilan": "Ethan Finlay (212949)",
+        "tanggal_lahir": "1990-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duluth, Minnesota",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jake Morris (456004)",
+        "nama_panggilan": "Jake Morris (456004)",
+        "tanggal_lahir": "1999-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fort Lauderdale, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aidan Morris (513968)",
+        "nama_panggilan": "Aidan Morris (513968)",
+        "tanggal_lahir": "2001-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fort Lauderdale, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chituru Odunze (627198)",
+        "nama_panggilan": "Chituru Odunze (627198)",
+        "tanggal_lahir": "2002-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Raleigh, North Carolina",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "200.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Landon Donovan (68)",
+        "nama_panggilan": "Landon Donovan (68)",
+        "tanggal_lahir": "1982-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ontario, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Canada"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

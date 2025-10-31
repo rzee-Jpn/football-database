@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Montenegro  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Djukic (461485)",
+        "nama_panggilan": "Filip Djukic (461485)",
+        "tanggal_lahir": "1999-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hvidovre",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Denmark"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

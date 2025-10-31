@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Thailand  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Davis (532374)",
+        "nama_panggilan": "Ben Davis (532374)",
+        "tanggal_lahir": "2000-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Phuket",
+          "negara": "Thailand"
+        },
+        "kewarganegaraan": [
+          "Thailand  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kenya",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Job Ochieng (1105810)",
+        "nama_panggilan": "Job Ochieng (1105810)",
+        "tanggal_lahir": "2003-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Machethe (13747)",
+        "nama_panggilan": "John Machethe (13747)",
+        "tanggal_lahir": "1979-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nakuru",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aldrine Kibet (1401324)",
+        "nama_panggilan": "Aldrine Kibet (1401324)",
+        "tanggal_lahir": "2006-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Were (208085)",
+        "nama_panggilan": "Paul Were (208085)",
+        "tanggal_lahir": "1993-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nyahururu",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismael Dunga (263484)",
+        "nama_panggilan": "Ismael Dunga (263484)",
+        "tanggal_lahir": "1993-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kwale",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abud Omar (272920)",
+        "nama_panggilan": "Abud Omar (272920)",
+        "tanggal_lahir": "1992-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mombasa",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Curtis Osano (48449)",
+        "nama_panggilan": "Curtis Osano (48449)",
+        "tanggal_lahir": "1987-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nakuru",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erick Otieno (442118)",
+        "nama_panggilan": "Erick Otieno (442118)",
+        "tanggal_lahir": "1996-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Okumu (453376)",
+        "nama_panggilan": "Joseph Okumu (453376)",
+        "tanggal_lahir": "1997-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kisumu",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arnold Origi (62019)",
+        "nama_panggilan": "Arnold Origi (62019)",
+        "tanggal_lahir": "1983-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Wanyama (77760)",
+        "nama_panggilan": "Victor Wanyama (77760)",
+        "tanggal_lahir": "1991-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timothy Ouma (952979)",
+        "nama_panggilan": "Timothy Ouma (952979)",
+        "tanggal_lahir": "2004-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edwin Oluoch (85833)",
+        "nama_panggilan": "Edwin Oluoch (85833)",
+        "tanggal_lahir": "1988-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kenya"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

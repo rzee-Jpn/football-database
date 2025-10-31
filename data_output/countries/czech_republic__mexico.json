@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Czech Republic  Mexico",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Villaseca (728580)",
+        "nama_panggilan": "Daniel Villaseca (728580)",
+        "tanggal_lahir": "2003-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gauteng",
+          "negara": "Czech Republic"
+        },
+        "kewarganegaraan": [
+          "Czech Republic  Mexico"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

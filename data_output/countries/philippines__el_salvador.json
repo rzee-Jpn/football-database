@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  El Salvador",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Mariona (913067)",
+        "nama_panggilan": "Javier Mariona (913067)",
+        "tanggal_lahir": "2004-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Los Altos, California",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  El Salvador"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

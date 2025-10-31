@@ -1,0 +1,823 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel",
+  "total_pemain": 24,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ohad Portman (1042582)",
+        "nama_panggilan": "Ohad Portman (1042582)",
+        "tanggal_lahir": "2006-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dan Mori (112674)",
+        "nama_panggilan": "Dan Mori (112674)",
+        "tanggal_lahir": "1988-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tel Aviv",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Munas Dabbur (145866)",
+        "nama_panggilan": "Munas Dabbur (145866)",
+        "tanggal_lahir": "1992-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nazareth",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kobi Nachtailer (16027)",
+        "nama_panggilan": "Kobi Nachtailer (16027)",
+        "tanggal_lahir": "1978-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yadin Zaris (234003)",
+        "nama_panggilan": "Yadin Zaris (234003)",
+        "tanggal_lahir": "1990-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herzliya",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tal Ben Haim (20714)",
+        "nama_panggilan": "Tal Ben Haim (20714)",
+        "tanggal_lahir": "1982-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rishon LeZion",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaniv Katan (24475)",
+        "nama_panggilan": "Yaniv Katan (24475)",
+        "tanggal_lahir": "1981-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kiryat Ata",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dekel Keinan (24476)",
+        "nama_panggilan": "Dekel Keinan (24476)",
+        "tanggal_lahir": "1984-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosh haNikra",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ofir Haim (25474)",
+        "nama_panggilan": "Ofir Haim (25474)",
+        "tanggal_lahir": "1975-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ramat Gan",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anas Mahamid (344201)",
+        "nama_panggilan": "Anas Mahamid (344201)",
+        "tanggal_lahir": "1998-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Umm al-Fahm",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eyal Berkovic (3231)",
+        "nama_panggilan": "Eyal Berkovic (3231)",
+        "tanggal_lahir": "1972-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Regba",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mido Badarna (379097)",
+        "nama_panggilan": "Mido Badarna (379097)",
+        "tanggal_lahir": "1995-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sakhnin",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raz Shlomo (396635)",
+        "nama_panggilan": "Raz Shlomo (396635)",
+        "tanggal_lahir": "1999-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashkelon",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omri Luzon (412600)",
+        "nama_panggilan": "Omri Luzon (412600)",
+        "tanggal_lahir": "1999-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Petah Tikva",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Abu Fani (414243)",
+        "nama_panggilan": "Mohammed Abu Fani (414243)",
+        "tanggal_lahir": "1998-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kafr-Qara",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "164.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahmoud Jaber (467151)",
+        "nama_panggilan": "Mahmoud Jaber (467151)",
+        "tanggal_lahir": "1999-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tayibe",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osama Khalaila (470495)",
+        "nama_panggilan": "Osama Khalaila (470495)",
+        "tanggal_lahir": "1998-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sakhnin",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Avi Tikva (4858)",
+        "nama_panggilan": "Avi Tikva (4858)",
+        "tanggal_lahir": "1976-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Netanya",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liel Abada (519514)",
+        "nama_panggilan": "Liel Abada (519514)",
+        "tanggal_lahir": "2001-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Petach Tikva",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oz Ifrah (58343)",
+        "nama_panggilan": "Oz Ifrah (58343)",
+        "tanggal_lahir": "1982-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beer Sheva",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dor Turgeman (703460)",
+        "nama_panggilan": "Dor Turgeman (703460)",
+        "tanggal_lahir": "2003-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashdod",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yossi Benayoun (7858)",
+        "nama_panggilan": "Yossi Benayoun (7858)",
+        "tanggal_lahir": "1980-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dimona",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Meir Cohen (97831)",
+        "nama_panggilan": "Meir Cohen (97831)",
+        "tanggal_lahir": "1972-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Beit She'an",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karem Zoabi (982557)",
+        "nama_panggilan": "Karem Zoabi (982557)",
+        "tanggal_lahir": "2006-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tamra, Jezreel Valley",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

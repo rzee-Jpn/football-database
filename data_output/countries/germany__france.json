@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  France",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabian Montabell (19254)",
+        "nama_panggilan": "Fabian Montabell (19254)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hannover",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leroy Sané (192565)",
+        "nama_panggilan": "Leroy Sané (192565)",
+        "tanggal_lahir": "1996-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Essen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Regnier (224454)",
+        "nama_panggilan": "Thomas Regnier (224454)",
+        "tanggal_lahir": "1994-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeff Chabot (303219)",
+        "nama_panggilan": "Jeff Chabot (303219)",
+        "tanggal_lahir": "1998-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hanau",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sidi Sané (410561)",
+        "nama_panggilan": "Sidi Sané (410561)",
+        "tanggal_lahir": "2003-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Essen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Felix Irorere (472224)",
+        "nama_panggilan": "Felix Irorere (472224)",
+        "tanggal_lahir": "2002-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Denis",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathan Winkler (685448)",
+        "nama_panggilan": "Nathan Winkler (685448)",
+        "tanggal_lahir": "2004-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Strasbourg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Founes (795120)",
+        "nama_panggilan": "Kevin Founes (795120)",
+        "tanggal_lahir": "2003-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chemnitz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Compper (9340)",
+        "nama_panggilan": "Marvin Compper (9340)",
+        "tanggal_lahir": "1985-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tübingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

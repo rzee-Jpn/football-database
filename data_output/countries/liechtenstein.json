@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liechtenstein",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Hasler (114038)",
+        "nama_panggilan": "Nicolas Hasler (114038)",
+        "tanggal_lahir": "1991-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaduz",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandro Wieser (130227)",
+        "nama_panggilan": "Sandro Wieser (130227)",
+        "tanggal_lahir": "1993-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaduz",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronny Büchel (44263)",
+        "nama_panggilan": "Ronny Büchel (44263)",
+        "tanggal_lahir": "1982-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaduz",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lars Traber (521438)",
+        "nama_panggilan": "Lars Traber (521438)",
+        "tanggal_lahir": "2000-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rorschach",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim-Tiado Oehri (606968)",
+        "nama_panggilan": "Tim-Tiado Oehri (606968)",
+        "tanggal_lahir": "2003-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Büchel (66708)",
+        "nama_panggilan": "Benjamin Büchel (66708)",
+        "tanggal_lahir": "1989-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ruggell",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Silvan Schädler (927424)",
+        "nama_panggilan": "Silvan Schädler (927424)",
+        "tanggal_lahir": "2006-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Liechtenstein"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

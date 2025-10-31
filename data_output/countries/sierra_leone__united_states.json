@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sierra Leone  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malachi Jones (1214906)",
+        "nama_panggilan": "Malachi Jones (1214906)",
+        "tanggal_lahir": "2003-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kei Kamara (39049)",
+        "nama_panggilan": "Kei Kamara (39049)",
+        "tanggal_lahir": "1984-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kenema",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Augustine Williams (454110)",
+        "nama_panggilan": "Augustine Williams (454110)",
+        "tanggal_lahir": "1997-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

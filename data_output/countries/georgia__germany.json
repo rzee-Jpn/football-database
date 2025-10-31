@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  Germany",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shalva Ogbaidze (528866)",
+        "nama_panggilan": "Shalva Ogbaidze (528866)",
+        "tanggal_lahir": "2002-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiflis",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

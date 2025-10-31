@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Czech Republic  North Macedonia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marek Jankulovski (3532)",
+        "nama_panggilan": "Marek Jankulovski (3532)",
+        "tanggal_lahir": "1977-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ostrava",
+          "negara": "Czech Republic"
+        },
+        "kewarganegaraan": [
+          "Czech Republic  North Macedonia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

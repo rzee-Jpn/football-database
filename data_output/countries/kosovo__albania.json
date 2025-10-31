@@ -1,0 +1,823 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Albania",
+  "total_pemain": 24,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elvaris Suplja (1057583)",
+        "nama_panggilan": "Elvaris Suplja (1057583)",
+        "tanggal_lahir": "2006-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siena",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edion Jashari (1344959)",
+        "nama_panggilan": "Edion Jashari (1344959)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Genc Bytyci (186676)",
+        "nama_panggilan": "Genc Bytyci (186676)",
+        "tanggal_lahir": "1984-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gjelbrim Taipi (190459)",
+        "nama_panggilan": "Gjelbrim Taipi (190459)",
+        "tanggal_lahir": "1992-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujanovac",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Besart Berisha (17257)",
+        "nama_panggilan": "Besart Berisha (17257)",
+        "tanggal_lahir": "1985-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtinë",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vedat Muriqi (256267)",
+        "nama_panggilan": "Vedat Muriqi (256267)",
+        "tanggal_lahir": "1994-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prizren",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Rrahmani (257732)",
+        "nama_panggilan": "Amir Rrahmani (257732)",
+        "tanggal_lahir": "1994-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtinë",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bernard Berisha (240226)",
+        "nama_panggilan": "Bernard Berisha (240226)",
+        "tanggal_lahir": "1991-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Peć",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alban Meha (28252)",
+        "nama_panggilan": "Alban Meha (28252)",
+        "tanggal_lahir": "1986-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mitrovicë",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milot Rashica (291739)",
+        "nama_panggilan": "Milot Rashica (291739)",
+        "tanggal_lahir": "1996-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vushtrri",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Domgjoni (318844)",
+        "nama_panggilan": "David Domgjoni (318844)",
+        "tanggal_lahir": "1997-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prizren",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mërgim Vojvoda (336125)",
+        "nama_panggilan": "Mërgim Vojvoda (336125)",
+        "tanggal_lahir": "1995-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hof (Saale)",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismet Sinani (371370)",
+        "nama_panggilan": "Ismet Sinani (371370)",
+        "tanggal_lahir": "1999-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belluno",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emir Sahiti (403177)",
+        "nama_panggilan": "Emir Sahiti (403177)",
+        "tanggal_lahir": "1998-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zemun",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Ujkani (42744)",
+        "nama_panggilan": "Samir Ujkani (42744)",
+        "tanggal_lahir": "1988-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Resnik, Vushtrri",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edon Zhegrova (496857)",
+        "nama_panggilan": "Edon Zhegrova (496857)",
+        "tanggal_lahir": "1999-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herford",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Betim Halimi (497190)",
+        "nama_panggilan": "Betim Halimi (497190)",
+        "tanggal_lahir": "1996-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pozheran",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "204.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lirim Kastrati (531218)",
+        "nama_panggilan": "Lirim Kastrati (531218)",
+        "tanggal_lahir": "1999-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ogošte / Hogosht",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jetmir Topalli (600222)",
+        "nama_panggilan": "Jetmir Topalli (600222)",
+        "tanggal_lahir": "1998-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Soponicë, Kaçanik",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andi Hoti (656095)",
+        "nama_panggilan": "Andi Hoti (656095)",
+        "tanggal_lahir": "2003-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uster",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Baton Zabergja (755164)",
+        "nama_panggilan": "Baton Zabergja (755164)",
+        "tanggal_lahir": "2001-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vushtrri",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorent Talla (943115)",
+        "nama_panggilan": "Lorent Talla (943115)",
+        "tanggal_lahir": "2005-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilir Azemi (94674)",
+        "nama_panggilan": "Ilir Azemi (94674)",
+        "tanggal_lahir": "1992-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtinë",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amar Gerxhaliu (866177)",
+        "nama_panggilan": "Amar Gerxhaliu (866177)",
+        "tanggal_lahir": "2002-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vushtrri",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Albania"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

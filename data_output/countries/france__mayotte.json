@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Mayotte",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yanis Dahalani (1143328)",
+        "nama_panggilan": "Yanis Dahalani (1143328)",
+        "tanggal_lahir": "2005-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mamoudzou",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Mayotte"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keyliane Abdallah (1183719)",
+        "nama_panggilan": "Keyliane Abdallah (1183719)",
+        "tanggal_lahir": "2006-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Mayotte"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

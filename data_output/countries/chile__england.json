@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lawrence Vigouroux (243591)",
+        "nama_panggilan": "Lawrence Vigouroux (243591)",
+        "tanggal_lahir": "1993-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  England"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Brereton Díaz (426192)",
+        "nama_panggilan": "Ben Brereton Díaz (426192)",
+        "tanggal_lahir": "1999-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stoke-on-Trent",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

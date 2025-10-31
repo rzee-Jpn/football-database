@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Serbia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marko Stojadinovic (1031810)",
+        "nama_panggilan": "Marko Stojadinovic (1031810)",
+        "tanggal_lahir": "2004-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brampton, Ontario",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Serbia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Kapor (1164963)",
+        "nama_panggilan": "Stefan Kapor (1164963)",
+        "tanggal_lahir": "2009-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Canada  Serbia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Srdjan Djekanovic (50986)",
+        "nama_panggilan": "Srdjan Djekanovic (50986)",
+        "tanggal_lahir": "1983-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Karajovanovic (675259)",
+        "nama_panggilan": "Stefan Karajovanovic (675259)",
+        "tanggal_lahir": "1999-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gatineau, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Serbia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milan Borjan (67797)",
+        "nama_panggilan": "Milan Borjan (67797)",
+        "tanggal_lahir": "1987-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Knin",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Serbia"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Madagascar  Guadeloupe",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Morgan Jean-Pierre (356481)",
+        "nama_panggilan": "Morgan Jean-Pierre (356481)",
+        "tanggal_lahir": "1992-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Les Abymes",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar  Guadeloupe"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Türkiye",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramazan Özcan (16498)",
+        "nama_panggilan": "Ramazan Özcan (16498)",
+        "tanggal_lahir": "1984-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hohenems",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dursun Karatay (16506)",
+        "nama_panggilan": "Dursun Karatay (16506)",
+        "tanggal_lahir": "1984-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bludenz",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sabri Vural (16517)",
+        "nama_panggilan": "Sabri Vural (16517)",
+        "tanggal_lahir": "1983-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bülent Kaan Bilgen (29450)",
+        "nama_panggilan": "Bülent Kaan Bilgen (29450)",
+        "tanggal_lahir": "1977-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ekrem Dag (3059)",
+        "nama_panggilan": "Ekrem Dag (3059)",
+        "tanggal_lahir": "1980-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mardin",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cem Atan (36244)",
+        "nama_panggilan": "Cem Atan (36244)",
+        "tanggal_lahir": "1985-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bursa",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muhammed Barutcu (401846)",
+        "nama_panggilan": "Muhammed Barutcu (401846)",
+        "tanggal_lahir": "1998-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Can Keleş (451642)",
+        "nama_panggilan": "Can Keleş (451642)",
+        "tanggal_lahir": "2001-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Semih Yasar (53807)",
+        "nama_panggilan": "Semih Yasar (53807)",
+        "tanggal_lahir": "1988-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Muhammed Ildiz (59059)",
+        "nama_panggilan": "Muhammed Ildiz (59059)",
+        "tanggal_lahir": "1991-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emirhan Acar (808651)",
+        "nama_panggilan": "Emirhan Acar (808651)",
+        "tanggal_lahir": "2005-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Innsbruck",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bekem Bicki (854139)",
+        "nama_panggilan": "Bekem Bicki (854139)",
+        "tanggal_lahir": "2004-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dornbirn",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Türkiye"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hongkong  Sweden",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Jojo (706332)",
+        "nama_panggilan": "Alex Jojo (706332)",
+        "tanggal_lahir": "1999-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Causeway Bay",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Sweden"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

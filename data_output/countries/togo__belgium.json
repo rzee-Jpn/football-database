@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  Belgium",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Godwin Gagban (1112758)",
+        "nama_panggilan": "Godwin Gagban (1112758)",
+        "tanggal_lahir": "2002-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Asamoah (232848)",
+        "nama_panggilan": "Samuel Asamoah (232848)",
+        "tanggal_lahir": "1994-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Belgium"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Henen (202831)",
+        "nama_panggilan": "David Henen (202831)",
+        "tanggal_lahir": "1996-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Libramont-Chevigny",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Belgium"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fadel Gobitaka (405973)",
+        "nama_panggilan": "Fadel Gobitaka (405973)",
+        "tanggal_lahir": "1998-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sint-Agatha-Berchem",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Belgium"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adji-Martin Aharrh (859111)",
+        "nama_panggilan": "Adji-Martin Aharrh (859111)",
+        "tanggal_lahir": "2002-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Togo  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia  Guinea",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alsény Keita (8333)",
+        "nama_panggilan": "Alsény Keita (8333)",
+        "tanggal_lahir": "1983-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Massanta",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Guinea"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Czech Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrico Tatti (993982)",
+        "nama_panggilan": "Enrico Tatti (993982)",
+        "tanggal_lahir": "2006-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Borgo San Lorenzo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Czech Republic"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

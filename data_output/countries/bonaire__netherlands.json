@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bonaire  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jort van der Sande (330909)",
+        "nama_panggilan": "Jort van der Sande (330909)",
+        "tanggal_lahir": "1996-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "'s-Hertogenbosch",
+          "negara": "Bonaire"
+        },
+        "kewarganegaraan": [
+          "Bonaire  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quincy Hoeve (702834)",
+        "nama_panggilan": "Quincy Hoeve (702834)",
+        "tanggal_lahir": "2003-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kralendijk",
+          "negara": "Bonaire"
+        },
+        "kewarganegaraan": [
+          "Bonaire  Netherlands"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeffry Puriel (667263)",
+        "nama_panggilan": "Jeffry Puriel (667263)",
+        "tanggal_lahir": "2002-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Bonaire"
+        },
+        "kewarganegaraan": [
+          "Bonaire  Netherlands"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

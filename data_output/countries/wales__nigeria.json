@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Nigeria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chike Kandi (255818)",
+        "nama_panggilan": "Chike Kandi (255818)",
+        "tanggal_lahir": "1995-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

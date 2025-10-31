@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Senna Szokol (1176176)",
+        "nama_panggilan": "Senna Szokol (1176176)",
+        "tanggal_lahir": "2006-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almere",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dávid Kiprich (183194)",
+        "nama_panggilan": "Dávid Kiprich (183194)",
+        "tanggal_lahir": "1994-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dordrecht",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Netherlands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

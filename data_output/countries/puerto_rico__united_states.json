@@ -1,0 +1,789 @@
+{
+  "kategori": "negara",
+  "nama_group": "Puerto Rico  United States",
+  "total_pemain": 23,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Izaiah Garza (1240999)",
+        "nama_panggilan": "Izaiah Garza (1240999)",
+        "tanggal_lahir": "2006-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Ortiz (1191972)",
+        "nama_panggilan": "Cristian Ortiz (1191972)",
+        "tanggal_lahir": "2005-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zarek Valentin (173492)",
+        "nama_panggilan": "Zarek Valentin (173492)",
+        "tanggal_lahir": "1991-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lancaster, Pennsylvania",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taylor Graham (26835)",
+        "nama_panggilan": "Taylor Graham (26835)",
+        "tanggal_lahir": "1980-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fair Oaks, Kalifornien",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jason Hernández (28153)",
+        "nama_panggilan": "Jason Hernández (28153)",
+        "tanggal_lahir": "1983-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josh Saunders (32414)",
+        "nama_panggilan": "Josh Saunders (32414)",
+        "tanggal_lahir": "1981-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grants Pass, Oregon",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Orlando Pérez (30930)",
+        "nama_panggilan": "Orlando Pérez (30930)",
+        "tanggal_lahir": "1977-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pomona, Kalifornien",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steven Echevarria (375570)",
+        "nama_panggilan": "Steven Echevarria (375570)",
+        "tanggal_lahir": "1996-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slate Hill, New York",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Arrieta (42017)",
+        "nama_panggilan": "Cristian Arrieta (42017)",
+        "tanggal_lahir": "1979-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orlando, Florida",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Rivera (457588)",
+        "nama_panggilan": "Ricardo Rivera (457588)",
+        "tanggal_lahir": "1997-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Juan",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raúl González (498920)",
+        "nama_panggilan": "Raúl González (498920)",
+        "tanggal_lahir": "1994-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ocean Springs, Mississippi",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Angking (559599)",
+        "nama_panggilan": "Isaac Angking (559599)",
+        "tanggal_lahir": "2000-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Providence, Rhode Island",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alec Díaz (615556)",
+        "nama_panggilan": "Alec Díaz (615556)",
+        "tanggal_lahir": "2001-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Juan",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolás Cardona (615771)",
+        "nama_panggilan": "Nicolás Cardona (615771)",
+        "tanggal_lahir": "1999-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Juan",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terry Boss (59702)",
+        "nama_panggilan": "Terry Boss (59702)",
+        "tanggal_lahir": "1981-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Philomath, Oregon",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaden Servania (627421)",
+        "nama_panggilan": "Jaden Servania (627421)",
+        "tanggal_lahir": "2001-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham, Alabama",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gio Calderón (629794)",
+        "nama_panggilan": "Gio Calderón (629794)",
+        "tanggal_lahir": "2002-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "North Haven, Connecticut",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Colby Quiñónes (799506)",
+        "nama_panggilan": "Colby Quiñónes (799506)",
+        "tanggal_lahir": "2003-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bedford, New Hampshire",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kupono Low (72102)",
+        "nama_panggilan": "Kupono Low (72102)",
+        "tanggal_lahir": "1978-12-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Honolulu, Hawaii",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilfredo Rivera (750537)",
+        "nama_panggilan": "Wilfredo Rivera (750537)",
+        "tanggal_lahir": "2003-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Juan",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beto Ydrach (765519)",
+        "nama_panggilan": "Beto Ydrach (765519)",
+        "tanggal_lahir": "2001-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orlando, Florida",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Flores (954361)",
+        "nama_panggilan": "Brian Flores (954361)",
+        "tanggal_lahir": "2003-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremy Hall (99856)",
+        "nama_panggilan": "Jeremy Hall (99856)",
+        "tanggal_lahir": "1988-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampa, Florida",
+          "negara": "Puerto Rico"
+        },
+        "kewarganegaraan": [
+          "Puerto Rico  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

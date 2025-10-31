@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  France",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Thomas (103630)",
+        "nama_panggilan": "Simon Thomas (103630)",
+        "tanggal_lahir": "1990-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Victoria, British Columbia",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luka Boiteau (1067261)",
+        "nama_panggilan": "Luka Boiteau (1067261)",
+        "tanggal_lahir": "2006-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sèvres",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismael Cajazzo (1180701)",
+        "nama_panggilan": "Ismael Cajazzo (1180701)",
+        "tanggal_lahir": "2004-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montréal",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karl Ouimette (184249)",
+        "nama_panggilan": "Karl Ouimette (184249)",
+        "tanggal_lahir": "1992-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Repentigny, Québec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Piette (189019)",
+        "nama_panggilan": "Samuel Piette (189019)",
+        "tanggal_lahir": "1994-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Le Gardeur, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Beaulieu-Bourgault (35695)",
+        "nama_panggilan": "Jonathan Beaulieu-Bourgault (35695)",
+        "tanggal_lahir": "1988-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zachary Brault-Guillard (395676)",
+        "nama_panggilan": "Zachary Brault-Guillard (395676)",
+        "tanggal_lahir": "1998-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Delmas",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Philippe Davies (41123)",
+        "nama_panggilan": "Philippe Davies (41123)",
+        "tanggal_lahir": "1990-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Longueuil, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Desjardins (459300)",
+        "nama_panggilan": "Axel Desjardins (459300)",
+        "tanggal_lahir": "2000-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreal, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Clément Bayiha (589005)",
+        "nama_panggilan": "Clément Bayiha (589005)",
+        "tanggal_lahir": "1999-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charles-Andreas Brym (595028)",
+        "nama_panggilan": "Charles-Andreas Brym (595028)",
+        "tanggal_lahir": "1998-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colombes",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Sirois (749407)",
+        "nama_panggilan": "Jonathan Sirois (749407)",
+        "tanggal_lahir": "2001-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "LaSalle, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Justin Smith (904712)",
+        "nama_panggilan": "Justin Smith (904712)",
+        "tanggal_lahir": "2003-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  France"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

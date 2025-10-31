@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Cyprus",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "João Leonardo (55458)",
+        "nama_panggilan": "João Leonardo (55458)",
+        "tanggal_lahir": "1985-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Campinas",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Cyprus"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kosovo  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nart Ahmeti (1068833)",
+        "nama_panggilan": "Nart Ahmeti (1068833)",
+        "tanggal_lahir": "2006-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Prishtine",
+          "negara": "Kosovo"
+        },
+        "kewarganegaraan": [
+          "Kosovo  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

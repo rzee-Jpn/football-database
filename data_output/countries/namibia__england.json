@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Namibia  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Nyambe (348469)",
+        "nama_panggilan": "Ryan Nyambe (348469)",
+        "tanggal_lahir": "1997-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katima Mulilo",
+          "negara": "Namibia"
+        },
+        "kewarganegaraan": [
+          "Namibia  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

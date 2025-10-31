@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Nigeria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pascal Mozie (1163767)",
+        "nama_panggilan": "Pascal Mozie (1163767)",
+        "tanggal_lahir": "2008-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland  Nigeria"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martins Ekwueme (16948)",
+        "nama_panggilan": "Martins Ekwueme (16948)",
+        "tanggal_lahir": "1985-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aboh",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Nigeria"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kelechukwu Ibe-Torti (607450)",
+        "nama_panggilan": "Kelechukwu Ibe-Torti (607450)",
+        "tanggal_lahir": "2002-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abudja",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Nigeria"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

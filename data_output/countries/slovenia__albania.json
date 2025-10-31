@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Albania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liridon Osmanaj (100012)",
+        "nama_panggilan": "Liridon Osmanaj (100012)",
+        "tanggal_lahir": "1992-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maribor",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Albania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

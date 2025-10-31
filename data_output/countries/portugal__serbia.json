@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladimir Stojković (265454)",
+        "nama_panggilan": "Vladimir Stojković (265454)",
+        "tanggal_lahir": "1996-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Matosinhos",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Serbia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Jokanović (764635)",
+        "nama_panggilan": "Luca Jokanović (764635)",
+        "tanggal_lahir": "1999-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Funchal",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  Serbia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

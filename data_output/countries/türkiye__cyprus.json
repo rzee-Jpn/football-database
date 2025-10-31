@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Cyprus",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kenan Özer (38195)",
+        "nama_panggilan": "Kenan Özer (38195)",
+        "tanggal_lahir": "1987-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Cyprus"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmet Sivri (529251)",
+        "nama_panggilan": "Ahmet Sivri (529251)",
+        "tanggal_lahir": "1999-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nicosia",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Cyprus"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

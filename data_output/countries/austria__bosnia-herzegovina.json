@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Bosnia-Herzegovina",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alen Orman (12700)",
+        "nama_panggilan": "Alen Orman (12700)",
+        "tanggal_lahir": "1978-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bugojno",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reuf Durakovic (129667)",
+        "nama_panggilan": "Reuf Durakovic (129667)",
+        "tanggal_lahir": "1994-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Feldkirch",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samir Hasanovic (118700)",
+        "nama_panggilan": "Samir Hasanovic (118700)",
+        "tanggal_lahir": "1965-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gornji Šepak",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armin Mujakic (158149)",
+        "nama_panggilan": "Armin Mujakic (158149)",
+        "tanggal_lahir": "1995-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Omic (317424)",
+        "nama_panggilan": "Denis Omic (317424)",
+        "tanggal_lahir": "1999-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ried Im Innkreis",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djuro Mihaljica (31897)",
+        "nama_panggilan": "Djuro Mihaljica (31897)",
+        "tanggal_lahir": "1986-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mrkonjić Grad",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edin Salkic (31502)",
+        "nama_panggilan": "Edin Salkic (31502)",
+        "tanggal_lahir": "1989-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dario Dakovic (37801)",
+        "nama_panggilan": "Dario Dakovic (37801)",
+        "tanggal_lahir": "1987-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darko Bodul (39373)",
+        "nama_panggilan": "Darko Bodul (39373)",
+        "tanggal_lahir": "1989-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sarajevo",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihret Topcagic (53522)",
+        "nama_panggilan": "Mihret Topcagic (53522)",
+        "tanggal_lahir": "1988-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gračanica",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Kanuric (580612)",
+        "nama_panggilan": "Benjamin Kanuric (580612)",
+        "tanggal_lahir": "2003-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enns",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nadir Ajanovic (689022)",
+        "nama_panggilan": "Nadir Ajanovic (689022)",
+        "tanggal_lahir": "2005-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

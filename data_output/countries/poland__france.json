@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  France",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Popow (1051191)",
+        "nama_panggilan": "Marc Popow (1051191)",
+        "tanggal_lahir": "2004-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Konstancin-Jeziorna",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ludovic Obraniak (12106)",
+        "nama_panggilan": "Ludovic Obraniak (12106)",
+        "tanggal_lahir": "1984-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Longeville-lès-Metz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julien Tadrowski (155213)",
+        "nama_panggilan": "Julien Tadrowski (155213)",
+        "tanggal_lahir": "1993-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roncq",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damien Perquis (31050)",
+        "nama_panggilan": "Damien Perquis (31050)",
+        "tanggal_lahir": "1984-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Troyes",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacek Bak (5472)",
+        "nama_panggilan": "Jacek Bak (5472)",
+        "tanggal_lahir": "1973-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lublin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

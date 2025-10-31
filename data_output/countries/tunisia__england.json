@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Radhi Jaïdi (19310)",
+        "nama_panggilan": "Radhi Jaïdi (19310)",
+        "tanggal_lahir": "1975-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gabès",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  England"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

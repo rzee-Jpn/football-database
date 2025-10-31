@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Georgia  Switzerland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giorgi Ivanishvili (66033)",
+        "nama_panggilan": "Giorgi Ivanishvili (66033)",
+        "tanggal_lahir": "1989-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiflis",
+          "negara": "Georgia"
+        },
+        "kewarganegaraan": [
+          "Georgia  Switzerland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

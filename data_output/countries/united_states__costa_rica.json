@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Costa Rica",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Brown-Samper (1168038)",
+        "nama_panggilan": "Isaac Brown-Samper (1168038)",
+        "tanggal_lahir": "2007-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norwich, Connecticut",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Costa Rica"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kurt Morsink (59482)",
+        "nama_panggilan": "Kurt Morsink (59482)",
+        "tanggal_lahir": "1984-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orlando, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Costa Rica"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Preston Kilwien (657782)",
+        "nama_panggilan": "Preston Kilwien (657782)",
+        "tanggal_lahir": "1996-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lubbock, Texas",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Costa Rica"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Spain",
+  "total_pemain": 25,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeison Murillo (131102)",
+        "nama_panggilan": "Jeison Murillo (131102)",
+        "tanggal_lahir": "1992-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barranquilla",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dilan Zárate (1160833)",
+        "nama_panggilan": "Dilan Zárate (1160833)",
+        "tanggal_lahir": "2007-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cartagena de Indias",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilson Cuero (118520)",
+        "nama_panggilan": "Wilson Cuero (118520)",
+        "tanggal_lahir": "1992-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juanjo Narváez (213595)",
+        "nama_panggilan": "Juanjo Narváez (213595)",
+        "tanggal_lahir": "1995-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Juan de Pasto",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johan Mojica (262939)",
+        "nama_panggilan": "Johan Mojica (262939)",
+        "tanggal_lahir": "1992-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhon Mosquera (239126)",
+        "nama_panggilan": "Jhon Mosquera (239126)",
+        "tanggal_lahir": "1990-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jilmar Torres (274556)",
+        "nama_panggilan": "Jilmar Torres (274556)",
+        "tanggal_lahir": "1994-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Armenia",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Julian De La Cuesta (29129)",
+        "nama_panggilan": "José Julian De La Cuesta (29129)",
+        "tanggal_lahir": "1983-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhon Mondragón (298602)",
+        "nama_panggilan": "Jhon Mondragón (298602)",
+        "tanggal_lahir": "1994-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuluá",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Suárez (424784)",
+        "nama_panggilan": "Luis Suárez (424784)",
+        "tanggal_lahir": "1997-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Marta",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cucho Hernández (459463)",
+        "nama_panggilan": "Cucho Hernández (459463)",
+        "tanggal_lahir": "1999-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pereira",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neyder Lozano (468700)",
+        "nama_panggilan": "Neyder Lozano (468700)",
+        "tanggal_lahir": "1994-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quibdó",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucho García (469737)",
+        "nama_panggilan": "Lucho García (469737)",
+        "tanggal_lahir": "1998-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barranquilla",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Camilo Becerra (504506)",
+        "nama_panggilan": "Juan Camilo Becerra (504506)",
+        "tanggal_lahir": "1998-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valledupar",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juergen Elitim (607057)",
+        "nama_panggilan": "Juergen Elitim (607057)",
+        "tanggal_lahir": "1999-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cartagena de Indias",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juanda Fuentes (636701)",
+        "nama_panggilan": "Juanda Fuentes (636701)",
+        "tanggal_lahir": "2003-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montería",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jorge Caicedo (642423)",
+        "nama_panggilan": "Jorge Caicedo (642423)",
+        "tanggal_lahir": "1995-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brayan Angulo (67866)",
+        "nama_panggilan": "Brayan Angulo (67866)",
+        "tanggal_lahir": "1989-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bernardo Espinosa (64598)",
+        "nama_panggilan": "Bernardo Espinosa (64598)",
+        "tanggal_lahir": "1989-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edwin Laszo (655427)",
+        "nama_panggilan": "Edwin Laszo (655427)",
+        "tanggal_lahir": "1999-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santander de Quilichao",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Perea (662456)",
+        "nama_panggilan": "Juan Perea (662456)",
+        "tanggal_lahir": "2002-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Medellín",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Quintero (742864)",
+        "nama_panggilan": "Luis Quintero (742864)",
+        "tanggal_lahir": "2004-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alicante",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Zuleta (958472)",
+        "nama_panggilan": "Isaac Zuleta (958472)",
+        "tanggal_lahir": "2003-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dani Torres (93142)",
+        "nama_panggilan": "Dani Torres (93142)",
+        "tanggal_lahir": "1989-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caquezá",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Rodríguez (88103)",
+        "nama_panggilan": "James Rodríguez (88103)",
+        "tanggal_lahir": "1991-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cúcuta",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

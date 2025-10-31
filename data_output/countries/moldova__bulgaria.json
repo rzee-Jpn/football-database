@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Moldova  Bulgaria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petar Gospodinov (889837)",
+        "nama_panggilan": "Petar Gospodinov (889837)",
+        "tanggal_lahir": "2005-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sofia",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Bulgaria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Stoianov (980639)",
+        "nama_panggilan": "David Stoianov (980639)",
+        "tanggal_lahir": "2006-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chișinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Bulgaria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nichita Caragheorghi (992701)",
+        "nama_panggilan": "Nichita Caragheorghi (992701)",
+        "tanggal_lahir": "2007-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Moldova  Bulgaria"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

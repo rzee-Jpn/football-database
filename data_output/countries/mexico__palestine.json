@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Palestine",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Sabah (53189)",
+        "nama_panggilan": "Miguel Sabah (53189)",
+        "tanggal_lahir": "1979-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cancún",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Palestine"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yuriy Gonzi (199912)",
+        "nama_panggilan": "Yuriy Gonzi (199912)",
+        "tanggal_lahir": "1994-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Petersburg",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Italy"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrea Pelamatti (650994)",
+        "nama_panggilan": "Andrea Pelamatti (650994)",
+        "tanggal_lahir": "2004-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esine",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Italy"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

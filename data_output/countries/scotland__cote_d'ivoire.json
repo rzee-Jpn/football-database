@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Cote d'Ivoire",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Siriki Dembélé (488656)",
+        "nama_panggilan": "Siriki Dembélé (488656)",
+        "tanggal_lahir": "1996-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouragahio",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

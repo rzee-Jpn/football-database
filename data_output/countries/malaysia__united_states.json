@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malaysia  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wan Kuzain (464344)",
+        "nama_panggilan": "Wan Kuzain (464344)",
+        "tanggal_lahir": "1998-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carbondale, Illinois",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

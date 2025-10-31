@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Kenya",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikkel Bischoff (3302)",
+        "nama_panggilan": "Mikkel Bischoff (3302)",
+        "tanggal_lahir": "1982-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amager",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Kenya"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Clement Bischoff (953893)",
+        "nama_panggilan": "Clement Bischoff (953893)",
+        "tanggal_lahir": "2005-12-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Kenya"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

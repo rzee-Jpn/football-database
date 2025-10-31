@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Dominican Republic",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubén Vargas (345886)",
+        "nama_panggilan": "Rubén Vargas (345886)",
+        "tanggal_lahir": "1998-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adligenswil",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Jaquez (539798)",
+        "nama_panggilan": "Luca Jaquez (539798)",
+        "tanggal_lahir": "2003-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luzern",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dölf Bieri (564367)",
+        "nama_panggilan": "Dölf Bieri (564367)",
+        "tanggal_lahir": "1998-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarau",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramon Garbani Nerini (704411)",
+        "nama_panggilan": "Ramon Garbani Nerini (704411)",
+        "tanggal_lahir": "2003-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Guidotti (725541)",
+        "nama_panggilan": "Kevin Guidotti (725541)",
+        "tanggal_lahir": "2003-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sorengo",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

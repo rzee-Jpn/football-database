@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burkina Faso  Belgium",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahamoudou Kéré (12949)",
+        "nama_panggilan": "Mahamoudou Kéré (12949)",
+        "tanggal_lahir": "1982-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouagadougou",
+          "negara": "Burkina Faso"
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Belgium"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saidou Panandetiguiri (17112)",
+        "nama_panggilan": "Saidou Panandetiguiri (17112)",
+        "tanggal_lahir": "1984-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouhigouya",
+          "negara": "Burkina Faso"
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Belgium"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sacha Bansé (409485)",
+        "nama_panggilan": "Sacha Bansé (409485)",
+        "tanggal_lahir": "2001-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Geel",
+          "negara": "Burkina Faso"
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Virgile Marquis (649433)",
+        "nama_panggilan": "Virgile Marquis (649433)",
+        "tanggal_lahir": "1999-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Burkina Faso  Belgium"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

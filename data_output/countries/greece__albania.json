@@ -1,0 +1,687 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Albania",
+  "total_pemain": 20,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diamanti Legisi (1060259)",
+        "nama_panggilan": "Diamanti Legisi (1060259)",
+        "tanggal_lahir": "2006-10-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edi Dajlani (1066811)",
+        "nama_panggilan": "Edi Dajlani (1066811)",
+        "tanggal_lahir": "2004-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Orestis Kalemi (1178104)",
+        "nama_panggilan": "Orestis Kalemi (1178104)",
+        "tanggal_lahir": "2006-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Theodoros Mingos (342253)",
+        "nama_panggilan": "Theodoros Mingos (342253)",
+        "tanggal_lahir": "1998-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athens",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fiorin Durmishaj (331672)",
+        "nama_panggilan": "Fiorin Durmishaj (331672)",
+        "tanggal_lahir": "1996-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Avlona",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marios Vrousai (395632)",
+        "nama_panggilan": "Marios Vrousai (395632)",
+        "tanggal_lahir": "1998-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berat",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adriano Skenderaj (465542)",
+        "nama_panggilan": "Adriano Skenderaj (465542)",
+        "tanggal_lahir": "2000-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athens",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lazaros Rota (483916)",
+        "nama_panggilan": "Lazaros Rota (483916)",
+        "tanggal_lahir": "1997-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katerini",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristo Shehu (454287)",
+        "nama_panggilan": "Kristo Shehu (454287)",
+        "tanggal_lahir": "2000-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eretria",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arensi Rota (457710)",
+        "nama_panggilan": "Arensi Rota (457710)",
+        "tanggal_lahir": "1995-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Korce",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christos Giousis (512993)",
+        "nama_panggilan": "Christos Giousis (512993)",
+        "tanggal_lahir": "1999-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Volos",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elini Dimoutsos (51984)",
+        "nama_panggilan": "Elini Dimoutsos (51984)",
+        "tanggal_lahir": "1988-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lushnjë",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elios Minaj (544258)",
+        "nama_panggilan": "Elios Minaj (544258)",
+        "tanggal_lahir": "2001-09-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vasilios Kostika (609646)",
+        "nama_panggilan": "Vasilios Kostika (609646)",
+        "tanggal_lahir": "1999-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lamia",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandros Tereziou (609651)",
+        "nama_panggilan": "Alexandros Tereziou (609651)",
+        "tanggal_lahir": "2000-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nafplio",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vasilios Tzeli (611653)",
+        "nama_panggilan": "Vasilios Tzeli (611653)",
+        "tanggal_lahir": "1993-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgios Tsitsis (58643)",
+        "nama_panggilan": "Georgios Tsitsis (58643)",
+        "tanggal_lahir": "1989-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berat",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marios Sinanaj (800024)",
+        "nama_panggilan": "Marios Sinanaj (800024)",
+        "tanggal_lahir": "2004-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skrapar",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andreas Ntoi (724035)",
+        "nama_panggilan": "Andreas Ntoi (724035)",
+        "tanggal_lahir": "2003-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athens",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonid Mina (896154)",
+        "nama_panggilan": "Leonid Mina (896154)",
+        "tanggal_lahir": "2004-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Preveza",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Albania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

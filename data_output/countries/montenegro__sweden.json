@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Montenegro  Sweden",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dino Islamovic (208095)",
+        "nama_panggilan": "Dino Islamovic (208095)",
+        "tanggal_lahir": "1994-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hudiksvall",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Sweden"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sead Haksabanovic (349300)",
+        "nama_panggilan": "Sead Haksabanovic (349300)",
+        "tanggal_lahir": "1999-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hyltebruk",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Sweden"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

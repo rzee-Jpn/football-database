@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Paraguay  Brazil",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Coronel (378871)",
+        "nama_panggilan": "Carlos Coronel (378871)",
+        "tanggal_lahir": "1996-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Corumbá",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Brazil"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aníbal Vega (543371)",
+        "nama_panggilan": "Aníbal Vega (543371)",
+        "tanggal_lahir": "2000-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ponta Porã",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Brazil"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

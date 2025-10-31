@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Panama  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "JD Gunn (1232953)",
+        "nama_panggilan": "JD Gunn (1232953)",
+        "tanggal_lahir": "2000-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Albrook",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama  United States"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aníbal Godoy (161671)",
+        "nama_panggilan": "Aníbal Godoy (161671)",
+        "tanggal_lahir": "1990-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Harvey (628806)",
+        "nama_panggilan": "Carlos Harvey (628806)",
+        "tanggal_lahir": "2000-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama  United States"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

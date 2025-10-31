@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Germany",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thomas Gebauer (12137)",
+        "nama_panggilan": "Thomas Gebauer (12137)",
+        "tanggal_lahir": "1982-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Augsburg",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjamin Kaufmann (223963)",
+        "nama_panggilan": "Benjamin Kaufmann (223963)",
+        "tanggal_lahir": "1997-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bregenz",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Müller (237230)",
+        "nama_panggilan": "Tim Müller (237230)",
+        "tanggal_lahir": "1996-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mainz",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Kristof (349465)",
+        "nama_panggilan": "Nicolas Kristof (349465)",
+        "tanggal_lahir": "1999-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heidelberg",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Andric (289042)",
+        "nama_panggilan": "Mario Andric (289042)",
+        "tanggal_lahir": "1998-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kufstein",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Harnik (31159)",
+        "nama_panggilan": "Martin Harnik (31159)",
+        "tanggal_lahir": "1987-06-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chris Weigelt (523902)",
+        "nama_panggilan": "Chris Weigelt (523902)",
+        "tanggal_lahir": "2002-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christoph Wiener-Pucher (905112)",
+        "nama_panggilan": "Christoph Wiener-Pucher (905112)",
+        "tanggal_lahir": "2006-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Graz",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

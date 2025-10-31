@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Portugal",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vitaliy Lystsov (207519)",
+        "nama_panggilan": "Vitaliy Lystsov (207519)",
+        "tanggal_lahir": "1995-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Voronezh",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Portugal"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Zlobin (282654)",
+        "nama_panggilan": "Ivan Zlobin (282654)",
+        "tanggal_lahir": "1997-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tyumen",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Portugal"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandr Mostovoy (7556)",
+        "nama_panggilan": "Aleksandr Mostovoy (7556)",
+        "tanggal_lahir": "1968-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomonosov, Leningrad Region",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Portugal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

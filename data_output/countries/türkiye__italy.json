@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Alabay (1007184)",
+        "nama_panggilan": "Sebastian Alabay (1007184)",
+        "tanggal_lahir": "2005-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grosseto",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Gucciardo (388866)",
+        "nama_panggilan": "Sergio Gucciardo (388866)",
+        "tanggal_lahir": "1999-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freiburg",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Italy"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rayyan Baniya (394872)",
+        "nama_panggilan": "Rayyan Baniya (394872)",
+        "tanggal_lahir": "1999-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bologna",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Italy"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

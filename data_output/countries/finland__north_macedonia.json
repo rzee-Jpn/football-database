@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  North Macedonia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Berat Sadik (48898)",
+        "nama_panggilan": "Berat Sadik (48898)",
+        "tanggal_lahir": "1986-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skopje",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  North Macedonia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

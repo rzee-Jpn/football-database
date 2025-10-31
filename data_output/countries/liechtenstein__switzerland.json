@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liechtenstein  Switzerland",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Frick (21755)",
+        "nama_panggilan": "Mario Frick (21755)",
+        "tanggal_lahir": "1974-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chur GR",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Switzerland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jens Hofer (254961)",
+        "nama_panggilan": "Jens Hofer (254961)",
+        "tanggal_lahir": "1997-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Biel/Bienne",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Switzerland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yves Oehri (45037)",
+        "nama_panggilan": "Yves Oehri (45037)",
+        "tanggal_lahir": "1987-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nürensdorf",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Switzerland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Lüchinger (66709)",
+        "nama_panggilan": "Simon Lüchinger (66709)",
+        "tanggal_lahir": "2002-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaduz",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Switzerland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

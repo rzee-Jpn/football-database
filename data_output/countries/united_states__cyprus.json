@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Cyprus",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jack Panayotou (930814)",
+        "nama_panggilan": "Jack Panayotou (930814)",
+        "tanggal_lahir": "2004-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cambridge, Massachusetts",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Cyprus"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

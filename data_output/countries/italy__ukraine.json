@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Ukraine",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Riccardo Yanovskyy (1186670)",
+        "nama_panggilan": "Riccardo Yanovskyy (1186670)",
+        "tanggal_lahir": "2006-12-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Latina",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Ukraine"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikita Contini (250683)",
+        "nama_panggilan": "Nikita Contini (250683)",
+        "tanggal_lahir": "1996-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cherkasy",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Ukraine"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergej Luca Piccirillo (459153)",
+        "nama_panggilan": "Sergej Luca Piccirillo (459153)",
+        "tanggal_lahir": "2000-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ukrajinka",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Ukraine"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Caniggia (459696)",
+        "nama_panggilan": "Matteo Caniggia (459696)",
+        "tanggal_lahir": "2000-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Ukraine"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikola Bablyuk (704794)",
+        "nama_panggilan": "Mikola Bablyuk (704794)",
+        "tanggal_lahir": "2003-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Savona",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Ukraine"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

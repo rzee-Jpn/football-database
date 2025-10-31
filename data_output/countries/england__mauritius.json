@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Mauritius",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Sanasy (13609)",
+        "nama_panggilan": "Kevin Sanasy (13609)",
+        "tanggal_lahir": "1984-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leeds",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Mauritius"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

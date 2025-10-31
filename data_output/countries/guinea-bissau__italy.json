@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea-Bissau  Italy",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maurice Gomis (354381)",
+        "nama_panggilan": "Maurice Gomis (354381)",
+        "tanggal_lahir": "1997-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuneo",
+          "negara": "Guinea-Bissau"
+        },
+        "kewarganegaraan": [
+          "Guinea-Bissau  Italy"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

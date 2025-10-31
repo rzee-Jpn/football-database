@@ -1,0 +1,517 @@
+{
+  "kategori": "negara",
+  "nama_group": "Paraguay  Argentina",
+  "total_pemain": 15,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ariel Gamarra (1065383)",
+        "nama_panggilan": "Ariel Gamarra (1065383)",
+        "tanggal_lahir": "2003-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asunción",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Pavia (1270948)",
+        "nama_panggilan": "Diego Pavia (1270948)",
+        "tanggal_lahir": "2005-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad Madero",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Santana (20000)",
+        "nama_panggilan": "Jonathan Santana (20000)",
+        "tanggal_lahir": "1981-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Cubas (323872)",
+        "nama_panggilan": "Andrés Cubas (323872)",
+        "tanggal_lahir": "1996-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aristóbulo del Valle",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kaku (355817)",
+        "nama_panggilan": "Kaku (355817)",
+        "tanggal_lahir": "1995-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudadela",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raúl Bobadilla (51356)",
+        "nama_panggilan": "Raúl Bobadilla (51356)",
+        "tanggal_lahir": "1987-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Barrios (58516)",
+        "nama_panggilan": "Lucas Barrios (58516)",
+        "tanggal_lahir": "1984-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Fernando",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Delio Toledo (7969)",
+        "nama_panggilan": "Delio Toledo (7969)",
+        "tanggal_lahir": "1976-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coronel Báez",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramón Sosa (745191)",
+        "nama_panggilan": "Ramón Sosa (745191)",
+        "tanggal_lahir": "1999-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maracaná",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Iturbe (81455)",
+        "nama_panggilan": "Juan Iturbe (81455)",
+        "tanggal_lahir": "1993-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cesar Leguizamón (82391)",
+        "nama_panggilan": "Cesar Leguizamón (82391)",
+        "tanggal_lahir": "1982-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asunción",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Núñez (830476)",
+        "nama_panggilan": "Cristian Núñez (830476)",
+        "tanggal_lahir": "2000-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Itapé",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Portillo (873243)",
+        "nama_panggilan": "Samuel Portillo (873243)",
+        "tanggal_lahir": "1994-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Itauguá",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javier Báez (87360)",
+        "nama_panggilan": "Javier Báez (87360)",
+        "tanggal_lahir": "1990-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo del Campo Grande",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arturo Ordano (864764)",
+        "nama_panggilan": "Arturo Ordano (864764)",
+        "tanggal_lahir": "1994-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Itaguá",
+          "negara": "Paraguay"
+        },
+        "kewarganegaraan": [
+          "Paraguay  Argentina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

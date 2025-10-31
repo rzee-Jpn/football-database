@@ -1,0 +1,653 @@
+{
+  "kategori": "negara",
+  "nama_group": "Indonesia  Netherlands",
+  "total_pemain": 19,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joey Pelupessy (187293)",
+        "nama_panggilan": "Joey Pelupessy (187293)",
+        "tanggal_lahir": "1993-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almelo",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thom Haye (178219)",
+        "nama_panggilan": "Thom Haye (178219)",
+        "tanggal_lahir": "1995-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Calvin Verdonk (258364)",
+        "nama_panggilan": "Calvin Verdonk (258364)",
+        "tanggal_lahir": "1997-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dordrecht",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Diks (335209)",
+        "nama_panggilan": "Kevin Diks (335209)",
+        "tanggal_lahir": "1996-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Apeldoorn",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ole Romeny (361070)",
+        "nama_panggilan": "Ole Romeny (361070)",
+        "tanggal_lahir": "2000-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maarten Paes (396077)",
+        "nama_panggilan": "Maarten Paes (396077)",
+        "tanggal_lahir": "1998-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shayne Pattynama (409335)",
+        "nama_panggilan": "Shayne Pattynama (409335)",
+        "tanggal_lahir": "1998-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lelystad",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ragnar Oratmangoen (410854)",
+        "nama_panggilan": "Ragnar Oratmangoen (410854)",
+        "tanggal_lahir": "1998-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oss",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dean James (529223)",
+        "nama_panggilan": "Dean James (529223)",
+        "tanggal_lahir": "2000-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leiden",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eliano Reijnders (538057)",
+        "nama_panggilan": "Eliano Reijnders (538057)",
+        "tanggal_lahir": "2000-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tampere",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Idzes (546926)",
+        "nama_panggilan": "Jay Idzes (546926)",
+        "tanggal_lahir": "2000-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mierlo",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mees Hilgers (562702)",
+        "nama_panggilan": "Mees Hilgers (562702)",
+        "tanggal_lahir": "2001-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amersfoort",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathan Tjoe-A-On (606023)",
+        "nama_panggilan": "Nathan Tjoe-A-On (606023)",
+        "tanggal_lahir": "2001-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Justin Hubner (678641)",
+        "nama_panggilan": "Justin Hubner (678641)",
+        "tanggal_lahir": "2003-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Den Bosch",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivar Jenner (656796)",
+        "nama_panggilan": "Ivar Jenner (656796)",
+        "tanggal_lahir": "2004-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Utrecht",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miliano Jonathans (723008)",
+        "nama_panggilan": "Miliano Jonathans (723008)",
+        "tanggal_lahir": "2004-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arnhem",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauro Zijlstra (935250)",
+        "nama_panggilan": "Mauro Zijlstra (935250)",
+        "tanggal_lahir": "2004-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaandam",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dion Markx (930986)",
+        "nama_panggilan": "Dion Markx (930986)",
+        "tanggal_lahir": "2005-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tim Geypens (880604)",
+        "nama_panggilan": "Tim Geypens (880604)",
+        "tanggal_lahir": "2005-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oldenzaal",
+          "negara": "Indonesia"
+        },
+        "kewarganegaraan": [
+          "Indonesia  Netherlands"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

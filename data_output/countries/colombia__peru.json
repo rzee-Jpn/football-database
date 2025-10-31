@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Peru",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yorleys Mena (132353)",
+        "nama_panggilan": "Yorleys Mena (132353)",
+        "tanggal_lahir": "1991-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Apartadó",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Peru"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Serna (745927)",
+        "nama_panggilan": "Kevin Serna (745927)",
+        "tanggal_lahir": "1997-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Popayán",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Peru"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

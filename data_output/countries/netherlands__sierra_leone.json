@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Sierra Leone",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Sankoh (572919)",
+        "nama_panggilan": "Mohamed Sankoh (572919)",
+        "tanggal_lahir": "2003-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rijswijk",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Babadi (813437)",
+        "nama_panggilan": "Isaac Babadi (813437)",
+        "tanggal_lahir": "2005-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ismeal Kabia (964561)",
+        "nama_panggilan": "Ismeal Kabia (964561)",
+        "tanggal_lahir": "2005-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hengelo",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

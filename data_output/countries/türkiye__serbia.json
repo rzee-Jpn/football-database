@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Serbia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmet Mert Koşar (1262720)",
+        "nama_panggilan": "Ahmet Mert Koşar (1262720)",
+        "tanggal_lahir": "2006-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Serbia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bertuğ Bayar (383430)",
+        "nama_panggilan": "Bertuğ Bayar (383430)",
+        "tanggal_lahir": "1996-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Serbia"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Efe Tatlı (696876)",
+        "nama_panggilan": "Efe Tatlı (696876)",
+        "tanggal_lahir": "2002-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Istanbul",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Serbia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

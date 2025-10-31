@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Iran",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valdemar Sadrifar (605454)",
+        "nama_panggilan": "Valdemar Sadrifar (605454)",
+        "tanggal_lahir": "2001-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarhus",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Iran"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  Brazil",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francisco Arrué (67203)",
+        "nama_panggilan": "Francisco Arrué (67203)",
+        "tanggal_lahir": "1977-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Brazil"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Fernandes (89708)",
+        "nama_panggilan": "Junior Fernandes (89708)",
+        "tanggal_lahir": "1988-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tocopilla",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

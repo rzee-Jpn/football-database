@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Varas (354133)",
+        "nama_panggilan": "Kevin Varas (354133)",
+        "tanggal_lahir": "1993-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Italy"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edgar Valera (936863)",
+        "nama_panggilan": "Edgar Valera (936863)",
+        "tanggal_lahir": "2005-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genova",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "Faroe Islands",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claus Bech Jörgensen (10046)",
+        "nama_panggilan": "Claus Bech Jörgensen (10046)",
+        "tanggal_lahir": "1976-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Holstebro",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viljormur Davidsen (102123)",
+        "nama_panggilan": "Viljormur Davidsen (102123)",
+        "tanggal_lahir": "1991-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Runavík",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jákup Mikkelsen (12839)",
+        "nama_panggilan": "Jákup Mikkelsen (12839)",
+        "tanggal_lahir": "1970-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Klaksvík",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jóan Símun Edmundsson (123683)",
+        "nama_panggilan": "Jóan Símun Edmundsson (123683)",
+        "tanggal_lahir": "1991-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toftir",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gunnar Nielsen (23086)",
+        "nama_panggilan": "Gunnar Nielsen (23086)",
+        "tanggal_lahir": "1986-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tórshavn",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Holst (23463)",
+        "nama_panggilan": "Christian Holst (23463)",
+        "tanggal_lahir": "1981-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Svendborg",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sonni Nattestad (201994)",
+        "nama_panggilan": "Sonni Nattestad (201994)",
+        "tanggal_lahir": "1994-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tórshavn",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Meinhard Olsen (246596)",
+        "nama_panggilan": "Meinhard Olsen (246596)",
+        "tanggal_lahir": "1997-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tórshavn",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonas Hansen (280330)",
+        "nama_panggilan": "Jonas Hansen (280330)",
+        "tanggal_lahir": "1995-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esbjerg",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teit Jacobsen (285289)",
+        "nama_panggilan": "Teit Jacobsen (285289)",
+        "tanggal_lahir": "1998-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Petur Knudsen (285294)",
+        "nama_panggilan": "Petur Knudsen (285294)",
+        "tanggal_lahir": "1998-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brandur Hendriksson (289855)",
+        "nama_panggilan": "Brandur Hendriksson (289855)",
+        "tanggal_lahir": "1995-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skálavík",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rógvi Jacobsen (37265)",
+        "nama_panggilan": "Rógvi Jacobsen (37265)",
+        "tanggal_lahir": "1979-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Klaksvík",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tem Hansen (44485)",
+        "nama_panggilan": "Tem Hansen (44485)",
+        "tanggal_lahir": "1984-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vallø",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrias Edmundsson (495839)",
+        "nama_panggilan": "Andrias Edmundsson (495839)",
+        "tanggal_lahir": "2000-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johan Byrial Hansen (50588)",
+        "nama_panggilan": "Johan Byrial Hansen (50588)",
+        "tanggal_lahir": "1975-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Horsens",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rasmus Nilsson (701071)",
+        "nama_panggilan": "Rasmus Nilsson (701071)",
+        "tanggal_lahir": "2002-10-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elias Rusborg (668732)",
+        "nama_panggilan": "Elias Rusborg (668732)",
+        "tanggal_lahir": "2003-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogi Lökin (73102)",
+        "nama_panggilan": "Bogi Lökin (73102)",
+        "tanggal_lahir": "1988-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Runavík",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hallur Hansson (95984)",
+        "nama_panggilan": "Hallur Hansson (95984)",
+        "tanggal_lahir": "1992-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tórshavn",
+          "negara": "Faroe Islands"
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mattias Hellisdal (991476)",
+        "nama_panggilan": "Mattias Hellisdal (991476)",
+        "tanggal_lahir": "2006-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Faroe Islands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

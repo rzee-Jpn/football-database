@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Finland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boris Rotenberg (54310)",
+        "nama_panggilan": "Boris Rotenberg (54310)",
+        "tanggal_lahir": "1986-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leningrad",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Finland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

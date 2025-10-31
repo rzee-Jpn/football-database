@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  Southern Sudan",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Loturi (670119)",
+        "nama_panggilan": "Victor Loturi (670119)",
+        "tanggal_lahir": "2001-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Calgary, Alberta",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  Southern Sudan"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

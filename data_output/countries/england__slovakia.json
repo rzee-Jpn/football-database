@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Slovakia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Fisher (707963)",
+        "nama_panggilan": "Hugo Fisher (707963)",
+        "tanggal_lahir": "2004-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bojnice",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Slovakia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

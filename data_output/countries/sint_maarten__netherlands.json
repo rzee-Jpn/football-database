@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sint Maarten  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chovanie Amatkarijo (435019)",
+        "nama_panggilan": "Chovanie Amatkarijo (435019)",
+        "tanggal_lahir": "1999-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Den Haag",
+          "negara": "Sint Maarten"
+        },
+        "kewarganegaraan": [
+          "Sint Maarten  Netherlands"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilounga Pata (502132)",
+        "nama_panggilan": "Ilounga Pata (502132)",
+        "tanggal_lahir": "2000-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Philipsburg",
+          "negara": "Sint Maarten"
+        },
+        "kewarganegaraan": [
+          "Sint Maarten  Netherlands"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Hughes (577400)",
+        "nama_panggilan": "Sergio Hughes (577400)",
+        "tanggal_lahir": "2002-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rotterdam",
+          "negara": "Sint Maarten"
+        },
+        "kewarganegaraan": [
+          "Sint Maarten  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

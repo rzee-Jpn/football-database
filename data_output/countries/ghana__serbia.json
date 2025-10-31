@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ghana  Serbia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osman Bukari (548650)",
+        "nama_panggilan": "Osman Bukari (548650)",
+        "tanggal_lahir": "1998-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  Serbia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

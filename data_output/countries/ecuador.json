@@ -1,0 +1,3407 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador",
+  "total_pemain": 100,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Carlos Paredes (100507)",
+        "nama_panggilan": "Juan Carlos Paredes (100507)",
+        "tanggal_lahir": "1987-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miler Bolaños (103246)",
+        "nama_panggilan": "Miler Bolaños (103246)",
+        "tanggal_lahir": "1990-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Allen Obando (1050373)",
+        "nama_panggilan": "Allen Obando (1050373)",
+        "tanggal_lahir": "2006-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quito",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kendry Páez (1052439)",
+        "nama_panggilan": "Kendry Páez (1052439)",
+        "tanggal_lahir": "2007-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jefferson Valverde (1107048)",
+        "nama_panggilan": "Jefferson Valverde (1107048)",
+        "tanggal_lahir": "1999-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maelo Rentería (1136448)",
+        "nama_panggilan": "Maelo Rentería (1136448)",
+        "tanggal_lahir": "2004-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón Eloy del María",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcos Caicedo (128476)",
+        "nama_panggilan": "Marcos Caicedo (128476)",
+        "tanggal_lahir": "1991-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Francisco Cevallos Jr. (129725)",
+        "nama_panggilan": "José Francisco Cevallos Jr. (129725)",
+        "tanggal_lahir": "1995-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ángel Mena (123609)",
+        "nama_panggilan": "Ángel Mena (123609)",
+        "tanggal_lahir": "1988-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordy Burbano (1185513)",
+        "nama_panggilan": "Jordy Burbano (1185513)",
+        "tanggal_lahir": "2003-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jefferson Sierra (119162)",
+        "nama_panggilan": "Jefferson Sierra (119162)",
+        "tanggal_lahir": "1993-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manta",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enner Valencia (139503)",
+        "nama_panggilan": "Enner Valencia (139503)",
+        "tanggal_lahir": "1989-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaime Ayoví (139494)",
+        "nama_panggilan": "Jaime Ayoví (139494)",
+        "tanggal_lahir": "1988-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Arboleda (139867)",
+        "nama_panggilan": "Robert Arboleda (139867)",
+        "tanggal_lahir": "1991-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vinicio Angulo (141444)",
+        "nama_panggilan": "Vinicio Angulo (141444)",
+        "tanggal_lahir": "1988-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Augusto Batioja (144782)",
+        "nama_panggilan": "Augusto Batioja (144782)",
+        "tanggal_lahir": "1990-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Cazares (146367)",
+        "nama_panggilan": "Juan Cazares (146367)",
+        "tanggal_lahir": "1992-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quinindé",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frickson Erazo (163434)",
+        "nama_panggilan": "Frickson Erazo (163434)",
+        "tanggal_lahir": "1988-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Gruezo (189475)",
+        "nama_panggilan": "Carlos Gruezo (189475)",
+        "tanggal_lahir": "1995-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santo Domingo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renato Ibarra (191830)",
+        "nama_panggilan": "Renato Ibarra (191830)",
+        "tanggal_lahir": "1991-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ambuquí",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brayan de la Torre (193931)",
+        "nama_panggilan": "Brayan de la Torre (193931)",
+        "tanggal_lahir": "1991-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joao Plata (179319)",
+        "nama_panggilan": "Joao Plata (179319)",
+        "tanggal_lahir": "1992-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "160.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julio Angulo (212283)",
+        "nama_panggilan": "Julio Angulo (212283)",
+        "tanggal_lahir": "1990-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Penilla (212309)",
+        "nama_panggilan": "Cristian Penilla (212309)",
+        "tanggal_lahir": "1991-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Orejuela (213317)",
+        "nama_panggilan": "Carlos Orejuela (213317)",
+        "tanggal_lahir": "1993-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arturo Mina (263628)",
+        "nama_panggilan": "Arturo Mina (263628)",
+        "tanggal_lahir": "1990-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río Verde",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Alemán (263792)",
+        "nama_panggilan": "Christian Alemán (263792)",
+        "tanggal_lahir": "1996-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Estrada (265481)",
+        "nama_panggilan": "Michael Estrada (265481)",
+        "tanggal_lahir": "1996-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eryc Castillo (266451)",
+        "nama_panggilan": "Eryc Castillo (266451)",
+        "tanggal_lahir": "1995-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Caicedo (242991)",
+        "nama_panggilan": "Luis Caicedo (242991)",
+        "tanggal_lahir": "1992-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronie Carrillo (348039)",
+        "nama_panggilan": "Ronie Carrillo (348039)",
+        "tanggal_lahir": "1996-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quito",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joao Ortiz (348630)",
+        "nama_panggilan": "Joao Ortiz (348630)",
+        "tanggal_lahir": "1996-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aníbal Chalá (278796)",
+        "nama_panggilan": "Aníbal Chalá (278796)",
+        "tanggal_lahir": "1996-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mira",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Porozo (279508)",
+        "nama_panggilan": "Daniel Porozo (279508)",
+        "tanggal_lahir": "1997-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Betancourt (285855)",
+        "nama_panggilan": "Jonathan Betancourt (285855)",
+        "tanggal_lahir": "1995-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Borja (319318)",
+        "nama_panggilan": "Jonathan Borja (319318)",
+        "tanggal_lahir": "1994-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibarra",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Angulo (319911)",
+        "nama_panggilan": "Bryan Angulo (319911)",
+        "tanggal_lahir": "1995-11-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Xavier Arreaga (323854)",
+        "nama_panggilan": "Xavier Arreaga (323854)",
+        "tanggal_lahir": "1994-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Madison Julio (330041)",
+        "nama_panggilan": "Madison Julio (330041)",
+        "tanggal_lahir": "1997-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pimampiro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhegson Méndez (330682)",
+        "nama_panggilan": "Jhegson Méndez (330682)",
+        "tanggal_lahir": "1997-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mira",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Sierra (332829)",
+        "nama_panggilan": "Jordan Sierra (332829)",
+        "tanggal_lahir": "1997-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manta",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Valencia (33544)",
+        "nama_panggilan": "Antonio Valencia (33544)",
+        "tanggal_lahir": "1985-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nueva Loja",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Andrade (29564)",
+        "nama_panggilan": "Omar Andrade (29564)",
+        "tanggal_lahir": "1986-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibarra",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jefferson Intriago (310639)",
+        "nama_panggilan": "Jefferson Intriago (310639)",
+        "tanggal_lahir": "1996-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Junin",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anderson Julio (310640)",
+        "nama_panggilan": "Anderson Julio (310640)",
+        "tanggal_lahir": "1996-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pimampiro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Cabezas (312735)",
+        "nama_panggilan": "Bryan Cabezas (312735)",
+        "tanggal_lahir": "1997-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quevedo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Alvarado (379838)",
+        "nama_panggilan": "Alexander Alvarado (379838)",
+        "tanggal_lahir": "1999-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quevedo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Segovia (385639)",
+        "nama_panggilan": "Luis Segovia (385639)",
+        "tanggal_lahir": "1997-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quito",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Segundo Castillo (38763)",
+        "nama_panggilan": "Segundo Castillo (38763)",
+        "tanggal_lahir": "1982-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Hernández (354640)",
+        "nama_panggilan": "José Hernández (354640)",
+        "tanggal_lahir": "1996-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Maldonado (355482)",
+        "nama_panggilan": "Luis Maldonado (355482)",
+        "tanggal_lahir": "1996-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pasaje",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordy Caicedo (360412)",
+        "nama_panggilan": "Jordy Caicedo (360412)",
+        "tanggal_lahir": "1997-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Machala",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Lara (37392)",
+        "nama_panggilan": "Christian Lara (37392)",
+        "tanggal_lahir": "1980-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quito",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rorys Aragón (39860)",
+        "nama_panggilan": "Rorys Aragón (39860)",
+        "tanggal_lahir": "1982-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alan Franco (400960)",
+        "nama_panggilan": "Alan Franco (400960)",
+        "tanggal_lahir": "1998-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alfredo Baquerizo Moreno",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Washington Corozo (400964)",
+        "nama_panggilan": "Washington Corozo (400964)",
+        "tanggal_lahir": "1998-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yeison Guerrero (400962)",
+        "nama_panggilan": "Yeison Guerrero (400962)",
+        "tanggal_lahir": "1998-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Landázuri (410696)",
+        "nama_panggilan": "Anthony Landázuri (410696)",
+        "tanggal_lahir": "1997-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Palacios (425567)",
+        "nama_panggilan": "Diego Palacios (425567)",
+        "tanggal_lahir": "1999-07-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Félix Torres (468174)",
+        "nama_panggilan": "Félix Torres (468174)",
+        "tanggal_lahir": "1997-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Willian Vargas (473096)",
+        "nama_panggilan": "Willian Vargas (473096)",
+        "tanggal_lahir": "1997-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gustavo Vallecilla (477041)",
+        "nama_panggilan": "Gustavo Vallecilla (477041)",
+        "tanggal_lahir": "1999-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Cifuentes (450211)",
+        "nama_panggilan": "José Cifuentes (450211)",
+        "tanggal_lahir": "1999-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Angelo Preciado (450241)",
+        "nama_panggilan": "Angelo Preciado (450241)",
+        "tanggal_lahir": "1998-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Shushufindi",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduardo Hurtado (487654)",
+        "nama_panggilan": "Eduardo Hurtado (487654)",
+        "tanggal_lahir": "1969-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jackson Porozo (491616)",
+        "nama_panggilan": "Jackson Porozo (491616)",
+        "tanggal_lahir": "2000-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Micolta (491625)",
+        "nama_panggilan": "Santiago Micolta (491625)",
+        "tanggal_lahir": "2000-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Oro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhon Espinoza (514380)",
+        "nama_panggilan": "Jhon Espinoza (514380)",
+        "tanggal_lahir": "1999-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stiven Plaza (591375)",
+        "nama_panggilan": "Stiven Plaza (591375)",
+        "tanggal_lahir": "1999-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gonzalo Plata (592735)",
+        "nama_panggilan": "Gonzalo Plata (592735)",
+        "tanggal_lahir": "2000-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Segura (621165)",
+        "nama_panggilan": "Daniel Segura (621165)",
+        "tanggal_lahir": "1999-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río Verde",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergio Quintero (633793)",
+        "nama_panggilan": "Sergio Quintero (633793)",
+        "tanggal_lahir": "1999-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Mercado (64167)",
+        "nama_panggilan": "Peter Mercado (64167)",
+        "tanggal_lahir": "1981-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Andrés Hurtado (680506)",
+        "nama_panggilan": "José Andrés Hurtado (680506)",
+        "tanggal_lahir": "2001-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santo Domingo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Rodríguez (684159)",
+        "nama_panggilan": "Kevin Rodríguez (684159)",
+        "tanggal_lahir": "2000-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibarra",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moisés Caicedo (687626)",
+        "nama_panggilan": "Moisés Caicedo (687626)",
+        "tanggal_lahir": "2001-11-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santo Domingo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhoanner Chávez (713787)",
+        "nama_panggilan": "Jhoanner Chávez (713787)",
+        "tanggal_lahir": "2002-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Francisco de Orellana",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joshué Quiñónez (653327)",
+        "nama_panggilan": "Joshué Quiñónez (653327)",
+        "tanggal_lahir": "2001-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adonis Preciado (656389)",
+        "nama_panggilan": "Adonis Preciado (656389)",
+        "tanggal_lahir": "1997-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Léo Realpe (656409)",
+        "nama_panggilan": "Léo Realpe (656409)",
+        "tanggal_lahir": "2001-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quinindé",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrickson Delgado (659802)",
+        "nama_panggilan": "Patrickson Delgado (659802)",
+        "tanggal_lahir": "2003-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibarra",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Vite (659806)",
+        "nama_panggilan": "Pedro Vite (659806)",
+        "tanggal_lahir": "2002-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Babahoyo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Angulo (659793)",
+        "nama_panggilan": "Marco Angulo (659793)",
+        "tanggal_lahir": "2002-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piero Hincapié (659813)",
+        "nama_panggilan": "Piero Hincapié (659813)",
+        "tanggal_lahir": "2002-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "John Mercado (659804)",
+        "nama_panggilan": "John Mercado (659804)",
+        "tanggal_lahir": "2002-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Willian Pacho (661171)",
+        "nama_panggilan": "Willian Pacho (661171)",
+        "tanggal_lahir": "2001-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quinindé",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jefferson Montero (77932)",
+        "nama_panggilan": "Jefferson Montero (77932)",
+        "tanggal_lahir": "1989-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Babahoyo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denil Castillo (941418)",
+        "nama_panggilan": "Denil Castillo (941418)",
+        "tanggal_lahir": "2004-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alejandro Mendoza (932748)",
+        "nama_panggilan": "Alejandro Mendoza (932748)",
+        "tanggal_lahir": "2005-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quevedo",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeremy Batioja (885176)",
+        "nama_panggilan": "Jeremy Batioja (885176)",
+        "tanggal_lahir": "2003-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quinindé",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alfred Caicedo (885179)",
+        "nama_panggilan": "Alfred Caicedo (885179)",
+        "tanggal_lahir": "2004-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Sánchez (885174)",
+        "nama_panggilan": "Bryan Sánchez (885174)",
+        "tanggal_lahir": "2003-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Ordóñez (893661)",
+        "nama_panggilan": "Joel Ordóñez (893661)",
+        "tanggal_lahir": "2004-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maiky de la Cruz (893662)",
+        "nama_panggilan": "Maiky de la Cruz (893662)",
+        "tanggal_lahir": "2004-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuenca",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alan Minda (897051)",
+        "nama_panggilan": "Alan Minda (897051)",
+        "tanggal_lahir": "2003-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esmeraldas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lenín Ayoví (903612)",
+        "nama_panggilan": "Lenín Ayoví (903612)",
+        "tanggal_lahir": "2002-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eloy Alfaro",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nilson Angulo (903611)",
+        "nama_panggilan": "Nilson Angulo (903611)",
+        "tanggal_lahir": "2003-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Quinindé",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fulton Medina (838759)",
+        "nama_panggilan": "Fulton Medina (838759)",
+        "tanggal_lahir": "2001-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Machala",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Valencia (974374)",
+        "nama_panggilan": "Anthony Valencia (974374)",
+        "tanggal_lahir": "2003-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emerson Pata (981673)",
+        "nama_panggilan": "Emerson Pata (981673)",
+        "tanggal_lahir": "2004-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Ecuador",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Franco (625880)",
+        "nama_panggilan": "David Franco (625880)",
+        "tanggal_lahir": "2001-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Collado Villalba",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Ecuador"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

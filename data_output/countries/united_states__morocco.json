@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Morocco",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zakaria Taifi (1049104)",
+        "nama_panggilan": "Zakaria Taifi (1049104)",
+        "tanggal_lahir": "2005-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orlando, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Elmasnaouy (1257505)",
+        "nama_panggilan": "Ali Elmasnaouy (1257505)",
+        "tanggal_lahir": "2005-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oakland, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Morocco"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

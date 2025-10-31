@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  Brazil",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gonzalo Sorondo (13488)",
+        "nama_panggilan": "Gonzalo Sorondo (13488)",
+        "tanggal_lahir": "1979-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Brazil"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Felipe Carvalho (356685)",
+        "nama_panggilan": "Felipe Carvalho (356685)",
+        "tanggal_lahir": "1993-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rivera",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Brazil"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Monzón (796973)",
+        "nama_panggilan": "Lucas Monzón (796973)",
+        "tanggal_lahir": "2001-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jaguarão",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Brazil"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

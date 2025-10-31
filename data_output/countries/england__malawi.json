@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Malawi",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tamika Mkandawire (3662)",
+        "nama_panggilan": "Tamika Mkandawire (3662)",
+        "tanggal_lahir": "1983-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mzuzu",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malawi"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nelson Khumbeni (654252)",
+        "nama_panggilan": "Nelson Khumbeni (654252)",
+        "tanggal_lahir": "2002-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lilongwe",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Malawi"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Belgium",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jérémy Obin (134282)",
+        "nama_panggilan": "Jérémy Obin (134282)",
+        "tanggal_lahir": "1993-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Knockaert (149237)",
+        "nama_panggilan": "Anthony Knockaert (149237)",
+        "tanggal_lahir": "1991-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roubaix",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxime Lambert (342388)",
+        "nama_panggilan": "Maxime Lambert (342388)",
+        "tanggal_lahir": "1994-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steed Malbranque (3569)",
+        "nama_panggilan": "Steed Malbranque (3569)",
+        "tanggal_lahir": "1980-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mouscron",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Melvin Neves (434515)",
+        "nama_panggilan": "Melvin Neves (434515)",
+        "tanggal_lahir": "1996-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Lefranc (43466)",
+        "nama_panggilan": "Kevin Lefranc (43466)",
+        "tanggal_lahir": "1986-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vitry-le-François",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julien Bertoux (435224)",
+        "nama_panggilan": "Julien Bertoux (435224)",
+        "tanggal_lahir": "1993-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arras",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Rémy (510261)",
+        "nama_panggilan": "Valentin Rémy (510261)",
+        "tanggal_lahir": "1999-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Vitris (569369)",
+        "nama_panggilan": "Axel Vitris (569369)",
+        "tanggal_lahir": "2002-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Albi",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lorenzo Depuidt (654413)",
+        "nama_panggilan": "Lorenzo Depuidt (654413)",
+        "tanggal_lahir": "2003-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nice",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erwan Moutault (805904)",
+        "nama_panggilan": "Erwan Moutault (805904)",
+        "tanggal_lahir": "1999-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuilly-sur-Seine",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Feneuil (728547)",
+        "nama_panggilan": "Brian Feneuil (728547)",
+        "tanggal_lahir": "1996-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eliaquim Mangala (90681)",
+        "nama_panggilan": "Eliaquim Mangala (90681)",
+        "tanggal_lahir": "1991-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colombes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Belgium"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

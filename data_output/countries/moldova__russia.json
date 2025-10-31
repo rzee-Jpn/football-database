@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Moldova  Russia",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexei Koselev (136109)",
+        "nama_panggilan": "Alexei Koselev (136109)",
+        "tanggal_lahir": "1993-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chișinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "200.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Lambarskiy (195728)",
+        "nama_panggilan": "Igor Lambarskiy (195728)",
+        "tanggal_lahir": "1992-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edineţ",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stanislav Ivanov (25653)",
+        "nama_panggilan": "Stanislav Ivanov (25653)",
+        "tanggal_lahir": "1980-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiraspol",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihail Caimacov (414933)",
+        "nama_panggilan": "Mihail Caimacov (414933)",
+        "tanggal_lahir": "1998-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiraspol",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilie Cebanu (42300)",
+        "nama_panggilan": "Ilie Cebanu (42300)",
+        "tanggal_lahir": "1986-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vitalie Bordian (42621)",
+        "nama_panggilan": "Vitalie Bordian (42621)",
+        "tanggal_lahir": "1984-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Epureanu (45340)",
+        "nama_panggilan": "Alexandru Epureanu (45340)",
+        "tanggal_lahir": "1986-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cantemir",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Gatcan (5245)",
+        "nama_panggilan": "Alexandru Gatcan (5245)",
+        "tanggal_lahir": "1984-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chişinău",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Popovici (58246)",
+        "nama_panggilan": "Alexandru Popovici (58246)",
+        "tanggal_lahir": "1977-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tiraspol",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Matiura (89935)",
+        "nama_panggilan": "Andrei Matiura (89935)",
+        "tanggal_lahir": "1981-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Balti",
+          "negara": "Moldova"
+        },
+        "kewarganegaraan": [
+          "Moldova  Russia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

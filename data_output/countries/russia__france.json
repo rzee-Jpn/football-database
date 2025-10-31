@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Aduev (485961)",
+        "nama_panggilan": "Amir Aduev (485961)",
+        "tanggal_lahir": "1999-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ordzhonikidzevskaya, Ingushetia Republic",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

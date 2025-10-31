@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mauritius  Martinique",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rosario Latouchent (333350)",
+        "nama_panggilan": "Rosario Latouchent (333350)",
+        "tanggal_lahir": "1996-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  Martinique"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

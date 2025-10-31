@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Luxembourg",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alisson Kieling (672343)",
+        "nama_panggilan": "Alisson Kieling (672343)",
+        "tanggal_lahir": "2000-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Capanema",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Luxembourg"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bernardo Schappo (699679)",
+        "nama_panggilan": "Bernardo Schappo (699679)",
+        "tanggal_lahir": "1999-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Biguaçu",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Luxembourg"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

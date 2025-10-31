@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Niger  Cote d'Ivoire",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oumar Sako (640692)",
+        "nama_panggilan": "Oumar Sako (640692)",
+        "tanggal_lahir": "1996-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Abobo",
+          "negara": "Niger"
+        },
+        "kewarganegaraan": [
+          "Niger  Cote d'Ivoire"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

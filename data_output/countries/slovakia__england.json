@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovakia  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Casey Shann (969527)",
+        "nama_panggilan": "Casey Shann (969527)",
+        "tanggal_lahir": "2004-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Slovakia"
+        },
+        "kewarganegaraan": [
+          "Slovakia  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

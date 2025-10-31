@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bolivia  Spain",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Rodríguez (1367747)",
+        "nama_panggilan": "Mark Rodríguez (1367747)",
+        "tanggal_lahir": "2005-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Branco (246895)",
+        "nama_panggilan": "Carlos Branco (246895)",
+        "tanggal_lahir": "1993-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaume Cuéllar (466808)",
+        "nama_panggilan": "Jaume Cuéllar (466808)",
+        "tanggal_lahir": "2001-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granollers",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jairo Quinteros (623022)",
+        "nama_panggilan": "Jairo Quinteros (623022)",
+        "tanggal_lahir": "2001-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

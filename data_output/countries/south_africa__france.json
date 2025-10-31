@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "South Africa  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pierre Issa (28950)",
+        "nama_panggilan": "Pierre Issa (28950)",
+        "tanggal_lahir": "1975-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Germiston, Gauteng",
+          "negara": "South Africa"
+        },
+        "kewarganegaraan": [
+          "South Africa  France"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

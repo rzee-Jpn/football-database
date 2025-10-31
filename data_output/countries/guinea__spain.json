@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Spain",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Selu Diallo (1054931)",
+        "nama_panggilan": "Selu Diallo (1054931)",
+        "tanggal_lahir": "2003-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huesca",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Spain"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lass Bangoura (182963)",
+        "nama_panggilan": "Lass Bangoura (182963)",
+        "tanggal_lahir": "1992-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Spain"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Kanté (247276)",
+        "nama_panggilan": "José Kanté (247276)",
+        "tanggal_lahir": "1990-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sabadell",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilaix Moriba (617074)",
+        "nama_panggilan": "Ilaix Moriba (617074)",
+        "tanggal_lahir": "2003-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thierno Barry (709241)",
+        "nama_panggilan": "Thierno Barry (709241)",
+        "tanggal_lahir": "2000-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de Tenerife",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Spain"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

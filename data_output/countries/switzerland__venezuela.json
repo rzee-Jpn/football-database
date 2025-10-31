@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Venezuela",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mattia Desolé (110968)",
+        "nama_panggilan": "Mattia Desolé (110968)",
+        "tanggal_lahir": "1993-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Venezuela"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Anselmi (430586)",
+        "nama_panggilan": "Luca Anselmi (430586)",
+        "tanggal_lahir": "2000-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bellinzona",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Venezuela"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

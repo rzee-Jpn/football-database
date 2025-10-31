@@ -1,0 +1,381 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  England",
+  "total_pemain": 11,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Andrews (1013227)",
+        "nama_panggilan": "George Andrews (1013227)",
+        "tanggal_lahir": "2005-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Riley (1178738)",
+        "nama_panggilan": "Joe Riley (1178738)",
+        "tanggal_lahir": "2005-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fuengirola",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Toral (193593)",
+        "nama_panggilan": "Jon Toral (193593)",
+        "tanggal_lahir": "1995-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reus",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brandon Thomas (251680)",
+        "nama_panggilan": "Brandon Thomas (251680)",
+        "tanggal_lahir": "1995-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santanyí",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Sánchez (403151)",
+        "nama_panggilan": "Robert Sánchez (403151)",
+        "tanggal_lahir": "1997-11-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cartagena",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Mols (425712)",
+        "nama_panggilan": "Stefan Mols (425712)",
+        "tanggal_lahir": "1999-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Andalucia",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amilcar Djau Codjovi (624883)",
+        "nama_panggilan": "Amilcar Djau Codjovi (624883)",
+        "tanggal_lahir": "2002-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateo Joseph (834742)",
+        "nama_panggilan": "Mateo Joseph (834742)",
+        "tanggal_lahir": "2003-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santander",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wellity Lucky (922461)",
+        "nama_panggilan": "Wellity Lucky (922461)",
+        "tanggal_lahir": "2006-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Ander Vilar Robinson (932750)",
+        "nama_panggilan": "Jon Ander Vilar Robinson (932750)",
+        "tanggal_lahir": "2005-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Noja",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mahamadou Susoho (895074)",
+        "nama_panggilan": "Mahamadou Susoho (895074)",
+        "tanggal_lahir": "2005-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Granollers",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Palestine  Qatar",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Al-Zaza (360247)",
+        "nama_panggilan": "Omar Al-Zaza (360247)",
+        "tanggal_lahir": "1991-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  Qatar"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jihad Mohammed Hadeb (562327)",
+        "nama_panggilan": "Jihad Mohammed Hadeb (562327)",
+        "tanggal_lahir": "2000-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  Qatar"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

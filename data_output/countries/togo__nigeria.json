@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Togo  Nigeria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emmanuel Adebayor (8883)",
+        "nama_panggilan": "Emmanuel Adebayor (8883)",
+        "tanggal_lahir": "1984-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lomé",
+          "negara": "Togo"
+        },
+        "kewarganegaraan": [
+          "Togo  Nigeria"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

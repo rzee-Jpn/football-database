@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  South Africa",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Pearlman (1001941)",
+        "nama_panggilan": "Adam Pearlman (1001941)",
+        "tanggal_lahir": "2005-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Johannesburg",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  South Africa"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Bellisomo (103601)",
+        "nama_panggilan": "Luca Bellisomo (103601)",
+        "tanggal_lahir": "1986-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Johannesburg, Gauteng",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  South Africa"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

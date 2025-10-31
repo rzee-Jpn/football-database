@@ -1,0 +1,925 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Wales",
+  "total_pemain": 27,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Brough (13695)",
+        "nama_panggilan": "Michael Brough (13695)",
+        "tanggal_lahir": "1981-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nottingham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nick Fenton (13698)",
+        "nama_panggilan": "Nick Fenton (13698)",
+        "tanggal_lahir": "1979-11-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Preston",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Wildig (121831)",
+        "nama_panggilan": "Aaron Wildig (121831)",
+        "tanggal_lahir": "1992-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hereford",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sam Reed (1228195)",
+        "nama_panggilan": "Sam Reed (1228195)",
+        "tanggal_lahir": "2003-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sheffield",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1993-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cambridge",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Woodyard (148683)",
+        "nama_panggilan": "Alex Woodyard (148683)",
+        "tanggal_lahir": "1993-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gravesend",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johnny Hunt (203199)",
+        "nama_panggilan": "Johnny Hunt (203199)",
+        "tanggal_lahir": "1990-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Phillips (257822)",
+        "nama_panggilan": "Aaron Phillips (257822)",
+        "tanggal_lahir": "1993-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warwick",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lloyd Jones (244040)",
+        "nama_panggilan": "Lloyd Jones (244040)",
+        "tanggal_lahir": "1995-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Plymouth",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Jones (24634)",
+        "nama_panggilan": "David Jones (24634)",
+        "tanggal_lahir": "1984-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Southport",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Mullin (278501)",
+        "nama_panggilan": "Paul Mullin (278501)",
+        "tanggal_lahir": "1994-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arlen Birch (285336)",
+        "nama_panggilan": "Arlen Birch (285336)",
+        "tanggal_lahir": "1996-09-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wrexham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kieran Addison (337228)",
+        "nama_panggilan": "Kieran Addison (337228)",
+        "tanggal_lahir": "1996-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bristol",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lewis Mansell (359195)",
+        "nama_panggilan": "Lewis Mansell (359195)",
+        "tanggal_lahir": "1997-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Burnley",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Turner (39518)",
+        "nama_panggilan": "Ben Turner (39518)",
+        "tanggal_lahir": "1988-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birmingham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tom Lowery (426414)",
+        "nama_panggilan": "Tom Lowery (426414)",
+        "tanggal_lahir": "1997-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Holmes Chapel",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Melbourne (460255)",
+        "nama_panggilan": "Max Melbourne (460255)",
+        "tanggal_lahir": "1998-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solihull",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Shawcross (45861)",
+        "nama_panggilan": "Ryan Shawcross (45861)",
+        "tanggal_lahir": "1987-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Hartigan (491741)",
+        "nama_panggilan": "Anthony Hartigan (491741)",
+        "tanggal_lahir": "2000-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston upon Thames",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kyle John (504507)",
+        "nama_panggilan": "Kyle John (504507)",
+        "tanggal_lahir": "2001-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Doug Tharme (537864)",
+        "nama_panggilan": "Doug Tharme (537864)",
+        "tanggal_lahir": "1999-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Birkenhead",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elliot Parish (62645)",
+        "nama_panggilan": "Elliot Parish (62645)",
+        "tanggal_lahir": "1990-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Towcester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Done (67411)",
+        "nama_panggilan": "Matt Done (67411)",
+        "tanggal_lahir": "1988-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oswestry",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aidan Dowling (657812)",
+        "nama_panggilan": "Aidan Dowling (657812)",
+        "tanggal_lahir": "2002-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nathan Thompson (79725)",
+        "nama_panggilan": "Nathan Thompson (79725)",
+        "tanggal_lahir": "1990-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chester",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sydie Peck (745851)",
+        "nama_panggilan": "Sydie Peck (745851)",
+        "tanggal_lahir": "2004-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashley Phillips (859951)",
+        "nama_panggilan": "Ashley Phillips (859951)",
+        "tanggal_lahir": "2005-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Salford",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Wales"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

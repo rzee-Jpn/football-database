@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Venezuela  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrique Peña Zauner (336325)",
+        "nama_panggilan": "Enrique Peña Zauner (336325)",
+        "tanggal_lahir": "2000-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Offenbach am Main",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Santos (50487)",
+        "nama_panggilan": "Christian Santos (50487)",
+        "tanggal_lahir": "1988-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto Ordaz",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luis Manuel Seijas (55231)",
+        "nama_panggilan": "Luis Manuel Seijas (55231)",
+        "tanggal_lahir": "1986-06-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valencia",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Germany"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

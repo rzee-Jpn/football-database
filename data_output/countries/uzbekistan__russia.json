@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uzbekistan  Russia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sanzhar Tursunov (106632)",
+        "nama_panggilan": "Sanzhar Tursunov (106632)",
+        "tanggal_lahir": "1986-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan  Russia"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vitaliy Denisov (25823)",
+        "nama_panggilan": "Vitaliy Denisov (25823)",
+        "tanggal_lahir": "1987-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan  Russia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergey Lushchan (88694)",
+        "nama_panggilan": "Sergey Lushchan (88694)",
+        "tanggal_lahir": "1973-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan  Russia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

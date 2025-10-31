@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bolivia  United States",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristhian Machado (178581)",
+        "nama_panggilan": "Cristhian Machado (178581)",
+        "tanggal_lahir": "1990-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cochabamba",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrián Jusino (563095)",
+        "nama_panggilan": "Adrián Jusino (563095)",
+        "tanggal_lahir": "1992-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Springfield, Massachusetts",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Bustamante (655411)",
+        "nama_panggilan": "Antonio Bustamante (655411)",
+        "tanggal_lahir": "1997-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fairfax, Virginia",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  United States"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Joffre (663315)",
+        "nama_panggilan": "Sebastian Joffre (663315)",
+        "tanggal_lahir": "1999-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Portachuelo",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Efraín Morales (746832)",
+        "nama_panggilan": "Efraín Morales (746832)",
+        "tanggal_lahir": "2004-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Decatur, Georgia",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

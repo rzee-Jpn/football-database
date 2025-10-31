@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chinese Taipei  Sweden",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Sandberg (626667)",
+        "nama_panggilan": "Miguel Sandberg (626667)",
+        "tanggal_lahir": "2002-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Chinese Taipei"
+        },
+        "kewarganegaraan": [
+          "Chinese Taipei  Sweden"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

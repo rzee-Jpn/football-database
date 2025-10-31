@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Northern Ireland",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jack Saville (158781)",
+        "nama_panggilan": "Jack Saville (158781)",
+        "tanggal_lahir": "1991-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frimley",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominic Ball (167254)",
+        "nama_panggilan": "Dominic Ball (167254)",
+        "tanggal_lahir": "1995-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Welwyn Garden City",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Fearon (49586)",
+        "nama_panggilan": "Martin Fearon (49586)",
+        "tanggal_lahir": "1988-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blackburn",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Connor Wickham (95435)",
+        "nama_panggilan": "Connor Wickham (95435)",
+        "tanggal_lahir": "1993-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hereford",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omari Kellyman (926135)",
+        "nama_panggilan": "Omari Kellyman (926135)",
+        "tanggal_lahir": "2005-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derby",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djavan Pedro (870461)",
+        "nama_panggilan": "Djavan Pedro (870461)",
+        "tanggal_lahir": "2003-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hull",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

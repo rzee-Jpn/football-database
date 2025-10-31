@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Seychelles  Germany",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charmaine Häusl (196831)",
+        "nama_panggilan": "Charmaine Häusl (196831)",
+        "tanggal_lahir": "1996-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Victoria",
+          "negara": "Seychelles"
+        },
+        "kewarganegaraan": [
+          "Seychelles  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

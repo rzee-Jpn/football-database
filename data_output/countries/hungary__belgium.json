@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Boldizsár Bodor (13036)",
+        "nama_panggilan": "Boldizsár Bodor (13036)",
+        "tanggal_lahir": "1982-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pécs",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Belgium"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

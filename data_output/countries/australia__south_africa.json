@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  South Africa",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tristan Meaker (1039933)",
+        "nama_panggilan": "Tristan Meaker (1039933)",
+        "tanggal_lahir": "2000-07-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Durban",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  South Africa"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kearyn Baccus (171419)",
+        "nama_panggilan": "Kearyn Baccus (171419)",
+        "tanggal_lahir": "1991-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Durban, KwaZulu-Natal",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  South Africa"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keanu Baccus (479037)",
+        "nama_panggilan": "Keanu Baccus (479037)",
+        "tanggal_lahir": "1998-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Durban",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  South Africa"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

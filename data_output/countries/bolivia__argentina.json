@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bolivia  Argentina",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Ribera (1081640)",
+        "nama_panggilan": "Daniel Ribera (1081640)",
+        "tanggal_lahir": "2005-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de la Sierra",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Argentina"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damián Lizio (62434)",
+        "nama_panggilan": "Damián Lizio (62434)",
+        "tanggal_lahir": "1989-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Florida",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Argentina"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Martos (87490)",
+        "nama_panggilan": "Martin Martos (87490)",
+        "tanggal_lahir": "1979-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sucre",
+          "negara": "Bolivia"
+        },
+        "kewarganegaraan": [
+          "Bolivia  Argentina"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

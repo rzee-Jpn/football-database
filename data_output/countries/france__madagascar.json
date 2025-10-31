@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Madagascar",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franck Béria (12096)",
+        "nama_panggilan": "Franck Béria (12096)",
+        "tanggal_lahir": "1983-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Argenteuil",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Madagascar"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danio Soadrine (233382)",
+        "nama_panggilan": "Danio Soadrine (233382)",
+        "tanggal_lahir": "1989-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Denis",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Madagascar"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Naly Rasamoel (324812)",
+        "nama_panggilan": "Naly Rasamoel (324812)",
+        "tanggal_lahir": "1998-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nantes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Madagascar"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Sauvage (545342)",
+        "nama_panggilan": "Enzo Sauvage (545342)",
+        "tanggal_lahir": "1999-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Madagascar"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lilian Raolisoa (829874)",
+        "nama_panggilan": "Lilian Raolisoa (829874)",
+        "tanggal_lahir": "2000-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Angers",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Madagascar"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

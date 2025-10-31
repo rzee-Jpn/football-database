@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Spain",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Álvaro Silva (29072)",
+        "nama_panggilan": "Álvaro Silva (29072)",
+        "tanggal_lahir": "1984-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Andújar",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Spain"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antonio Glauder (380365)",
+        "nama_panggilan": "Antonio Glauder (380365)",
+        "tanggal_lahir": "1995-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Algeciras",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Spain"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óscar Arribas (476104)",
+        "nama_panggilan": "Óscar Arribas (476104)",
+        "tanggal_lahir": "1998-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Parla",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Luis Guirado (95481)",
+        "nama_panggilan": "Juan Luis Guirado (95481)",
+        "tanggal_lahir": "1979-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Palo",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Spain"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teto Martín (963613)",
+        "nama_panggilan": "Teto Martín (963613)",
+        "tanggal_lahir": "2001-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Cruz de Tenerife",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

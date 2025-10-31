@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Serbia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dejan Sorgic (65442)",
+        "nama_panggilan": "Dejan Sorgic (65442)",
+        "tanggal_lahir": "1989-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Knin",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Serbia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

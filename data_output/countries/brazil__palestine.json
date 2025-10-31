@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Palestine",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jucilei (110326)",
+        "nama_panggilan": "Jucilei (110326)",
+        "tanggal_lahir": "1988-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Gonçalo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Palestine"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Éder Lima (67819)",
+        "nama_panggilan": "Éder Lima (67819)",
+        "tanggal_lahir": "1987-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Campinas",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Palestine"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

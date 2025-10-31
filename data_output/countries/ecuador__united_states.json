@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ecuador  United States",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonardo Campana (606872)",
+        "nama_panggilan": "Leonardo Campana (606872)",
+        "tanggal_lahir": "2000-07-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jeciel Cedeño (668091)",
+        "nama_panggilan": "Jeciel Cedeño (668091)",
+        "tanggal_lahir": "2000-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Guayaquil",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrew Draper (866813)",
+        "nama_panggilan": "Andrew Draper (866813)",
+        "tanggal_lahir": "2001-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Houston, Texas",
+          "negara": "Ecuador"
+        },
+        "kewarganegaraan": [
+          "Ecuador  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

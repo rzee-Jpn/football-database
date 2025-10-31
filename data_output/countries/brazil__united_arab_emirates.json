@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  United Arab Emirates",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Jesus (432164)",
+        "nama_panggilan": "Igor Jesus (432164)",
+        "tanggal_lahir": "2001-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuiabá",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United Arab Emirates"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renan (662325)",
+        "nama_panggilan": "Renan (662325)",
+        "tanggal_lahir": "2002-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Itapevi",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United Arab Emirates"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vinicius Mello (815677)",
+        "nama_panggilan": "Vinicius Mello (815677)",
+        "tanggal_lahir": "2002-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sapucaia do Sul",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United Arab Emirates"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Cameroon",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jayden Lienou (1122308)",
+        "nama_panggilan": "Jayden Lienou (1122308)",
+        "tanggal_lahir": "2008-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wigan",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Cameroon"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

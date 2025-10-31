@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malaysia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Safawi Rasid (474220)",
+        "nama_panggilan": "Safawi Rasid (474220)",
+        "tanggal_lahir": "1997-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dungun, Terengganu",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hadi Fayyadh (491486)",
+        "nama_panggilan": "Hadi Fayyadh (491486)",
+        "tanggal_lahir": "2000-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuala Lumpur",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luqman Hakim (541749)",
+        "nama_panggilan": "Luqman Hakim (541749)",
+        "tanggal_lahir": "2002-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kota Bharu, Kelantan",
+          "negara": "Malaysia"
+        },
+        "kewarganegaraan": [
+          "Malaysia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "South Africa  New Zealand",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Jordan (308117)",
+        "nama_panggilan": "Liam Jordan (308117)",
+        "tanggal_lahir": "1998-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Durban",
+          "negara": "South Africa"
+        },
+        "kewarganegaraan": [
+          "South Africa  New Zealand"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

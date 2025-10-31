@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Canero (12730)",
+        "nama_panggilan": "Peter Canero (12730)",
+        "tanggal_lahir": "1981-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glasgow",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jack Harper (147524)",
+        "nama_panggilan": "Jack Harper (147524)",
+        "tanggal_lahir": "1996-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Málaga",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Spain"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ewan Urain (626962)",
+        "nama_panggilan": "Ewan Urain (626962)",
+        "tanggal_lahir": "2000-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Durango",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Spain"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

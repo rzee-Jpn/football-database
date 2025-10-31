@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Nigeria",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah Okafor (346890)",
+        "nama_panggilan": "Noah Okafor (346890)",
+        "tanggal_lahir": "2000-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Binningen",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Akanji (284730)",
+        "nama_panggilan": "Manuel Akanji (284730)",
+        "tanggal_lahir": "1995-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wiesendangen",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Isaac Schmidt (449597)",
+        "nama_panggilan": "Isaac Schmidt (449597)",
+        "tanggal_lahir": "1999-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lausanne",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Sohm (507486)",
+        "nama_panggilan": "Simon Sohm (507486)",
+        "tanggal_lahir": "2001-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gold Omotayo (517405)",
+        "nama_panggilan": "Gold Omotayo (517405)",
+        "tanggal_lahir": "1994-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olatunde Olaniyi (539332)",
+        "nama_panggilan": "Olatunde Olaniyi (539332)",
+        "tanggal_lahir": "2000-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genève",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elijah Okafor (541427)",
+        "nama_panggilan": "Elijah Okafor (541427)",
+        "tanggal_lahir": "2003-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Binningen BL",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damian Kelvin (625768)",
+        "nama_panggilan": "Damian Kelvin (625768)",
+        "tanggal_lahir": "2002-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Innocent Emeghara (66022)",
+        "nama_panggilan": "Innocent Emeghara (66022)",
+        "tanggal_lahir": "1989-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nelson Afulike (728454)",
+        "nama_panggilan": "Nelson Afulike (728454)",
+        "tanggal_lahir": "2004-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schlieren",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Ogbus (863759)",
+        "nama_panggilan": "Bruno Ogbus (863759)",
+        "tanggal_lahir": "2005-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neunkirch",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zachary Athekame (990637)",
+        "nama_panggilan": "Zachary Athekame (990637)",
+        "tanggal_lahir": "2004-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Genf",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Nigeria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

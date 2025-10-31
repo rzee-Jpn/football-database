@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Venezuela  Colombia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Ponce (308256)",
+        "nama_panggilan": "Andrés Ponce (308256)",
+        "tanggal_lahir": "1996-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Cañada de Urdaneta",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Colombia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jhon Murillo (308560)",
+        "nama_panggilan": "Jhon Murillo (308560)",
+        "tanggal_lahir": "1995-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Nula, Apure",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Colombia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wuilker Fariñez (373714)",
+        "nama_panggilan": "Wuilker Fariñez (373714)",
+        "tanggal_lahir": "1998-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caracas, Distrito Capital",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Colombia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Hurtado (459115)",
+        "nama_panggilan": "Jan Hurtado (459115)",
+        "tanggal_lahir": "2000-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Cantón",
+          "negara": "Venezuela"
+        },
+        "kewarganegaraan": [
+          "Venezuela  Colombia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

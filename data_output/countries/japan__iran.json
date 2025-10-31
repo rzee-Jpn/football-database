@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  Iran",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aria Jasuru Hasegawa (79399)",
+        "nama_panggilan": "Aria Jasuru Hasegawa (79399)",
+        "tanggal_lahir": "1988-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tsurugashima, Saitama",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Iran"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Jamaica  Canada",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andy Williams (15528)",
+        "nama_panggilan": "Andy Williams (15528)",
+        "tanggal_lahir": "1977-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  Canada"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Wallace (19935)",
+        "nama_panggilan": "Adam Wallace (19935)",
+        "tanggal_lahir": "1981-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Delta, British Columbia",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashton Bennett (251412)",
+        "nama_panggilan": "Ashton Bennett (251412)",
+        "tanggal_lahir": "1988-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clarendon Parish",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

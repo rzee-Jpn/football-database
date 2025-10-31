@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hongkong",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wai-Chiu Ng (156509)",
+        "nama_panggilan": "Wai-Chiu Ng (156509)",
+        "tanggal_lahir": "1981-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hong Kong",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ngai-Hoi Li (202177)",
+        "nama_panggilan": "Ngai-Hoi Li (202177)",
+        "tanggal_lahir": "1994-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kowloon",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

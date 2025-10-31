@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Burkina Faso",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arthur Zagré (536477)",
+        "nama_panggilan": "Arthur Zagré (536477)",
+        "tanggal_lahir": "2001-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuilly-sur-Seine",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brahim Traoré (743517)",
+        "nama_panggilan": "Brahim Traoré (743517)",
+        "tanggal_lahir": "2004-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rennes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lohann Doucet (830265)",
+        "nama_panggilan": "Lohann Doucet (830265)",
+        "tanggal_lahir": "2002-09-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nantes",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laley Fofana (865507)",
+        "nama_panggilan": "Laley Fofana (865507)",
+        "tanggal_lahir": "2000-08-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayman Aiki (986261)",
+        "nama_panggilan": "Ayman Aiki (986261)",
+        "tanggal_lahir": "2005-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Champigny-sur-Marne",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Burkina Faso"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

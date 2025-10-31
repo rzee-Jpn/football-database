@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Montenegro  Italy",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Hadziosmanovic (343950)",
+        "nama_panggilan": "Cristian Hadziosmanovic (343950)",
+        "tanggal_lahir": "1998-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lecce",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Italy"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefan Bajic (424675)",
+        "nama_panggilan": "Stefan Bajic (424675)",
+        "tanggal_lahir": "1997-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fiorenzuola d’Arda",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

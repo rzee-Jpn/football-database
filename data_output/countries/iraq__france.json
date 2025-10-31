@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iraq  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zana Allée (203470)",
+        "nama_panggilan": "Zana Allée (203470)",
+        "tanggal_lahir": "1994-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duhok",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  France"
+        ],
+        "tinggi_badan_cm": "164.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ahmad Allée (288218)",
+        "nama_panggilan": "Ahmad Allée (288218)",
+        "tanggal_lahir": "1996-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duhoq",
+          "negara": "Iraq"
+        },
+        "kewarganegaraan": [
+          "Iraq  France"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

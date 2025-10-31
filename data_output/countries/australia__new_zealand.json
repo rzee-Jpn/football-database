@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Australia  New Zealand",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ben Gibson (1109825)",
+        "nama_panggilan": "Ben Gibson (1109825)",
+        "tanggal_lahir": "2003-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Australia  New Zealand"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Archie Thompson (13148)",
+        "nama_panggilan": "Archie Thompson (13148)",
+        "tanggal_lahir": "1978-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Otorohanga",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  New Zealand"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Blake Powell (179470)",
+        "nama_panggilan": "Blake Powell (179470)",
+        "tanggal_lahir": "1991-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney, New South Wales",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  New Zealand"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joe Gauci (591844)",
+        "nama_panggilan": "Joe Gauci (591844)",
+        "tanggal_lahir": "2000-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Adelaide, South Australia",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  New Zealand"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gianni Stensness (627472)",
+        "nama_panggilan": "Gianni Stensness (627472)",
+        "tanggal_lahir": "1999-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brisbane",
+          "negara": "Australia"
+        },
+        "kewarganegaraan": [
+          "Australia  New Zealand"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

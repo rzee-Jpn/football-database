@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Madagascar  Martinique",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julio Donisa (524242)",
+        "nama_panggilan": "Julio Donisa (524242)",
+        "tanggal_lahir": "1994-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "L'Haÿ-les-Roses",
+          "negara": "Madagascar"
+        },
+        "kewarganegaraan": [
+          "Madagascar  Martinique"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

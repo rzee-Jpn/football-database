@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ghana  France",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claude Bakadal (10553)",
+        "nama_panggilan": "Claude Bakadal (10553)",
+        "tanggal_lahir": "1976-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Massy",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Ayew (108354)",
+        "nama_panggilan": "Jordan Ayew (108354)",
+        "tanggal_lahir": "1991-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Osei (123957)",
+        "nama_panggilan": "Kevin Osei (123957)",
+        "tanggal_lahir": "1991-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Godfred Bekoé (314416)",
+        "nama_panggilan": "Godfred Bekoé (314416)",
+        "tanggal_lahir": "1992-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elisha Owusu (395695)",
+        "nama_panggilan": "Elisha Owusu (395695)",
+        "tanggal_lahir": "1997-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montreuil",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "André Ayew (45403)",
+        "nama_panggilan": "André Ayew (45403)",
+        "tanggal_lahir": "1989-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seclin",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Essien (5588)",
+        "nama_panggilan": "Michael Essien (5588)",
+        "tanggal_lahir": "1982-12-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charles Boateng (66785)",
+        "nama_panggilan": "Charles Boateng (66785)",
+        "tanggal_lahir": "1989-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mampong",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  France"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

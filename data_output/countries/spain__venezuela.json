@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Venezuela",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keyner Ron (1264442)",
+        "nama_panggilan": "Keyner Ron (1264442)",
+        "tanggal_lahir": "2007-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Spain  Venezuela"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Javi Pita (176245)",
+        "nama_panggilan": "Javi Pita (176245)",
+        "tanggal_lahir": "1991-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "O Vicedo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Venezuela"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Peralta (235485)",
+        "nama_panggilan": "Miguel Peralta (235485)",
+        "tanggal_lahir": "1995-12-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aarau",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Venezuela"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ces Cotos (636413)",
+        "nama_panggilan": "Ces Cotos (636413)",
+        "tanggal_lahir": "2000-03-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barquisimeto",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Venezuela"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramón Arcas (85767)",
+        "nama_panggilan": "Ramón Arcas (85767)",
+        "tanggal_lahir": "1991-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Venezuela"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mauritania",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Idriss Leroux (1136069)",
+        "nama_panggilan": "Idriss Leroux (1136069)",
+        "tanggal_lahir": "2005-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adama Ba (197857)",
+        "nama_panggilan": "Adama Ba (197857)",
+        "tanggal_lahir": "1993-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sélibabi",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Doudou Touré (174617)",
+        "nama_panggilan": "Doudou Touré (174617)",
+        "tanggal_lahir": "1991-12-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rosso",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moctar El Hacen (321629)",
+        "nama_panggilan": "Moctar El Hacen (321629)",
+        "tanggal_lahir": "1997-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arafat",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aly Abeid (393436)",
+        "nama_panggilan": "Aly Abeid (393436)",
+        "tanggal_lahir": "1997-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Riyadh",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamza Ould Jawar (430076)",
+        "nama_panggilan": "Hamza Ould Jawar (430076)",
+        "tanggal_lahir": "1995-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sélibaby",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Souleymane Karamoko (525119)",
+        "nama_panggilan": "Souleymane Karamoko (525119)",
+        "tanggal_lahir": "1992-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdallahi Mahmoud (615636)",
+        "nama_panggilan": "Abdallahi Mahmoud (615636)",
+        "tanggal_lahir": "2000-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dar Naim, Nouakchott",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Idrissa Thiam (702354)",
+        "nama_panggilan": "Idrissa Thiam (702354)",
+        "tanggal_lahir": "2000-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nouakchott",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bilal Sidibé (74017)",
+        "nama_panggilan": "Bilal Sidibé (74017)",
+        "tanggal_lahir": "1978-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nouakchott",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Babecker Diop (831748)",
+        "nama_panggilan": "Babecker Diop (831748)",
+        "tanggal_lahir": "1999-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "El Mami Tetah (858650)",
+        "nama_panggilan": "El Mami Tetah (858650)",
+        "tanggal_lahir": "2001-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Teyarett",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Beyatt Lekoueiry (970137)",
+        "nama_panggilan": "Beyatt Lekoueiry (970137)",
+        "tanggal_lahir": "2005-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nouadhibou",
+          "negara": "Mauritania"
+        },
+        "kewarganegaraan": [
+          "Mauritania"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

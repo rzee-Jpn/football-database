@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belgium  Burundi",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mike Tresor (381963)",
+        "nama_panggilan": "Mike Tresor (381963)",
+        "tanggal_lahir": "1999-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Antwerpen",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Burundi"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Largie Ramazani (518644)",
+        "nama_panggilan": "Largie Ramazani (518644)",
+        "tanggal_lahir": "2001-02-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berchem-Sainte-Agathe",
+          "negara": "Belgium"
+        },
+        "kewarganegaraan": [
+          "Belgium  Burundi"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

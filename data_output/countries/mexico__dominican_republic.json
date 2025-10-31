@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Dominican Republic",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Piñón (143504)",
+        "nama_panggilan": "Marvin Piñón (143504)",
+        "tanggal_lahir": "1991-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Altamira",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

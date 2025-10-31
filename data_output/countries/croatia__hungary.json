@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Hungary",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danijel Romic (225712)",
+        "nama_panggilan": "Danijel Romic (225712)",
+        "tanggal_lahir": "1993-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Subotica",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Hungary"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Rados (47372)",
+        "nama_panggilan": "Ivan Rados (47372)",
+        "tanggal_lahir": "1984-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zagreb",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Hungary"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Lovric (86128)",
+        "nama_panggilan": "Ivan Lovric (86128)",
+        "tanggal_lahir": "1985-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Split",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Hungary"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

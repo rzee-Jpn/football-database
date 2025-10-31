@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateo Kunze (1196342)",
+        "nama_panggilan": "Mateo Kunze (1196342)",
+        "tanggal_lahir": "2006-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Young",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Müller (341642)",
+        "nama_panggilan": "Axel Müller (341642)",
+        "tanggal_lahir": "1996-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tacuarembó",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  Germany"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Vietnam",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Achille Truchot (1098492)",
+        "nama_panggilan": "Achille Truchot (1098492)",
+        "tanggal_lahir": "2004-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "France  Vietnam"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michel Lê (224484)",
+        "nama_panggilan": "Michel Lê (224484)",
+        "tanggal_lahir": "1993-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hayange",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Vietnam"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julien Mouillon (411442)",
+        "nama_panggilan": "Julien Mouillon (411442)",
+        "tanggal_lahir": "1997-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Raphaël",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Vietnam"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Geoffrey Cabaye (944253)",
+        "nama_panggilan": "Geoffrey Cabaye (944253)",
+        "tanggal_lahir": "1989-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tourcoing",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Vietnam"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

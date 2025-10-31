@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Germany",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Scholz (153582)",
+        "nama_panggilan": "Alexander Scholz (153582)",
+        "tanggal_lahir": "1992-10-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esbjerg",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Germany"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steffen Ernemann (23205)",
+        "nama_panggilan": "Steffen Ernemann (23205)",
+        "tanggal_lahir": "1982-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odder",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lasse Jürgensen (296694)",
+        "nama_panggilan": "Lasse Jürgensen (296694)",
+        "tanggal_lahir": "1998-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Denmark  Germany"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicklas Lund (528453)",
+        "nama_panggilan": "Nicklas Lund (528453)",
+        "tanggal_lahir": "2002-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buxtehude",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jannik Vestergaard (99331)",
+        "nama_panggilan": "Jannik Vestergaard (99331)",
+        "tanggal_lahir": "1992-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hvidovre",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Germany"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

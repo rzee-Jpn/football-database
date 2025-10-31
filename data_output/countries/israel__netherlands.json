@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Keltjens (326427)",
+        "nama_panggilan": "David Keltjens (326427)",
+        "tanggal_lahir": "1995-06-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mevaseret Zion",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Netherlands"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Mulder (594277)",
+        "nama_panggilan": "Jonathan Mulder (594277)",
+        "tanggal_lahir": "2002-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Houten",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  Netherlands"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

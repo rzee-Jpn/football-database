@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  South Africa",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maarten van der Want (276376)",
+        "nama_panggilan": "Maarten van der Want (276376)",
+        "tanggal_lahir": "1995-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Delft",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  South Africa"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon van Duivenbooden (602597)",
+        "nama_panggilan": "Simon van Duivenbooden (602597)",
+        "tanggal_lahir": "2002-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uithoorn",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  South Africa"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tristan van Gilst (793702)",
+        "nama_panggilan": "Tristan van Gilst (793702)",
+        "tanggal_lahir": "2003-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  South Africa"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

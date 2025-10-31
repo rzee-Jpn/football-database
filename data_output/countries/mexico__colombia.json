@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Colombia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julián Quiñones (416090)",
+        "nama_panggilan": "Julián Quiñones (416090)",
+        "tanggal_lahir": "1997-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Magüí Payán",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Colombia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

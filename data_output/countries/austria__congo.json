@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Congo",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joris Boguo (1116031)",
+        "nama_panggilan": "Joris Boguo (1116031)",
+        "tanggal_lahir": "2007-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wien",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

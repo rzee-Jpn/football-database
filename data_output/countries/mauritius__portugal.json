@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mauritius  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Collard (724707)",
+        "nama_panggilan": "Dylan Collard (724707)",
+        "tanggal_lahir": "2000-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  Portugal"
+        ],
+        "tinggi_badan_cm": "200.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

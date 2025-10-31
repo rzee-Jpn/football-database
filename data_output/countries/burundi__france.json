@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Delanys (585302)",
+        "nama_panggilan": "Valentin Delanys (585302)",
+        "tanggal_lahir": "1993-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Riansoro",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

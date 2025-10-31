@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Kenya",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sydney Agina (1047463)",
+        "nama_panggilan": "Sydney Agina (1047463)",
+        "tanggal_lahir": "2007-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "England  Kenya"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyler Onyango (663225)",
+        "nama_panggilan": "Tyler Onyango (663225)",
+        "tanggal_lahir": "2003-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luton",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Kenya"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

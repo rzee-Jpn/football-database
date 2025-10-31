@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Canada",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilias Iliadis (565832)",
+        "nama_panggilan": "Ilias Iliadis (565832)",
+        "tanggal_lahir": "2001-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Canada"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikolaos Georgiadis (67066)",
+        "nama_panggilan": "Nikolaos Georgiadis (67066)",
+        "tanggal_lahir": "1983-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Canada"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

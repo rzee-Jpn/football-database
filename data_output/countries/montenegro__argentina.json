@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Montenegro  Argentina",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Esteban Saveljich (240360)",
+        "nama_panggilan": "Esteban Saveljich (240360)",
+        "tanggal_lahir": "1991-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tandil",
+          "negara": "Montenegro"
+        },
+        "kewarganegaraan": [
+          "Montenegro  Argentina"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Hungary",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Ureche (1062902)",
+        "nama_panggilan": "Alexandru Ureche (1062902)",
+        "tanggal_lahir": "2006-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miercurea Ciuc",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tibor Selymes (15548)",
+        "nama_panggilan": "Tibor Selymes (15548)",
+        "tanggal_lahir": "1970-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bălan",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Péter Berki (159182)",
+        "nama_panggilan": "Péter Berki (159182)",
+        "tanggal_lahir": "1989-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baia Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudiu Bumba (186731)",
+        "nama_panggilan": "Claudiu Bumba (186731)",
+        "tanggal_lahir": "1994-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baia Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cornel Ene (224170)",
+        "nama_panggilan": "Cornel Ene (224170)",
+        "tanggal_lahir": "1993-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raul Krausz (227567)",
+        "nama_panggilan": "Raul Krausz (227567)",
+        "tanggal_lahir": "1995-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Băiuț",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szabolcs Kilyén (340979)",
+        "nama_panggilan": "Szabolcs Kilyén (340979)",
+        "tanggal_lahir": "1998-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sovata",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlo Erdei (295740)",
+        "nama_panggilan": "Carlo Erdei (295740)",
+        "tanggal_lahir": "1996-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Béla Fejér (315257)",
+        "nama_panggilan": "Béla Fejér (315257)",
+        "tanggal_lahir": "1995-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zăbala",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Rus (421927)",
+        "nama_panggilan": "Adrian Rus (421927)",
+        "tanggal_lahir": "1996-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szilárd Magyari (464217)",
+        "nama_panggilan": "Szilárd Magyari (464217)",
+        "tanggal_lahir": "1998-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lupeni",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Banyoi (556421)",
+        "nama_panggilan": "Andrei Banyoi (556421)",
+        "tanggal_lahir": "2000-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gherla",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sándor Nagy (557595)",
+        "nama_panggilan": "Sándor Nagy (557595)",
+        "tanggal_lahir": "1972-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baraolt",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arthur Györgyi (682351)",
+        "nama_panggilan": "Arthur Györgyi (682351)",
+        "tanggal_lahir": "1997-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sovata",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Corbu (731431)",
+        "nama_panggilan": "Marius Corbu (731431)",
+        "tanggal_lahir": "2002-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Comănești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krisztián Székely (832462)",
+        "nama_panggilan": "Krisztián Székely (832462)",
+        "tanggal_lahir": "1998-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szabolcs Szilágyi (914715)",
+        "nama_panggilan": "Szabolcs Szilágyi (914715)",
+        "tanggal_lahir": "2003-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

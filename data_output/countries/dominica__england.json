@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Dominica  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Pacquette (13730)",
+        "nama_panggilan": "Richard Pacquette (13730)",
+        "tanggal_lahir": "1983-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Dominica"
+        },
+        "kewarganegaraan": [
+          "Dominica  England"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

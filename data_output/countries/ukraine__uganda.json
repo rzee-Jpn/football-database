@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ukraine  Uganda",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Semyuel Uedni Mandey (660924)",
+        "nama_panggilan": "Semyuel Uedni Mandey (660924)",
+        "tanggal_lahir": "1999-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kharkiv",
+          "negara": "Ukraine"
+        },
+        "kewarganegaraan": [
+          "Ukraine  Uganda"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

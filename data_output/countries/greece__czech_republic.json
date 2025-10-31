@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Czech Republic",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loukas Vyntra (16458)",
+        "nama_panggilan": "Loukas Vyntra (16458)",
+        "tanggal_lahir": "1981-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Město Albrechtice",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Czech Republic"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marios Pourzitidis (598148)",
+        "nama_panggilan": "Marios Pourzitidis (598148)",
+        "tanggal_lahir": "1999-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thessaloniki",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Czech Republic"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

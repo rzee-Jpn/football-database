@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Wales  Ghana",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kwaku Frimpong (802635)",
+        "nama_panggilan": "Kwaku Frimpong (802635)",
+        "tanggal_lahir": "2002-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cardiff",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Ghana"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Freddie Issaka (929574)",
+        "nama_panggilan": "Freddie Issaka (929574)",
+        "tanggal_lahir": "2006-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Truro",
+          "negara": "Wales"
+        },
+        "kewarganegaraan": [
+          "Wales  Ghana"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

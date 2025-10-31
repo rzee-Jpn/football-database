@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Northern Ireland  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steve Lomas (3801)",
+        "nama_panggilan": "Steve Lomas (3801)",
+        "tanggal_lahir": "1974-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hannover",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maik Taylor (3723)",
+        "nama_panggilan": "Maik Taylor (3723)",
+        "tanggal_lahir": "1971-09-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hildesheim",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Germany"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Pakistan  Denmark",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nabil Aslam (23005)",
+        "nama_panggilan": "Nabil Aslam (23005)",
+        "tanggal_lahir": "1984-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lyngby",
+          "negara": "Pakistan"
+        },
+        "kewarganegaraan": [
+          "Pakistan  Denmark"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammad Adnan (355514)",
+        "nama_panggilan": "Mohammad Adnan (355514)",
+        "tanggal_lahir": "1996-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Pakistan"
+        },
+        "kewarganegaraan": [
+          "Pakistan  Denmark"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdullah Iqbal (701224)",
+        "nama_panggilan": "Abdullah Iqbal (701224)",
+        "tanggal_lahir": "2002-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "København",
+          "negara": "Pakistan"
+        },
+        "kewarganegaraan": [
+          "Pakistan  Denmark"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

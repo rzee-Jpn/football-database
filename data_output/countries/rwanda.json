@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Rwanda",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamad Ndikumana (13751)",
+        "nama_panggilan": "Hamad Ndikumana (13751)",
+        "tanggal_lahir": "1978-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigali",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1977-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigali",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salomon Nirisarike (231642)",
+        "nama_panggilan": "Salomon Nirisarike (231642)",
+        "tanggal_lahir": "1993-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gisenyi-Rubavu",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Mulisa (33878)",
+        "nama_panggilan": "Jimmy Mulisa (33878)",
+        "tanggal_lahir": "1984-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kigali",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djihad Bizimana (418173)",
+        "nama_panggilan": "Djihad Bizimana (418173)",
+        "tanggal_lahir": "1996-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gisenyi",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ange Mutsinzi (568299)",
+        "nama_panggilan": "Ange Mutsinzi (568299)",
+        "tanggal_lahir": "1997-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Byimana",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Espoir Niyo (811017)",
+        "nama_panggilan": "Espoir Niyo (811017)",
+        "tanggal_lahir": "2003-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kongo-Brazzaville",
+          "negara": "Rwanda"
+        },
+        "kewarganegaraan": [
+          "Rwanda"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

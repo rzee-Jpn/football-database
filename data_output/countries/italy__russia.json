@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Russia",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artem Plutnik (1069767)",
+        "nama_panggilan": "Artem Plutnik (1069767)",
+        "tanggal_lahir": "2007-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximiliano Uggè (116231)",
+        "nama_panggilan": "Maximiliano Uggè (116231)",
+        "tanggal_lahir": "1991-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Treviglio",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stefano Scognamillo (142990)",
+        "nama_panggilan": "Stefano Scognamillo (142990)",
+        "tanggal_lahir": "1994-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "St. Petersburg",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Galliani (238955)",
+        "nama_panggilan": "Cristian Galliani (238955)",
+        "tanggal_lahir": "1996-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rocki Casieri (288552)",
+        "nama_panggilan": "Rocki Casieri (288552)",
+        "tanggal_lahir": "1995-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Salvatore Bocchetti (42678)",
+        "nama_panggilan": "Salvatore Bocchetti (42678)",
+        "tanggal_lahir": "1986-11-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Napoli",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Russia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

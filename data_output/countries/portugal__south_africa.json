@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Portugal  South Africa",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Silva (256704)",
+        "nama_panggilan": "Matthew Silva (256704)",
+        "tanggal_lahir": "1992-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vilamoura / Quarteira",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  South Africa"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Schutte (600836)",
+        "nama_panggilan": "Ricardo Schutte (600836)",
+        "tanggal_lahir": "1998-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ribeira Brava",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  South Africa"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Mota (6202)",
+        "nama_panggilan": "Carlos Mota (6202)",
+        "tanggal_lahir": "1980-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Johannesburg",
+          "negara": "Portugal"
+        },
+        "kewarganegaraan": [
+          "Portugal  South Africa"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

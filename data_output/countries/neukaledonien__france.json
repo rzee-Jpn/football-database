@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Neukaledonien  France",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wesley Lautoa (154199)",
+        "nama_panggilan": "Wesley Lautoa (154199)",
+        "tanggal_lahir": "1987-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Épernay",
+          "negara": "Neukaledonien"
+        },
+        "kewarganegaraan": [
+          "Neukaledonien  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georges Gope-Fenepej (177781)",
+        "nama_panggilan": "Georges Gope-Fenepej (177781)",
+        "tanggal_lahir": "1988-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lifou",
+          "negara": "Neukaledonien"
+        },
+        "kewarganegaraan": [
+          "Neukaledonien  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéphane Tein-Padom (216024)",
+        "nama_panggilan": "Stéphane Tein-Padom (216024)",
+        "tanggal_lahir": "1994-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Neukaledonien  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Athale (325938)",
+        "nama_panggilan": "Joseph Athale (325938)",
+        "tanggal_lahir": "1995-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouvéa",
+          "negara": "Neukaledonien"
+        },
+        "kewarganegaraan": [
+          "Neukaledonien  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandre Déplanque (864772)",
+        "nama_panggilan": "Alexandre Déplanque (864772)",
+        "tanggal_lahir": "2001-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fontenay-le-Comte",
+          "negara": "Neukaledonien"
+        },
+        "kewarganegaraan": [
+          "Neukaledonien  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

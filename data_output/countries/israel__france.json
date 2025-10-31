@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  France",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chad Taieb (1231761)",
+        "nama_panggilan": "Chad Taieb (1231761)",
+        "tanggal_lahir": "2007-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Israel  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dudu Aouate (3495)",
+        "nama_panggilan": "Dudu Aouate (3495)",
+        "tanggal_lahir": "1977-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nazareth Illit",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Moshe Ohayon (48479)",
+        "nama_panggilan": "Moshe Ohayon (48479)",
+        "tanggal_lahir": "1983-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashdod",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eran Zahavi (85093)",
+        "nama_panggilan": "Eran Zahavi (85093)",
+        "tanggal_lahir": "1987-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rishon Lezion",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

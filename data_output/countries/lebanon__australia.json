@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lebanon  Australia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khoder Kaddour (1039356)",
+        "nama_panggilan": "Khoder Kaddour (1039356)",
+        "tanggal_lahir": "2003-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Lebanon  Australia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ramy Najjarine (448337)",
+        "nama_panggilan": "Ramy Najjarine (448337)",
+        "tanggal_lahir": "2000-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sydney, New South Wales",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon  Australia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Sierra Leone",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Toby (154812)",
+        "nama_panggilan": "Joseph Toby (154812)",
+        "tanggal_lahir": "1989-06-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Mansaray (349133)",
+        "nama_panggilan": "Victor Mansaray (349133)",
+        "tanggal_lahir": "1997-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bill Hamid (77714)",
+        "nama_panggilan": "Bill Hamid (77714)",
+        "tanggal_lahir": "1990-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Annandale, Virginia",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haroun Conteh (903833)",
+        "nama_panggilan": "Haroun Conteh (903833)",
+        "tanggal_lahir": "2005-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Sierra Leone"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

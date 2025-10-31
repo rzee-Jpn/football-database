@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikael Forssell (3127)",
+        "nama_panggilan": "Mikael Forssell (3127)",
+        "tanggal_lahir": "1981-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Steinfurt",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julius Schmid (462804)",
+        "nama_panggilan": "Julius Schmid (462804)",
+        "tanggal_lahir": "2001-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lasse Schulz (748061)",
+        "nama_panggilan": "Lasse Schulz (748061)",
+        "tanggal_lahir": "2003-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Helsinki",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Germany"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

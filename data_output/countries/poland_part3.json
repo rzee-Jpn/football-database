@@ -1,0 +1,6399 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland",
+  "total_pemain": 188,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Mitura (80767)",
+        "nama_panggilan": "Daniel Mitura (80767)",
+        "tanggal_lahir": "1990-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Płock",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukasz Sekulski (80769)",
+        "nama_panggilan": "Lukasz Sekulski (80769)",
+        "tanggal_lahir": "1990-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Płock",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Holota (80777)",
+        "nama_panggilan": "Tomasz Holota (80777)",
+        "tanggal_lahir": "1991-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maciej Kikolski (807782)",
+        "nama_panggilan": "Maciej Kikolski (807782)",
+        "tanggal_lahir": "2004-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Nowaczek (808604)",
+        "nama_panggilan": "Jakub Nowaczek (808604)",
+        "tanggal_lahir": "2002-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grudziądz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Radoslaw Pruchnik (80884)",
+        "nama_panggilan": "Radoslaw Pruchnik (80884)",
+        "tanggal_lahir": "1986-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Ziajka (80886)",
+        "nama_panggilan": "Sebastian Ziajka (80886)",
+        "tanggal_lahir": "1982-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kostrzyn nad Odrą",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Machaj (80890)",
+        "nama_panggilan": "Mateusz Machaj (80890)",
+        "tanggal_lahir": "1989-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Głogów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukasz Skorupski (80894)",
+        "nama_panggilan": "Lukasz Skorupski (80894)",
+        "tanggal_lahir": "1991-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zabrze",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Janusz Gol (80941)",
+        "nama_panggilan": "Janusz Gol (80941)",
+        "tanggal_lahir": "1985-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Świdnica",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Niemczyk (811243)",
+        "nama_panggilan": "Jakub Niemczyk (811243)",
+        "tanggal_lahir": "2004-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zielona Góra",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Masiak (717915)",
+        "nama_panggilan": "Kacper Masiak (717915)",
+        "tanggal_lahir": "2005-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Racibórz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Zieba (717904)",
+        "nama_panggilan": "Dawid Zieba (717904)",
+        "tanggal_lahir": "2005-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wałbrzych",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Terlecki (717916)",
+        "nama_panggilan": "Kacper Terlecki (717916)",
+        "tanggal_lahir": "2005-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Tkacz (718161)",
+        "nama_panggilan": "Dawid Tkacz (718161)",
+        "tanggal_lahir": "2005-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Łęczna",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Trelowski (720120)",
+        "nama_panggilan": "Kacper Trelowski (720120)",
+        "tanggal_lahir": "2003-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Częstochowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Kisiel (72309)",
+        "nama_panggilan": "Jakub Kisiel (72309)",
+        "tanggal_lahir": "1988-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piotrkow Trybunalski",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krystian Pieczara (72320)",
+        "nama_panggilan": "Krystian Pieczara (72320)",
+        "tanggal_lahir": "1989-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bełchatów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milosz Strzebonski (723613)",
+        "nama_panggilan": "Milosz Strzebonski (723613)",
+        "tanggal_lahir": "2003-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wojciech Bialek (72448)",
+        "nama_panggilan": "Wojciech Bialek (72448)",
+        "tanggal_lahir": "1987-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sosnowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksander Pawlak (725654)",
+        "nama_panggilan": "Aleksander Pawlak (725654)",
+        "tanggal_lahir": "2001-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Płock",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olivier Sukiennicki (725768)",
+        "nama_panggilan": "Olivier Sukiennicki (725768)",
+        "tanggal_lahir": "2003-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Częstochowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szczepan Mucha (726397)",
+        "nama_panggilan": "Szczepan Mucha (726397)",
+        "tanggal_lahir": "2004-02-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielsko-Biała",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafal Mamla (727318)",
+        "nama_panggilan": "Rafal Mamla (727318)",
+        "tanggal_lahir": "2003-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skarżysko Kamienna",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maksymilian Pingot (728420)",
+        "nama_panggilan": "Maksymilian Pingot (728420)",
+        "tanggal_lahir": "2003-04-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Konin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcin Jaszczyk (73144)",
+        "nama_panggilan": "Marcin Jaszczyk (73144)",
+        "tanggal_lahir": "1988-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zawiercie",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dariusz Kohut (73145)",
+        "nama_panggilan": "Dariusz Kohut (73145)",
+        "tanggal_lahir": "1986-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Myslowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konrad Tomsia (73153)",
+        "nama_panggilan": "Konrad Tomsia (73153)",
+        "tanggal_lahir": "1987-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Ryndak (73150)",
+        "nama_panggilan": "Dawid Ryndak (73150)",
+        "tanggal_lahir": "1989-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dynów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Misztal (740728)",
+        "nama_panggilan": "Marcel Misztal (740728)",
+        "tanggal_lahir": "2003-11-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tychy",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damian Wojdakowski (742945)",
+        "nama_panggilan": "Damian Wojdakowski (742945)",
+        "tanggal_lahir": "2005-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białystok",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Banda (744143)",
+        "nama_panggilan": "Piotr Banda (744143)",
+        "tanggal_lahir": "2003-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ostrowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grzegorz Kurdziel (74680)",
+        "nama_panggilan": "Grzegorz Kurdziel (74680)",
+        "tanggal_lahir": "1976-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jaslo",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wojciech Luczak (74682)",
+        "nama_panggilan": "Wojciech Luczak (74682)",
+        "tanggal_lahir": "1989-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zgorzelec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wojciech Szwed (74681)",
+        "nama_panggilan": "Wojciech Szwed (74681)",
+        "tanggal_lahir": "1987-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jaworzno",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Furman (74687)",
+        "nama_panggilan": "Dominik Furman (74687)",
+        "tanggal_lahir": "1992-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Szydłowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafal Pietrzak (74722)",
+        "nama_panggilan": "Rafal Pietrzak (74722)",
+        "tanggal_lahir": "1992-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sosnowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pawel Jarzebak (747695)",
+        "nama_panggilan": "Pawel Jarzebak (747695)",
+        "tanggal_lahir": "1997-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gorlice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Kuzma (748115)",
+        "nama_panggilan": "Jan Kuzma (748115)",
+        "tanggal_lahir": "2003-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nowy Sącz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Lach (750069)",
+        "nama_panggilan": "Michal Lach (750069)",
+        "tanggal_lahir": "2002-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Biała Podlaska",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Dudzinski (750948)",
+        "nama_panggilan": "Adrian Dudzinski (750948)",
+        "tanggal_lahir": "2001-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Żyrardów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Sandach (750934)",
+        "nama_panggilan": "Adrian Sandach (750934)",
+        "tanggal_lahir": "2004-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milosz Matysik (751104)",
+        "nama_panggilan": "Milosz Matysik (751104)",
+        "tanggal_lahir": "2004-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białystok",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artur Sobiech (75640)",
+        "nama_panggilan": "Artur Sobiech (75640)",
+        "tanggal_lahir": "1990-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ruda Śląska",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Kos (760)",
+        "nama_panggilan": "Tomasz Kos (760)",
+        "tanggal_lahir": "1974-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koło",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacek Krzynowek (765)",
+        "nama_panggilan": "Jacek Krzynowek (765)",
+        "tanggal_lahir": "1976-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kamiensk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Buchalik (77002)",
+        "nama_panggilan": "Michal Buchalik (77002)",
+        "tanggal_lahir": "1989-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rybnik",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Szczepaniak (77315)",
+        "nama_panggilan": "Mateusz Szczepaniak (77315)",
+        "tanggal_lahir": "1991-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lubin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcin Krzywicki (77332)",
+        "nama_panggilan": "Marcin Krzywicki (77332)",
+        "tanggal_lahir": "1986-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bydgoszcz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "200.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erwin Sak (77613)",
+        "nama_panggilan": "Erwin Sak (77613)",
+        "tanggal_lahir": "1990-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lublin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maciej Malkowski (77716)",
+        "nama_panggilan": "Maciej Malkowski (77716)",
+        "tanggal_lahir": "1985-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jastrzębie Zdrój",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Rymaniak (81257)",
+        "nama_panggilan": "Bartosz Rymaniak (81257)",
+        "tanggal_lahir": "1989-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gostyń",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krzysztof Kaczmarczyk (81513)",
+        "nama_panggilan": "Krzysztof Kaczmarczyk (81513)",
+        "tanggal_lahir": "1980-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Kulkiewicz (81549)",
+        "nama_panggilan": "Tomasz Kulkiewicz (81549)",
+        "tanggal_lahir": "1978-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Słubice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Kowalczyk (81623)",
+        "nama_panggilan": "Robert Kowalczyk (81623)",
+        "tanggal_lahir": "1989-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Łódź",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Bykowski (816271)",
+        "nama_panggilan": "Marcel Bykowski (816271)",
+        "tanggal_lahir": "2004-11-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ateny",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oskar Klessa (819270)",
+        "nama_panggilan": "Oskar Klessa (819270)",
+        "tanggal_lahir": "2004-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Lutostanski (819692)",
+        "nama_panggilan": "Jakub Lutostanski (819692)",
+        "tanggal_lahir": "2004-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zambrów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kasjan Lipkowski (819908)",
+        "nama_panggilan": "Kasjan Lipkowski (819908)",
+        "tanggal_lahir": "2003-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wągrowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szymon Karasinski (820541)",
+        "nama_panggilan": "Szymon Karasinski (820541)",
+        "tanggal_lahir": "2004-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Kocaba (820540)",
+        "nama_panggilan": "Filip Kocaba (820540)",
+        "tanggal_lahir": "2004-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lubin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pawel Kruszelnicki (820570)",
+        "nama_panggilan": "Pawel Kruszelnicki (820570)",
+        "tanggal_lahir": "2003-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oskar Wojcik (821350)",
+        "nama_panggilan": "Oskar Wojcik (821350)",
+        "tanggal_lahir": "2003-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maksym Czekala (821358)",
+        "nama_panggilan": "Maksym Czekala (821358)",
+        "tanggal_lahir": "2004-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Poznań",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcin Budzinski (82173)",
+        "nama_panggilan": "Marcin Budzinski (82173)",
+        "tanggal_lahir": "1990-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Giżycko",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Koperski (825583)",
+        "nama_panggilan": "Filip Koperski (825583)",
+        "tanggal_lahir": "2004-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gdańsk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hubert Zwozny (825588)",
+        "nama_panggilan": "Hubert Zwozny (825588)",
+        "tanggal_lahir": "2003-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Jezierski (825994)",
+        "nama_panggilan": "Jakub Jezierski (825994)",
+        "tanggal_lahir": "2004-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Skwierczynski (826222)",
+        "nama_panggilan": "Kacper Skwierczynski (826222)",
+        "tanggal_lahir": "2003-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siedlce",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milosz Kurowski (826319)",
+        "nama_panggilan": "Milosz Kurowski (826319)",
+        "tanggal_lahir": "2004-07-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoni Mikulko (826506)",
+        "nama_panggilan": "Antoni Mikulko (826506)",
+        "tanggal_lahir": "2005-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gdańsk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wojciech Szafranek (826551)",
+        "nama_panggilan": "Wojciech Szafranek (826551)",
+        "tanggal_lahir": "2004-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eschweiler",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dariusz Stalmach (826795)",
+        "nama_panggilan": "Dariusz Stalmach (826795)",
+        "tanggal_lahir": "2005-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnowskie Góry",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartlomiej Kaldunski (828746)",
+        "nama_panggilan": "Bartlomiej Kaldunski (828746)",
+        "tanggal_lahir": "2005-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gdańsk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Zelazowski (828889)",
+        "nama_panggilan": "Bartosz Zelazowski (828889)",
+        "tanggal_lahir": "2005-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szymon Michalski (828895)",
+        "nama_panggilan": "Szymon Michalski (828895)",
+        "tanggal_lahir": "2004-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milicz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Jasionek (830417)",
+        "nama_panggilan": "Jakub Jasionek (830417)",
+        "tanggal_lahir": "2004-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białystok",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Olszak (830573)",
+        "nama_panggilan": "Dawid Olszak (830573)",
+        "tanggal_lahir": "2005-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lublin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fryderyk Janaszek (830742)",
+        "nama_panggilan": "Fryderyk Janaszek (830742)",
+        "tanggal_lahir": "2004-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szymon Gaj (934515)",
+        "nama_panggilan": "Szymon Gaj (934515)",
+        "tanggal_lahir": "2005-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konrad Guca (938756)",
+        "nama_panggilan": "Konrad Guca (938756)",
+        "tanggal_lahir": "2003-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnobrzeg",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tobiasz Kubik (941984)",
+        "nama_panggilan": "Tobiasz Kubik (941984)",
+        "tanggal_lahir": "2003-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Łódź",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Szkudlarek (944003)",
+        "nama_panggilan": "Jakub Szkudlarek (944003)",
+        "tanggal_lahir": "2003-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oskar Klon (945954)",
+        "nama_panggilan": "Oskar Klon (945954)",
+        "tanggal_lahir": "2005-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bydgoszcz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jan Faberski (949480)",
+        "nama_panggilan": "Jan Faberski (949480)",
+        "tanggal_lahir": "2006-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Płock",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamil Bilinski (95197)",
+        "nama_panggilan": "Kamil Bilinski (95197)",
+        "tanggal_lahir": "1988-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wrocław",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Bieronski (953452)",
+        "nama_panggilan": "Bartosz Bieronski (953452)",
+        "tanggal_lahir": "2006-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielsko-Biała",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oskar Lachowicz (954194)",
+        "nama_panggilan": "Oskar Lachowicz (954194)",
+        "tanggal_lahir": "2005-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Kosiorowski (95477)",
+        "nama_panggilan": "Sebastian Kosiorowski (95477)",
+        "tanggal_lahir": "1990-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kolbuszowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oskar Tomczyk (957890)",
+        "nama_panggilan": "Oskar Tomczyk (957890)",
+        "tanggal_lahir": "2006-01-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Płock",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Waclawski (958390)",
+        "nama_panggilan": "Mateusz Waclawski (958390)",
+        "tanggal_lahir": "2004-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chorzów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eryk Grzywacz (959294)",
+        "nama_panggilan": "Eryk Grzywacz (959294)",
+        "tanggal_lahir": "2006-03-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stalowa Wola",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Wysokinski (908285)",
+        "nama_panggilan": "Mateusz Wysokinski (908285)",
+        "tanggal_lahir": "2002-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Janusz Nojszewski (908601)",
+        "nama_panggilan": "Janusz Nojszewski (908601)",
+        "tanggal_lahir": "2003-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mińsk Mazowiecki",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miroslaw Spizak (91)",
+        "nama_panggilan": "Miroslaw Spizak (91)",
+        "tanggal_lahir": "1979-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Kirejczyk (910764)",
+        "nama_panggilan": "Gabriel Kirejczyk (910764)",
+        "tanggal_lahir": "2003-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oświęcim",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Madrzyk (910780)",
+        "nama_panggilan": "Jakub Madrzyk (910780)",
+        "tanggal_lahir": "2003-12-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Częstochowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wiktor Matyjewicz (910867)",
+        "nama_panggilan": "Wiktor Matyjewicz (910867)",
+        "tanggal_lahir": "2004-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Staniszewski (911472)",
+        "nama_panggilan": "Jakub Staniszewski (911472)",
+        "tanggal_lahir": "2005-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lębork",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Chojecki (911500)",
+        "nama_panggilan": "Adam Chojecki (911500)",
+        "tanggal_lahir": "2005-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Letkiewicz (911502)",
+        "nama_panggilan": "Patryk Letkiewicz (911502)",
+        "tanggal_lahir": "2005-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ruda Śląska",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Pietrzyk (913409)",
+        "nama_panggilan": "Kacper Pietrzyk (913409)",
+        "tanggal_lahir": "2004-03-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Olkusz",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Kempski (913676)",
+        "nama_panggilan": "Mateusz Kempski (913676)",
+        "tanggal_lahir": "2003-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Radomsko",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krzysztof Piosik (91436)",
+        "nama_panggilan": "Krzysztof Piosik (91436)",
+        "tanggal_lahir": "1983-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wolsztyn",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grzegorz Glapka (914789)",
+        "nama_panggilan": "Grzegorz Glapka (914789)",
+        "tanggal_lahir": "2002-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chorzów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grzegorz Dorobek (91733)",
+        "nama_panggilan": "Grzegorz Dorobek (91733)",
+        "tanggal_lahir": "1982-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wrocław",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikolaj Lipien (919090)",
+        "nama_panggilan": "Mikolaj Lipien (919090)",
+        "tanggal_lahir": "2003-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Czarny Dunajec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Kowalczyk (919469)",
+        "nama_panggilan": "Mateusz Kowalczyk (919469)",
+        "tanggal_lahir": "2004-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamil Chilinski (921300)",
+        "nama_panggilan": "Kamil Chilinski (921300)",
+        "tanggal_lahir": "2003-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Śrem",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Koziara (92298)",
+        "nama_panggilan": "Patryk Koziara (92298)",
+        "tanggal_lahir": "1990-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Banasiak (92296)",
+        "nama_panggilan": "Adam Banasiak (92296)",
+        "tanggal_lahir": "1989-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tomaszów Mazowiecki",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Matys (924895)",
+        "nama_panggilan": "Michal Matys (924895)",
+        "tanggal_lahir": "2006-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jelenia Góra",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Rajczykowski (925636)",
+        "nama_panggilan": "Jakub Rajczykowski (925636)",
+        "tanggal_lahir": "2005-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Częstochowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Glogowski (925734)",
+        "nama_panggilan": "Bartosz Glogowski (925734)",
+        "tanggal_lahir": "2005-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Biedrzycki (925747)",
+        "nama_panggilan": "Bartosz Biedrzycki (925747)",
+        "tanggal_lahir": "2003-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maków Mazowiecki",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Urbanski (925779)",
+        "nama_panggilan": "Piotr Urbanski (925779)",
+        "tanggal_lahir": "2004-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lublin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Smiglewski (925777)",
+        "nama_panggilan": "Kacper Smiglewski (925777)",
+        "tanggal_lahir": "2005-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukasz Kominiak (92595)",
+        "nama_panggilan": "Lukasz Kominiak (92595)",
+        "tanggal_lahir": "1990-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Klich (92738)",
+        "nama_panggilan": "Mateusz Klich (92738)",
+        "tanggal_lahir": "1990-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tarnów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Medrala (929440)",
+        "nama_panggilan": "Mateusz Medrala (929440)",
+        "tanggal_lahir": "2006-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Żywiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamil Jakubczyk (929467)",
+        "nama_panggilan": "Kamil Jakubczyk (929467)",
+        "tanggal_lahir": "2004-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Szczecin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Lewicki (929423)",
+        "nama_panggilan": "Jakub Lewicki (929423)",
+        "tanggal_lahir": "2005-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białystok",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Predenkiewicz (929450)",
+        "nama_panggilan": "Marcel Predenkiewicz (929450)",
+        "tanggal_lahir": "2004-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toruń",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stanislaw Szczyrek (930182)",
+        "nama_panggilan": "Stanislaw Szczyrek (930182)",
+        "tanggal_lahir": "2005-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milosz Skowronek (930192)",
+        "nama_panggilan": "Milosz Skowronek (930192)",
+        "tanggal_lahir": "2005-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ostrołęka",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksander Wolczek (930416)",
+        "nama_panggilan": "Aleksander Wolczek (930416)",
+        "tanggal_lahir": "2005-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikolaj Tudruj (930511)",
+        "nama_panggilan": "Mikolaj Tudruj (930511)",
+        "tanggal_lahir": "2006-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Wojtowicz (875035)",
+        "nama_panggilan": "Tomasz Wojtowicz (875035)",
+        "tanggal_lahir": "2003-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Fidziukiewicz (87691)",
+        "nama_panggilan": "Michal Fidziukiewicz (87691)",
+        "tanggal_lahir": "1991-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Białystok",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pawel Kal (87953)",
+        "nama_panggilan": "Pawel Kal (87953)",
+        "tanggal_lahir": "1989-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kielce",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Wojtek (883287)",
+        "nama_panggilan": "Mateusz Wojtek (883287)",
+        "tanggal_lahir": "2003-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Krzyzanski (884505)",
+        "nama_panggilan": "Dawid Krzyzanski (884505)",
+        "tanggal_lahir": "2001-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Radziejów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Krzyzanowski (888643)",
+        "nama_panggilan": "Jakub Krzyzanowski (888643)",
+        "tanggal_lahir": "2006-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wojciech Zielinski (888665)",
+        "nama_panggilan": "Wojciech Zielinski (888665)",
+        "tanggal_lahir": "2004-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Iława",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karol Borys (890272)",
+        "nama_panggilan": "Karol Borys (890272)",
+        "tanggal_lahir": "2006-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Otmuchów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Florek (891831)",
+        "nama_panggilan": "Bartosz Florek (891831)",
+        "tanggal_lahir": "2004-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukasz Zagdanski (89366)",
+        "nama_panggilan": "Lukasz Zagdanski (89366)",
+        "tanggal_lahir": "1989-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gorzów Wielkopolski",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Przemyslaw Zbiciak (894361)",
+        "nama_panggilan": "Przemyslaw Zbiciak (894361)",
+        "tanggal_lahir": "2002-12-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Drachal (895298)",
+        "nama_panggilan": "Dawid Drachal (895298)",
+        "tanggal_lahir": "2005-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Radom",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Antoni Wodzicki (897685)",
+        "nama_panggilan": "Antoni Wodzicki (897685)",
+        "tanggal_lahir": "2005-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Troc (900915)",
+        "nama_panggilan": "Adrian Troc (900915)",
+        "tanggal_lahir": "2003-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maciej Kuziemka (901070)",
+        "nama_panggilan": "Maciej Kuziemka (901070)",
+        "tanggal_lahir": "2006-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ostrowiec Świętokrzyski",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Kowalski (902573)",
+        "nama_panggilan": "Mateusz Kowalski (902573)",
+        "tanggal_lahir": "2005-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gdańsk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Mikulski (904005)",
+        "nama_panggilan": "Mateusz Mikulski (904005)",
+        "tanggal_lahir": "2004-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dębica",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hubert Szulc (837346)",
+        "nama_panggilan": "Hubert Szulc (837346)",
+        "tanggal_lahir": "2004-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leszno",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kamil Korczak (843447)",
+        "nama_panggilan": "Kamil Korczak (843447)",
+        "tanggal_lahir": "2003-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielsko-Biała",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Przemyslaw Maj (844746)",
+        "nama_panggilan": "Przemyslaw Maj (844746)",
+        "tanggal_lahir": "2003-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rzeszów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Majchrzak (846302)",
+        "nama_panggilan": "Jordan Majchrzak (846302)",
+        "tanggal_lahir": "2004-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zawiercie",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Skrobanski (847073)",
+        "nama_panggilan": "Kacper Skrobanski (847073)",
+        "tanggal_lahir": "2004-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toruń",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Strzalek (847436)",
+        "nama_panggilan": "Igor Strzalek (847436)",
+        "tanggal_lahir": "2004-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Siedlce",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Jedrasik (848943)",
+        "nama_panggilan": "Jakub Jedrasik (848943)",
+        "tanggal_lahir": "2005-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Łódź",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Tomasik (84918)",
+        "nama_panggilan": "Piotr Tomasik (84918)",
+        "tanggal_lahir": "1987-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dominik Banach (855132)",
+        "nama_panggilan": "Dominik Banach (855132)",
+        "tanggal_lahir": "2002-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Poniatowa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Kolodziejski (85522)",
+        "nama_panggilan": "Michal Kolodziejski (85522)",
+        "tanggal_lahir": "1993-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gryfino",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Gawecki (85649)",
+        "nama_panggilan": "Piotr Gawecki (85649)",
+        "tanggal_lahir": "1989-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kielce",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maciej Szajna (85651)",
+        "nama_panggilan": "Maciej Szajna (85651)",
+        "tanggal_lahir": "1988-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jasło",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arkadiusz Bednarczyk (857241)",
+        "nama_panggilan": "Arkadiusz Bednarczyk (857241)",
+        "tanggal_lahir": "2002-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lublin",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maciej Gorski (85797)",
+        "nama_panggilan": "Maciej Gorski (85797)",
+        "tanggal_lahir": "1990-03-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Kaminski (85798)",
+        "nama_panggilan": "Patryk Kaminski (85798)",
+        "tanggal_lahir": "1991-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krystian Wieczorek (858902)",
+        "nama_panggilan": "Krystian Wieczorek (858902)",
+        "tanggal_lahir": "2002-07-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielsko-Biała",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Zachcial (860550)",
+        "nama_panggilan": "Michal Zachcial (860550)",
+        "tanggal_lahir": "1999-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sieraków",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Kukulski (862786)",
+        "nama_panggilan": "Patryk Kukulski (862786)",
+        "tanggal_lahir": "2004-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piotrków Trybunalski",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Janiszek (863658)",
+        "nama_panggilan": "Bartosz Janiszek (863658)",
+        "tanggal_lahir": "2002-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ryki",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Kasztelan (86923)",
+        "nama_panggilan": "Adrian Kasztelan (86923)",
+        "tanggal_lahir": "1986-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Łódź",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Malamis (959916)",
+        "nama_panggilan": "Patryk Malamis (959916)",
+        "tanggal_lahir": "2005-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lubań",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartlomiej Baranski (959917)",
+        "nama_panggilan": "Bartlomiej Baranski (959917)",
+        "tanggal_lahir": "2006-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Katowice",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Snopczynski (960963)",
+        "nama_panggilan": "Jakub Snopczynski (960963)",
+        "tanggal_lahir": "2005-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Radom",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomasz Powaga (961034)",
+        "nama_panggilan": "Tomasz Powaga (961034)",
+        "tanggal_lahir": "1969-12-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Zewlakow (9613)",
+        "nama_panggilan": "Michal Zewlakow (9613)",
+        "tanggal_lahir": "1976-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krzysztof Kurowski (964757)",
+        "nama_panggilan": "Krzysztof Kurowski (964757)",
+        "tanggal_lahir": "2006-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wrocław",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milosz Piekutowski (965043)",
+        "nama_panggilan": "Milosz Piekutowski (965043)",
+        "tanggal_lahir": "2006-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wysokie Mazowieckie",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patryk Olejnik (965351)",
+        "nama_panggilan": "Patryk Olejnik (965351)",
+        "tanggal_lahir": "2006-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leszno",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Pardel (970683)",
+        "nama_panggilan": "Piotr Pardel (970683)",
+        "tanggal_lahir": "2005-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Piatkowski (97437)",
+        "nama_panggilan": "Mateusz Piatkowski (97437)",
+        "tanggal_lahir": "1984-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Rózga (974365)",
+        "nama_panggilan": "Filip Rózga (974365)",
+        "tanggal_lahir": "2006-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skawina",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jakub Miszczuk (97708)",
+        "nama_panggilan": "Jakub Miszczuk (97708)",
+        "tanggal_lahir": "1990-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokołów Podlaski",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Trafarski (97728)",
+        "nama_panggilan": "Piotr Trafarski (97728)",
+        "tanggal_lahir": "1983-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ketrzyn",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Bojanczyk (985983)",
+        "nama_panggilan": "Kacper Bojanczyk (985983)",
+        "tanggal_lahir": "2005-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piaseczno",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Ziolkowski (991346)",
+        "nama_panggilan": "Mateusz Ziolkowski (991346)",
+        "tanggal_lahir": "2003-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Rejczyk (991455)",
+        "nama_panggilan": "Filip Rejczyk (991455)",
+        "tanggal_lahir": "2006-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stalowa Wola",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Igor Orlikowski (991454)",
+        "nama_panggilan": "Igor Orlikowski (991454)",
+        "tanggal_lahir": "2006-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krotoszyn",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateusz Skoczylas (991458)",
+        "nama_panggilan": "Mateusz Skoczylas (991458)",
+        "tanggal_lahir": "2006-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rzeszów",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Mikolajewski (991459)",
+        "nama_panggilan": "Daniel Mikolajewski (991459)",
+        "tanggal_lahir": "2006-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nienburg/Weser",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Krzysztof Kolanko (991460)",
+        "nama_panggilan": "Krzysztof Kolanko (991460)",
+        "tanggal_lahir": "2006-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bartosz Borkowski (991777)",
+        "nama_panggilan": "Bartosz Borkowski (991777)",
+        "tanggal_lahir": "2006-05-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gdańsk",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michal Gurgul (991779)",
+        "nama_panggilan": "Michal Gurgul (991779)",
+        "tanggal_lahir": "2006-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Poznań",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kacper Bak (993345)",
+        "nama_panggilan": "Kacper Bak (993345)",
+        "tanggal_lahir": "2004-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ruda Śląska",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lukasz Bomba (993957)",
+        "nama_panggilan": "Lukasz Bomba (993957)",
+        "tanggal_lahir": "2004-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zduńska Wola",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland"
+        ],
+        "tinggi_badan_cm": "199.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

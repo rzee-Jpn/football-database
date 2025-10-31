@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Malta",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabio Schembri (807700)",
+        "nama_panggilan": "Fabio Schembri (807700)",
+        "tanggal_lahir": "2001-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mont-de-Marsan",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Malta"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vicenzo Bezzina (729478)",
+        "nama_panggilan": "Vicenzo Bezzina (729478)",
+        "tanggal_lahir": "1998-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Saint-Raphaël",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Malta"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tom Portelli (971822)",
+        "nama_panggilan": "Tom Portelli (971822)",
+        "tanggal_lahir": "2001-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aix-en-Provence",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Malta"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

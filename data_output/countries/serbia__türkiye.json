@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Türkiye",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Misko Mirkovic (151614)",
+        "nama_panggilan": "Misko Mirkovic (151614)",
+        "tanggal_lahir": "1966-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tuzla",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Türkiye"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

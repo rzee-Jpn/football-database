@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Netherlands",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dragisa Gudelj (265391)",
+        "nama_panggilan": "Dragisa Gudelj (265391)",
+        "tanggal_lahir": "1997-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Breda",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Netherlands"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Bjelica (273004)",
+        "nama_panggilan": "Aleksandar Bjelica (273004)",
+        "tanggal_lahir": "1994-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vrbas",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nemanja Gudelj (74294)",
+        "nama_panggilan": "Nemanja Gudelj (74294)",
+        "tanggal_lahir": "1991-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mateja Milovanovic (775242)",
+        "nama_panggilan": "Mateja Milovanovic (775242)",
+        "tanggal_lahir": "2004-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vlaardingen",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Netherlands"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

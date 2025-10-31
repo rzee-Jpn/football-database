@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi  Australia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pacifique Niyongabire (561646)",
+        "nama_panggilan": "Pacifique Niyongabire (561646)",
+        "tanggal_lahir": "2000-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  Australia"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elvis Kamsoba (607269)",
+        "nama_panggilan": "Elvis Kamsoba (607269)",
+        "tanggal_lahir": "1996-07-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nyanza-Lac",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi  Australia"
+        ],
+        "tinggi_badan_cm": "164.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

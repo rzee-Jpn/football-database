@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Egypt",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haissem Hassan (620164)",
+        "nama_panggilan": "Haissem Hassan (620164)",
+        "tanggal_lahir": "2002-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bagnolet",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Egypt"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

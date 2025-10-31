@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Algeria  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Younes Aitamer (604350)",
+        "nama_panggilan": "Younes Aitamer (604350)",
+        "tanggal_lahir": "2003-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Maza (905011)",
+        "nama_panggilan": "Ibrahim Maza (905011)",
+        "tanggal_lahir": "2005-11-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Algeria"
+        },
+        "kewarganegaraan": [
+          "Algeria  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belize  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tony Rocha (261736)",
+        "nama_panggilan": "Tony Rocha (261736)",
+        "tanggal_lahir": "1993-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Spring, Texas",
+          "negara": "Belize"
+        },
+        "kewarganegaraan": [
+          "Belize  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Salazar (277353)",
+        "nama_panggilan": "Michael Salazar (277353)",
+        "tanggal_lahir": "1992-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Belize"
+        },
+        "kewarganegaraan": [
+          "Belize  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

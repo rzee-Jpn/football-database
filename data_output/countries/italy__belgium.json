@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Belgium",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timothy Salvi (148307)",
+        "nama_panggilan": "Timothy Salvi (148307)",
+        "tanggal_lahir": "1992-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brescia",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lillo Guarneri (490387)",
+        "nama_panggilan": "Lillo Guarneri (490387)",
+        "tanggal_lahir": "2002-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liège",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edoardo Grosso (705325)",
+        "nama_panggilan": "Edoardo Grosso (705325)",
+        "tanggal_lahir": "2002-09-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrico Mauthe (909895)",
+        "nama_panggilan": "Enrico Mauthe (909895)",
+        "tanggal_lahir": "2004-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palermo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Belgium"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Plaia (929871)",
+        "nama_panggilan": "Matteo Plaia (929871)",
+        "tanggal_lahir": "2006-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bruxelles",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Belgium"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

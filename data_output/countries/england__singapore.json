@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Singapore",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Perry Ng (322677)",
+        "nama_panggilan": "Perry Ng (322677)",
+        "tanggal_lahir": "1996-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Liverpool",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Singapore"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sonny Aljofree (911431)",
+        "nama_panggilan": "Sonny Aljofree (911431)",
+        "tanggal_lahir": "2004-12-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Plymouth",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Singapore"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

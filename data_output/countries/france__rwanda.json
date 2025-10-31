@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Rwanda",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Monnet-Paquet (44045)",
+        "nama_panggilan": "Kévin Monnet-Paquet (44045)",
+        "tanggal_lahir": "1988-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bourgoin-Jallieu",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Rwanda"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noam Emeran (557611)",
+        "nama_panggilan": "Noam Emeran (557611)",
+        "tanggal_lahir": "2002-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paray-le-Monial",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Rwanda"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

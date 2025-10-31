@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Slovakia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mouhamadou Seye (74835)",
+        "nama_panggilan": "Mouhamadou Seye (74835)",
+        "tanggal_lahir": "1988-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dakar",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Slovakia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

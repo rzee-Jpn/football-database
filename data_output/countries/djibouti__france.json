@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Djibouti  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yonis Kireh (1067990)",
+        "nama_panggilan": "Yonis Kireh (1067990)",
+        "tanggal_lahir": "2002-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Djibouti"
+        },
+        "kewarganegaraan": [
+          "Djibouti  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Haroun Kadamy Youssouf (574075)",
+        "nama_panggilan": "Haroun Kadamy Youssouf (574075)",
+        "tanggal_lahir": "1998-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Djibouti  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

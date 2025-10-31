@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Hungary",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Axel Kedvesi (913659)",
+        "nama_panggilan": "Axel Kedvesi (913659)",
+        "tanggal_lahir": "2004-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Avignon",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Hungary"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

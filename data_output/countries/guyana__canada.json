@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guyana  Canada",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quillan Roberts (189041)",
+        "nama_panggilan": "Quillan Roberts (189041)",
+        "tanggal_lahir": "1994-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brampton, Ontario",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  Canada"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emery Welshman (255921)",
+        "nama_panggilan": "Emery Welshman (255921)",
+        "tanggal_lahir": "1991-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mississauga, Ontario",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  Canada"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Terique Mohammed (595566)",
+        "nama_panggilan": "Terique Mohammed (595566)",
+        "tanggal_lahir": "2000-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  Canada"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Osaze De Rosario (657324)",
+        "nama_panggilan": "Osaze De Rosario (657324)",
+        "tanggal_lahir": "2001-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Jose, California",
+          "negara": "Guyana"
+        },
+        "kewarganegaraan": [
+          "Guyana  Canada"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

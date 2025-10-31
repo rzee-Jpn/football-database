@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Germany",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Guwara (201135)",
+        "nama_panggilan": "Leon Guwara (201135)",
+        "tanggal_lahir": "1996-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Timo Uster (2799)",
+        "nama_panggilan": "Timo Uster (2799)",
+        "tanggal_lahir": "1974-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Baboucarr Gaye (292154)",
+        "nama_panggilan": "Baboucarr Gaye (292154)",
+        "tanggal_lahir": "1998-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bielefeld",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Germany"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamin Sanyang (569034)",
+        "nama_panggilan": "Mamin Sanyang (569034)",
+        "tanggal_lahir": "2003-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brikama",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Germany"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yusupha Sawaneh (821417)",
+        "nama_panggilan": "Yusupha Sawaneh (821417)",
+        "tanggal_lahir": "2003-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "The Gambia  Germany"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

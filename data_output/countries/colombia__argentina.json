@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Argentina",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jorman Campuzano (459467)",
+        "nama_panggilan": "Jorman Campuzano (459467)",
+        "tanggal_lahir": "1996-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tamalameque",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Camilo Machado (633720)",
+        "nama_panggilan": "Camilo Machado (633720)",
+        "tanggal_lahir": "1999-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Marta",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Argentina"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Espíndola (641122)",
+        "nama_panggilan": "Marco Espíndola (641122)",
+        "tanggal_lahir": "1998-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Colombia  Argentina"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

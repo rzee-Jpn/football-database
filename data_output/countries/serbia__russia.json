@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Russia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ivan Miladinovic (296963)",
+        "nama_panggilan": "Ivan Miladinovic (296963)",
+        "tanggal_lahir": "1994-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ćuprija",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Russia"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

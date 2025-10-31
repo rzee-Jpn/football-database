@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Croatia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matteo Bruzzone (240298)",
+        "nama_panggilan": "Matteo Bruzzone (240298)",
+        "tanggal_lahir": "1994-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Croatia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Juricic (704741)",
+        "nama_panggilan": "Marco Juricic (704741)",
+        "tanggal_lahir": "2003-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torino",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Croatia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michele Di Rienzo (934471)",
+        "nama_panggilan": "Michele Di Rienzo (934471)",
+        "tanggal_lahir": "2005-07-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Croatia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Federico Bellotti (900114)",
+        "nama_panggilan": "Federico Bellotti (900114)",
+        "tanggal_lahir": "2005-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cosenza",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Croatia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

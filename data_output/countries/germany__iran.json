@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Iran",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darius Jalinous (282108)",
+        "nama_panggilan": "Darius Jalinous (282108)",
+        "tanggal_lahir": "1997-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eggenfelden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Iran"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawoud Jalinous (380271)",
+        "nama_panggilan": "Dawoud Jalinous (380271)",
+        "tanggal_lahir": "1999-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eggenfelden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Iran"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ebrahim Farahnak (449835)",
+        "nama_panggilan": "Ebrahim Farahnak (449835)",
+        "tanggal_lahir": "1998-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Shiraz, Fars",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Iran"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Nouri (542)",
+        "nama_panggilan": "Alexander Nouri (542)",
+        "tanggal_lahir": "1979-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buxtehude",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Iran"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubic Ghasemi-Nobakht (82144)",
+        "nama_panggilan": "Rubic Ghasemi-Nobakht (82144)",
+        "tanggal_lahir": "1987-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göttingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Iran"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

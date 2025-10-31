@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto (27423)",
+        "nama_panggilan": "Roberto (27423)",
+        "tanggal_lahir": "1988-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tucano",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  Canada"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

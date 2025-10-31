@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Mexico",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Ángel Seguro (16584)",
+        "nama_panggilan": "Juan Ángel Seguro (16584)",
+        "tanggal_lahir": "1984-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexiko-Stadt",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mexico"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óscar Whalley (260662)",
+        "nama_panggilan": "Óscar Whalley (260662)",
+        "tanggal_lahir": "1994-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zaragoza",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mexico"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Álvaro Fidalgo (261503)",
+        "nama_panggilan": "Álvaro Fidalgo (261503)",
+        "tanggal_lahir": "1997-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oviedo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mexico"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Crosas (54164)",
+        "nama_panggilan": "Marc Crosas (54164)",
+        "tanggal_lahir": "1988-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sant Feliu de Guíxols",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mexico"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillermo Ruiz (991158)",
+        "nama_panggilan": "Guillermo Ruiz (991158)",
+        "tanggal_lahir": "2003-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Mexico"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Korea, South  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Young-gi Jang (709160)",
+        "nama_panggilan": "Young-gi Jang (709160)",
+        "tanggal_lahir": "2003-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blacksburg, Virginia",
+          "negara": "Korea, South"
+        },
+        "kewarganegaraan": [
+          "Korea, South  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

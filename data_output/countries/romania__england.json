@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  England",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Troy Tomșa (1100802)",
+        "nama_panggilan": "Troy Tomșa (1100802)",
+        "tanggal_lahir": "2007-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brent",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Pașcanu (421258)",
+        "nama_panggilan": "Alexandru Pașcanu (421258)",
+        "tanggal_lahir": "1998-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bârlad",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  England"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

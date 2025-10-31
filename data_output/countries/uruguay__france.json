@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uruguay  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Iglesias (159907)",
+        "nama_panggilan": "Jonathan Iglesias (159907)",
+        "tanggal_lahir": "1988-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  France"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Francescoli (463590)",
+        "nama_panggilan": "Marco Francescoli (463590)",
+        "tanggal_lahir": "1989-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Uruguay"
+        },
+        "kewarganegaraan": [
+          "Uruguay  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Denmark",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kevin Ray Mendoza (182367)",
+        "nama_panggilan": "Kevin Ray Mendoza (182367)",
+        "tanggal_lahir": "1994-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herning",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Denmark"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jerry Lucena (20855)",
+        "nama_panggilan": "Jerry Lucena (20855)",
+        "tanggal_lahir": "1980-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Esbjerg",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Denmark"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Cagara (7374)",
+        "nama_panggilan": "Dennis Cagara (7374)",
+        "tanggal_lahir": "1985-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Glostrup",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Denmark"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

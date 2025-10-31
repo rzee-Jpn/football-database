@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bangladesh  Italy",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fahamedul Islam (987443)",
+        "nama_panggilan": "Fahamedul Islam (987443)",
+        "tanggal_lahir": "2006-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Feni",
+          "negara": "Bangladesh"
+        },
+        "kewarganegaraan": [
+          "Bangladesh  Italy"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

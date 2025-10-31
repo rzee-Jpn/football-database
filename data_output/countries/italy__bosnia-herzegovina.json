@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Bosnia-Herzegovina",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Djuric (154174)",
+        "nama_panggilan": "Marco Djuric (154174)",
+        "tanggal_lahir": "1992-09-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pesaro",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Bosnia-Herzegovina"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

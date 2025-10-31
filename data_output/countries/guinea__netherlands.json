@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Netherlands",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sekou Sylla (587333)",
+        "nama_panggilan": "Sekou Sylla (587333)",
+        "tanggal_lahir": "1999-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schiedam",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Netherlands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahima Kromah (708990)",
+        "nama_panggilan": "Ibrahima Kromah (708990)",
+        "tanggal_lahir": "2004-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Netherlands"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

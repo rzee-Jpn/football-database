@@ -1,0 +1,993 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sierra Leone",
+  "total_pemain": 29,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Momoh Kamara (1027343)",
+        "nama_panggilan": "Momoh Kamara (1027343)",
+        "tanggal_lahir": "1969-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juma Bah (1121298)",
+        "nama_panggilan": "Juma Bah (1121298)",
+        "tanggal_lahir": "2006-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alieson Kamara (1129936)",
+        "nama_panggilan": "Alieson Kamara (1129936)",
+        "tanggal_lahir": "2004-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Momoh Kamara (1129935)",
+        "nama_panggilan": "Momoh Kamara (1129935)",
+        "tanggal_lahir": "2005-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kambia Town",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Kpaka (13322)",
+        "nama_panggilan": "Paul Kpaka (13322)",
+        "tanggal_lahir": "1981-08-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kenema",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abudlrahim Bangura (1301507)",
+        "nama_panggilan": "Abudlrahim Bangura (1301507)",
+        "tanggal_lahir": "2008-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alpha Kabia (1396203)",
+        "nama_panggilan": "Alpha Kabia (1396203)",
+        "tanggal_lahir": "2005-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Junior Wilhelm Vidal (179337)",
+        "nama_panggilan": "Junior Wilhelm Vidal (179337)",
+        "tanggal_lahir": "1975-10-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alhaji Kamara (235355)",
+        "nama_panggilan": "Alhaji Kamara (235355)",
+        "tanggal_lahir": "1994-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Crespo Kamara (203418)",
+        "nama_panggilan": "Crespo Kamara (203418)",
+        "tanggal_lahir": "1993-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kewullay Conteh (20917)",
+        "nama_panggilan": "Kewullay Conteh (20917)",
+        "tanggal_lahir": "1977-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Free Town",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Davies (273065)",
+        "nama_panggilan": "George Davies (273065)",
+        "tanggal_lahir": "1996-11-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Buya Turay (340745)",
+        "nama_panggilan": "Mohamed Buya Turay (340745)",
+        "tanggal_lahir": "1995-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamed Kallon (3509)",
+        "nama_panggilan": "Mohamed Kallon (3509)",
+        "tanggal_lahir": "1979-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kenema",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brima Koroma (30400)",
+        "nama_panggilan": "Brima Koroma (30400)",
+        "tanggal_lahir": "1984-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Umaru Bangura (38304)",
+        "nama_panggilan": "Umaru Bangura (38304)",
+        "tanggal_lahir": "1987-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Al Bangura (36791)",
+        "nama_panggilan": "Al Bangura (36791)",
+        "tanggal_lahir": "1988-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Moses (404552)",
+        "nama_panggilan": "Christian Moses (404552)",
+        "tanggal_lahir": "1993-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mustapha Bundu (457728)",
+        "nama_panggilan": "Mustapha Bundu (457728)",
+        "tanggal_lahir": "1997-02-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Augustus Kargbo (549791)",
+        "nama_panggilan": "Augustus Kargbo (549791)",
+        "tanggal_lahir": "1999-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alhassan Koroma (573619)",
+        "nama_panggilan": "Alhassan Koroma (573619)",
+        "tanggal_lahir": "2000-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yoni Chiefdom",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Kargbo (576724)",
+        "nama_panggilan": "Michael Kargbo (576724)",
+        "tanggal_lahir": "1999-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yayah Kallon (623040)",
+        "nama_panggilan": "Yayah Kallon (623040)",
+        "tanggal_lahir": "2001-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koidu-Sefadu",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrahim Koroma (82031)",
+        "nama_panggilan": "Ibrahim Koroma (82031)",
+        "tanggal_lahir": "1989-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alusine Koroma (877610)",
+        "nama_panggilan": "Alusine Koroma (877610)",
+        "tanggal_lahir": "2000-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yoni Chiefdom",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frank Daroma (880611)",
+        "nama_panggilan": "Frank Daroma (880611)",
+        "tanggal_lahir": "2001-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "163.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodney Strasser (88712)",
+        "nama_panggilan": "Rodney Strasser (88712)",
+        "tanggal_lahir": "1990-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jay Tee Kamara (858901)",
+        "nama_panggilan": "Jay Tee Kamara (858901)",
+        "tanggal_lahir": "2002-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "161.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alie Conteh (996665)",
+        "nama_panggilan": "Alie Conteh (996665)",
+        "tanggal_lahir": "2004-10-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ghana  United States",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lalas Abubakar (482611)",
+        "nama_panggilan": "Lalas Abubakar (482611)",
+        "tanggal_lahir": "1994-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumasi",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ema Twumasi (562391)",
+        "nama_panggilan": "Ema Twumasi (562391)",
+        "tanggal_lahir": "1997-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Accra",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  United States"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Koby Osei-Wusu (572739)",
+        "nama_panggilan": "Koby Osei-Wusu (572739)",
+        "tanggal_lahir": "1995-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bowie, Maryland",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicholas Amoako (598599)",
+        "nama_panggilan": "Nicholas Amoako (598599)",
+        "tanggal_lahir": "1997-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mankessim",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  United States"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Curtis Ofori (826451)",
+        "nama_panggilan": "Curtis Ofori (826451)",
+        "tanggal_lahir": "2005-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hopewell Junction, New York",
+          "negara": "Ghana"
+        },
+        "kewarganegaraan": [
+          "Ghana  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

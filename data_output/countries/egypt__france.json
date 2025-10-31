@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Egypt  France",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bilal Mazhar (808907)",
+        "nama_panggilan": "Bilal Mazhar (808907)",
+        "tanggal_lahir": "2003-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Châteauroux",
+          "negara": "Egypt"
+        },
+        "kewarganegaraan": [
+          "Egypt  France"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

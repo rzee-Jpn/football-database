@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  Thailand",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jude Soonsup-Bell (670857)",
+        "nama_panggilan": "Jude Soonsup-Bell (670857)",
+        "tanggal_lahir": "2004-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chippenham",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  Thailand"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

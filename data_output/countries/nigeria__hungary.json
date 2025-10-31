@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Hungary",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Samuel Obot (217683)",
+        "nama_panggilan": "Denis Samuel Obot (217683)",
+        "tanggal_lahir": "1987-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uyo, Aks",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Hungary"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Funsho Bamgboye (401921)",
+        "nama_panggilan": "Funsho Bamgboye (401921)",
+        "tanggal_lahir": "1999-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ibadan",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Hungary"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eke Uzoma (43500)",
+        "nama_panggilan": "Eke Uzoma (43500)",
+        "tanggal_lahir": "1989-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Hungary"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

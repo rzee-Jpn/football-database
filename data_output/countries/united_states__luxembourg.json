@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Luxembourg",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brian Schwake (747967)",
+        "nama_panggilan": "Brian Schwake (747967)",
+        "tanggal_lahir": "2001-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mount Prospect, Illinois",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Luxembourg"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

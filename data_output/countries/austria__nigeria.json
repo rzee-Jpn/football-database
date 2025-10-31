@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Austria  Nigeria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kelvin Arase (321048)",
+        "nama_panggilan": "Kelvin Arase (321048)",
+        "tanggal_lahir": "1999-01-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Benin City",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Nigeria"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentine Duru (47224)",
+        "nama_panggilan": "Valentine Duru (47224)",
+        "tanggal_lahir": "1977-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Umudim",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Nigeria"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frank Egharevba (54907)",
+        "nama_panggilan": "Frank Egharevba (54907)",
+        "tanggal_lahir": "1985-12-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Benin City",
+          "negara": "Austria"
+        },
+        "kewarganegaraan": [
+          "Austria  Nigeria"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

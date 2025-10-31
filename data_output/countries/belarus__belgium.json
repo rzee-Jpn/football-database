@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Belarus  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maxim Kireev (671677)",
+        "nama_panggilan": "Maxim Kireev (671677)",
+        "tanggal_lahir": "2004-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussels",
+          "negara": "Belarus"
+        },
+        "kewarganegaraan": [
+          "Belarus  Belgium"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Australia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jesse Curran (296443)",
+        "nama_panggilan": "Jesse Curran (296443)",
+        "tanggal_lahir": "1996-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Burnie",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Australia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julian Schwarzer (483344)",
+        "nama_panggilan": "Julian Schwarzer (483344)",
+        "tanggal_lahir": "1999-10-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harrogate",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Australia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

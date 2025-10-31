@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lithuania  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dmitrijus Guscinas (2043)",
+        "nama_panggilan": "Dmitrijus Guscinas (2043)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vilnius",
+          "negara": "Lithuania"
+        },
+        "kewarganegaraan": [
+          "Lithuania  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Markus Palionis (32564)",
+        "nama_panggilan": "Markus Palionis (32564)",
+        "tanggal_lahir": "1987-05-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaunas",
+          "negara": "Lithuania"
+        },
+        "kewarganegaraan": [
+          "Lithuania  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

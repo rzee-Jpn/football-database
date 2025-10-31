@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Colombia  Venezuela",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Copete (123508)",
+        "nama_panggilan": "Jonathan Copete (123508)",
+        "tanggal_lahir": "1988-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Cali",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Venezuela"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Larry Vásquez (260925)",
+        "nama_panggilan": "Larry Vásquez (260925)",
+        "tanggal_lahir": "1992-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "El Zulia",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Venezuela"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Radamel Falcao (39152)",
+        "nama_panggilan": "Radamel Falcao (39152)",
+        "tanggal_lahir": "1986-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Marta",
+          "negara": "Colombia"
+        },
+        "kewarganegaraan": [
+          "Colombia  Venezuela"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

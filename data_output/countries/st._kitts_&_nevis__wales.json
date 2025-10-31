@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "St. Kitts & Nevis  Wales",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Theo Wharton (212783)",
+        "nama_panggilan": "Theo Wharton (212783)",
+        "tanggal_lahir": "1994-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cwmbran",
+          "negara": "St. Kitts & Nevis"
+        },
+        "kewarganegaraan": [
+          "St. Kitts & Nevis  Wales"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

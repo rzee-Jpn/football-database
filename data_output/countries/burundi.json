@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Burundi",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christophe Nduwarugira (340032)",
+        "nama_panggilan": "Christophe Nduwarugira (340032)",
+        "tanggal_lahir": "1994-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rohero",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frédéric Nsabiyumva (340031)",
+        "nama_panggilan": "Frédéric Nsabiyumva (340031)",
+        "tanggal_lahir": "1995-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Saidi Ntibazonkiza (45846)",
+        "nama_panggilan": "Saidi Ntibazonkiza (45846)",
+        "tanggal_lahir": "1987-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Youssouf Ndayishimiye (674612)",
+        "nama_panggilan": "Youssouf Ndayishimiye (674612)",
+        "tanggal_lahir": "1998-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jospin Nshimirimana (649266)",
+        "nama_panggilan": "Jospin Nshimirimana (649266)",
+        "tanggal_lahir": "2001-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gatumba",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric Ndizeye (826377)",
+        "nama_panggilan": "Eric Ndizeye (826377)",
+        "tanggal_lahir": "1999-08-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nyamugari",
+          "negara": "Burundi"
+        },
+        "kewarganegaraan": [
+          "Burundi"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

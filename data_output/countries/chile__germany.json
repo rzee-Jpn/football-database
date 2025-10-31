@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chile  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Rubio (179308)",
+        "nama_panggilan": "Diego Rubio (179308)",
+        "tanggal_lahir": "1993-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Chile",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kennet Hanner López (379806)",
+        "nama_panggilan": "Kennet Hanner López (379806)",
+        "tanggal_lahir": "1999-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago de Chile",
+          "negara": "Chile"
+        },
+        "kewarganegaraan": [
+          "Chile  Germany"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  DR Congo",
+  "total_pemain": 22,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Streli Mamba (161060)",
+        "nama_panggilan": "Streli Mamba (161060)",
+        "tanggal_lahir": "1994-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Göppingen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Kinsombi (196834)",
+        "nama_panggilan": "David Kinsombi (196834)",
+        "tanggal_lahir": "1995-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rüdesheim am Rhein",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Merveille Biankadi (196843)",
+        "nama_panggilan": "Merveille Biankadi (196843)",
+        "tanggal_lahir": "1995-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ba-Muaka Simakala (227974)",
+        "nama_panggilan": "Ba-Muaka Simakala (227974)",
+        "tanggal_lahir": "1997-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Eschweiler",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Boyamba (228386)",
+        "nama_panggilan": "Joseph Boyamba (228386)",
+        "tanggal_lahir": "1996-07-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Troisdorf",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benedict dos Santos (199710)",
+        "nama_panggilan": "Benedict dos Santos (199710)",
+        "tanggal_lahir": "1998-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wertheim",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christian Kinsombi (342968)",
+        "nama_panggilan": "Christian Kinsombi (342968)",
+        "tanggal_lahir": "1999-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wiesbaden",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tarsis Bonga (283140)",
+        "nama_panggilan": "Tarsis Bonga (283140)",
+        "tanggal_lahir": "1997-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Neuwied",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ridle Baku (327251)",
+        "nama_panggilan": "Ridle Baku (327251)",
+        "tanggal_lahir": "1998-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mainz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Makana Baku (336974)",
+        "nama_panggilan": "Makana Baku (336974)",
+        "tanggal_lahir": "1998-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mainz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grace Bokake (508963)",
+        "nama_panggilan": "Grace Bokake (508963)",
+        "tanggal_lahir": "2002-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Sukuta-Pasu (53455)",
+        "nama_panggilan": "Richard Sukuta-Pasu (53455)",
+        "tanggal_lahir": "1990-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wuppertal",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enrique Lofolomo (591032)",
+        "nama_panggilan": "Enrique Lofolomo (591032)",
+        "tanggal_lahir": "2000-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Heinsberg",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuel Bamba (684318)",
+        "nama_panggilan": "Samuel Bamba (684318)",
+        "tanggal_lahir": "2004-02-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ahlen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodney Elongo-Yombo (662808)",
+        "nama_panggilan": "Rodney Elongo-Yombo (662808)",
+        "tanggal_lahir": "2001-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ephraim Kalonji (663337)",
+        "nama_panggilan": "Ephraim Kalonji (663337)",
+        "tanggal_lahir": "2003-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elias Bakatukanda (795762)",
+        "nama_panggilan": "Elias Bakatukanda (795762)",
+        "tanggal_lahir": "2004-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reinhold Yabo (74856)",
+        "nama_panggilan": "Reinhold Yabo (74856)",
+        "tanggal_lahir": "1992-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aldenhoven",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonel Kadiata (95937)",
+        "nama_panggilan": "Leonel Kadiata (95937)",
+        "tanggal_lahir": "1993-11-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paris Brunner (918414)",
+        "nama_panggilan": "Paris Brunner (918414)",
+        "tanggal_lahir": "2006-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dortmund",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Noah Mutanda (920941)",
+        "nama_panggilan": "Noah Mutanda (920941)",
+        "tanggal_lahir": "2005-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Duderstadt",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rabbi Nsingi (923965)",
+        "nama_panggilan": "Rabbi Nsingi (923965)",
+        "tanggal_lahir": "2005-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  DR Congo"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

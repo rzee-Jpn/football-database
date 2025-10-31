@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Haiti",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Etienne Veillard (1006613)",
+        "nama_panggilan": "Etienne Veillard (1006613)",
+        "tanggal_lahir": "2007-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "United States  Haiti"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Neil Pierre (1007391)",
+        "nama_panggilan": "Neil Pierre (1007391)",
+        "tanggal_lahir": "2007-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lebanon, Pennsylvania",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Haiti"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jozy Altidore (39378)",
+        "nama_panggilan": "Jozy Altidore (39378)",
+        "tanggal_lahir": "1989-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Livingston, New Jersey",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Haiti"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benji Michel (627183)",
+        "nama_panggilan": "Benji Michel (627183)",
+        "tanggal_lahir": "1997-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orlando, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Haiti"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

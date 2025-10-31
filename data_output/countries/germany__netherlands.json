@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Netherlands",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robin Gosens (273132)",
+        "nama_panggilan": "Robin Gosens (273132)",
+        "tanggal_lahir": "1994-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Emmerich",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Max Schijns (363654)",
+        "nama_panggilan": "Max Schijns (363654)",
+        "tanggal_lahir": "1996-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kerkrade",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Maximilian Neutgens (696022)",
+        "nama_panggilan": "Maximilian Neutgens (696022)",
+        "tanggal_lahir": "2004-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frechen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Willem Hoffrogge (790469)",
+        "nama_panggilan": "Willem Hoffrogge (790469)",
+        "tanggal_lahir": "2001-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wildeshausen",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yannick Woudstra (820452)",
+        "nama_panggilan": "Yannick Woudstra (820452)",
+        "tanggal_lahir": "2001-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Tölz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordi Woudstra (820454)",
+        "nama_panggilan": "Jordi Woudstra (820454)",
+        "tanggal_lahir": "2001-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bad Tölz",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Netherlands"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

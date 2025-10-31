@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Israel",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Grigoriy Morozov (166275)",
+        "nama_panggilan": "Grigoriy Morozov (166275)",
+        "tanggal_lahir": "1994-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Izhevsk",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Israel"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vadim Manzon (212274)",
+        "nama_panggilan": "Vadim Manzon (212274)",
+        "tanggal_lahir": "1994-12-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Israel"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikita Haikin (255440)",
+        "nama_panggilan": "Nikita Haikin (255440)",
+        "tanggal_lahir": "1995-07-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Netanya",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Israel"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

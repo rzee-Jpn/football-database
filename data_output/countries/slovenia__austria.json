@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Slovenia  Austria",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sandi Lovrić (268429)",
+        "nama_panggilan": "Sandi Lovrić (268429)",
+        "tanggal_lahir": "1998-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lienz",
+          "negara": "Slovenia"
+        },
+        "kewarganegaraan": [
+          "Slovenia  Austria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

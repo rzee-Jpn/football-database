@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "DR Congo  Angola",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vital Nsimba (203761)",
+        "nama_panggilan": "Vital Nsimba (203761)",
+        "tanggal_lahir": "1993-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cacuaco",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo  Angola"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Albert Milambo (57439)",
+        "nama_panggilan": "Albert Milambo (57439)",
+        "tanggal_lahir": "1984-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mbuji-Mayi",
+          "negara": "DR Congo"
+        },
+        "kewarganegaraan": [
+          "DR Congo  Angola"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

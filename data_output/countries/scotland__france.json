@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  France",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Oné (1031293)",
+        "nama_panggilan": "Ryan Oné (1031293)",
+        "tanggal_lahir": "2006-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coatbridge",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  France"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Louis Appéré (449019)",
+        "nama_panggilan": "Louis Appéré (449019)",
+        "tanggal_lahir": "1999-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Perth",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibane Bowat (696347)",
+        "nama_panggilan": "Ibane Bowat (696347)",
+        "tanggal_lahir": "2002-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  France"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

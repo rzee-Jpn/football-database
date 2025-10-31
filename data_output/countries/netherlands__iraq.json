@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Iraq",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dielan Ghafour (1093049)",
+        "nama_panggilan": "Dielan Ghafour (1093049)",
+        "tanggal_lahir": "2006-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lochem",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Iraq"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohamad Mahmoed (312713)",
+        "nama_panggilan": "Mohamad Mahmoed (312713)",
+        "tanggal_lahir": "1995-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Erbil",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Iraq"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Germany",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomas Vasov (106859)",
+        "nama_panggilan": "Tomas Vasov (106859)",
+        "tanggal_lahir": "1972-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trier",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Slobodan Komljenovic (13)",
+        "nama_panggilan": "Slobodan Komljenovic (13)",
+        "tanggal_lahir": "1971-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Frankfurt am Main",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milos Pantovic (232144)",
+        "nama_panggilan": "Milos Pantovic (232144)",
+        "tanggal_lahir": "1996-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "München",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Julijan Popović (337812)",
+        "nama_panggilan": "Julijan Popović (337812)",
+        "tanggal_lahir": "1999-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Düsseldorf",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zlatan Alomerovic (47594)",
+        "nama_panggilan": "Zlatan Alomerovic (47594)",
+        "tanggal_lahir": "1991-06-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Priboj",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lazar Samardžić (528833)",
+        "nama_panggilan": "Lazar Samardžić (528833)",
+        "tanggal_lahir": "2002-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mladen Krstajic (540)",
+        "nama_panggilan": "Mladen Krstajic (540)",
+        "tanggal_lahir": "1974-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zenica",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nemanja Motika (604323)",
+        "nama_panggilan": "Nemanja Motika (604323)",
+        "tanggal_lahir": "2003-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Berlin",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Ignjovski (74295)",
+        "nama_panggilan": "Aleksandar Ignjovski (74295)",
+        "tanggal_lahir": "1991-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pančevo",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

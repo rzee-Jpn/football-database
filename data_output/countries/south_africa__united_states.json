@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "South Africa  United States",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lebo Moloto (364683)",
+        "nama_panggilan": "Lebo Moloto (364683)",
+        "tanggal_lahir": "1990-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Polokwane, Limpopo",
+          "negara": "South Africa"
+        },
+        "kewarganegaraan": [
+          "South Africa  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

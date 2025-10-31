@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Turks- and Caicosinseln",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Billy Forbes (78283)",
+        "nama_panggilan": "Billy Forbes (78283)",
+        "tanggal_lahir": "1990-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Providenciales",
+          "negara": "Turks- and Caicosinseln"
+        },
+        "kewarganegaraan": [
+          "Turks- and Caicosinseln"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

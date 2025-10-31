@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  The Gambia",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Janneh (1060454)",
+        "nama_panggilan": "Omar Janneh (1060454)",
+        "tanggal_lahir": "2006-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lleida",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  The Gambia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawda Dambelleh (1068762)",
+        "nama_panggilan": "Dawda Dambelleh (1068762)",
+        "tanggal_lahir": "2003-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sabadell",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  The Gambia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tafa Kanteh (811097)",
+        "nama_panggilan": "Tafa Kanteh (811097)",
+        "tanggal_lahir": "1998-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  The Gambia"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Musa Drammeh (882708)",
+        "nama_panggilan": "Musa Drammeh (882708)",
+        "tanggal_lahir": "2001-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  The Gambia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

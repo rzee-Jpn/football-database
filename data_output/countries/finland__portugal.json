@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Finland  Portugal",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomás von Hellens (1241854)",
+        "nama_panggilan": "Tomás von Hellens (1241854)",
+        "tanggal_lahir": "2006-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Funchal",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Portugal"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diogo Tomas (354476)",
+        "nama_panggilan": "Diogo Tomas (354476)",
+        "tanggal_lahir": "1997-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oulu",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Portugal"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas von Hellens (741583)",
+        "nama_panggilan": "Lucas von Hellens (741583)",
+        "tanggal_lahir": "2005-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Funchal",
+          "negara": "Finland"
+        },
+        "kewarganegaraan": [
+          "Finland  Portugal"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

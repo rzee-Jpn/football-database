@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Uzbekistan",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Murod Kholmukhammedov (127744)",
+        "nama_panggilan": "Murod Kholmukhammedov (127744)",
+        "tanggal_lahir": "1990-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ilyas Zeytullaev (34345)",
+        "nama_panggilan": "Ilyas Zeytullaev (34345)",
+        "tanggal_lahir": "1982-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Angren",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jaloliddin Masharipov (274536)",
+        "nama_panggilan": "Jaloliddin Masharipov (274536)",
+        "tanggal_lahir": "1993-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Urganch",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Otabek Shukurov (294525)",
+        "nama_panggilan": "Otabek Shukurov (294525)",
+        "tanggal_lahir": "1996-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chirakchi",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eldor Shomurodov (358166)",
+        "nama_panggilan": "Eldor Shomurodov (358166)",
+        "tanggal_lahir": "1995-06-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jarkurgan, Surxondaryo Region",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bobur Abdikholikov (431912)",
+        "nama_panggilan": "Bobur Abdikholikov (431912)",
+        "tanggal_lahir": "1997-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koson",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Azizbek Turgunboev (493593)",
+        "nama_panggilan": "Azizbek Turgunboev (493593)",
+        "tanggal_lahir": "1994-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pap, Namangan Region",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jasur Yakhshiboev (493692)",
+        "nama_panggilan": "Jasur Yakhshiboev (493692)",
+        "tanggal_lahir": "1997-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chinoz",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Odil Akhmedov (63606)",
+        "nama_panggilan": "Odil Akhmedov (63606)",
+        "tanggal_lahir": "1987-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Namangan",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ibrokhimkhalil Yuldoshev (704545)",
+        "nama_panggilan": "Ibrokhimkhalil Yuldoshev (704545)",
+        "tanggal_lahir": "2001-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yangyier",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mukhammadali Alikulov (747986)",
+        "nama_panggilan": "Mukhammadali Alikulov (747986)",
+        "tanggal_lahir": "1997-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdukodir Khusanov (763079)",
+        "nama_panggilan": "Abdukodir Khusanov (763079)",
+        "tanggal_lahir": "2004-02-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tashkent",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sarosh Azizkhodjaev (918071)",
+        "nama_panggilan": "Sarosh Azizkhodjaev (918071)",
+        "tanggal_lahir": "1999-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jafar Irismetov (84500)",
+        "nama_panggilan": "Jafar Irismetov (84500)",
+        "tanggal_lahir": "1976-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yangibozor",
+          "negara": "Uzbekistan"
+        },
+        "kewarganegaraan": [
+          "Uzbekistan"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

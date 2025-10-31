@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hongkong  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manuel Bleda (146608)",
+        "nama_panggilan": "Manuel Bleda (146608)",
+        "tanggal_lahir": "1990-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sagunt",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Losada (16316)",
+        "nama_panggilan": "Roberto Losada (16316)",
+        "tanggal_lahir": "1976-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vigo",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dani Cancela (75679)",
+        "nama_panggilan": "Dani Cancela (75679)",
+        "tanggal_lahir": "1981-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "A Coruña",
+          "negara": "Hongkong"
+        },
+        "kewarganegaraan": [
+          "Hongkong  Spain"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

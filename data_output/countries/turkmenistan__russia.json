@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Turkmenistan  Russia",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Titov (1369649)",
+        "nama_panggilan": "Denis Titov (1369649)",
+        "tanggal_lahir": "2006-11-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asgabat",
+          "negara": "Turkmenistan"
+        },
+        "kewarganegaraan": [
+          "Turkmenistan  Russia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladimir Bayramov (15853)",
+        "nama_panggilan": "Vladimir Bayramov (15853)",
+        "tanggal_lahir": "1980-08-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashgabat",
+          "negara": "Turkmenistan"
+        },
+        "kewarganegaraan": [
+          "Turkmenistan  Russia"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dmitriy Khomukha (24143)",
+        "nama_panggilan": "Dmitriy Khomukha (24143)",
+        "tanggal_lahir": "1969-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Firyuza, Aşgabat District",
+          "negara": "Turkmenistan"
+        },
+        "kewarganegaraan": [
+          "Turkmenistan  Russia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

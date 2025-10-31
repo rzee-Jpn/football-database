@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  France",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tony Strata (1004681)",
+        "nama_panggilan": "Tony Strata (1004681)",
+        "tanggal_lahir": "2004-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  France"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Cristea (60698)",
+        "nama_panggilan": "Cristian Cristea (60698)",
+        "tanggal_lahir": "1988-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  France"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Racovițan (804134)",
+        "nama_panggilan": "Bogdan Racovițan (804134)",
+        "tanggal_lahir": "2000-06-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dijon",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sorin Cucu (98323)",
+        "nama_panggilan": "Sorin Cucu (98323)",
+        "tanggal_lahir": "1990-06-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galaţi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  France"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

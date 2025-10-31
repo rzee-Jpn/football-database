@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Honduras  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Choco Lozano (131275)",
+        "nama_panggilan": "Choco Lozano (131275)",
+        "tanggal_lahir": "1993-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yoro",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jona (93047)",
+        "nama_panggilan": "Jona (93047)",
+        "tanggal_lahir": "1989-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Málaga",
+          "negara": "Honduras"
+        },
+        "kewarganegaraan": [
+          "Honduras  Spain"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

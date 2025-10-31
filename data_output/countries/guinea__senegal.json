@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Guinea  Senegal",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djibril Paye (253722)",
+        "nama_panggilan": "Djibril Paye (253722)",
+        "tanggal_lahir": "1990-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Conakry",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Senegal"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mamadou Diallo (290605)",
+        "nama_panggilan": "Mamadou Diallo (290605)",
+        "tanggal_lahir": "1994-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yeumbeul",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Senegal"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aliou Baldé (666977)",
+        "nama_panggilan": "Aliou Baldé (666977)",
+        "tanggal_lahir": "2002-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Baghagha",
+          "negara": "Guinea"
+        },
+        "kewarganegaraan": [
+          "Guinea  Senegal"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

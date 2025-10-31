@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kyrgyzstan  Germany",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edgar Bernhardt (18709)",
+        "nama_panggilan": "Edgar Bernhardt (18709)",
+        "tanggal_lahir": "1986-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novopavlovka",
+          "negara": "Kyrgyzstan"
+        },
+        "kewarganegaraan": [
+          "Kyrgyzstan  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

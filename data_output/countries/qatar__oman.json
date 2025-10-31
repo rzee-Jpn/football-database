@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Oman",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fahad Khalfan (171392)",
+        "nama_panggilan": "Fahad Khalfan (171392)",
+        "tanggal_lahir": "1992-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Oman"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdulrahim Yousuf Al-Balushi (669634)",
+        "nama_panggilan": "Abdulrahim Yousuf Al-Balushi (669634)",
+        "tanggal_lahir": "2000-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Qatar  Oman"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

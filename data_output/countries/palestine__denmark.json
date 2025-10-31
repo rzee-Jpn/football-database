@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Palestine  Denmark",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wessam Abou Ali (422929)",
+        "nama_panggilan": "Wessam Abou Ali (422929)",
+        "tanggal_lahir": "1999-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aalborg",
+          "negara": "Palestine"
+        },
+        "kewarganegaraan": [
+          "Palestine  Denmark"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

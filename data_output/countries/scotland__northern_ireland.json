@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Scotland  Northern Ireland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James Wilson (1041600)",
+        "nama_panggilan": "James Wilson (1041600)",
+        "tanggal_lahir": "2007-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edinburgh",
+          "negara": "Scotland"
+        },
+        "kewarganegaraan": [
+          "Scotland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

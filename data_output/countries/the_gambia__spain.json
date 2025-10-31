@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Spain",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nuha Marong (276029)",
+        "nama_panggilan": "Nuha Marong (276029)",
+        "tanggal_lahir": "1993-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Coloma de Farners",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Spain"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Suleiman Camara (707568)",
+        "nama_panggilan": "Suleiman Camara (707568)",
+        "tanggal_lahir": "2001-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sant Celoni",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacob Mendy (822163)",
+        "nama_panggilan": "Jacob Mendy (822163)",
+        "tanggal_lahir": "1996-12-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Faji Kunda",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

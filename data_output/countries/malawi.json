@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Malawi",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Daniel Chitsulo (1900)",
+        "nama_panggilan": "Daniel Chitsulo (1900)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zomba",
+          "negara": "Malawi"
+        },
+        "kewarganegaraan": [
+          "Malawi"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Kamwendo (41744)",
+        "nama_panggilan": "Joseph Kamwendo (41744)",
+        "tanggal_lahir": "1986-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blantyre",
+          "negara": "Malawi"
+        },
+        "kewarganegaraan": [
+          "Malawi"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

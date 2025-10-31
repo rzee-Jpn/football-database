@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Dominican Republic",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raúl de Tomás (162038)",
+        "nama_panggilan": "Raúl de Tomás (162038)",
+        "tanggal_lahir": "1994-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nico Santos (483351)",
+        "nama_panggilan": "Nico Santos (483351)",
+        "tanggal_lahir": "2000-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santander",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nacho Matador (72211)",
+        "nama_panggilan": "Nacho Matador (72211)",
+        "tanggal_lahir": "1986-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gijón",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Dominican Republic"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

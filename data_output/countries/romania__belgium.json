@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Pruna (256096)",
+        "nama_panggilan": "Mario Pruna (256096)",
+        "tanggal_lahir": "1994-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Belgium"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florin Frunza (247068)",
+        "nama_panggilan": "Florin Frunza (247068)",
+        "tanggal_lahir": "1970-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rodna",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania  Belgium"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

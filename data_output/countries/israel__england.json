@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Israel  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabi Kanichowsky (398258)",
+        "nama_panggilan": "Gabi Kanichowsky (398258)",
+        "tanggal_lahir": "1997-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ra'anana",
+          "negara": "Israel"
+        },
+        "kewarganegaraan": [
+          "Israel  England"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

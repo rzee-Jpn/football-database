@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  Denmark",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Berat Beciri (222196)",
+        "nama_panggilan": "Berat Beciri (222196)",
+        "tanggal_lahir": "1996-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kopenhagen",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Denmark"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Agon Mucolli (293316)",
+        "nama_panggilan": "Agon Mucolli (293316)",
+        "tanggal_lahir": "1998-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fredericia",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Denmark"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arbnor Mucolli (467232)",
+        "nama_panggilan": "Arbnor Mucolli (467232)",
+        "tanggal_lahir": "1999-09-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fredericia",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Denmark"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bardhec Bytyqi (439457)",
+        "nama_panggilan": "Bardhec Bytyqi (439457)",
+        "tanggal_lahir": "1997-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Albania  Denmark"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lundrim Hetemi (527467)",
+        "nama_panggilan": "Lundrim Hetemi (527467)",
+        "tanggal_lahir": "2000-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Fredericia",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Denmark"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

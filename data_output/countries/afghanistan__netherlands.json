@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Afghanistan  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Farshad Noor (187191)",
+        "nama_panggilan": "Farshad Noor (187191)",
+        "tanggal_lahir": "1994-10-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kabul",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Netherlands"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omran Haydary (415993)",
+        "nama_panggilan": "Omran Haydary (415993)",
+        "tanggal_lahir": "1998-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mazar-i-Sharif",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Netherlands"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Qays Shayesteh (84280)",
+        "nama_panggilan": "Qays Shayesteh (84280)",
+        "tanggal_lahir": "1988-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kabul",
+          "negara": "Afghanistan"
+        },
+        "kewarganegaraan": [
+          "Afghanistan  Netherlands"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

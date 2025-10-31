@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Hungary  Italy",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolas Usai (1122054)",
+        "nama_panggilan": "Nicolas Usai (1122054)",
+        "tanggal_lahir": "2007-04-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oristano",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Ozzano (1188647)",
+        "nama_panggilan": "Roberto Ozzano (1188647)",
+        "tanggal_lahir": "2007-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novi Ligure",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alessio Mazzonetto (517963)",
+        "nama_panggilan": "Alessio Mazzonetto (517963)",
+        "tanggal_lahir": "2001-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Hungary  Italy"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicoló Mazzonetto (517964)",
+        "nama_panggilan": "Nicoló Mazzonetto (517964)",
+        "tanggal_lahir": "2001-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Hungary  Italy"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giuliano D’Urso (519588)",
+        "nama_panggilan": "Giuliano D’Urso (519588)",
+        "tanggal_lahir": "1998-05-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Székesfehérvár",
+          "negara": "Hungary"
+        },
+        "kewarganegaraan": [
+          "Hungary  Italy"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

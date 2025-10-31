@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Colombia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Chacón (158540)",
+        "nama_panggilan": "Michael Chacón (158540)",
+        "tanggal_lahir": "1994-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palmira",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Colombia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marlon Slabbekoorn (228483)",
+        "nama_panggilan": "Marlon Slabbekoorn (228483)",
+        "tanggal_lahir": "1997-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogota",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Colombia"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vicente Besuijen (412954)",
+        "nama_panggilan": "Vicente Besuijen (412954)",
+        "tanggal_lahir": "2001-04-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bogotá",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Colombia"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Vergara Berrio (478510)",
+        "nama_panggilan": "Jonathan Vergara Berrio (478510)",
+        "tanggal_lahir": "1999-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Netherlands  Colombia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mylian Jiménez (617754)",
+        "nama_panggilan": "Mylian Jiménez (617754)",
+        "tanggal_lahir": "2003-01-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nijmegen",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Colombia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

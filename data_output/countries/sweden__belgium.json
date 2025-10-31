@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joachim Imbrechts (502261)",
+        "nama_panggilan": "Joachim Imbrechts (502261)",
+        "tanggal_lahir": "2001-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ixelles / Elsene",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Belgium"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

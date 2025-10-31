@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Costa Rica  Panama",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mynor Escoe (170926)",
+        "nama_panggilan": "Mynor Escoe (170926)",
+        "tanggal_lahir": "1991-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San José",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Panama"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alejandro Bran (823269)",
+        "nama_panggilan": "Alejandro Bran (823269)",
+        "tanggal_lahir": "2001-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San José",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Panama"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gerald Taylor (976129)",
+        "nama_panggilan": "Gerald Taylor (976129)",
+        "tanggal_lahir": "2001-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto Limón",
+          "negara": "Costa Rica"
+        },
+        "kewarganegaraan": [
+          "Costa Rica  Panama"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

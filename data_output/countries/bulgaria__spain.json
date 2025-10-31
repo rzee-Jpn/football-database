@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bulgaria  Spain",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miroslav Georgiev (1034076)",
+        "nama_panggilan": "Miroslav Georgiev (1034076)",
+        "tanggal_lahir": "2005-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Spain"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Pehlivanov (1271612)",
+        "nama_panggilan": "Cristian Pehlivanov (1271612)",
+        "tanggal_lahir": "2006-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Spain"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kun Temenuzhkov (366928)",
+        "nama_panggilan": "Kun Temenuzhkov (366928)",
+        "tanggal_lahir": "2000-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Haskovo",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Slavy (622991)",
+        "nama_panggilan": "Slavy (622991)",
+        "tanggal_lahir": "2002-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huesca",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Spain"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Vassilev (941851)",
+        "nama_panggilan": "David Vassilev (941851)",
+        "tanggal_lahir": "2004-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Águilas",
+          "negara": "Bulgaria"
+        },
+        "kewarganegaraan": [
+          "Bulgaria  Spain"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

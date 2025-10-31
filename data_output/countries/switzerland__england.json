@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  England",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dean Santangelo (214739)",
+        "nama_panggilan": "Dean Santangelo (214739)",
+        "tanggal_lahir": "1993-09-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  England"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Sutter (34520)",
+        "nama_panggilan": "Scott Sutter (34520)",
+        "tanggal_lahir": "1986-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  England"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bradley Fink (539801)",
+        "nama_panggilan": "Bradley Fink (539801)",
+        "tanggal_lahir": "2003-04-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cham",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  England"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kristian Sekularac (539810)",
+        "nama_panggilan": "Kristian Sekularac (539810)",
+        "tanggal_lahir": "2003-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  England"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kyle Taylor (562254)",
+        "nama_panggilan": "Kyle Taylor (562254)",
+        "tanggal_lahir": "1999-08-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Richterswil",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  England"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia  Argentina",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Zelarayán (230030)",
+        "nama_panggilan": "Lucas Zelarayán (230030)",
+        "tanggal_lahir": "1992-06-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Córdoba",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Argentina"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Norberto Briasco (457218)",
+        "nama_panggilan": "Norberto Briasco (457218)",
+        "tanggal_lahir": "1996-02-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marcos Paz",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Argentina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

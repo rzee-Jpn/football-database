@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Qatar  Iran",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Masoud Zarei (150737)",
+        "nama_panggilan": "Masoud Zarei (150737)",
+        "tanggal_lahir": "1979-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iran"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Fereydoon (565521)",
+        "nama_panggilan": "Ali Fereydoon (565521)",
+        "tanggal_lahir": "1992-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuwait City",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iran"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nasir Baksh (589094)",
+        "nama_panggilan": "Nasir Baksh (589094)",
+        "tanggal_lahir": "1999-01-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doha",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iran"
+        ],
+        "tinggi_badan_cm": "169.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Karami (589100)",
+        "nama_panggilan": "Ali Karami (589100)",
+        "tanggal_lahir": "1999-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asalouyeh, Bushehr",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iran"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eisa Palangi (632908)",
+        "nama_panggilan": "Eisa Palangi (632908)",
+        "tanggal_lahir": "1999-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Asalouyeh, Bushehr",
+          "negara": "Qatar"
+        },
+        "kewarganegaraan": [
+          "Qatar  Iran"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

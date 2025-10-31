@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Syria  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mohammed Osman (273431)",
+        "nama_panggilan": "Mohammed Osman (273431)",
+        "tanggal_lahir": "1994-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Al-Qamishli",
+          "negara": "Syria"
+        },
+        "kewarganegaraan": [
+          "Syria  Netherlands"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liechtenstein  Austria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabian Unterrainer (466565)",
+        "nama_panggilan": "Fabian Unterrainer (466565)",
+        "tanggal_lahir": "2001-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Feldkirch",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Austria"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Büchel (74956)",
+        "nama_panggilan": "Marcel Büchel (74956)",
+        "tanggal_lahir": "1991-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Feldkirch",
+          "negara": "Liechtenstein"
+        },
+        "kewarganegaraan": [
+          "Liechtenstein  Austria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

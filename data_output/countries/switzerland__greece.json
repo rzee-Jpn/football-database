@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Switzerland  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonidas Stergiou (507345)",
+        "nama_panggilan": "Leonidas Stergiou (507345)",
+        "tanggal_lahir": "2002-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wattwil",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Greece"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Loic Chatton (91271)",
+        "nama_panggilan": "Loic Chatton (91271)",
+        "tanggal_lahir": "1991-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Biel/Bienne",
+          "negara": "Switzerland"
+        },
+        "kewarganegaraan": [
+          "Switzerland  Greece"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

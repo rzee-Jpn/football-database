@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Armenia  Greece",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aventis Aventisyan (451673)",
+        "nama_panggilan": "Aventis Aventisyan (451673)",
+        "tanggal_lahir": "2002-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thessaloniki",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Greece"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Arman Markosyan (939585)",
+        "nama_panggilan": "Arman Markosyan (939585)",
+        "tanggal_lahir": "2004-12-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Xanthi",
+          "negara": "Armenia"
+        },
+        "kewarganegaraan": [
+          "Armenia  Greece"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

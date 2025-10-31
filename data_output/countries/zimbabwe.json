@@ -1,0 +1,925 @@
+{
+  "kategori": "negara",
+  "nama_group": "Zimbabwe",
+  "total_pemain": 27,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Benjani (12063)",
+        "nama_panggilan": "Benjani (12063)",
+        "tanggal_lahir": "1978-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Chimedza Junior (1389073)",
+        "nama_panggilan": "Chimedza Junior (1389073)",
+        "tanggal_lahir": "2004-10-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dickson Choto (15222)",
+        "nama_panggilan": "Dickson Choto (15222)",
+        "tanggal_lahir": "1981-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Wedza",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lincoln Zvasiya (195840)",
+        "nama_panggilan": "Lincoln Zvasiya (195840)",
+        "tanggal_lahir": "1991-02-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Schillo Tshuma (221411)",
+        "nama_panggilan": "Schillo Tshuma (221411)",
+        "tanggal_lahir": "1992-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucky Mkosana (212993)",
+        "nama_panggilan": "Lucky Mkosana (212993)",
+        "tanggal_lahir": "1987-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Silas Songani (264299)",
+        "nama_panggilan": "Silas Songani (264299)",
+        "tanggal_lahir": "1989-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvelous Nakamba (324882)",
+        "nama_panggilan": "Marvelous Nakamba (324882)",
+        "tanggal_lahir": "1994-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hwange",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shingayi Kaondera (37996)",
+        "nama_panggilan": "Shingayi Kaondera (37996)",
+        "tanggal_lahir": "1982-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seke",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tino Kadewere (384060)",
+        "nama_panggilan": "Tino Kadewere (384060)",
+        "tanggal_lahir": "1996-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Walter Musona (397599)",
+        "nama_panggilan": "Walter Musona (397599)",
+        "tanggal_lahir": "1995-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norton",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marshall Munetsi (414908)",
+        "nama_panggilan": "Marshall Munetsi (414908)",
+        "tanggal_lahir": "1996-06-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Harlington Shereni (4203)",
+        "nama_panggilan": "Harlington Shereni (4203)",
+        "tanggal_lahir": "1975-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Teenage Hadebe (429975)",
+        "nama_panggilan": "Teenage Hadebe (429975)",
+        "tanggal_lahir": "1995-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Honour Gombami (47546)",
+        "nama_panggilan": "Honour Gombami (47546)",
+        "tanggal_lahir": "1983-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gwanda",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Takesure Chinyama (48281)",
+        "nama_panggilan": "Takesure Chinyama (48281)",
+        "tanggal_lahir": "1982-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vusumuzi Nyoni (44060)",
+        "nama_panggilan": "Vusumuzi Nyoni (44060)",
+        "tanggal_lahir": "1984-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Newton Ben Katanha (5033)",
+        "nama_panggilan": "Newton Ben Katanha (5033)",
+        "tanggal_lahir": "1983-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Seke",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kheli Dube (71095)",
+        "nama_panggilan": "Kheli Dube (71095)",
+        "tanggal_lahir": "1983-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tendai Jirira (712648)",
+        "nama_panggilan": "Tendai Jirira (712648)",
+        "tanggal_lahir": "1991-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martin Mapisa (784206)",
+        "nama_panggilan": "Martin Mapisa (784206)",
+        "tanggal_lahir": "1998-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zanda Siziba (821517)",
+        "nama_panggilan": "Zanda Siziba (821517)",
+        "tanggal_lahir": "2003-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bill Antonio (956050)",
+        "nama_panggilan": "Bill Antonio (956050)",
+        "tanggal_lahir": "2002-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stanley Nyazamba (90204)",
+        "nama_panggilan": "Stanley Nyazamba (90204)",
+        "tanggal_lahir": "1983-01-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bulawayo",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Quincy Antipas (83882)",
+        "nama_panggilan": "Quincy Antipas (83882)",
+        "tanggal_lahir": "1984-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joey Phuthi (969160)",
+        "nama_panggilan": "Joey Phuthi (969160)",
+        "tanggal_lahir": "2005-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Munashe Garananga (981516)",
+        "nama_panggilan": "Munashe Garananga (981516)",
+        "tanggal_lahir": "2001-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harare",
+          "negara": "Zimbabwe"
+        },
+        "kewarganegaraan": [
+          "Zimbabwe"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

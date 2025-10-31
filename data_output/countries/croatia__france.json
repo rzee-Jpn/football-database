@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tomi Petrovic (370110)",
+        "nama_panggilan": "Tomi Petrovic (370110)",
+        "tanggal_lahir": "1999-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toulouse",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  France"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Téo Barišić (979773)",
+        "nama_panggilan": "Téo Barišić (979773)",
+        "tanggal_lahir": "2004-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Viriat",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

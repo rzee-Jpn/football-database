@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Haiti  United States",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bryan Destin (1010644)",
+        "nama_panggilan": "Bryan Destin (1010644)",
+        "tanggal_lahir": "2006-02-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steward Ceus (105977)",
+        "nama_panggilan": "Steward Ceus (105977)",
+        "tanggal_lahir": "1987-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "West Haverstraw, New York",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pascal Millien (158306)",
+        "nama_panggilan": "Pascal Millien (158306)",
+        "tanggal_lahir": "1986-05-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Léogâne",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fafà Picault (216683)",
+        "nama_panggilan": "Fafà Picault (216683)",
+        "tanggal_lahir": "1991-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Christiano François (309512)",
+        "nama_panggilan": "Christiano François (309512)",
+        "tanggal_lahir": "1993-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cabaret",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zachary Herivaux (354752)",
+        "nama_panggilan": "Zachary Herivaux (354752)",
+        "tanggal_lahir": "1996-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suita, Osaka",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Derrick Etienne Jr. (354763)",
+        "nama_panggilan": "Derrick Etienne Jr. (354763)",
+        "tanggal_lahir": "1996-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Richmond, Virginia",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashkanov Apollon (478810)",
+        "nama_panggilan": "Ashkanov Apollon (478810)",
+        "tanggal_lahir": "1991-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Boston, Massachusetts",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Frantzdy Pierrot (492955)",
+        "nama_panggilan": "Frantzdy Pierrot (492955)",
+        "tanggal_lahir": "1995-03-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cap-Haïtien",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denso Ulysse (496851)",
+        "nama_panggilan": "Denso Ulysse (496851)",
+        "tanggal_lahir": "1998-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gonaïves",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jerry Desdunes (646107)",
+        "nama_panggilan": "Jerry Desdunes (646107)",
+        "tanggal_lahir": "2001-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Seth Powder (895950)",
+        "nama_panggilan": "Seth Powder (895950)",
+        "tanggal_lahir": "2005-07-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edison, New Jersey",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nelson Pierre (992225)",
+        "nama_panggilan": "Nelson Pierre (992225)",
+        "tanggal_lahir": "2005-03-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lebanon, Pennsylvania",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Louis (998227)",
+        "nama_panggilan": "Juan Louis (998227)",
+        "tanggal_lahir": "1998-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port-au-Prince",
+          "negara": "Haiti"
+        },
+        "kewarganegaraan": [
+          "Haiti  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

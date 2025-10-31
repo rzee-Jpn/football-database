@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Greece  Brazil",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leonardo Koutris (187530)",
+        "nama_panggilan": "Leonardo Koutris (187530)",
+        "tanggal_lahir": "1995-07-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ribeirão Preto",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Brazil"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dimitrios Limnios (324344)",
+        "nama_panggilan": "Dimitrios Limnios (324344)",
+        "tanggal_lahir": "1998-05-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Volos",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Brazil"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paolo Farinola (96896)",
+        "nama_panggilan": "Paolo Farinola (96896)",
+        "tanggal_lahir": "1984-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Athen",
+          "negara": "Greece"
+        },
+        "kewarganegaraan": [
+          "Greece  Brazil"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

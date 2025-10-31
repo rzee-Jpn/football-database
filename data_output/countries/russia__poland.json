@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Poland",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrey Voznyi (1076898)",
+        "nama_panggilan": "Andrey Voznyi (1076898)",
+        "tanggal_lahir": "2004-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Poland"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Danian Pavlas (503007)",
+        "nama_panggilan": "Danian Pavlas (503007)",
+        "tanggal_lahir": "2000-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Маgnitogorsk",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Poland"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

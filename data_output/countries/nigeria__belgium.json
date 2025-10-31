@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Belgium",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Monday Omo (113558)",
+        "nama_panggilan": "Monday Omo (113558)",
+        "tanggal_lahir": "1984-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Manasseh Ishiaku (12507)",
+        "nama_panggilan": "Manasseh Ishiaku (12507)",
+        "tanggal_lahir": "1983-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port Harcourt",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Peter Utaka (20360)",
+        "nama_panggilan": "Peter Utaka (20360)",
+        "tanggal_lahir": "1984-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Enugu",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cyriel Dessers (317806)",
+        "nama_panggilan": "Cyriel Dessers (317806)",
+        "tanggal_lahir": "1994-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tongeren",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseph Akpala (38000)",
+        "nama_panggilan": "Joseph Akpala (38000)",
+        "tanggal_lahir": "1986-08-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jos",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iyenemi Furo (8784)",
+        "nama_panggilan": "Iyenemi Furo (8784)",
+        "tanggal_lahir": "1978-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Okrika",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Belgium"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

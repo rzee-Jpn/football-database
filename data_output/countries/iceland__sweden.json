@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iceland  Sweden",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Óskar Sverrisson (222234)",
+        "nama_panggilan": "Óskar Sverrisson (222234)",
+        "tanggal_lahir": "1992-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Iceland  Sweden"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Helgi Danielsson (36237)",
+        "nama_panggilan": "Helgi Danielsson (36237)",
+        "tanggal_lahir": "1981-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Uppsala",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Sweden"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Ingi Benediktsson (605659)",
+        "nama_panggilan": "Adam Ingi Benediktsson (605659)",
+        "tanggal_lahir": "2002-10-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Grundarfjörður",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Sweden"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

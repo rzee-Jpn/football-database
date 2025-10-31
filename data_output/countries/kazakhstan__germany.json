@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kazakhstan  Germany",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrey Startsev (154808)",
+        "nama_panggilan": "Andrey Startsev (154808)",
+        "tanggal_lahir": "1994-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pavlodar",
+          "negara": "Kazakhstan"
+        },
+        "kewarganegaraan": [
+          "Kazakhstan  Germany"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantin Engel (42318)",
+        "nama_panggilan": "Konstantin Engel (42318)",
+        "tanggal_lahir": "1988-07-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Karaganda",
+          "negara": "Kazakhstan"
+        },
+        "kewarganegaraan": [
+          "Kazakhstan  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Merkel (86926)",
+        "nama_panggilan": "Alexander Merkel (86926)",
+        "tanggal_lahir": "1992-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almaty",
+          "negara": "Kazakhstan"
+        },
+        "kewarganegaraan": [
+          "Kazakhstan  Germany"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

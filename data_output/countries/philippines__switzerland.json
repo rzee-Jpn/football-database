@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Philippines  Switzerland",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Kempter (183448)",
+        "nama_panggilan": "Michael Kempter (183448)",
+        "tanggal_lahir": "1995-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schlieren",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Switzerland"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Pinthus (410794)",
+        "nama_panggilan": "Anthony Pinthus (410794)",
+        "tanggal_lahir": "1998-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Solothurn",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Switzerland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Randy Schneider (500758)",
+        "nama_panggilan": "Randy Schneider (500758)",
+        "tanggal_lahir": "2001-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Schaffhausen",
+          "negara": "Philippines"
+        },
+        "kewarganegaraan": [
+          "Philippines  Switzerland"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

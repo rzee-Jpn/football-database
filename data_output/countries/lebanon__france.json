@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lebanon  France",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Abou Deraa (63227)",
+        "nama_panggilan": "Anthony Abou Deraa (63227)",
+        "tanggal_lahir": "1988-06-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marseille",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anthony Maassry (974892)",
+        "nama_panggilan": "Anthony Maassry (974892)",
+        "tanggal_lahir": "2004-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ivry-sur-Seine",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon  France"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

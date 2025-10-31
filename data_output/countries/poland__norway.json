@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Norway",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dawid Bugaj (702692)",
+        "nama_panggilan": "Dawid Bugaj (702692)",
+        "tanggal_lahir": "2004-07-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sosnowiec",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Norway"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pawel Chrupalla (739910)",
+        "nama_panggilan": "Pawel Chrupalla (739910)",
+        "tanggal_lahir": "2003-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Szprotawa",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Norway"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

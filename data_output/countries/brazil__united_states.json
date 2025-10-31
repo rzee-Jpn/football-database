@@ -1,0 +1,313 @@
+{
+  "kategori": "negara",
+  "nama_group": "Brazil  United States",
+  "total_pemain": 9,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Darub (1116633)",
+        "nama_panggilan": "Victor Darub (1116633)",
+        "tanggal_lahir": "2005-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lincoln, Nebraska",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Fernandes (228503)",
+        "nama_panggilan": "Leo Fernandes (228503)",
+        "tanggal_lahir": "1991-12-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Stéfano Pinho (214100)",
+        "nama_panggilan": "Stéfano Pinho (214100)",
+        "tanggal_lahir": "1991-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São João Nepomuceno",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Walsh (26858)",
+        "nama_panggilan": "Diego Walsh (26858)",
+        "tanggal_lahir": "1979-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santos",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Artur (435488)",
+        "nama_panggilan": "Artur (435488)",
+        "tanggal_lahir": "1996-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brumado",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafa Mentzingen (587391)",
+        "nama_panggilan": "Rafa Mentzingen (587391)",
+        "tanggal_lahir": "1996-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nick Firmino (636422)",
+        "nama_panggilan": "Nick Firmino (636422)",
+        "tanggal_lahir": "2001-01-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mantena",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bruno Lapa (637448)",
+        "nama_panggilan": "Bruno Lapa (637448)",
+        "tanggal_lahir": "1997-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curitiba",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Da Costa (659094)",
+        "nama_panggilan": "Rodrigo Da Costa (659094)",
+        "tanggal_lahir": "1993-12-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Brazil"
+        },
+        "kewarganegaraan": [
+          "Brazil  United States"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

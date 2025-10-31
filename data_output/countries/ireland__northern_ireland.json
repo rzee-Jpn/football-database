@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Ireland  Northern Ireland",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick McEleney (121337)",
+        "nama_panggilan": "Patrick McEleney (121337)",
+        "tanggal_lahir": "1992-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shane Duffy (119269)",
+        "nama_panggilan": "Shane Duffy (119269)",
+        "tanggal_lahir": "1992-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam McAlinden (166319)",
+        "nama_panggilan": "Liam McAlinden (166319)",
+        "tanggal_lahir": "1993-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cannock",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rory Hale (291115)",
+        "nama_panggilan": "Rory Hale (291115)",
+        "tanggal_lahir": "1996-11-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belfast",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mark Sykes (320403)",
+        "nama_panggilan": "Mark Sykes (320403)",
+        "tanggal_lahir": "1997-08-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belfast",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marc Wilson (30456)",
+        "nama_panggilan": "Marc Wilson (30456)",
+        "tanggal_lahir": "1987-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aghagallon",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Dunne (396174)",
+        "nama_panggilan": "Jimmy Dunne (396174)",
+        "tanggal_lahir": "1997-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Drogheda",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darron Gibson (42413)",
+        "nama_panggilan": "Darron Gibson (42413)",
+        "tanggal_lahir": "1987-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "",
+        "nama_panggilan": "",
+        "tanggal_lahir": "1990-07-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darragh Burns (634366)",
+        "nama_panggilan": "Darragh Burns (634366)",
+        "tanggal_lahir": "2002-08-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stamullen, Meath",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oisín Gallagher (939523)",
+        "nama_panggilan": "Oisín Gallagher (939523)",
+        "tanggal_lahir": "2004-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Trent Kone-Doherty (944140)",
+        "nama_panggilan": "Trent Kone-Doherty (944140)",
+        "tanggal_lahir": "2006-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sean Moore (955724)",
+        "nama_panggilan": "Sean Moore (955724)",
+        "tanggal_lahir": "2005-08-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belfast",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "James McClean (85935)",
+        "nama_panggilan": "James McClean (85935)",
+        "tanggal_lahir": "1989-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Derry",
+          "negara": "Ireland"
+        },
+        "kewarganegaraan": [
+          "Ireland  Northern Ireland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

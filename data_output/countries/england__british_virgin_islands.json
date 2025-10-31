@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "England  British Virgin Islands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Harrison Duncan (1337033)",
+        "nama_panggilan": "Harrison Duncan (1337033)",
+        "tanggal_lahir": "2008-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doncaster",
+          "negara": "England"
+        },
+        "kewarganegaraan": [
+          "England  British Virgin Islands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

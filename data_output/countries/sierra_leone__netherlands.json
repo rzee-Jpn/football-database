@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sierra Leone  Netherlands",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Issa Kallon (212191)",
+        "nama_panggilan": "Issa Kallon (212191)",
+        "tanggal_lahir": "1996-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zeist",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Netherlands"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gibril Sankoh (21590)",
+        "nama_panggilan": "Gibril Sankoh (21590)",
+        "tanggal_lahir": "1983-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Augustine Loof (257984)",
+        "nama_panggilan": "Augustine Loof (257984)",
+        "tanggal_lahir": "1996-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Koewacht",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Netherlands"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Abdul Bai Kamara (272684)",
+        "nama_panggilan": "Abdul Bai Kamara (272684)",
+        "tanggal_lahir": "1996-05-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Freetown",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Netherlands"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Bangura (435821)",
+        "nama_panggilan": "Alex Bangura (435821)",
+        "tanggal_lahir": "1999-07-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mokomre",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

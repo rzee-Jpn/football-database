@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  Sweden",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Elia Ballardini (134352)",
+        "nama_panggilan": "Elia Ballardini (134352)",
+        "tanggal_lahir": "1991-12-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stockholm",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Sweden"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erik Amedeo Ballardini (202975)",
+        "nama_panggilan": "Erik Amedeo Ballardini (202975)",
+        "tanggal_lahir": "1995-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lugo",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Sweden"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Samuele Armaroli (818885)",
+        "nama_panggilan": "Samuele Armaroli (818885)",
+        "tanggal_lahir": "2004-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bologna",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Sweden"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Gerbino Polo (85478)",
+        "nama_panggilan": "Luca Gerbino Polo (85478)",
+        "tanggal_lahir": "1987-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Treviso",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  Sweden"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

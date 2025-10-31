@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  Netherlands",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Skender Loshi (466818)",
+        "nama_panggilan": "Skender Loshi (466818)",
+        "tanggal_lahir": "1999-02-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Breda",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Agan Mjaki (677654)",
+        "nama_panggilan": "Agan Mjaki (677654)",
+        "tanggal_lahir": "2003-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Amsterdam",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Netherlands"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erald Krasniqi (738515)",
+        "nama_panggilan": "Erald Krasniqi (738515)",
+        "tanggal_lahir": "2005-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sneek",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  Netherlands"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

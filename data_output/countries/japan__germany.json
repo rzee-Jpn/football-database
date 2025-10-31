@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  Germany",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gotoku Sakai (103310)",
+        "nama_panggilan": "Gotoku Sakai (103310)",
+        "tanggal_lahir": "1991-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Germany"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucien Littbarski (690262)",
+        "nama_panggilan": "Lucien Littbarski (690262)",
+        "tanggal_lahir": "2003-05-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yokohama, Kanagawa",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  Germany"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

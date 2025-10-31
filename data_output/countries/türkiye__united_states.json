@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Batuhan Arıcı (1047576)",
+        "nama_panggilan": "Batuhan Arıcı (1047576)",
+        "tanggal_lahir": "2003-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New Jersey",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  United States"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bora Aydınlık (900024)",
+        "nama_panggilan": "Bora Aydınlık (900024)",
+        "tanggal_lahir": "2005-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miami Beach, Florida",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  United States"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

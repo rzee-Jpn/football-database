@@ -1,0 +1,925 @@
+{
+  "kategori": "negara",
+  "nama_group": "Jamaica  United States",
+  "total_pemain": 27,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ashton Gordon (1009724)",
+        "nama_panggilan": "Ashton Gordon (1009724)",
+        "tanggal_lahir": "2007-04-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Decatur, Georgia",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malachi Molina (1013474)",
+        "nama_panggilan": "Malachi Molina (1013474)",
+        "tanggal_lahir": "2006-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miami, Florida",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexander Bicknell (1019289)",
+        "nama_panggilan": "Alexander Bicknell (1019289)",
+        "tanggal_lahir": "2005-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicholas Simmonds (1105464)",
+        "nama_panggilan": "Nicholas Simmonds (1105464)",
+        "tanggal_lahir": "2006-12-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Seaton (255933)",
+        "nama_panggilan": "Michael Seaton (255933)",
+        "tanggal_lahir": "1996-05-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Spanish Town",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Richard Dixon (257186)",
+        "nama_panggilan": "Richard Dixon (257186)",
+        "tanggal_lahir": "1990-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hanover",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romeo Parkes (259401)",
+        "nama_panggilan": "Romeo Parkes (259401)",
+        "tanggal_lahir": "1990-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Port Maria",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andre Blake (244149)",
+        "nama_panggilan": "Andre Blake (244149)",
+        "tanggal_lahir": "1990-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "May Pen",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kyle Duncan (349699)",
+        "nama_panggilan": "Kyle Duncan (349699)",
+        "tanggal_lahir": "1997-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sean McFarlane (377288)",
+        "nama_panggilan": "Sean McFarlane (377288)",
+        "tanggal_lahir": "1993-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kadeem Dacres (354706)",
+        "nama_panggilan": "Kadeem Dacres (354706)",
+        "tanggal_lahir": "1991-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tyrone Marshall (39478)",
+        "nama_panggilan": "Tyrone Marshall (39478)",
+        "tanggal_lahir": "1974-11-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Scarlett (496869)",
+        "nama_panggilan": "Jordan Scarlett (496869)",
+        "tanggal_lahir": "1995-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montego Bay",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jahmali Waite (498896)",
+        "nama_panggilan": "Jahmali Waite (498896)",
+        "tanggal_lahir": "1998-12-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Philadelphia, Pennsylvania",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amal Knight (509496)",
+        "nama_panggilan": "Amal Knight (509496)",
+        "tanggal_lahir": "1993-11-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrew Booth (509539)",
+        "nama_panggilan": "Andrew Booth (509539)",
+        "tanggal_lahir": "1997-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tamarac, Florida",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khori Bennett (511767)",
+        "nama_panggilan": "Khori Bennett (511767)",
+        "tanggal_lahir": "1997-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kingston",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kameron Lacey (615373)",
+        "nama_panggilan": "Kameron Lacey (615373)",
+        "tanggal_lahir": "2001-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Miami, Florida",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tayvon Gray (627200)",
+        "nama_panggilan": "Tayvon Gray (627200)",
+        "tanggal_lahir": "2002-08-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "The Bronx, New York",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joey DeZart (637450)",
+        "nama_panggilan": "Joey DeZart (637450)",
+        "tanggal_lahir": "1998-06-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jackson, New Jersey",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rashawn Dally (652007)",
+        "nama_panggilan": "Rashawn Dally (652007)",
+        "tanggal_lahir": "1997-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bloomfield, Connecticut",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nigel Prince (796382)",
+        "nama_panggilan": "Nigel Prince (796382)",
+        "tanggal_lahir": "2004-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Atlanta, Georgia",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jon Bell (735811)",
+        "nama_panggilan": "Jon Bell (735811)",
+        "tanggal_lahir": "1997-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rockville, Maryland",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ian Fray (744586)",
+        "nama_panggilan": "Ian Fray (744586)",
+        "tanggal_lahir": "2002-08-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coconut Creek, Florida",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tarik Scott (895939)",
+        "nama_panggilan": "Tarik Scott (895939)",
+        "tanggal_lahir": "2005-04-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brooklyn, New York",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nico Brown (866253)",
+        "nama_panggilan": "Nico Brown (866253)",
+        "tanggal_lahir": "1998-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Atlanta, Georgia",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zion Scarlett (999135)",
+        "nama_panggilan": "Zion Scarlett (999135)",
+        "tanggal_lahir": "2004-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Philadelphia, Pennsylvania",
+          "negara": "Jamaica"
+        },
+        "kewarganegaraan": [
+          "Jamaica  United States"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

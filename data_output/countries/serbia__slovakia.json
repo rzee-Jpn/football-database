@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Slovakia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nemanja Matic (74683)",
+        "nama_panggilan": "Nemanja Matic (74683)",
+        "tanggal_lahir": "1988-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Šabac",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Slovakia"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sasa Savic (90420)",
+        "nama_panggilan": "Sasa Savic (90420)",
+        "tanggal_lahir": "1984-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Novi Sad",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Slovakia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

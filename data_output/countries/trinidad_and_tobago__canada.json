@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Trinidad and Tobago  Canada",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Greg Ranjitsingh (367436)",
+        "nama_panggilan": "Greg Ranjitsingh (367436)",
+        "tanggal_lahir": "1993-07-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pickering, Ontario",
+          "negara": "Trinidad and Tobago"
+        },
+        "kewarganegaraan": [
+          "Trinidad and Tobago  Canada"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Telfer (497483)",
+        "nama_panggilan": "Ryan Telfer (497483)",
+        "tanggal_lahir": "1994-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mississauga, Ontario",
+          "negara": "Trinidad and Tobago"
+        },
+        "kewarganegaraan": [
+          "Trinidad and Tobago  Canada"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steffen Yeates (573949)",
+        "nama_panggilan": "Steffen Yeates (573949)",
+        "tanggal_lahir": "2000-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toronto, Ontario",
+          "negara": "Trinidad and Tobago"
+        },
+        "kewarganegaraan": [
+          "Trinidad and Tobago  Canada"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

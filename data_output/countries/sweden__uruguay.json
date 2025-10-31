@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sweden  Uruguay",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Montiel (220441)",
+        "nama_panggilan": "Diego Montiel (220441)",
+        "tanggal_lahir": "1995-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Västerås",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Uruguay"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Guillermo Molins (51457)",
+        "nama_panggilan": "Guillermo Molins (51457)",
+        "tanggal_lahir": "1988-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Montevideo",
+          "negara": "Sweden"
+        },
+        "kewarganegaraan": [
+          "Sweden  Uruguay"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

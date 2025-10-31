@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Albania",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Riza Durmisi (135208)",
+        "nama_panggilan": "Riza Durmisi (135208)",
+        "tanggal_lahir": "1994-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kopenhagen",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Albania"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zamir Aliji (927025)",
+        "nama_panggilan": "Zamir Aliji (927025)",
+        "tanggal_lahir": "2004-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Herlev",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Albania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

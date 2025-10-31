@@ -1,0 +1,211 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mauritius  France",
+  "total_pemain": 6,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lindsay Rose (135490)",
+        "nama_panggilan": "Lindsay Rose (135490)",
+        "tanggal_lahir": "1992-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rennes",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michaël Bosqui (257189)",
+        "nama_panggilan": "Michaël Bosqui (257189)",
+        "tanggal_lahir": "1990-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kévin Bru (46009)",
+        "nama_panggilan": "Kévin Bru (46009)",
+        "tanggal_lahir": "1988-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jérémy Villeneuve (512730)",
+        "nama_panggilan": "Jérémy Villeneuve (512730)",
+        "tanggal_lahir": "1994-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paris",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jacques-Désiré Périatambée (6256)",
+        "nama_panggilan": "Jacques-Désiré Périatambée (6256)",
+        "tanggal_lahir": "1975-10-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curepipe",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dorian Chiotti (808027)",
+        "nama_panggilan": "Dorian Chiotti (808027)",
+        "tanggal_lahir": "1998-08-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clermont-Ferrand",
+          "negara": "Mauritius"
+        },
+        "kewarganegaraan": [
+          "Mauritius  France"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

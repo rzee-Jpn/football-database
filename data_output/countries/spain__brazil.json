@@ -1,0 +1,585 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Brazil",
+  "total_pemain": 17,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo (131505)",
+        "nama_panggilan": "Rodrigo (131505)",
+        "tanggal_lahir": "1991-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcelo Villaça (265109)",
+        "nama_panggilan": "Marcelo Villaça (265109)",
+        "tanggal_lahir": "1994-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jerez de la Frontera",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raúl Asencio (340260)",
+        "nama_panggilan": "Raúl Asencio (340260)",
+        "tanggal_lahir": "1998-05-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Villarreal",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jean Carlos Silva (282434)",
+        "nama_panggilan": "Jean Carlos Silva (282434)",
+        "tanggal_lahir": "1996-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ouro Preto",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rubén Alves (379743)",
+        "nama_panggilan": "Rubén Alves (379743)",
+        "tanggal_lahir": "1994-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Río de Janeiro",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Costa (44779)",
+        "nama_panggilan": "Diego Costa (44779)",
+        "tanggal_lahir": "1988-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagarto",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Thiago Alcántara (60444)",
+        "nama_panggilan": "Thiago Alcántara (60444)",
+        "tanggal_lahir": "1991-04-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Pietro Vernotico",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Oscar Sánchez (632496)",
+        "nama_panggilan": "Oscar Sánchez (632496)",
+        "tanggal_lahir": "2002-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Palma de Mallorca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo dos Reis (636700)",
+        "nama_panggilan": "Leo dos Reis (636700)",
+        "tanggal_lahir": "2003-01-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valter Pereira (705406)",
+        "nama_panggilan": "Valter Pereira (705406)",
+        "tanggal_lahir": "2003-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alcorcón",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Valverde (707608)",
+        "nama_panggilan": "Victor Valverde (707608)",
+        "tanggal_lahir": "2001-12-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Figueres",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dalisson de Almeida (644900)",
+        "nama_panggilan": "Dalisson de Almeida (644900)",
+        "tanggal_lahir": "2000-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cabezón de la Sal",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcos Senna (7840)",
+        "nama_panggilan": "Marcos Senna (7840)",
+        "tanggal_lahir": "1976-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "São Paulo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lulo Dasilva (718581)",
+        "nama_panggilan": "Lulo Dasilva (718581)",
+        "tanggal_lahir": "2002-10-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sevilla",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fabián Luzzi (736425)",
+        "nama_panggilan": "Fabián Luzzi (736425)",
+        "tanggal_lahir": "2004-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Catanha (7559)",
+        "nama_panggilan": "Catanha (7559)",
+        "tanggal_lahir": "1972-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rio de Janeiro",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miguel Carvalho (931677)",
+        "nama_panggilan": "Miguel Carvalho (931677)",
+        "tanggal_lahir": "2005-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Curvelo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Brazil"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

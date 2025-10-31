@@ -1,0 +1,245 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Germany",
+  "total_pemain": 7,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marvin Matip (17025)",
+        "nama_panggilan": "Marvin Matip (17025)",
+        "tanggal_lahir": "1985-09-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bochum",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Bell Bell (232355)",
+        "nama_panggilan": "Leon Bell Bell (232355)",
+        "tanggal_lahir": "1996-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hanau",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcel Ndjeng (2334)",
+        "nama_panggilan": "Marcel Ndjeng (2334)",
+        "tanggal_lahir": "1982-05-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bonn",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tsiy Ndenge (253574)",
+        "nama_panggilan": "Tsiy Ndenge (253574)",
+        "tanggal_lahir": "1997-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Köln",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franck Evina (336331)",
+        "nama_panggilan": "Franck Evina (336331)",
+        "tanggal_lahir": "2000-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yaoundé",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eric-Maxim Choupo-Moting (45660)",
+        "nama_panggilan": "Eric-Maxim Choupo-Moting (45660)",
+        "tanggal_lahir": "1989-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamburg",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Matip (82105)",
+        "nama_panggilan": "Joel Matip (82105)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bochum",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Germany"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

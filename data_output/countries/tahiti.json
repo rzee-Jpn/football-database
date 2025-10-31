@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tahiti",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Keahinui Heinis (1053113)",
+        "nama_panggilan": "Keahinui Heinis (1053113)",
+        "tanggal_lahir": "2005-08-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Papeete",
+          "negara": "Tahiti"
+        },
+        "kewarganegaraan": [
+          "Tahiti"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taumihau Tiatia (128379)",
+        "nama_panggilan": "Taumihau Tiatia (128379)",
+        "tanggal_lahir": "1991-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mahina",
+          "negara": "Tahiti"
+        },
+        "kewarganegaraan": [
+          "Tahiti"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

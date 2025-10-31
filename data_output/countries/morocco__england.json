@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Morocco  England",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yusuf Akhamrich (1047345)",
+        "nama_panggilan": "Yusuf Akhamrich (1047345)",
+        "tanggal_lahir": "2005-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rafiq Khaleel (809879)",
+        "nama_panggilan": "Rafiq Khaleel (809879)",
+        "tanggal_lahir": "2003-02-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  England"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Assal (727129)",
+        "nama_panggilan": "Ayoub Assal (727129)",
+        "tanggal_lahir": "2002-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Maidstone",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  England"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

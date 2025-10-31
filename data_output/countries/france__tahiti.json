@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "France  Tahiti",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Gerbi (1173358)",
+        "nama_panggilan": "Aaron Gerbi (1173358)",
+        "tanggal_lahir": "2004-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Papeete",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Tahiti"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gérald Forschelet (9676)",
+        "nama_panggilan": "Gérald Forschelet (9676)",
+        "tanggal_lahir": "1981-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Papeete",
+          "negara": "France"
+        },
+        "kewarganegaraan": [
+          "France  Tahiti"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

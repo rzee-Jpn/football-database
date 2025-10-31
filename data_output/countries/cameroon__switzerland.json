@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Cameroon  Switzerland",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Bengondo (46917)",
+        "nama_panggilan": "Patrick Bengondo (46917)",
+        "tanggal_lahir": "1981-09-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Akonolinga",
+          "negara": "Cameroon"
+        },
+        "kewarganegaraan": [
+          "Cameroon  Switzerland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

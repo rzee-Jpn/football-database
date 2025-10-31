@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Congo  Ukraine",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Émerson (213429)",
+        "nama_panggilan": "Émerson (213429)",
+        "tanggal_lahir": "1995-10-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Odesa",
+          "negara": "Congo"
+        },
+        "kewarganegaraan": [
+          "Congo  Ukraine"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

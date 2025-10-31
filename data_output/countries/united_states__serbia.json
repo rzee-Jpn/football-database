@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "United States  Serbia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Preki (26847)",
+        "nama_panggilan": "Preki (26847)",
+        "tanggal_lahir": "1963-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Serbia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrija Novakovich (336160)",
+        "nama_panggilan": "Andrija Novakovich (336160)",
+        "tanggal_lahir": "1996-09-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Muskego, Wisconsin",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Serbia"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sacha Kljestan (39475)",
+        "nama_panggilan": "Sacha Kljestan (39475)",
+        "tanggal_lahir": "1985-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huntington Beach, California",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Djordje Mihailovic (484756)",
+        "nama_panggilan": "Djordje Mihailovic (484756)",
+        "tanggal_lahir": "1998-11-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Jacksonville, Florida",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Serbia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gordon Kljestan (90559)",
+        "nama_panggilan": "Gordon Kljestan (90559)",
+        "tanggal_lahir": "1983-11-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Huntington Beach, Kalifornien",
+          "negara": "United States"
+        },
+        "kewarganegaraan": [
+          "United States  Serbia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

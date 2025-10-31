@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Poland  Netherlands",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Piotr Parzyszek (155202)",
+        "nama_panggilan": "Piotr Parzyszek (155202)",
+        "tanggal_lahir": "1993-09-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toruń",
+          "negara": "Poland"
+        },
+        "kewarganegaraan": [
+          "Poland  Netherlands"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

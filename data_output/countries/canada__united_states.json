@@ -1,0 +1,483 @@
+{
+  "kategori": "negara",
+  "nama_group": "Canada  United States",
+  "total_pemain": 14,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adisa De Rosario (1001937)",
+        "nama_panggilan": "Adisa De Rosario (1001937)",
+        "tanggal_lahir": "2004-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Jose, California",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lazar Stefanović (1010899)",
+        "nama_panggilan": "Lazar Stefanović (1010899)",
+        "tanggal_lahir": "2006-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Clearwater, Florida",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Aiyenero (1054480)",
+        "nama_panggilan": "Marius Aiyenero (1054480)",
+        "tanggal_lahir": "2008-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Brandon Cambridge (1089531)",
+        "nama_panggilan": "Brandon Cambridge (1089531)",
+        "tanggal_lahir": "2002-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "New York City, New York",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taj Sangara (209870)",
+        "nama_panggilan": "Taj Sangara (209870)",
+        "tanggal_lahir": "1992-12-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Philadelphia, Pennsylvania",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Greg Sutton (38220)",
+        "nama_panggilan": "Greg Sutton (38220)",
+        "tanggal_lahir": "1977-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matt Constant (354900)",
+        "nama_panggilan": "Matt Constant (354900)",
+        "tanggal_lahir": "1998-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dallas, Texas",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "198.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayo Akinola (370979)",
+        "nama_panggilan": "Ayo Akinola (370979)",
+        "tanggal_lahir": "2000-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Detroit, Michigan",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jordan Schweitzer (424844)",
+        "nama_panggilan": "Jordan Schweitzer (424844)",
+        "tanggal_lahir": "1994-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dallas, Texas",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan David (533738)",
+        "nama_panggilan": "Jonathan David (533738)",
+        "tanggal_lahir": "2000-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brooklyn, New York",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zac McGraw (788522)",
+        "nama_panggilan": "Zac McGraw (788522)",
+        "tanggal_lahir": "1997-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Torrence, California",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronan Kratt (937399)",
+        "nama_panggilan": "Ronan Kratt (937399)",
+        "tanggal_lahir": "2003-09-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Burlington, Vermont",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mataeo Bunbury (938853)",
+        "nama_panggilan": "Mataeo Bunbury (938853)",
+        "tanggal_lahir": "2005-06-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Northfield, Minnesota",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Malcolm Simmons (968289)",
+        "nama_panggilan": "Malcolm Simmons (968289)",
+        "tanggal_lahir": "2003-02-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Trois-Rivières, Quebec",
+          "negara": "Canada"
+        },
+        "kewarganegaraan": [
+          "Canada  United States"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

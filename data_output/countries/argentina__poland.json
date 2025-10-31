@@ -1,0 +1,449 @@
+{
+  "kategori": "negara",
+  "nama_group": "Argentina  Poland",
+  "total_pemain": 13,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Martín Perelman (103993)",
+        "nama_panggilan": "Martín Perelman (103993)",
+        "tanggal_lahir": "1985-08-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Warszawa",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Kruspzky (113131)",
+        "nama_panggilan": "Lucas Kruspzky (113131)",
+        "tanggal_lahir": "1992-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Bielkiewicz (125080)",
+        "nama_panggilan": "Diego Bielkiewicz (125080)",
+        "tanggal_lahir": "1991-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franco Mazurek (267911)",
+        "nama_panggilan": "Franco Mazurek (267911)",
+        "tanggal_lahir": "1993-09-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Posadas",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francisco Fydriszewski (337921)",
+        "nama_panggilan": "Francisco Fydriszewski (337921)",
+        "tanggal_lahir": "1993-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Lorenzo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Kletnicki (30785)",
+        "nama_panggilan": "Carlos Kletnicki (30785)",
+        "tanggal_lahir": "1983-04-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Azul",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Esteban Rolón (399887)",
+        "nama_panggilan": "Esteban Rolón (399887)",
+        "tanggal_lahir": "1995-03-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Posadas",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Franco Troyansky (424673)",
+        "nama_panggilan": "Franco Troyansky (424673)",
+        "tanggal_lahir": "1997-03-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Algarrobo",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Linas (441157)",
+        "nama_panggilan": "Matías Linas (441157)",
+        "tanggal_lahir": "1993-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Remedios de Escalada",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mauricio Maslovski (491688)",
+        "nama_panggilan": "Mauricio Maslovski (491688)",
+        "tanggal_lahir": "2000-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Ignacio",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Enzo Kalinski (67818)",
+        "nama_panggilan": "Enzo Kalinski (67818)",
+        "tanggal_lahir": "1987-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santiago del Estero",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Santiago Hezze (742803)",
+        "nama_panggilan": "Santiago Hezze (742803)",
+        "tanggal_lahir": "2001-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Ischuk (87488)",
+        "nama_panggilan": "Lucas Ischuk (87488)",
+        "tanggal_lahir": "1980-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Santa Isabel",
+          "negara": "Argentina"
+        },
+        "kewarganegaraan": [
+          "Argentina  Poland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

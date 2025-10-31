@@ -1,0 +1,279 @@
+{
+  "kategori": "negara",
+  "nama_group": "Bermuda",
+  "total_pemain": 8,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Freddy Hall (192295)",
+        "nama_panggilan": "Freddy Hall (192295)",
+        "tanggal_lahir": "1985-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paget",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nahki Wells (173483)",
+        "nama_panggilan": "Nahki Wells (173483)",
+        "tanggal_lahir": "1990-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zeiko Lewis (220574)",
+        "nama_panggilan": "Zeiko Lewis (220574)",
+        "tanggal_lahir": "1994-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Spanish Point",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milan Butterfield (370741)",
+        "nama_panggilan": "Milan Butterfield (370741)",
+        "tanggal_lahir": "1998-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Khano Smith (39902)",
+        "nama_panggilan": "Khano Smith (39902)",
+        "tanggal_lahir": "1982-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Paget",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reggie Lambe (62115)",
+        "nama_panggilan": "Reggie Lambe (62115)",
+        "tanggal_lahir": "1991-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ne-Jai Tucker (766067)",
+        "nama_panggilan": "Ne-Jai Tucker (766067)",
+        "tanggal_lahir": "2002-08-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deniche Hill (953644)",
+        "nama_panggilan": "Deniche Hill (953644)",
+        "tanggal_lahir": "2004-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hamilton",
+          "negara": "Bermuda"
+        },
+        "kewarganegaraan": [
+          "Bermuda"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

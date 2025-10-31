@@ -1,0 +1,381 @@
+{
+  "kategori": "negara",
+  "nama_group": "Mexico  Argentina",
+  "total_pemain": 11,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rogelio Funes Mori (135082)",
+        "nama_panggilan": "Rogelio Funes Mori (135082)",
+        "tanggal_lahir": "1991-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mendoza",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Éder Borelli (151426)",
+        "nama_panggilan": "Éder Borelli (151426)",
+        "tanggal_lahir": "1990-11-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monterrey",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rodrigo Noya (203519)",
+        "nama_panggilan": "Rodrigo Noya (203519)",
+        "tanggal_lahir": "1990-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastián Fassi (347927)",
+        "nama_panggilan": "Sebastián Fassi (347927)",
+        "tanggal_lahir": "1993-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexico City",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucas Ayala (28063)",
+        "nama_panggilan": "Lucas Ayala (28063)",
+        "tanggal_lahir": "1978-08-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Vuoso (3812)",
+        "nama_panggilan": "Matías Vuoso (3812)",
+        "tanggal_lahir": "1981-11-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mar del Plata",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Damián Álvarez (52588)",
+        "nama_panggilan": "Damián Álvarez (52588)",
+        "tanggal_lahir": "1978-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buenos Aires",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dilan Nicoletti (57288)",
+        "nama_panggilan": "Dilan Nicoletti (57288)",
+        "tanggal_lahir": "1994-04-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuernavaca",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shayr Mohamed (677915)",
+        "nama_panggilan": "Shayr Mohamed (677915)",
+        "tanggal_lahir": "2000-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Pedro Garza García",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luciano Bocco (803586)",
+        "nama_panggilan": "Luciano Bocco (803586)",
+        "tanggal_lahir": "2000-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mexico City",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Martínez Dupuy (831110)",
+        "nama_panggilan": "Luca Martínez Dupuy (831110)",
+        "tanggal_lahir": "2001-06-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "San Luis Potosí",
+          "negara": "Mexico"
+        },
+        "kewarganegaraan": [
+          "Mexico  Argentina"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

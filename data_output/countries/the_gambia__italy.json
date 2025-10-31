@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Italy",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simon Barjie (139519)",
+        "nama_panggilan": "Simon Barjie (139519)",
+        "tanggal_lahir": "1978-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Milano",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Italy"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ali Sowe (229817)",
+        "nama_panggilan": "Ali Sowe (229817)",
+        "tanggal_lahir": "1994-06-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banjul",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Italy"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yaffa Yusupha (202836)",
+        "nama_panggilan": "Yaffa Yusupha (202836)",
+        "tanggal_lahir": "1996-12-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Serekunda",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Italy"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

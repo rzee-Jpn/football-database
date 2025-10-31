@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Iceland  Portugal",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victor Pálsson (97241)",
+        "nama_panggilan": "Victor Pálsson (97241)",
+        "tanggal_lahir": "1991-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Reykjavík",
+          "negara": "Iceland"
+        },
+        "kewarganegaraan": [
+          "Iceland  Portugal"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

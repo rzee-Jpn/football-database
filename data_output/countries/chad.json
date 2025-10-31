@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Chad",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dingam-Rob Boldoum (149256)",
+        "nama_panggilan": "Dingam-Rob Boldoum (149256)",
+        "tanggal_lahir": "1982-09-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doba",
+          "negara": "Chad"
+        },
+        "kewarganegaraan": [
+          "Chad"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Casimir Ninga (392810)",
+        "nama_panggilan": "Casimir Ninga (392810)",
+        "tanggal_lahir": "1993-05-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mandoul",
+          "negara": "Chad"
+        },
+        "kewarganegaraan": [
+          "Chad"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Mouandilmadji (598399)",
+        "nama_panggilan": "Marius Mouandilmadji (598399)",
+        "tanggal_lahir": "1998-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Doba",
+          "negara": "Chad"
+        },
+        "kewarganegaraan": [
+          "Chad"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

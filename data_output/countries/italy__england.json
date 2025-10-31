@@ -1,0 +1,415 @@
+{
+  "kategori": "negara",
+  "nama_group": "Italy  England",
+  "total_pemain": 12,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Michael Decandia (1083744)",
+        "nama_panggilan": "Michael Decandia (1083744)",
+        "tanggal_lahir": "2007-10-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Manchester",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mathias Tepe (1089041)",
+        "nama_panggilan": "Mathias Tepe (1089041)",
+        "tanggal_lahir": "2004-11-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iddrisa Dauda Amihere (1099742)",
+        "nama_panggilan": "Iddrisa Dauda Amihere (1099742)",
+        "tanggal_lahir": "2008-01-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brescia",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sean Parker (120917)",
+        "nama_panggilan": "Sean Parker (120917)",
+        "tanggal_lahir": "1997-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ronciglione",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joshua Vuillermoz (1171293)",
+        "nama_panggilan": "Joshua Vuillermoz (1171293)",
+        "tanggal_lahir": "2007-05-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aosta",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anto Buono (1186264)",
+        "nama_panggilan": "Anto Buono (1186264)",
+        "tanggal_lahir": "2006-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marbella",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurence Giani (1186317)",
+        "nama_panggilan": "Laurence Giani (1186317)",
+        "tanggal_lahir": "2008-03-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Crewe",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego De Girolamo (253083)",
+        "nama_panggilan": "Diego De Girolamo (253083)",
+        "tanggal_lahir": "1995-10-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chesterfield",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zak Ruggiero (433447)",
+        "nama_panggilan": "Zak Ruggiero (433447)",
+        "tanggal_lahir": "2001-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bishop Auckland",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Anderson (582663)",
+        "nama_panggilan": "Jonathan Anderson (582663)",
+        "tanggal_lahir": "2001-10-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roma",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simone Perrotta (5922)",
+        "nama_panggilan": "Simone Perrotta (5922)",
+        "tanggal_lahir": "1977-09-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ashton-under-Lyne",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Donovan Prato (823528)",
+        "nama_panggilan": "Donovan Prato (823528)",
+        "tanggal_lahir": "2004-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Catanzaro",
+          "negara": "Italy"
+        },
+        "kewarganegaraan": [
+          "Italy  England"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

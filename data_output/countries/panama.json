@@ -1,0 +1,993 @@
+{
+  "kategori": "negara",
+  "nama_group": "Panama",
+  "total_pemain": 29,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Valencia (1002223)",
+        "nama_panggilan": "Omar Valencia (1002223)",
+        "tanggal_lahir": "2004-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Kairo Walters (1007252)",
+        "nama_panggilan": "Kairo Walters (1007252)",
+        "tanggal_lahir": "2005-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gonzalo González (1082500)",
+        "nama_panggilan": "Gonzalo González (1082500)",
+        "tanggal_lahir": "2000-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Érick Díaz (1105078)",
+        "nama_panggilan": "Érick Díaz (1105078)",
+        "tanggal_lahir": "2006-03-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Éric Davis (121791)",
+        "nama_panggilan": "Éric Davis (121791)",
+        "tanggal_lahir": "1991-03-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Armando Cooper (122016)",
+        "nama_panggilan": "Armando Cooper (122016)",
+        "tanggal_lahir": "1987-11-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romario Piggott (189535)",
+        "nama_panggilan": "Romario Piggott (189535)",
+        "tanggal_lahir": "1995-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Roberto Chen (189525)",
+        "nama_panggilan": "Roberto Chen (189525)",
+        "tanggal_lahir": "1994-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Isla Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Francisco Narbón (189533)",
+        "nama_panggilan": "Francisco Narbón (189533)",
+        "tanggal_lahir": "1995-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fidel Escobar (345716)",
+        "nama_panggilan": "Fidel Escobar (345716)",
+        "tanggal_lahir": "1995-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yoel Bárcenas (283473)",
+        "nama_panggilan": "Yoel Bárcenas (283473)",
+        "tanggal_lahir": "1993-10-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Josiel Núñez (333092)",
+        "nama_panggilan": "Josiel Núñez (333092)",
+        "tanggal_lahir": "1993-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama-City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adalberto Carrasquilla (375300)",
+        "nama_panggilan": "Adalberto Carrasquilla (375300)",
+        "tanggal_lahir": "1998-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Amir Murillo (354482)",
+        "nama_panggilan": "Amir Murillo (354482)",
+        "tanggal_lahir": "1996-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrés Andrade (403808)",
+        "nama_panggilan": "Andrés Andrade (403808)",
+        "tanggal_lahir": "1998-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Luis Rodríguez (425028)",
+        "nama_panggilan": "José Luis Rodríguez (425028)",
+        "tanggal_lahir": "1998-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Chorrillo",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "César Blackman (440383)",
+        "nama_panggilan": "César Blackman (440383)",
+        "tanggal_lahir": "1998-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Víctor Griffith (496062)",
+        "nama_panggilan": "Víctor Griffith (496062)",
+        "tanggal_lahir": "2000-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduardo Guerrero (502842)",
+        "nama_panggilan": "Eduardo Guerrero (502842)",
+        "tanggal_lahir": "2000-02-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Fajardo (546803)",
+        "nama_panggilan": "José Fajardo (546803)",
+        "tanggal_lahir": "1993-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Córdoba (698415)",
+        "nama_panggilan": "José Córdoba (698415)",
+        "tanggal_lahir": "2001-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Juan Tejada (654162)",
+        "nama_panggilan": "Juan Tejada (654162)",
+        "tanggal_lahir": "1997-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jovani Welch (655646)",
+        "nama_panggilan": "Jovani Welch (655646)",
+        "tanggal_lahir": "1999-12-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Newton Williams (664425)",
+        "nama_panggilan": "Newton Williams (664425)",
+        "tanggal_lahir": "2001-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Almirante",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "César Yanis (741098)",
+        "nama_panggilan": "César Yanis (741098)",
+        "tanggal_lahir": "1996-01-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Román Torres (74182)",
+        "nama_panggilan": "Román Torres (74182)",
+        "tanggal_lahir": "1986-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Panama City",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristopher Cragwell (742857)",
+        "nama_panggilan": "Cristopher Cragwell (742857)",
+        "tanggal_lahir": "2001-06-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Colón",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gaby Torres (74532)",
+        "nama_panggilan": "Gaby Torres (74532)",
+        "tanggal_lahir": "1988-10-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ciudad de Panamá",
+          "negara": "Panama"
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Edward Cedeño (937710)",
+        "nama_panggilan": "Edward Cedeño (937710)",
+        "tanggal_lahir": "2003-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Panama"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

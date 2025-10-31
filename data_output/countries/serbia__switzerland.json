@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Switzerland",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alen Stevanovic (124559)",
+        "nama_panggilan": "Alen Stevanovic (124559)",
+        "tanggal_lahir": "1991-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zürich",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Switzerland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Milos Veljkovic (202228)",
+        "nama_panggilan": "Milos Veljkovic (202228)",
+        "tanggal_lahir": "1995-09-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Basel",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Switzerland"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zdravko Kuzmanovic (25441)",
+        "nama_panggilan": "Zdravko Kuzmanovic (25441)",
+        "tanggal_lahir": "1987-09-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Thun",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Switzerland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vaso Vasic (68030)",
+        "nama_panggilan": "Vaso Vasic (68030)",
+        "tanggal_lahir": "1990-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leuggern",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Switzerland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

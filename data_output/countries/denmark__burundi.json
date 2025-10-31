@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Denmark  Burundi",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jimmy Kana (102119)",
+        "nama_panggilan": "Jimmy Kana (102119)",
+        "tanggal_lahir": "1992-07-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bujumbura",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Burundi"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sanders Ngabo (875631)",
+        "nama_panggilan": "Sanders Ngabo (875631)",
+        "tanggal_lahir": "2004-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sundby",
+          "negara": "Denmark"
+        },
+        "kewarganegaraan": [
+          "Denmark  Burundi"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

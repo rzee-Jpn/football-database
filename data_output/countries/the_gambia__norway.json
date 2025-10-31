@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "The Gambia  Norway",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dadi Dodou Gaye (388167)",
+        "nama_panggilan": "Dadi Dodou Gaye (388167)",
+        "tanggal_lahir": "1995-03-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Norway"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sheriff Sinyan (394435)",
+        "nama_panggilan": "Sheriff Sinyan (394435)",
+        "tanggal_lahir": "1996-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Norway"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sulayman Bojang (501819)",
+        "nama_panggilan": "Sulayman Bojang (501819)",
+        "tanggal_lahir": "1997-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oslo",
+          "negara": "The Gambia"
+        },
+        "kewarganegaraan": [
+          "The Gambia  Norway"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

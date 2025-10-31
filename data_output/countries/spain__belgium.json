@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Belgium",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel De Vuyst (1334559)",
+        "nama_panggilan": "Gabriel De Vuyst (1334559)",
+        "tanggal_lahir": "2004-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puerto del Rosario",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joseba Muguruza (229811)",
+        "nama_panggilan": "Joseba Muguruza (229811)",
+        "tanggal_lahir": "1994-01-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deba",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Belgium"
+        ],
+        "tinggi_badan_cm": "171.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Jonathan Dubasin (628621)",
+        "nama_panggilan": "Jonathan Dubasin (628621)",
+        "tanggal_lahir": "2000-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "La Seu d'Urgell",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Belgium"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matías Fernández-Pardo (724129)",
+        "nama_panggilan": "Matías Fernández-Pardo (724129)",
+        "tanggal_lahir": "2005-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Belgium"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hugo Wauthier (937960)",
+        "nama_panggilan": "Hugo Wauthier (937960)",
+        "tanggal_lahir": "2006-11-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vigo",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Belgium"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

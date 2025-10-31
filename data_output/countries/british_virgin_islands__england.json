@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "British Virgin Islands  England",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Matthew Bell (142626)",
+        "nama_panggilan": "Matthew Bell (142626)",
+        "tanggal_lahir": "1992-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Stoke-on-Trent",
+          "negara": "British Virgin Islands"
+        },
+        "kewarganegaraan": [
+          "British Virgin Islands  England"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

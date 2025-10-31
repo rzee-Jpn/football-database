@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Congo  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yannick Loemba (196721)",
+        "nama_panggilan": "Yannick Loemba (196721)",
+        "tanggal_lahir": "1990-04-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brazzaville",
+          "negara": "Congo"
+        },
+        "kewarganegaraan": [
+          "Congo  Belgium"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Scott Bitsindou (177860)",
+        "nama_panggilan": "Scott Bitsindou (177860)",
+        "tanggal_lahir": "1996-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brussel",
+          "negara": "Congo"
+        },
+        "kewarganegaraan": [
+          "Congo  Belgium"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

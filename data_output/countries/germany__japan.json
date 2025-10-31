@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Germany  Japan",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Shinta Appelkamp (452121)",
+        "nama_panggilan": "Shinta Appelkamp (452121)",
+        "tanggal_lahir": "2000-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Setagaya, Tokyo",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Japan"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mio Backhaus (620295)",
+        "nama_panggilan": "Mio Backhaus (620295)",
+        "tanggal_lahir": "2004-04-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mönchengladbach",
+          "negara": "Germany"
+        },
+        "kewarganegaraan": [
+          "Germany  Japan"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

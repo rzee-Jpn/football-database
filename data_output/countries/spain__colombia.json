@@ -1,0 +1,177 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Colombia",
+  "total_pemain": 5,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dani Morer (282726)",
+        "nama_panggilan": "Dani Morer (282726)",
+        "tanggal_lahir": "1998-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mataró",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Colombia"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Carlos Rojas (628473)",
+        "nama_panggilan": "Carlos Rojas (628473)",
+        "tanggal_lahir": "2002-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cuenca",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Colombia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erik Bugarín (687092)",
+        "nama_panggilan": "Erik Bugarín (687092)",
+        "tanggal_lahir": "2003-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mos",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Colombia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristhian Mosquera (646750)",
+        "nama_panggilan": "Cristhian Mosquera (646750)",
+        "tanggal_lahir": "2004-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alicante",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Colombia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "José Masllorens (855875)",
+        "nama_panggilan": "José Masllorens (855875)",
+        "tanggal_lahir": "2001-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Girona",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Colombia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

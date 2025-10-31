@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Croatia  Serbia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bojan Sankovic (277414)",
+        "nama_panggilan": "Bojan Sankovic (277414)",
+        "tanggal_lahir": "1993-11-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Knin",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Serbia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Novak Tepsic (808070)",
+        "nama_panggilan": "Novak Tepsic (808070)",
+        "tanggal_lahir": "2002-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belgrad",
+          "negara": "Croatia"
+        },
+        "kewarganegaraan": [
+          "Croatia  Serbia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

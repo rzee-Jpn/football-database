@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Comoros",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zaidou Soilihi (681070)",
+        "nama_panggilan": "Zaidou Soilihi (681070)",
+        "tanggal_lahir": "1997-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Martigues",
+          "negara": "Comoros"
+        },
+        "kewarganegaraan": [
+          "Comoros"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

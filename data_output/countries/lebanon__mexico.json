@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Lebanon  Mexico",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Pedro Budib (1059499)",
+        "nama_panggilan": "Pedro Budib (1059499)",
+        "tanggal_lahir": "2004-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Puebla de Zaragoza",
+          "negara": "Lebanon"
+        },
+        "kewarganegaraan": [
+          "Lebanon  Mexico"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

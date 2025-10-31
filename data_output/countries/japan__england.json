@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Japan  England",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Parkinson (1085017)",
+        "nama_panggilan": "Denis Parkinson (1085017)",
+        "tanggal_lahir": "2005-04-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tokyo",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  England"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ryan Hirooka (149156)",
+        "nama_panggilan": "Ryan Hirooka (149156)",
+        "tanggal_lahir": "1990-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Yokohama, Kanagawa",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  England"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cy Goddard (320915)",
+        "nama_panggilan": "Cy Goddard (320915)",
+        "tanggal_lahir": "1997-04-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "London",
+          "negara": "Japan"
+        },
+        "kewarganegaraan": [
+          "Japan  England"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

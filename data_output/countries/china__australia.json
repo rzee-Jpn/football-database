@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "China  Australia",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zhongyi Qiu (882634)",
+        "nama_panggilan": "Zhongyi Qiu (882634)",
+        "tanggal_lahir": "1996-02-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Putian, Fujian",
+          "negara": "China"
+        },
+        "kewarganegaraan": [
+          "China  Australia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

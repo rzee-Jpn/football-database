@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Liberia  Spain",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Joel Johnson (142194)",
+        "nama_panggilan": "Joel Johnson (142194)",
+        "tanggal_lahir": "1992-09-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Valencia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Spain"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zizi Roberts (27003)",
+        "nama_panggilan": "Zizi Roberts (27003)",
+        "tanggal_lahir": "1979-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Monrovia",
+          "negara": "Liberia"
+        },
+        "kewarganegaraan": [
+          "Liberia  Spain"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

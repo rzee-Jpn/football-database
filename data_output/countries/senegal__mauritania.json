@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Senegal  Mauritania",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Issa Soumaré (568698)",
+        "nama_panggilan": "Issa Soumaré (568698)",
+        "tanggal_lahir": "2000-10-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Podor",
+          "negara": "Senegal"
+        },
+        "kewarganegaraan": [
+          "Senegal  Mauritania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

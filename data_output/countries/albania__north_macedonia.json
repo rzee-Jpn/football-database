@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Albania  North Macedonia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Taulant Seferi (254985)",
+        "nama_panggilan": "Taulant Seferi (254985)",
+        "tanggal_lahir": "1996-11-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kumanovo",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  North Macedonia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omar Imeri (535537)",
+        "nama_panggilan": "Omar Imeri (535537)",
+        "tanggal_lahir": "1999-12-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Skopje",
+          "negara": "Albania"
+        },
+        "kewarganegaraan": [
+          "Albania  North Macedonia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

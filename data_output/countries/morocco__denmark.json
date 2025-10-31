@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Morocco  Denmark",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Karim Zaza (15057)",
+        "nama_panggilan": "Karim Zaza (15057)",
+        "tanggal_lahir": "1975-01-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brøndby",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Denmark"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ayoub Sørensen (31821)",
+        "nama_panggilan": "Ayoub Sørensen (31821)",
+        "tanggal_lahir": "1988-04-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Casablanca",
+          "negara": "Morocco"
+        },
+        "kewarganegaraan": [
+          "Morocco  Denmark"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

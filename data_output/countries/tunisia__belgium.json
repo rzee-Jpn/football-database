@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Tunisia  Belgium",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Hamdi Harbaoui (49841)",
+        "nama_panggilan": "Hamdi Harbaoui (49841)",
+        "tanggal_lahir": "1985-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bizerte",
+          "negara": "Tunisia"
+        },
+        "kewarganegaraan": [
+          "Tunisia  Belgium"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

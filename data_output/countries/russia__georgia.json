@@ -1,0 +1,721 @@
+{
+  "kategori": "negara",
+  "nama_group": "Russia  Georgia",
+  "total_pemain": 21,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irakliy Chezhia (105497)",
+        "nama_panggilan": "Irakliy Chezhia (105497)",
+        "tanggal_lahir": "1992-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gali",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paata Berishvili (106400)",
+        "nama_panggilan": "Paata Berishvili (106400)",
+        "tanggal_lahir": "1973-09-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nakieti, Racha-Lechkhumi und Kvemo Svaneti Region",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Irakliy Kvekveskiri (125755)",
+        "nama_panggilan": "Irakliy Kvekveskiri (125755)",
+        "tanggal_lahir": "1990-03-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ochamchire, Georgian SSR",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nika Chkhapelia (183137)",
+        "nama_panggilan": "Nika Chkhapelia (183137)",
+        "tanggal_lahir": "1994-04-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ochamchire",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "165.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zurab Tsiklauri (27028)",
+        "nama_panggilan": "Zurab Tsiklauri (27028)",
+        "tanggal_lahir": "1974-06-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kuybeshev",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Omari Tetradze (25043)",
+        "nama_panggilan": "Omari Tetradze (25043)",
+        "tanggal_lahir": "1969-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Velispiri",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nikita Matskharashvili (344070)",
+        "nama_panggilan": "Nikita Matskharashvili (344070)",
+        "tanggal_lahir": "1999-06-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sokhumi",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgiy Melkadze (281552)",
+        "nama_panggilan": "Georgiy Melkadze (281552)",
+        "tanggal_lahir": "1997-04-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Diego Malania (288093)",
+        "nama_panggilan": "Diego Malania (288093)",
+        "tanggal_lahir": "1991-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orekhovo-Zuevo, Moskau Region",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leo Goglichidze (334481)",
+        "nama_panggilan": "Leo Goglichidze (334481)",
+        "tanggal_lahir": "1997-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Rostov-na-Donu",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksey Tataev (312502)",
+        "nama_panggilan": "Aleksey Tataev (312502)",
+        "tanggal_lahir": "1998-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Tskhinvali",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladimir Kobakhidze (461704)",
+        "nama_panggilan": "Vladimir Kobakhidze (461704)",
+        "tanggal_lahir": "1999-09-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krasnodar",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Leon Sabua (476142)",
+        "nama_panggilan": "Leon Sabua (476142)",
+        "tanggal_lahir": "2000-09-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gagra",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgiy Gongadze (525692)",
+        "nama_panggilan": "Georgiy Gongadze (525692)",
+        "tanggal_lahir": "1996-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Konstantin Maradishvili (535974)",
+        "nama_panggilan": "Konstantin Maradishvili (535974)",
+        "tanggal_lahir": "2000-02-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Georgiy Sulakvelidze (629940)",
+        "nama_panggilan": "Georgiy Sulakvelidze (629940)",
+        "tanggal_lahir": "2001-04-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moskau",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yuriy Okroshidze (67128)",
+        "nama_panggilan": "Yuriy Okroshidze (67128)",
+        "tanggal_lahir": "1970-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Leningrad",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mikhail Tsulaya (715382)",
+        "nama_panggilan": "Mikhail Tsulaya (715382)",
+        "tanggal_lahir": "2005-02-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Krasnodar",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Anzor Sanaia (73335)",
+        "nama_panggilan": "Anzor Sanaia (73335)",
+        "tanggal_lahir": "1989-05-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mineralnye Vody, Stavropol Kray",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zaur Tarba (814870)",
+        "nama_panggilan": "Zaur Tarba (814870)",
+        "tanggal_lahir": "2003-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dmitriy Kortava (97207)",
+        "nama_panggilan": "Dmitriy Kortava (97207)",
+        "tanggal_lahir": "1990-11-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gagra",
+          "negara": "Russia"
+        },
+        "kewarganegaraan": [
+          "Russia  Georgia"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

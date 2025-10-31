@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  United States",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bright Dike (147151)",
+        "nama_panggilan": "Bright Dike (147151)",
+        "tanggal_lahir": "1987-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Edmond, Oklahoma",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  United States"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bolu Akinyode (371100)",
+        "nama_panggilan": "Bolu Akinyode (371100)",
+        "tanggal_lahir": "1994-05-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Lagos",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  United States"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

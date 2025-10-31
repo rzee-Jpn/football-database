@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Sierra Leone  Spain",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alfi Conteh-Lacalle (81987)",
+        "nama_panggilan": "Alfi Conteh-Lacalle (81987)",
+        "tanggal_lahir": "1985-01-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Barcelona",
+          "negara": "Sierra Leone"
+        },
+        "kewarganegaraan": [
+          "Sierra Leone  Spain"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "kategori": "negara",
+  "nama_group": "Nigeria  Canada",
+  "total_pemain": 1,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Patrick Friday Eze (221118)",
+        "nama_panggilan": "Patrick Friday Eze (221118)",
+        "tanggal_lahir": "1992-12-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kaduna",
+          "negara": "Nigeria"
+        },
+        "kewarganegaraan": [
+          "Nigeria  Canada"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

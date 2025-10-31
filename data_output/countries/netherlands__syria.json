@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Netherlands  Syria",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ninos Gouriye (190633)",
+        "nama_panggilan": "Ninos Gouriye (190633)",
+        "tanggal_lahir": "1991-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hengelo",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Syria"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gaby Jallo (88388)",
+        "nama_panggilan": "Gaby Jallo (88388)",
+        "tanggal_lahir": "1989-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kamechle",
+          "negara": "Netherlands"
+        },
+        "kewarganegaraan": [
+          "Netherlands  Syria"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

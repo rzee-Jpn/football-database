@@ -1,0 +1,6603 @@
+{
+  "kategori": "negara",
+  "nama_group": "Romania",
+  "total_pemain": 194,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cosmin Goia (100531)",
+        "nama_panggilan": "Cosmin Goia (100531)",
+        "tanggal_lahir": "1982-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timişoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Mezdrea (1005704)",
+        "nama_panggilan": "Rareș Mezdrea (1005704)",
+        "tanggal_lahir": "2002-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suceava",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Șiman (1008223)",
+        "nama_panggilan": "Alexandru Șiman (1008223)",
+        "tanggal_lahir": "2005-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudiu Baican (102963)",
+        "nama_panggilan": "Claudiu Baican (102963)",
+        "tanggal_lahir": "1988-07-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zalău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "201.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marco Popescu (1107601)",
+        "nama_panggilan": "Marco Popescu (1107601)",
+        "tanggal_lahir": "2008-04-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brașov",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Toroc (1112944)",
+        "nama_panggilan": "Andrei Toroc (1112944)",
+        "tanggal_lahir": "2007-07-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vlad Duminică (1113084)",
+        "nama_panggilan": "Vlad Duminică (1113084)",
+        "tanggal_lahir": "2006-01-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Papp (112552)",
+        "nama_panggilan": "Paul Papp (112552)",
+        "tanggal_lahir": "1989-11-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Dej",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Calițoiu (1067292)",
+        "nama_panggilan": "Mihai Calițoiu (1067292)",
+        "tanggal_lahir": "2008-07-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ianis Avrămescu (1067298)",
+        "nama_panggilan": "Ianis Avrămescu (1067298)",
+        "tanggal_lahir": "2008-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pitești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Matei (1071517)",
+        "nama_panggilan": "Robert Matei (1071517)",
+        "tanggal_lahir": "2006-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "193.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ianis Dobrescu (1076326)",
+        "nama_panggilan": "Ianis Dobrescu (1076326)",
+        "tanggal_lahir": "2008-01-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hunedoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Șandro (1100803)",
+        "nama_panggilan": "Denis Șandro (1100803)",
+        "tanggal_lahir": "2006-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dionisiu Bumb (132582)",
+        "nama_panggilan": "Dionisiu Bumb (132582)",
+        "tanggal_lahir": "1973-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carei",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Roman (135566)",
+        "nama_panggilan": "Mihai Roman (135566)",
+        "tanggal_lahir": "1992-05-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Munteanu (1261055)",
+        "nama_panggilan": "Denis Munteanu (1261055)",
+        "tanggal_lahir": "2009-03-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ștefan Popescu (129248)",
+        "nama_panggilan": "Ștefan Popescu (129248)",
+        "tanggal_lahir": "1993-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Iași",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Maxim (129513)",
+        "nama_panggilan": "Alexandru Maxim (129513)",
+        "tanggal_lahir": "1990-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piatra Neamţ",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florin Pripu (129524)",
+        "nama_panggilan": "Florin Pripu (129524)",
+        "tanggal_lahir": "1980-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Târgoviște",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Țucudean (130345)",
+        "nama_panggilan": "George Țucudean (130345)",
+        "tanggal_lahir": "1991-04-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arad",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vlad Chiricheș (123261)",
+        "nama_panggilan": "Vlad Chiricheș (123261)",
+        "tanggal_lahir": "1989-11-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bacău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Cobliș (123268)",
+        "nama_panggilan": "Andrei Cobliș (123268)",
+        "tanggal_lahir": "1989-10-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hunedoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "202.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vlad Bujor (123230)",
+        "nama_panggilan": "Vlad Bujor (123230)",
+        "tanggal_lahir": "1989-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Second Striker",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Paul Anton (123286)",
+        "nama_panggilan": "Paul Anton (123286)",
+        "tanggal_lahir": "1991-05-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bistriţa",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vlad Bădău (1158642)",
+        "nama_panggilan": "Vlad Bădău (1158642)",
+        "tanggal_lahir": "2006-10-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gurahonț",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darius Pășcălău (1175341)",
+        "nama_panggilan": "Darius Pășcălău (1175341)",
+        "tanggal_lahir": "2006-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario David (1179581)",
+        "nama_panggilan": "Mario David (1179581)",
+        "tanggal_lahir": "2008-01-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bacău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cosmin Dragomir (1185124)",
+        "nama_panggilan": "Cosmin Dragomir (1185124)",
+        "tanggal_lahir": "2006-02-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alin Bucuroiu (119187)",
+        "nama_panggilan": "Alin Bucuroiu (119187)",
+        "tanggal_lahir": "1991-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Râmnicu Vâlcea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florin Bejan (147993)",
+        "nama_panggilan": "Florin Bejan (147993)",
+        "tanggal_lahir": "1991-03-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mangalia",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alin Toșca (148004)",
+        "nama_panggilan": "Alin Toșca (148004)",
+        "tanggal_lahir": "1992-03-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alexandria",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florentin Matei (147998)",
+        "nama_panggilan": "Florentin Matei (147998)",
+        "tanggal_lahir": "1993-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bolintin-Vale",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolae Stanciu (148372)",
+        "nama_panggilan": "Nicolae Stanciu (148372)",
+        "tanggal_lahir": "1993-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiva",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "170.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Raț (14940)",
+        "nama_panggilan": "Răzvan Raț (14940)",
+        "tanggal_lahir": "1981-05-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piatra-Olt",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ioan Lupescu (1537)",
+        "nama_panggilan": "Ioan Lupescu (1537)",
+        "tanggal_lahir": "1968-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurențiu Brănescu (156521)",
+        "nama_panggilan": "Laurențiu Brănescu (156521)",
+        "tanggal_lahir": "1994-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Râmnicu Vâlcea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Iancu (164254)",
+        "nama_panggilan": "Gabriel Iancu (164254)",
+        "tanggal_lahir": "1994-04-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Romario Benzar (164231)",
+        "nama_panggilan": "Romario Benzar (164231)",
+        "tanggal_lahir": "1992-03-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vlad Morar (186031)",
+        "nama_panggilan": "Vlad Morar (186031)",
+        "tanggal_lahir": "1993-08-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Crişeni",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Țîru (186744)",
+        "nama_panggilan": "Bogdan Țîru (186744)",
+        "tanggal_lahir": "1994-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Pușcaș (189788)",
+        "nama_panggilan": "Cristian Pușcaș (189788)",
+        "tanggal_lahir": "1970-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Levente Csik (1917)",
+        "nama_panggilan": "Levente Csik (1917)",
+        "tanggal_lahir": "1974-04-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Satu Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ionel Dănciulescu (19405)",
+        "nama_panggilan": "Ionel Dănciulescu (19405)",
+        "tanggal_lahir": "1976-12-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slatina",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Piț (19924)",
+        "nama_panggilan": "Adrian Piț (19924)",
+        "tanggal_lahir": "1983-07-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ștei",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Midfield - Left Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cătălin Munteanu (16615)",
+        "nama_panggilan": "Cătălin Munteanu (16615)",
+        "tanggal_lahir": "1979-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ion Sorin Chitu (176106)",
+        "nama_panggilan": "Ion Sorin Chitu (176106)",
+        "tanggal_lahir": "1991-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Costinel Gugu (179792)",
+        "nama_panggilan": "Costinel Gugu (179792)",
+        "tanggal_lahir": "1992-08-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Steliano Filip (181501)",
+        "nama_panggilan": "Steliano Filip (181501)",
+        "tanggal_lahir": "1994-05-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Buzău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Moga (182018)",
+        "nama_panggilan": "Sebastian Moga (182018)",
+        "tanggal_lahir": "1971-12-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bistrița",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laurențiu Reghecampf (182)",
+        "nama_panggilan": "Laurențiu Reghecampf (182)",
+        "tanggal_lahir": "1975-09-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Târgoviște",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Mihalcea (21869)",
+        "nama_panggilan": "Adrian Mihalcea (21869)",
+        "tanggal_lahir": "1976-05-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slobozia",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Popa (220851)",
+        "nama_panggilan": "Răzvan Popa (220851)",
+        "tanggal_lahir": "1997-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Râmnicu Vâlcea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Constantin Nica (221815)",
+        "nama_panggilan": "Constantin Nica (221815)",
+        "tanggal_lahir": "1993-03-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Afumaţi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florin Niță (200475)",
+        "nama_panggilan": "Florin Niță (200475)",
+        "tanggal_lahir": "1987-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Cojocaru (200616)",
+        "nama_panggilan": "Valentin Cojocaru (200616)",
+        "tanggal_lahir": "1995-10-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "195.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Pușcaș (208690)",
+        "nama_panggilan": "George Pușcaș (208690)",
+        "tanggal_lahir": "1996-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Marghita",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Briceag (209063)",
+        "nama_panggilan": "Marius Briceag (209063)",
+        "tanggal_lahir": "1992-04-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pitești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Băluță (212746)",
+        "nama_panggilan": "Alexandru Băluță (212746)",
+        "tanggal_lahir": "1993-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "166.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolae Stanciu (215538)",
+        "nama_panggilan": "Nicolae Stanciu (215538)",
+        "tanggal_lahir": "1973-11-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergiu Popovici (217750)",
+        "nama_panggilan": "Sergiu Popovici (217750)",
+        "tanggal_lahir": "1993-03-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Făget",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Săpunaru (25942)",
+        "nama_panggilan": "Cristian Săpunaru (25942)",
+        "tanggal_lahir": "1984-04-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Tudorie (260139)",
+        "nama_panggilan": "Alexandru Tudorie (260139)",
+        "tanggal_lahir": "1996-03-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galați",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ovidiu Burcă (26028)",
+        "nama_panggilan": "Ovidiu Burcă (26028)",
+        "tanggal_lahir": "1980-03-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Slatina",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lucian Goian (26036)",
+        "nama_panggilan": "Lucian Goian (26036)",
+        "tanggal_lahir": "1983-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suceava",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Neaga (26499)",
+        "nama_panggilan": "Adrian Neaga (26499)",
+        "tanggal_lahir": "1979-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piteşti",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Ogăraru (26501)",
+        "nama_panggilan": "George Ogăraru (26501)",
+        "tanggal_lahir": "1980-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Zotincă (26862)",
+        "nama_panggilan": "Alex Zotincă (26862)",
+        "tanggal_lahir": "1977-01-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sibiu",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ronaldo Deaconu (271281)",
+        "nama_panggilan": "Ronaldo Deaconu (271281)",
+        "tanggal_lahir": "1997-05-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ioan Perdei (2383)",
+        "nama_panggilan": "Ioan Perdei (2383)",
+        "tanggal_lahir": "1977-08-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deian Boldor (239570)",
+        "nama_panggilan": "Deian Boldor (239570)",
+        "tanggal_lahir": "1995-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timişoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marian Găldean (248411)",
+        "nama_panggilan": "Marian Găldean (248411)",
+        "tanggal_lahir": "1989-07-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudiu Keșerü (25115)",
+        "nama_panggilan": "Claudiu Keșerü (25115)",
+        "tanggal_lahir": "1986-12-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Virgil Ghiță (340977)",
+        "nama_panggilan": "Virgil Ghiță (340977)",
+        "tanggal_lahir": "1998-06-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Pitești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Nicolae Carnat (341140)",
+        "nama_panggilan": "Nicolae Carnat (341140)",
+        "tanggal_lahir": "1998-04-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alba Iulia",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Dica (34509)",
+        "nama_panggilan": "Emil Dica (34509)",
+        "tanggal_lahir": "1982-07-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Scornicești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dorin Goian (34756)",
+        "nama_panggilan": "Dorin Goian (34756)",
+        "tanggal_lahir": "1980-12-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suceava",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "194.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Victoras Iacob (34757)",
+        "nama_panggilan": "Victoras Iacob (34757)",
+        "tanggal_lahir": "1980-10-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Râmnicu Vâlcea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ionuț Nedelcearu (274694)",
+        "nama_panggilan": "Ionuț Nedelcearu (274694)",
+        "tanggal_lahir": "1996-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Doru Popadiuc (279927)",
+        "nama_panggilan": "Doru Popadiuc (279927)",
+        "tanggal_lahir": "1995-02-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suceava",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marian Aliuta (28532)",
+        "nama_panggilan": "Marian Aliuta (28532)",
+        "tanggal_lahir": "1978-02-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "172.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Tararache (2867)",
+        "nama_panggilan": "Mihai Tararache (2867)",
+        "tanggal_lahir": "1977-10-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gheorghe Alim Birlea (287807)",
+        "nama_panggilan": "Gheorghe Alim Birlea (287807)",
+        "tanggal_lahir": "1996-03-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Sîntean (319229)",
+        "nama_panggilan": "Andrei Sîntean (319229)",
+        "tanggal_lahir": "1999-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sânnicolau Mare",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudiu Micovschi (319231)",
+        "nama_panggilan": "Claudiu Micovschi (319231)",
+        "tanggal_lahir": "1999-05-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Răuță (326636)",
+        "nama_panggilan": "Andrei Răuță (326636)",
+        "tanggal_lahir": "1995-07-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roman",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Laszlo Sepsi (33622)",
+        "nama_panggilan": "Laszlo Sepsi (33622)",
+        "tanggal_lahir": "1987-06-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Luduș",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Marin (295183)",
+        "nama_panggilan": "Răzvan Marin (295183)",
+        "tanggal_lahir": "1996-05-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dragoș Nedelcu (295868)",
+        "nama_panggilan": "Dragoș Nedelcu (295868)",
+        "tanggal_lahir": "1997-02-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ionuț Radu (303657)",
+        "nama_panggilan": "Ionuț Radu (303657)",
+        "tanggal_lahir": "1997-05-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Marin (379163)",
+        "nama_panggilan": "Marius Marin (379163)",
+        "tanggal_lahir": "1998-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timişoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Deian Sorescu (379209)",
+        "nama_panggilan": "Deian Sorescu (379209)",
+        "tanggal_lahir": "1997-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moldova Nouă",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raul Opruț (393806)",
+        "nama_panggilan": "Raul Opruț (393806)",
+        "tanggal_lahir": "1998-01-04",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Caransebeș",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Mincă (35431)",
+        "nama_panggilan": "Mihai Mincă (35431)",
+        "tanggal_lahir": "1984-10-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Alba Iulia",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "196.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduard Marinca (364686)",
+        "nama_panggilan": "Eduard Marinca (364686)",
+        "tanggal_lahir": "1997-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deva",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "201.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Petre (365769)",
+        "nama_panggilan": "Adrian Petre (365769)",
+        "tanggal_lahir": "1998-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arad",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Dobre (365770)",
+        "nama_panggilan": "Alexandru Dobre (365770)",
+        "tanggal_lahir": "1998-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Mățan (368942)",
+        "nama_panggilan": "Alexandru Mățan (368942)",
+        "tanggal_lahir": "1999-08-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galați",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduard Dumitru (394574)",
+        "nama_panggilan": "Eduard Dumitru (394574)",
+        "tanggal_lahir": "1995-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galaţi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Renato Imbrea (397230)",
+        "nama_panggilan": "Renato Imbrea (397230)",
+        "tanggal_lahir": "2000-06-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Roman",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Man (397486)",
+        "nama_panggilan": "Dennis Man (397486)",
+        "tanggal_lahir": "1998-08-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vladimirescu",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Tanasa (405150)",
+        "nama_panggilan": "Andrei Tanasa (405150)",
+        "tanggal_lahir": "1990-11-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Iaşi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Denis Drăguș (405399)",
+        "nama_panggilan": "Denis Drăguș (405399)",
+        "tanggal_lahir": "1999-07-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Florin Fedor Tariuc (407481)",
+        "nama_panggilan": "Florin Fedor Tariuc (407481)",
+        "tanggal_lahir": "1996-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Poienile de sub Munte",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ionut Radu (408542)",
+        "nama_panggilan": "Ionut Radu (408542)",
+        "tanggal_lahir": "1991-08-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hunedoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihael Onișa (418225)",
+        "nama_panggilan": "Mihael Onișa (418225)",
+        "tanggal_lahir": "2000-03-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ricardo Farcaș (418215)",
+        "nama_panggilan": "Ricardo Farcaș (418215)",
+        "tanggal_lahir": "2000-06-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Olimpiu Moruțan (429551)",
+        "nama_panggilan": "Olimpiu Moruțan (429551)",
+        "tanggal_lahir": "1999-04-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dragoș Ioance (434593)",
+        "nama_panggilan": "Dragoș Ioance (434593)",
+        "tanggal_lahir": "1993-08-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Chindriș (435731)",
+        "nama_panggilan": "Andrei Chindriș (435731)",
+        "tanggal_lahir": "1999-01-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Erik Bicfalvi (46504)",
+        "nama_panggilan": "Erik Bicfalvi (46504)",
+        "tanggal_lahir": "1988-02-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Carei",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raul Marincău (46588)",
+        "nama_panggilan": "Raul Marincău (46588)",
+        "tanggal_lahir": "1981-04-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deva",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Nalati (46603)",
+        "nama_panggilan": "Adrian Nalati (46603)",
+        "tanggal_lahir": "1983-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bistrița",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Szabolcs Mihály Perényi (46622)",
+        "nama_panggilan": "Szabolcs Mihály Perényi (46622)",
+        "tanggal_lahir": "1982-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Stancu (46658)",
+        "nama_panggilan": "Bogdan Stancu (46658)",
+        "tanggal_lahir": "1987-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Piteşti",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iasmin Latovlevici (47172)",
+        "nama_panggilan": "Iasmin Latovlevici (47172)",
+        "tanggal_lahir": "1986-05-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moldova Nouă",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Torje (47184)",
+        "nama_panggilan": "Gabriel Torje (47184)",
+        "tanggal_lahir": "1989-11-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "167.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emil Jula (47424)",
+        "nama_panggilan": "Emil Jula (47424)",
+        "tanggal_lahir": "1980-01-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Mara (47602)",
+        "nama_panggilan": "Bogdan Mara (47602)",
+        "tanggal_lahir": "1977-09-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Deva",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Costel Pantilimon (47659)",
+        "nama_panggilan": "Costel Pantilimon (47659)",
+        "tanggal_lahir": "1987-02-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bacău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "203.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Ochiroșii (43761)",
+        "nama_panggilan": "Răzvan Ochiroșii (43761)",
+        "tanggal_lahir": "1989-03-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Galaţi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ionuț Mazilu (43934)",
+        "nama_panggilan": "Ionuț Mazilu (43934)",
+        "tanggal_lahir": "1982-02-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Cociș (43938)",
+        "nama_panggilan": "Răzvan Cociș (43938)",
+        "tanggal_lahir": "1983-02-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ștefan Radu (44420)",
+        "nama_panggilan": "Ștefan Radu (44420)",
+        "tanggal_lahir": "1986-10-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Florescu (45341)",
+        "nama_panggilan": "George Florescu (45341)",
+        "tanggal_lahir": "1984-05-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Gheorghe (453810)",
+        "nama_panggilan": "Valentin Gheorghe (453810)",
+        "tanggal_lahir": "1997-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Ploieşti",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Iacob (485797)",
+        "nama_panggilan": "Cristian Iacob (485797)",
+        "tanggal_lahir": "1997-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Târgu Mureș",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marius Alexe (48678)",
+        "nama_panggilan": "Marius Alexe (48678)",
+        "tanggal_lahir": "1990-02-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Apostu (48812)",
+        "nama_panggilan": "Bogdan Apostu (48812)",
+        "tanggal_lahir": "1982-04-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Hunedoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darius Ghindovean (508762)",
+        "nama_panggilan": "Darius Ghindovean (508762)",
+        "tanggal_lahir": "2001-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Mediaş",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Bosneagu (511955)",
+        "nama_panggilan": "Mihai Bosneagu (511955)",
+        "tanggal_lahir": "1988-03-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Emanuel Patrascu (513834)",
+        "nama_panggilan": "Emanuel Patrascu (513834)",
+        "tanggal_lahir": "1981-06-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Horațiu Moldovan (525438)",
+        "nama_panggilan": "Horațiu Moldovan (525438)",
+        "tanggal_lahir": "1998-01-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Ardelean (530896)",
+        "nama_panggilan": "Bogdan Ardelean (530896)",
+        "tanggal_lahir": "2001-01-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Right Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Mihăilă (535469)",
+        "nama_panggilan": "Valentin Mihăilă (535469)",
+        "tanggal_lahir": "2000-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Finta",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ioan Hora (54528)",
+        "nama_panggilan": "Ioan Hora (54528)",
+        "tanggal_lahir": "1988-08-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ianis Stoica (547754)",
+        "nama_panggilan": "Ianis Stoica (547754)",
+        "tanggal_lahir": "2002-12-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucuresti",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Mărginean (547827)",
+        "nama_panggilan": "Andrei Mărginean (547827)",
+        "tanggal_lahir": "2001-07-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zlatna",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Louis Munteanu (547786)",
+        "nama_panggilan": "Louis Munteanu (547786)",
+        "tanggal_lahir": "2002-06-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaslui",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Raul Steau (547818)",
+        "nama_panggilan": "Raul Steau (547818)",
+        "tanggal_lahir": "2001-04-22",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Aiud",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Viorel Moldovan (5519)",
+        "nama_panggilan": "Viorel Moldovan (5519)",
+        "tanggal_lahir": "1972-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bistriţa",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Radu Drăgușin (568559)",
+        "nama_panggilan": "Radu Drăgușin (568559)",
+        "tanggal_lahir": "2002-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Florică (568573)",
+        "nama_panggilan": "Luca Florică (568573)",
+        "tanggal_lahir": "2002-10-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Sava (568617)",
+        "nama_panggilan": "Răzvan Sava (568617)",
+        "tanggal_lahir": "2002-06-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Mihai (608487)",
+        "nama_panggilan": "Luca Mihai (608487)",
+        "tanggal_lahir": "2003-10-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Robert Ion (608511)",
+        "nama_panggilan": "Robert Ion (608511)",
+        "tanggal_lahir": "2000-09-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sergiu Radu (6161)",
+        "nama_panggilan": "Sergiu Radu (6161)",
+        "tanggal_lahir": "1977-08-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Râmnicu Vâlcea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cătălin Cîrjan (575219)",
+        "nama_panggilan": "Cătălin Cîrjan (575219)",
+        "tanggal_lahir": "2002-12-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Domnești",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Popa (623412)",
+        "nama_panggilan": "Mihai Popa (623412)",
+        "tanggal_lahir": "2000-10-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cristian Melinte (63461)",
+        "nama_panggilan": "Cristian Melinte (63461)",
+        "tanggal_lahir": "1988-05-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timişoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Chipciu (64126)",
+        "nama_panggilan": "Alexandru Chipciu (64126)",
+        "tanggal_lahir": "1989-05-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brăila",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "176.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mihai Roman (64229)",
+        "nama_panggilan": "Mihai Roman (64229)",
+        "tanggal_lahir": "1984-10-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Suceava",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Bogdan Straton (64243)",
+        "nama_panggilan": "Bogdan Straton (64243)",
+        "tanggal_lahir": "1983-08-23",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Iaşi",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Gabriel Tamaș (6893)",
+        "nama_panggilan": "Gabriel Tamaș (6893)",
+        "tanggal_lahir": "1983-11-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Brașov",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Claudiu Cornaci (69133)",
+        "nama_panggilan": "Claudiu Cornaci (69133)",
+        "tanggal_lahir": "1975-07-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zalău",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "George Savu (69443)",
+        "nama_panggilan": "George Savu (69443)",
+        "tanggal_lahir": "1983-03-20",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "197.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Mogoș (705324)",
+        "nama_panggilan": "Alexandru Mogoș (705324)",
+        "tanggal_lahir": "2002-08-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Drobeta Turnu Severin",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Giani Kiriță (7065)",
+        "nama_panggilan": "Giani Kiriță (7065)",
+        "tanggal_lahir": "1977-03-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "N/A",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ovidiu Simon Gabor (707395)",
+        "nama_panggilan": "Ovidiu Simon Gabor (707395)",
+        "tanggal_lahir": "2004-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Răzvan Pașcalău (709671)",
+        "nama_panggilan": "Răzvan Pașcalău (709671)",
+        "tanggal_lahir": "2004-05-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Cătălin Vulturar (710079)",
+        "nama_panggilan": "Cătălin Vulturar (710079)",
+        "tanggal_lahir": "2004-03-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arad",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Eduard Rusu (710089)",
+        "nama_panggilan": "Eduard Rusu (710089)",
+        "tanggal_lahir": "2004-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Reinaldo Radu (651727)",
+        "nama_panggilan": "Reinaldo Radu (651727)",
+        "tanggal_lahir": "2002-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Castello de la Plana",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Borbei (667640)",
+        "nama_panggilan": "Alexandru Borbei (667640)",
+        "tanggal_lahir": "2003-06-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Petrila",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Constantin Gâlcă (7835)",
+        "nama_panggilan": "Constantin Gâlcă (7835)",
+        "tanggal_lahir": "1972-03-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andres Sfait (808224)",
+        "nama_panggilan": "Andres Sfait (808224)",
+        "tanggal_lahir": "2004-12-09",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Iustin Sgircitu (723832)",
+        "nama_panggilan": "Iustin Sgircitu (723832)",
+        "tanggal_lahir": "2005-09-06",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Popa (723833)",
+        "nama_panggilan": "Luca Popa (723833)",
+        "tanggal_lahir": "2005-12-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Oradea",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Mazilu (723835)",
+        "nama_panggilan": "Adrian Mazilu (723835)",
+        "tanggal_lahir": "2005-09-13",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "David Palade (731526)",
+        "nama_panggilan": "David Palade (731526)",
+        "tanggal_lahir": "2004-01-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Constanța",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Burnete (731525)",
+        "nama_panggilan": "Rareș Burnete (731525)",
+        "tanggal_lahir": "2004-01-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sighișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Zoran Mitrov (740986)",
+        "nama_panggilan": "Zoran Mitrov (740986)",
+        "tanggal_lahir": "2002-01-29",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timisoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Filip Lăzăreanu (74211)",
+        "nama_panggilan": "Filip Lăzăreanu (74211)",
+        "tanggal_lahir": "1981-07-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Cluj-Napoca",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dennis Șerban (7581)",
+        "nama_panggilan": "Dennis Șerban (7581)",
+        "tanggal_lahir": "1976-01-05",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bukarest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "174.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Ilie (812654)",
+        "nama_panggilan": "Rareș Ilie (812654)",
+        "tanggal_lahir": "2003-04-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Bucharest",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Attacking Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Pena (82423)",
+        "nama_panggilan": "Alexandru Pena (82423)",
+        "tanggal_lahir": "1990-01-26",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tudor Neamțiu (934880)",
+        "nama_panggilan": "Tudor Neamțiu (934880)",
+        "tanggal_lahir": "2005-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Sibiu",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Darius Fălcușan (937042)",
+        "nama_panggilan": "Darius Fălcușan (937042)",
+        "tanggal_lahir": "2006-02-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Madrid",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Luca Szimionaș (937064)",
+        "nama_panggilan": "Luca Szimionaș (937064)",
+        "tanggal_lahir": "2006-09-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Marcus Păcurar (937575)",
+        "nama_panggilan": "Marcus Păcurar (937575)",
+        "tanggal_lahir": "2005-05-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Fernando Arcana (941816)",
+        "nama_panggilan": "Fernando Arcana (941816)",
+        "tanggal_lahir": "2003-06-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dragoș Grigore (95182)",
+        "nama_panggilan": "Dragoș Grigore (95182)",
+        "tanggal_lahir": "1986-09-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Vaslui",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ioan Vermeșan (928037)",
+        "nama_panggilan": "Ioan Vermeșan (928037)",
+        "tanggal_lahir": "2006-10-18",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Timișoara",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Andrei Mocanu (892136)",
+        "nama_panggilan": "Andrei Mocanu (892136)",
+        "tanggal_lahir": "2003-08-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Mario Tudose (837239)",
+        "nama_panggilan": "Mario Tudose (837239)",
+        "tanggal_lahir": "2005-01-21",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "188.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Valentin Velcea (857484)",
+        "nama_panggilan": "Valentin Velcea (857484)",
+        "tanggal_lahir": "2004-02-02",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alexandru Capac (858491)",
+        "nama_panggilan": "Alexandru Capac (858491)",
+        "tanggal_lahir": "2005-09-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "178.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Fătu (868628)",
+        "nama_panggilan": "Rareș Fătu (868628)",
+        "tanggal_lahir": "2006-01-17",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Focşani",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Sebastian Mladen (96790)",
+        "nama_panggilan": "Sebastian Mladen (96790)",
+        "tanggal_lahir": "1991-12-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Calafat",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alberto Cobrea (96841)",
+        "nama_panggilan": "Alberto Cobrea (96841)",
+        "tanggal_lahir": "1990-11-01",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Meppen",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "189.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adrian Stoian (96853)",
+        "nama_panggilan": "Adrian Stoian (96853)",
+        "tanggal_lahir": "1991-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Craiova",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "177.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "both",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Adamcsik (988982)",
+        "nama_panggilan": "Alex Adamcsik (988982)",
+        "tanggal_lahir": "2004-07-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Arad",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rareș Iliescu (992831)",
+        "nama_panggilan": "Rareș Iliescu (992831)",
+        "tanggal_lahir": "",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Ștefan Ioniță (992846)",
+        "nama_panggilan": "Ștefan Ioniță (992846)",
+        "tanggal_lahir": "2007-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Narcis Ilaș (992843)",
+        "nama_panggilan": "Narcis Ilaș (992843)",
+        "tanggal_lahir": "2007-03-27",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Botoşani",
+          "negara": "Romania"
+        },
+        "kewarganegaraan": [
+          "Romania"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Right-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

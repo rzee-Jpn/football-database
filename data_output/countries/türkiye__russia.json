@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Türkiye  Russia",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Akmal Doğan (1447287)",
+        "nama_panggilan": "Akmal Doğan (1447287)",
+        "tanggal_lahir": "2008-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Moscow",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Russia"
+        ],
+        "tinggi_badan_cm": "191.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adem Ağaoğlu (699957)",
+        "nama_panggilan": "Adem Ağaoğlu (699957)",
+        "tanggal_lahir": "2002-03-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Toljatti",
+          "negara": "Türkiye"
+        },
+        "kewarganegaraan": [
+          "Türkiye  Russia"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

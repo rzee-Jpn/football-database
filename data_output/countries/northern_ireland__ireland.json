@@ -1,0 +1,347 @@
+{
+  "kategori": "negara",
+  "nama_group": "Northern Ireland  Ireland",
+  "total_pemain": 10,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam Barton (106252)",
+        "nama_panggilan": "Adam Barton (106252)",
+        "tanggal_lahir": "1991-01-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Blackburn",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "190.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Alex Bruce (37957)",
+        "nama_panggilan": "Alex Bruce (37957)",
+        "tanggal_lahir": "1984-09-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Norwich",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "180.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Charlie McCann (573133)",
+        "nama_panggilan": "Charlie McCann (573133)",
+        "tanggal_lahir": "2002-04-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Coventry",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "173.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Adam McGurk (61581)",
+        "nama_panggilan": "Adam McGurk (61581)",
+        "tanggal_lahir": "1989-01-24",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Larne",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Centre-Forward",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Callum Morris (62080)",
+        "nama_panggilan": "Callum Morris (62080)",
+        "tanggal_lahir": "1990-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Newcastle upon Tyne",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "187.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aaron Donnelly (624243)",
+        "nama_panggilan": "Aaron Donnelly (624243)",
+        "tanggal_lahir": "2003-06-08",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Magherafelt",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "185.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Lee Harkin (696844)",
+        "nama_panggilan": "Lee Harkin (696844)",
+        "tanggal_lahir": "2003-05-07",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Londonderry",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "168.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Tom Fogarty (648034)",
+        "nama_panggilan": "Tom Fogarty (648034)",
+        "tanggal_lahir": "2004-06-19",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "",
+          "negara": ""
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "0.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dylan Berry (837202)",
+        "nama_panggilan": "Dylan Berry (837202)",
+        "tanggal_lahir": "2003-05-14",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Harpenden",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "202.0",
+        "posisi_utama": "Goalkeeper",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Liam Burns (84822)",
+        "nama_panggilan": "Liam Burns (84822)",
+        "tanggal_lahir": "1978-10-30",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Belfast",
+          "negara": "Northern Ireland"
+        },
+        "kewarganegaraan": [
+          "Northern Ireland  Ireland"
+        ],
+        "tinggi_badan_cm": "184.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

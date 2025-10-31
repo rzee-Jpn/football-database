@@ -1,0 +1,109 @@
+{
+  "kategori": "negara",
+  "nama_group": "Spain  Algeria",
+  "total_pemain": 3,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Yuri Berchiche (61812)",
+        "nama_panggilan": "Yuri Berchiche (61812)",
+        "tanggal_lahir": "1990-02-10",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Zarautz",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Algeria"
+        ],
+        "tinggi_badan_cm": "181.0",
+        "posisi_utama": "Defender - Left-Back",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Simo Keddari (945496)",
+        "nama_panggilan": "Simo Keddari (945496)",
+        "tanggal_lahir": "2005-02-03",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Terrassa",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Algeria"
+        ],
+        "tinggi_badan_cm": "183.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Rayane Belaid (945500)",
+        "nama_panggilan": "Rayane Belaid (945500)",
+        "tanggal_lahir": "2005-02-11",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Orihuela",
+          "negara": "Spain"
+        },
+        "kewarganegaraan": [
+          "Spain  Algeria"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "kategori": "negara",
+  "nama_group": "Kenya  Belgium",
+  "total_pemain": 2,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Wilkins Ochieng (617996)",
+        "nama_panggilan": "Wilkins Ochieng (617996)",
+        "tanggal_lahir": "2003-02-15",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya  Belgium"
+        ],
+        "tinggi_badan_cm": "175.0",
+        "posisi_utama": "Attack - Left Winger",
+        "kaki_dominan": "left",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Johanna Omolo (85834)",
+        "nama_panggilan": "Johanna Omolo (85834)",
+        "tanggal_lahir": "1989-07-31",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Nairobi",
+          "negara": "Kenya"
+        },
+        "kewarganegaraan": [
+          "Kenya  Belgium"
+        ],
+        "tinggi_badan_cm": "179.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}

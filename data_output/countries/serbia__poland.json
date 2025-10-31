@@ -1,0 +1,143 @@
+{
+  "kategori": "negara",
+  "nama_group": "Serbia  Poland",
+  "total_pemain": 4,
+  "pemain": [
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Aleksandar Vukovic (15235)",
+        "nama_panggilan": "Aleksandar Vukovic (15235)",
+        "tanggal_lahir": "1979-08-25",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Banja Luka",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Poland"
+        ],
+        "tinggi_badan_cm": "186.0",
+        "posisi_utama": "Midfield - Central Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Vladimir Golemic (169841)",
+        "nama_panggilan": "Vladimir Golemic (169841)",
+        "tanggal_lahir": "1991-06-28",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kruševac",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Poland"
+        ],
+        "tinggi_badan_cm": "192.0",
+        "posisi_utama": "Defender - Centre-Back",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Miroslav Radovic (27235)",
+        "nama_panggilan": "Miroslav Radovic (27235)",
+        "tanggal_lahir": "1984-01-16",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Gorazde",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Attack - Right Winger",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    },
+    {
+      "identitas_dasar": {
+        "nama_lengkap": "Dimitrije Injac (46365)",
+        "nama_panggilan": "Dimitrije Injac (46365)",
+        "tanggal_lahir": "1980-08-12",
+        "usia": "",
+        "tempat_lahir": {
+          "kota": "Kikinda",
+          "negara": "Serbia"
+        },
+        "kewarganegaraan": [
+          "Serbia  Poland"
+        ],
+        "tinggi_badan_cm": "182.0",
+        "posisi_utama": "Midfield - Defensive Midfield",
+        "kaki_dominan": "right",
+        "klub_saat_ini": ""
+      },
+      "nilai_pasar": {
+        "nilai_terkini_eur": "",
+        "update_terakhir": ""
+      },
+      "kontrak": {
+        "klub": "",
+        "mulai": "",
+        "berakhir": ""
+      },
+      "statistik_performa": {
+        "musim": "",
+        "main": "",
+        "gol": "",
+        "assist": ""
+      }
+    }
+  ]
+}
