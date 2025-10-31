@@ -30,8 +30,9 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
-
+        run: |
+         python -m pip install --upgrade pip
+         pip install requests pandas
       - name: Run JSON generator
         run: python auto_generate_json.py
 
