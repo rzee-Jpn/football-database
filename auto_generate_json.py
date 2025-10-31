@@ -1,27 +1,52 @@
-import csv, json, os
+import csv
+import json
+import os
+import requests
 
-output_folder = "data_output"
-os.makedirs(output_folder, exist_ok=True)
+# 🔗 URL CSV kamu (bisa ganti ke repo fork kamu)
+CSV_URL = "https://raw.githubusercontent.com/salimt/football-datasets/refs/heads/main/datalake/transfermarkt/player_profiles/player_profiles.csv"
 
-def find_csv_files(base_folder="."):
-    for root, dirs, files in os.walk(base_folder):
-        for file in files:
-            if file.endswith(".csv"):
-                yield os.path.join(root, file)
+# 📁 Folder output
+OUTPUT_DIR = "data_output"
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-for csv_path in find_csv_files("datalake/transfermarkt/player_profiles"):
-    print(f"📂 Membaca {csv_path}")
-    with open(csv_path, "r", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            club = row.get("current_club_name", "Unknown").replace(" ", "_") or "Unknown"
-            club_dir = os.path.join(output_folder, club)
-            os.makedirs(club_dir, exist_ok=True)
-            
-            name = row.get("player_name", "Unknown").replace(" ", "_")
-            json_path = os.path.join(club_dir, f"{name}.json")
-            
-            with open(json_path, "w", encoding="utf-8") as jf:
-                json.dump(row, jf, indent=2, ensure_ascii=False)
+print("📥 Mengunduh data CSV dari Transfermarkt dataset...")
+response = requests.get(CSV_URL)
+response.raise_for_status()
 
-print("✅ Semua pemain berhasil dipisahkan ke JSON.")
+# 💾 Baca CSV baris demi baris
+lines = response.text.splitlines()
+reader = csv.DictReader(lines)
+
+count_new = 0
+count_updated = 0
+
+for row in reader:
+    player_id = row.get("player_id", "").strip() or "unknown"
+    output_path = os.path.join(OUTPUT_DIR, f"{player_id}.json")
+
+    # Jika file sudah ada, baca data lama
+    if os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            try:
+                old_data = json.load(f)
+            except json.JSONDecodeError:
+                old_data = {}
+        merged_data = {**old_data, **row}  # merge data lama dan baru
+        action = "updated"
+        count_updated += 1
+    else:
+        merged_data = row
+        action = "created"
+        count_new += 1
+
+    # Simpan hasil ke JSON
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(merged_data, f, ensure_ascii=False, indent=2)
+
+    print(f"✅ {action.capitalize()} JSON: {output_path}")
+
+print("\n📊 Ringkasan:")
+print(f"🆕 File baru: {count_new}")
+print(f"♻️  File diperbarui: {count_updated}")
+print("✅ Proses selesai.")
