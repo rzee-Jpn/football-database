@@ -1,0 +1,34 @@
+name: Generate JSON from CSV
+
+on:
+  push:
+    branches: [ main ]
+  schedule:
+    - cron: "0 0 * * *"  # setiap hari jam 00:00 UTC
+  workflow_dispatch:  # bisa manual lewat tombol "Run workflow"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Jalankan konversi CSV → JSON
+        run: |
+          pip install requests
+          python auto_generate_json.py
+
+      - name: Commit hasil ke repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data_output/
+          git commit -m "Auto update JSON"
+          git push
